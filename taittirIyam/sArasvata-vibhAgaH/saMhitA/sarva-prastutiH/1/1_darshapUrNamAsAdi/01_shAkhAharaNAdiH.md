@@ -13,7 +13,7 @@ title: ०१ शाखाहरणादिः
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ इषे त्वा</summary>
 
 +++(हे शाखे!)+++ इषे᳓+++(=अन्नाय सवैरिष्टाय [सन्नायलक्षणाय])+++ त्वा  ।+++(र५)+++  
 ऊर्जे᳓ त्वा ।
@@ -58,7 +58,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायवस् स्थ</summary>
 
 +++(हे वत्साः! धेनोः सकाशाद्)+++ वाय᳓वस् +++(=गन्तारः)+++ स्थ +++(अन्तरिक्ष-देवत्यत्वात्)+++।  
 उपाय᳓वस् +++(=उपगन्तारः)+++ स्थ +++(दोहनकाले)+++।+++(र५)+++
@@ -698,7 +698,7 @@ Let no thief, no evil worker, have control over you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ रुद्रस्य हेतिः</summary>
 
 रुद्र᳓स्य हेतिःᳶ᳓  
 प᳓रि वो **वृणक्तु**+++(=वर्जयतु)+++।+++(र४)+++  
@@ -848,7 +848,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यजमानस्य पशून्</summary>
 
 +++(हे शाखे)+++ य᳓जमानस्य पशू᳓न् पाहि ॥ 
 </details>

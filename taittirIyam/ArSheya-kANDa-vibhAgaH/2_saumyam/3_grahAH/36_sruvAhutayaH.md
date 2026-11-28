@@ -15,7 +15,7 @@ title = "३६ स्रुवाहुतयः"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्रयासाय स्वाहा</summary>
 
 प्रयासा᳓य स्वा᳓हा ।
 </details>
@@ -48,7 +48,7 @@ Hail! for Prayāsa,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ आयासाय स्वाहा</summary>
 
 आयासा᳓य स्वा᳓हा ।
 </details>
@@ -81,7 +81,7 @@ Hail! for Āyāsa!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ वियासाय स्वाहा</summary>
 
 वियासा᳓य स्वा᳓हा ।
 </details>
@@ -114,7 +114,7 @@ Hail! for Viyāsa,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ सय्ँयासाय</summary>
 
 सय्ँयासा᳓य स्वा᳓हा ।
 </details>
@@ -147,7 +147,7 @@ Hail! for Saṃyāsa!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ उद्यासाय स्वाहा</summary>
 
 उद्यासा᳓य स्वा᳓हा ।
 </details>
@@ -180,7 +180,7 @@ Hail! for Udyāsa,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अवयासाय स्वाहा</summary>
 
 अवयासा᳓य स्वा᳓हा ।
 </details>
@@ -213,7 +213,7 @@ Hail! for Avayāsa!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ शुचे स्वाहा</summary>
 
 शुचे᳓ स्वा᳓हा ।
 </details>
@@ -246,7 +246,7 @@ Hail! for Śuce!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ शोकाय स्वाहा</summary>
 
 शो᳓काय स्वा᳓हा ।
 </details>
@@ -279,7 +279,7 @@ Hail! for Śoka!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ तप्यत्वै स्वाहा</summary>
 
 तप्यत्वै᳓ स्वा᳓हा ।
 </details>
@@ -312,7 +312,7 @@ Hail! for Tapyatva,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० तपते स्वाहा</summary>
 
 त᳓पते स्वा᳓हा ।
 </details>
@@ -345,7 +345,7 @@ Hail! for Tapat!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ ब्रह्महत्यायै</summary>
 
 ब्रह्महत्या᳓यै स्वा᳓हा ।
 </details>
@@ -378,7 +378,7 @@ Hail! for the (sin of) killing of the Brāhmaṇas,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ सर्वस्मै स्वाहा</summary>
 
 स᳓र्वस्मै स्वा᳓हा ॥
 </details>

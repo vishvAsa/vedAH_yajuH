@@ -38,15 +38,23 @@ title = "२ शान्ति-होमः"
 
 अपरेणाग्निं आनडुहलोहितचर्मस्थाने दर्भान्वाकृत्वा तत्र ज्ञातीन् वेतसमालिनः कनिष्ठपूर्वमारोहयति, 
 
-> आरोहत, आयुः, ज॒रसं, गृ॒णानाः, अ॒नुपूर्वं, यतॅमानाः, यति॒ष्ठ। इ॒हत्वष्टा, सुजनिमा, सुरत्नॅः, दीर्घमायुः, करतु, जीवसेवः। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/01_A_rohatAyur_jarasa~N.md">
+आ᳓ रोहता᳓युर् जर᳓सङ् गृणाना᳓  
+अनुपूर्वय्ँ᳓ य᳓तमाना य᳓ति [[ष्ट᳓|ष्ट]] ।  
+इह᳓ त्व᳓ष्टा सुज᳓निमा सुर᳓त्नो  
+दीर्घ᳓म् आ᳓युः करतु जीव᳓से वः ।
+</div>
 
 इति
 
 (सू - अथैनाननुपूर्वान्कल्पयति यथाहानीति।) 
 
-> अथ एनान् ज्ञातीन्, यथाहॉनि, अनुपूर्वं, भवॅन्ति, यथ॒र्तवॅः, ऋतुभिः, यन्ति, क्लृप्ताः। यथा॒न, पूर्वं, अपॅरः, जहाति, ए॒वाधॉतः, आयूँषि, कल्पयैषाम्॥
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/018/05_yathAhAnyanupUrvaM_bhavanti.md">
+य᳓था᳓हानि अनुपूर्व᳓म् भ᳓वन्ति  
+य᳓थ र्त᳓व ऋतु᳓भिर् य᳓न्ति साधु᳓  
+य᳓था न᳓ पू᳓र्वम् अ᳓परो ज᳓हाति  
+एवा᳓ धातर् आ᳓यूंषि कल्पयैषाम्
+</div>
 
 इति अनुपूर्वान् कल्पयति। प्रोक्षणीसंस्कारः, आज्यसंस्कारः दर्वीसंस्कारः इति यथापूर्वंकुर्यात्। अत्र दर्वीसंस्कारे दर्व्योः मूलभागस्य प्रतितपनं॥ समन्तं प्रदक्षिणं परिषेचनं कुर्यात्।
 
@@ -60,8 +68,25 @@ title = "२ शान्ति-होमः"
 
 प्रतिलोमकृतया वारण्या स्रुचा चतुर्गृहीतं जुहोतिद्वे आहुती। 
 
-> नहिते, अ॒ग्ने, त॒नुवै, क्रूरं, चकार, मर्त्यः। कपिः, ब॒भ॒स्ति॒, तेजॅनं, पुनॅः, जरायु, गौरिंव, स्वाहा॑। (अग्नये इदन्नमम)। चतुर्गृहीतेन, अपॅनः, शोशॅचत् अ॒घं, अग्ने॑ शुशुध्या, रयिम् । अपॅनः शोशु॒चत्, अ॒घं, मृत्यवे॑ स्वाहा॑। (अग्नये मृ॒त्यवे इदन्नमम)।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/03_na_hi_te.md">
+न᳓ [[हि|हि᳓]] ते अग्ने तनु᳓वै  
+क्रूर᳓ञ् चका᳓र म᳓र्त्यः ।  
+कपि᳓र् बभस्ति ते᳓जनं  
+पु᳓नर् जरा᳓यु गौ᳓र् इव ।
+</div>
+
+(अग्नये इदन्नमम) । चतुर्गृहीतेन —
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अप नश्</summary>
+
+अ᳓प नश् शो᳓शुचद् अघ᳓म्  
+अ᳓ग्ने शुशुध्या᳓ रयि᳓म् ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म्॥
+</details>
+</div>
+
+(अग्नये मृत्यव इदन्नमम) । *(मृत्यवे स्वाहेति शेषोक्त्यैव होमः)*
 
 सू - दश च स्रुवाहुतीर् "अप नश् शोशुचद् अघम्" इति ।
 
@@ -69,13 +94,102 @@ title = "२ शान्ति-होमः"
 
 प्रतिलोमकृतेन वारणेन स्रुवेण जुहोति 
 
-> अपॅनः शोशॅचत्, अ॒घं, अग्ने॑, शुशुध्या, र॒यिम्। अपॅनः, शोशॅचत्, अ॒घं स्वाहा॑ (अग्नये शुचये इदन्नमम)।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अप नश्</summary>
+
+अ᳓प नश् शो᳓शुचद् अघ᳓म्  
+अ᳓ग्ने शुशुध्या᳓ रयि᳓म् ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म्॥
+</details>
+</div>
+
+(अग्नये शुचये इदन्नमम)।
 
 हुत्वा - हुत्वा पात्र्यां संपात मवनयति दशानामाहुतीनाञ्च ॥
 
-> सुक्षेत्रिया, सुगातुया, व॒सूयाचँ, यजामहे। अपॅनः, शोशॅचत्, अ॒घं - स्वाहा॑ (अग्नये शुचये इदन्नमम)। प्रयद्भन्दिष्ठः, ए॒षां, प्रास्माकॉसश्च, सूरयॅः। अपॅनः, शोशॅचत्, अ॒घं - स्वाहा॑ (अग्नये शुचये इदन्नमम)। प्रयद॒ग्नेः सहॅस्वतः, वि॒श्वतः, यन्ति, सूरयः। अपॅनः, शोशॅचत्, अ॒घं स्वाहा॑। (अग्नये शुचये इदन्नमम)॥ प्रयत्ते अग्ने, सूरयः जायेमहि, प्रतेवयम्। अपॅनः, शोशुचत्, अ॒घम् स्वाहा॑ - (अग्नये शुचये इदन्नमम)॥ त्वँहि, विश्वतोमुख, विश्वतः, परिभूरसि। अपॅनः शोशुचत्, अघं स्वाहा॑। (अग्नये शुचये इदन्नमम)। द्विषो॑ नः, वि॒श्वतोमुख, अतिनावेवॅ, पारय। अपॅनः, शोशुचत्, अ॒घं स्वाहा॑, (अग्नये शुचये इदन्नमम)। सनः, सिन्धुमिव, नावया, अतिपर्ष, स्वस्तये। अपॅनः, शोशुचत्, अ॒घम् स्वाहा॑ - (अग्नये शुचये इदन्नमम)। आपः, प्रवणात्, इव यतीः, अपास्मत्, स्यन्दतां, अघम्। अपॅनः, शोभुचत्, अ॒घम् स्वाहा॑ (अग्नये शुचये इदन्नमम)। उद्वनात्, उदकानीव, अपास्मत्, स्यन्दतां, अघम्। अपॅनः, शोभुचत्, अ॒घम् स्वाहा॑ (अग्नये शुचये इदन्नमम)।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/097/02_suxetriyA_sugAtuyA.md">
+सुक्षेत्रिया᳓ सुगातुया᳓  
+वसूया᳓ च यजामहे  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/097/03_pra_yadbhandiShTha.md">
+प्र᳓ य᳓द् भ᳓न्दिष्ठ एषा᳐म्  
+प्रा᳓स्मा᳓कासश् च सूर᳓यः  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/11_homaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ प्र यद्</summary>
+
+प्र᳓ य᳓द् अग्ने᳓स् स᳓हस्वतो  
+विश्व᳓तो य᳓न्ति सूर᳓यः ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</details>
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/097/04_pra_yatte.md">
+प्र᳓ य᳓त् ते अग्ने सूर᳓यो  
+जा᳓येमहि प्र᳓ ते वय᳓म्  
+अ᳓प नः शो᳓शुचद् अघ᳓म्
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०३(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/11_homaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ त्वँ हि</summary>
+
+त्वँ᳓ हि᳓ विश्वतो-मुख  
+विश्व᳓तः परिभू᳓र᳓सि ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</details>
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०४(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/11_homaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ द्विषो नो</summary>
+
+द्वि᳓षो नो [[विश्वतोमुखा᳓|विश्वतोमुखा]]  
++अ᳓ति नावे᳓व पारय ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</details>
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/11_homaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ स नस्सिन्धुम्</summary>
+
+स᳓ नस्सि᳓न्धुम् इव नाव᳓या  
++अ᳓ति पर्षा स्वस्त᳓ये ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</details>
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_homaH/09_ApaH_pravaNAd_iva.md">
+आ᳓पः प्रवणा᳓द् इव यती᳓र्  
+अ᳓पास्म᳓त् स्यन्दताम् अघ᳓म् ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_homaH/10_udvanAd_udakAnIva.md">
+उद्वना᳓द्+++(←उ᳓त्??)+++ उदका᳓नीव᳓  
++अ᳓पास्म᳓त् स्यन्दताम् अघ᳓म् ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</div>
+
+(अग्नये शुचय इदन्नमम) ।
 
 <details><summary>तमिऴ्</summary>
 
@@ -97,15 +211,25 @@ title = "२ शान्ति-होमः"
 
 (सू - तं ज्ञातयोऽन्वारभन्तेऽनड्वाहमन्वारभामह इति।) अग्नेरुत्तरतः, लोहितमनड्वाहं प्राङ्मुखत्वेनावस्थाप्य ज्ञातयः कनिष्ठक्रमेण, 
 
-> अ॒न॒ड्वाहं, अ॒न्वारँभामहे, स्व॒स्तये॑। सनॅः, इन्ट्रॅइव, दे॒वेभ्यः॒, वह्निः,स॒म्पारॅणो भव ॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०४(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अनड्वाहम् (1/14 व्यत्यस्त-स्वराः)</summary>
+
+अनड्वा᳓हम् अन्वा᳓रभामहे स्वस्त᳓ये ।  
+स᳓ न इ᳓न्द्र इव देवे᳓भ्यो व᳓ह्निस् [[संपा᳓रणो|सं᳓पा᳓रणो]] भव ।  
+(23)
+</details>
+</div>
 
 इति अन्वारभन्ते ॥
 
 (सू - प्राञ्चोगच्छन्ति, इमे जीवा इति)
 
-> तेनानडुहा सह इ॒मे, जीवाः वि॒मृतैः, आवॅवर्तिन्, अभू॑त्, भ॒द्राः, दे॒वहूतिन्नः, अ॒द्य। प्राञ्जोगाम, नृतये, हसॉय, द्राधीयः, आयुः, प्रतरां, दघानाः । 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/07_ime_jIvA_vimRtair.md">
+इमे᳓ जीवा᳓ [[विमृतै᳓र्|वि᳓मृतै᳓र्]] आ᳓ववर्तिन्न्  
+अ᳓भूद् भद्रा᳓ देव᳓हूतिन् नो अद्य᳓ ।  
+प्रा᳓ञ्जोगाम् आनृत᳓ये ह᳓साय  
+द्रा᳓घीय आ᳓युः प्रतरा᳓न् द᳓धानाः ।
+</div>
 
 प्राचीं दिशं गच्छन्ति ॥
 
@@ -113,8 +237,12 @@ title = "२ शान्ति-होमः"
 
 तेषामन्ततोगन्ता कर्ता अनडुहः पदानि पूर्वतः गच्छतां पदानिच 
 
-मृ॒त्योः, प॒दं, यो॒पयॅन्तः, यदैमॅ, द्राघीय, आयुः, प्रतरां, दघानाः। आ॒प्यायमानाः, प्र॒जया॑, धनेन, शुद्धाः, पूताः भवथ, य॒ज्ञियासः। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/08_mRtyoH_paday.N_yopayanto.md">
+मृत्योः᳓ पदय्ँ᳓ योप᳓यन्तो य᳓दै᳓म  
+द्रा᳓घीय आ᳓युः प्रतरा᳓न् द᳓धानाः ।  
+आप्या᳓यमानाः प्रज᳓या ध᳓नेन  
+शुद्धाः᳓ पूता᳓ भवथ [[यज्ञियासः|यज्ञि᳓यासः]] ।
+</div>
 
 संलोपयन् (अदृश्यतां कुर्वन्) गच्छति।
 
@@ -128,13 +256,27 @@ title = "२ शान्ति-होमः"
 
 ज्ञातीन्प्रस्थाप्य जीवतां मृतानाञ्चान्तरं भवेदिति मनसा ध्यात्वा ज्ञातिभ्यः दक्षिणतः, 
 
-> इमं, जीवेभ्यः, परिधिं, दधामि, मानोऽनुगात्, अपरः, अर्घमेतम्। शतं, जीवन्तु, शरदः, पुरूचीः, तिरोमृत्युं, दद्महे, पर्वतेन॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ इमञ् जीवेभ्यः</summary>
+
+इम᳓ञ् जीवे᳓भ्यः परिधि᳓न् दधामि  
+मा᳓ नो᳓ऽनु गाद᳓परो अ᳓र्धम् एत᳓म् ।  
+शत᳓ञ् जीवन्तु शर᳓दः पुरूची᳓स्  
+तिरो᳓ मृत्यु᳓न् दद्महे प᳓र्वतेन ।
+</details>
+</div>
 
 इति परिधित्वेनाश्मानंस्थापयित्वा (सू - स्त्रीणामञ्जलिषु संपातानवनयतीमानारीरिति।) पात्रस्थं संपाताज्यं ज्ञातिस्त्रीणामञ्जलिषु, 
 
-> इमानारीः, अविधवाः। सुपत्नीः, अञ्जनेन, सर्पिषा, सम्मृशन्तां। अनश्रवः, अनमीवाः, सुशेवाः, आरोहन्तु, जनयः, योनिमग्रे॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ इमा नारीर्</summary>
+
+इमा᳓ ना᳓रीर् अ-विधवा᳓स् सुप᳓त्नीर्  
+आ᳓ञ्जनेन सर्पि᳓षा सं᳓मृशन्ताम् ।  
+अनश्र᳓वो अनमीवा᳓स् सुशे᳓वा  
+आ᳓रोहन्तु ज᳓नयो यो᳓निम् अ᳓ग्रे ।
+</details>
+</div>
 
 इति निनयति।
 
@@ -144,14 +286,27 @@ title = "२ शान्ति-होमः"
 
 (सू - यदाञ्जनं त्रैककुदमिति त्रैककुदेनाञ्जनेनाञ्जीरन्।) (सू यदित्रैककुदं नाधिगच्छेयुर्येनैवाकेनचाञ्जनेनाञ्जीरन्) 
 
-> यदाञ्जनं, त्रैककुदं, जातं, हि॒मवॅत॒स्परि॑। तेनामृतस्यॅ, मूलॅन, अरॉतीः, जम्भयाम॒सि॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०७(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ यदाञ्जनन्</summary>
+
+य᳓दा᳓ञ्जनन् त्रैककुद᳓ञ्  
+जातँ᳓ हिम᳓वतस्प᳓रि ।  
+ते᳓नामृ᳓तस्य मू᳓लेना᳓रातीर् जम्भयामसि ।
+</details>
+</div>
 
 इति येन केनचाञ्जनेनाञ्जीरन्॥
 
 (सू - पृथिव्यामोषधिस्तम्भं प्रतिष्ठापयति। यथात्वमुद्भिनत्स्योषध इति।) पृथिव्यामोषधिस्तम्भं प्रतिष्ठापयति 
 
-> यथात्वं, उद्भिनत्सि, ओषधे, पृथि॒व्याः, अधि। एवं, इमे, उद्भिन्दन्तु, कीर्त्या, यशसा, ब्रह्मवर्चसेन॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०८(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यथा त्वम्</summary>
+
+य᳓था त्व᳓म् उद्भिन᳓त्स्य्  
+ओषधे पृथिव्या᳓ अ᳓धि ।  
+एव᳓म् इम᳓ उ᳓द्भिन्दन्तु  
+कीर्त्या᳓ य᳓शसा ब्रह्मवर्चसे᳓न ।
+</details>
+</div>
 
 अथवा ओषधिस्तम्बप्रादुर्भावाय व्रीहिबीजानि निवपन्ति। इतः परं वेतसमालां विमुच्याचम्यागच्छेयुः॥ सात्विकत्यागः

@@ -17,7 +17,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ पृथिवी समित्</summary>
 
 पृथिवी᳓ समि᳓त् ।
 </details>
@@ -51,7 +51,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामग्निस्समिन्धे</summary>
 
 ता᳓मग्नि᳓स्स᳓मिन्धे ।
 </details>
@@ -82,7 +82,7 @@ the fire burned that,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽग्निँ</summary>
 
 सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
 </details>
@@ -118,7 +118,7 @@ that (earth) burned the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -149,7 +149,7 @@ I burned that (earth),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  

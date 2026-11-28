@@ -30,7 +30,7 @@ Prayer and bodily functions identified with the priests, etc.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ब्राह्मण एकहोता</summary>
 
 ब्राह्मण᳓ ए᳓क-होता +++(यज्ञः)+++।
 </details>
@@ -59,7 +59,7 @@ Brahman is the sacrificer of one (sacrificing by his maturity only):
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ स यज्ञः</summary>
 
 स᳓ यज्ञः᳓ ।
 </details>
@@ -85,7 +85,7 @@ he is the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -119,7 +119,7 @@ may he grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यज्ञश् च</summary>
 
 यज्ञ᳓श् च मे **भूयात्** ।
 </details>
@@ -173,7 +173,7 @@ and may he become my sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अग्निर्</summary>
 
 अग्नि᳓र् द्वि᳓-होता +++(यज्ञः)+++।
 </details>
@@ -196,7 +196,7 @@ The fire is the sacrificer of the two (being useful in cooking and carrying the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ स भर्ता</summary>
 
 स᳓ **भर्ता᳓** +++(पाक-हविर्-वहनाभ्यां)+++।
 </details>
@@ -214,7 +214,7 @@ that is the nourisher;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -243,7 +243,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ भर्ता च</summary>
 
 भर्ता᳓ च मे **भूयात्** ।
 </details>
@@ -282,7 +282,7 @@ and may that become my nourisher.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ पृथिवी त्रिहोता</summary>
 
 पृथिवी᳓ त्रि᳓होता +++(यज्ञः)+++।
 </details>
@@ -319,7 +319,7 @@ The earth is the sacrificer of three (being the place of the fire, food and sacr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० स प्रतिष्ठा</summary>
 
 स᳓ प्रतिष्ठा᳓ ।   (7)
 </details>
@@ -342,7 +342,7 @@ that is the firm-standing (1);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -371,7 +371,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ प्रतिष्ठा च</summary>
 
 **प्रतिष्ठा᳓** च मे **भूयात्** ।
 </details>
@@ -407,7 +407,7 @@ and may that become my firm-standing.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ अन्तरिक्षञ्</summary>
 
 अन्त᳓रिक्षञ् च᳓तुर्-होता +++(यज्ञः)+++।
 </details>
@@ -431,7 +431,7 @@ The mid-region is the sacrificer of the four (being the causer of speech, rain, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ स विष्ठाः</summary>
 
 स᳓ विष्ठाः᳓ +++(दिक्-सङ्ख्यया)+++।
 </details>
@@ -455,7 +455,7 @@ that is the disposer in various ways;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -484,7 +484,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ विष्ठाश् च</summary>
 
 विष्ठा᳓श् च मे **भूयात्** ।
 </details>
@@ -528,7 +528,7 @@ and may that become disposer in various ways for me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ वायुः पञ्चहोता</summary>
 
 वायुः᳓ प᳓ञ्च-होता +++(यज्ञः)+++।
 </details>
@@ -565,7 +565,7 @@ The wind is the sacrificer of five (five breaths);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ स प्राणः</summary>
 
 स᳓ प्राणः᳓ +++(पञ्चत्वात्)+++।
 </details>
@@ -588,7 +588,7 @@ that is the breath;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -617,7 +617,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० प्राणश्च मे</summary>
 
 प्राण᳓श्च मे **भूयात्** ।   (8)
 </details>
@@ -653,7 +653,7 @@ and may that become my breath (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ चन्द्रमाष्</summary>
 
 चन्द्र᳓माष् ष᳓ड्-ढोता ।
 </details>
@@ -682,7 +682,7 @@ The moon is the sacrificer of six (i.e., the seasons);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ स ऋतून्</summary>
 
 स᳓ ऋतू᳓न् **कल्पयाति** ।
 </details>
@@ -700,7 +700,7 @@ that causes the seasons;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -729,7 +729,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ ऋतवश् च</summary>
 
 ऋत᳓वश् च मे **कल्पन्ताम्** ।
 </details>
@@ -773,7 +773,7 @@ and may the seasons be for me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ अन्नँ सप्तहोता</summary>
 
 अ᳓न्नँ सप्त᳓-होता ।
 </details>
@@ -810,7 +810,7 @@ The food is the sacrificer of seven (seven holes of the head);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ स प्राणस्य</summary>
 
 स᳓ प्राण᳓स्य प्राणः᳓ ।
 </details>
@@ -848,7 +848,7 @@ that is the breath of the breath;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -890,7 +890,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ प्राणस्य च</summary>
 
 प्राण᳓स्य च मे प्राणो᳓ **भूयात्** ।
 </details>
@@ -927,7 +927,7 @@ and may that become the breath of my breath.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ द्यौर् अष्टहोता</summary>
 
 द्यौ᳓र् अष्ट᳓-होता ।
 </details>
@@ -951,7 +951,7 @@ The heaven is the sacrificer of eight (eight suns);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० सो ऽनाधृष्यः</summary>
 
 सो᳓ **ऽनाधृष्यः᳓** ।(9)
 </details>
@@ -975,7 +975,7 @@ that is one not to be injured (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -1004,7 +1004,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ अनाधृष्यश् च</summary>
 
 अनाधृष्य᳓श् च **भूयासम्** ।
 </details>
@@ -1039,7 +1039,7 @@ and may I become one not to be injured.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ आदित्यो नवहोता</summary>
 
 आदित्यो᳓ न᳓वहोता ।
 </details>
@@ -1063,7 +1063,7 @@ Aditya is the sacrificer of the nine (eight suns and Aditya);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ स तेजस्वी</summary>
 
 स᳓ तेजस्वी᳓ ।
 </details>
@@ -1081,7 +1081,7 @@ that is brilliant;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -1110,7 +1110,7 @@ may that grant me offspring, cattle, fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ तेजस्वी च</summary>
 
 तेजस्वी᳓ च भूयासम् ।
 </details>
@@ -1145,7 +1145,7 @@ and may I become brilliant.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ प्रजापतिर्</summary>
 
 प्रजा᳓पतिर् द᳓श-होता ।
 </details>
@@ -1163,7 +1163,7 @@ Prajāpati is the sacrificer of ten (nine holes of the body and the navel)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ स इदँ</summary>
 
 स᳓ इदँ᳓ स᳓र्वम् ।
 </details>
@@ -1193,7 +1193,7 @@ he is this all
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ स मे</summary>
 
 स᳓ मे **ददातु** प्रजां᳓ पशू᳓न् पु᳓ष्टिय्ँ य᳓शः ।
 </details>
@@ -1222,7 +1222,7 @@ may he grant me offspring, cattle, fame
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० सर्वञ् च</summary>
 
 स᳓र्वञ् च मे **भूयात्** ।   (10)
 </details>

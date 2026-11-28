@@ -20,7 +20,7 @@ Mantras for offering the oblations.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अप नश्</summary>
 
 अ᳓प नश् शो᳓शुचद् अघ᳓म्  
 अ᳓ग्ने शुशुध्या᳓ रयि᳓म् ।  
@@ -459,7 +459,7 @@ When there comes the most auspicious (power) of these relatives and the brave of
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ प्र यद्</summary>
 
 प्र᳓ य᳓द् अग्ने᳓स् स᳓हस्वतो  
 विश्व᳓तो य᳓न्ति सूर᳓यः ।  
@@ -1079,7 +1079,7 @@ Damit wir deine Kinder sein, o Agni, und die Opferherrn, So strahle Leid von uns
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ त्वँ हि</summary>
 
 त्वँ᳓ हि᳓ विश्वतो-मुख  
 विश्व᳓तः परिभू᳓र᳓सि ।  
@@ -1180,7 +1180,7 @@ O fire, having mouth all round, you are the defeating one; may you shine taking 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ द्विषो नो</summary>
 
 द्वि᳓षो नो [[विश्वतोमुखा᳓|विश्वतोमुखा]]  
 +अ᳓ति नावे᳓व पारय ।  
@@ -1463,7 +1463,7 @@ O du, dess Antlitz überall, fahr weg vom Feind uns wie zu Schiff; Er strahle Le
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ स नस्सिन्धुम्</summary>
 
 स᳓ नस्सि᳓न्धुम् इव नाव᳓या  
 +अ᳓ति पर्षा स्वस्त᳓ये ।  
@@ -1569,102 +1569,17 @@ You, as such, for our welfare make us cross the troubles as (one crosses) the oc
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_homaH/09_ApaH_pravaNAd_iva.md">
+</div>
 
-आ᳓पः प्रवणा᳓द् इव यती᳓र्  
-अ᳓पास्म᳓त् स्यन्दताम् अघ᳓म् ।  
-अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/11_homaH/09_ApaH_pravaNAd_iva.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_homaH/10_udvanAd_udakAnIva.md">
+</div>
 
-<details><summary>त्रिभुवनः</summary>
-
-May our sin flow away as the waters flow while going belowward; may (the fire) shine taking away our sin.
-</details>
-
-<details><summary>मूलम्</summary>
-
-आपः॑ प्रव॒णादि॑व य॒तीरपा॒स्मत्स्य॑न्दताम॒घम् ।  
-अप॑ न॒श्शोशु॑चद॒घम् ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- आ᳓पः (*TS*-98/319, *RV*-151/532, *TB*-29/86, *TK*-3/4, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-9/26, *VS-K*-24/63, *KS*-34/99, *MS*-125/374)
-- प्रवणा᳓त् (*TS*-0/2, *RV*-0/12, *AV*-0/2, *SB-K*-0/1, *MS*-0/2, फिषोऽन्तः फि॰ १.१, प्रत्ययस्वरः पा॰ ३.१.३)
-- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-41, *SB-K*-741, *VS-K*-38, *KS*-68, *MS*-240)
-- यतीः᳓ (*TS*-1/6, *RV*-4/10, *TB*-0/5, *AV*-4/5, *KS*-0/1, *MS*-1/6)
-- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
-- अस्म᳓त् (*TS*-31/565, *RV*-75/1308, *TB*-1/114, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-0/127, *VS-K*-0/178, *KS*-11/242, *MS*-33/641)
-- स्यन्दताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- अघ᳓म् (*TS*-0/1, *RV*-16/33, *AV*-22/24, *SB-M*-17/19, *SB-K*-17/20, *VS-K*-1, *KS*-1, *MS*-1/4)
-- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
-- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
-- शो᳓शुचत् (*RV*-10 १.९७.१; चादिलोपे विभाषा पा॰ ८.१.६३)
-- अघ᳓म् (*TS*-0/1, *RV*-16/33, *AV*-22/24, *SB-M*-17/19, *SB-K*-17/20, *VS-K*-1, *KS*-1, *MS*-1/4)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-आप इति ॥ यथा आपः यतीर् यन्त्यः प्रवणात् । विभक्तिव्यत्ययः । प्रवणे निम्ने प्रदेशे स्यन्दन्ते तथा अस्मद् अस्मत्तो ऽघम् अपस्यन्दताम् अपेत्य स्रवतु । त्वं चाग्ने ! अघमपनय ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ नवमम् आह -
-
-प्रवणान् निम्न-देशान् निमित्त-भूताद् यतीर् निर्गता आप इवास्मत्तः सकाशाद् अघं पापम् अपेत्य स्यन्दन्तां प्रवाह-रूपेण गच्छतु।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-उद्वना᳓द्+++(←उ᳓त्??)+++ उदका᳓नीव᳓  
-+अ᳓पास्म᳓त् स्यन्दताम् अघ᳓म् ।  
-अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-May our sin flow away as the waters flow from the high place; may (the fire) shine taking away our sin.
-</details>
-
-<details><summary>मूलम्</summary>
-
-उ॒द्व॒नादु॑द॒कानी॒वापा॒स्मत्स्य॑न्दताम॒घम् ।  
-अप॑ न॒श्शोशु॑चद॒घम् ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- उद्वना᳓त् (फिषोऽन्तः फि॰ १.१, प्रत्ययस्वरः पा॰ ३.१.३)
-- उदका᳓नि (*TS*-0/2, *RV*-0/9, *TB*-0/2, *AV*-0/23, *SB-M*-0/22, *SB-K*-0/24, *MS*-0/6, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
-- इव᳓ (*AV*-2, *SB-K*-1, *VS-K*-1, *KS*-1, *MS*-10)
-- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
-- अस्म᳓त् (*TS*-31/565, *RV*-75/1308, *TB*-1/114, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-0/127, *VS-K*-0/178, *KS*-11/242, *MS*-33/641)
-- स्यन्दताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- अघ᳓म् (*TS*-0/1, *RV*-16/33, *AV*-22/24, *SB-M*-17/19, *SB-K*-17/20, *VS-K*-1, *KS*-1, *MS*-1/4)
-- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
-- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
-- शो᳓शुचत् (*RV*-10 १.९७.१; चादिलोपे विभाषा पा॰ ८.१.६३)
-- अघ᳓म् (*TS*-0/1, *RV*-16/33, *AV*-22/24, *SB-M*-17/19, *SB-K*-17/20, *VS-K*-1, *KS*-1, *MS*-1/4)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-उद्वनादिति ॥ उद्वनम् उन्नतप्रदेशस् तस्माद् यथा उदकानि स्यन्दन्ते । शिष्टं गतम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ दशमम् आह -
-
-उद् वनाद् उन्नत-प्रदेश-स्थाद् वनात् सकाशात् कुलयया समागतान्य् उदकानि यथा निम्न-देशं प्रति स्यन्दते तथास्मत्तः सकाशाद् अघम् अपेत्य स्यन्दताम्।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/11_homaH/10_udvanAd_udakAnIva.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1674,55 +1589,13 @@ May our sin flow away as the waters flow from the high place; may (the fire) shi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_homaH/11_AnandAya_pramodAya_punar.md">
+</div>
 
-आनन्दा᳓य प्रमोदा᳓य  
-पु᳓नर् आ᳓गाँ स्वा᳓न् गृहा᳓न् ।  
-अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/11_homaH/11_AnandAya_pramodAya_punar.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-We have come again to our homes for happiness and delight; may (the fire) shine taking away our sin.
-</details>
-
-<details><summary>मूलम्</summary>
-
-आ॒न॒न्दाय॑ प्रमो॒दाय॒ पुन॒रागाँ॒ स्वान्गृ॒हान् ।  
-अप॑ न॒श्शोशु॑चद॒घम् ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- आनन्दा᳓य (*TS*-0/1, *RV*-0/2, *TB*-3, *AV*-0/4, *SB-M*-0/28, *SB-K*-0/30)
-- प्रमोदा᳓य (*MS*-0/1, प्र᳓ (*TS*-780, *RV*-1193, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829) + मो᳓दाय (*TS*-2/4, *RV*-0/1, *AV*-0/2, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/3, *KS*-0/1, *MS*-1/3), पा॰ ६.२.१३९)
-- पु᳓नः (*TS*-111, *RV*-93, *TB*-30, *SB-K*-285, *VS-K*-22, *KS*-26, *MS*-190)
-- आ᳓ (*TS*-1105, *RV*-2810, *AV*-1040, *SB-K*-2120, *VS-K*-115, *KS*-316, *MS*-1274)
-- गाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *KS*-1, *MS*-1)
-- स्वा᳓म् (*TS*-18/250, *RV*-9/227, *TB*-5/38, *AV*-7/149, *SB-M*-17/306, *SB-K*-17/301, *VS-M*-3/29, *VS-K*-3/26, *KS*-3/60, *MS*-20/260)
-- गृहा᳓न् (*TS*-6/49, *RV*-3/62, *TB*-5/26, *TK*-1, *AV*-18/87, *SB-M*-28/99, *SB-K*-25/96, *VS-M*-3/7, *VS-K*-4/8, *KS*-2/14, *MS*-15/81)
-- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
-- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
-- शो᳓शुचत् (*RV*-10 १.९७.१; चादिलोपे विभाषा पा॰ ८.१.६३)
-- अघ᳓म् (*TS*-0/1, *RV*-16/33, *AV*-22/24, *SB-M*-17/19, *SB-K*-17/20, *VS-K*-1, *KS*-1, *MS*-1/4)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-आनन्दाय सुखाय प्रमोदाय हर्षाय पुनो ऽहं स्वान् ग्रहान् आगाम् आगतवानस्मि । हे अग्ने ! त्वं च अघम् अपनय ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथैकादशम् आह -
-
-आनन्दाय मरणाभाव-निमित्त-संतोषाय, प्रमोदाय विषय-भोग-निमित्त-प्रकृष्ट-हर्षाय, पुनर् अपि स्वकीयान् गृहान् प्रत्यागाम् आगतो ऽस्मि।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ न वै</summary>
 
 न᳓ वै᳓ त᳓त्र प्र᳓मीयते  
 गौ᳓र् अ᳓श्वः पु᳓रुषः पशुः᳓ ।  

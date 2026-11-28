@@ -10,7 +10,7 @@ title = "८४ प्रा॒जा॒प॒त्या मे॑"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राजापत्या मे</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
 </details>

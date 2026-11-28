@@ -7,8 +7,22 @@ title = "२४ अग्नि-प्रदानम्"
 
 कर्ता, अग्निमादाय, आदित्याभिमुखः स्थित्वा, 
 
-> मैनॅमग्ने, विदहः, माऽभिशो॑चः, मास्य, त्वचं चि॒क्षिपः, माशरीरम् । य॒दाशृ॒तं, क॒रवः॑, जातवेदः, अथॅमेनं, प्रहिणुतात् पि॒तृभ्यः । शृ॒तं य॒दा, करसिँ, जातवेदः, अथेमेनं, परिदत्तात्, पितृभ्यः । यदागच्छाँति, असुनीतिं, ए॒तां, अथादे॒वानां॑, व॒श॒नी, भवाति । 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - १५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/01_dAhAntam">
+<details open><summary>विश्वास-प्रस्तुतिः - १५ मैनम् अग्ने</summary>
+
+मै᳓नम् अग्ने **वि᳓दहो मा᳓ ऽभि᳓शोचो**  
+मा᳓ऽस्य त्व᳓चञ् **चिक्षिपो मा᳓** श᳓रीरम् ।  
+यदा᳓ शृत᳓ङ् कर᳓वो जातवेदो᳓  
+ऽथेम् एनं **प्र᳓हिणुतात्** पितृ᳓भ्यः ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/01_dAhAntam/20_shRtay.N_yadA_karasi.md">
+शृतय्ँ᳓ यदा᳓ **[[कर᳓सि|क᳓रसि]]** [[जातवेदो᳓|जातवेदो]]  
++अ᳓थेम् एनं **प᳓रिदत्तात्** पितृ᳓भ्यः ।  
+यदा᳓ **ग᳓च्छात्य्** अ᳓सु-**नीतिम्** एता᳓म्  
+अ᳓था देवा᳓नाव्ँ वशनी᳓र् **भवाति** ।
+</div>
 
 इति प्रेतस्योरसि अग्निं निक्षिपेत् । प्रेतस्य दहनकार्यं रात्रौ चेत् प्राङ्मुखोभूत्वा अग्निं सपर्ययेत् । 
 
@@ -28,15 +42,104 @@ title = "२४ अग्नि-प्रदानम्"
 
 सू - अथैनमुपतिष्ठते सूर्यन्ते चक्षुरिति । प्रेतस्य पाददेशेस्थित्वा 
 
-> सूर्यन्ते, चक्षुर्गच्छतु, वातमात्मा, द्याञ्च, गच्छ, पृथि॒वीञ्च, धर्मणा । अपोवॉगच्छ, यदि, तत्रते, हितं, ओषधीषु, प्रतितिष्ठ, शरीरैः ॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - १६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/01_dAhAntam">
+<details open><summary>विश्वास-प्रस्तुतिः - १६ सूर्यन् ते (1/23 व्यत्यस्त-स्वराः)</summary>
+
+सू᳓र्यन् ते च᳓क्षुर् **गच्छतु**, वा᳓तम् आत्मा᳓  
+द्या᳓ञ् च **[[ग᳓च्छ|गच्छ]]** पृथिवी᳓ञ् च ध᳓र्मणा ।  
+अपो᳓ वा **गच्छ** य᳓दि त᳓त्र ते हित᳓म्  
+ओ᳓षधीषु **प्र᳓तितिष्ठा** श᳓रीरैः ।+++(5)+++
+</details>
+</div>
 
 इत्युपतिष्ठते ॥ उरस्थमग्निं यज्ञियैः काष्ठैः प्रज्वाल्य चितेःपश्चात् प्राङ्मुखःस्थित्वाऽप्रदक्षिणं परिषिञ्चेत् ।
 
 सू - नवचस्त्रुवाहुतीः य एतस्य पथोगोप्तार इति । 
 
-> य एतस्य, प॒थः, गा॒गो॒प्तारॅः, तेभ्यः॒, स्वाहा॑ । (पथ गोप्तृभ्यः इदन्नमम) । य ए॒तस्य प॒थः, र॒क्षितारॅः, तेभ्य॒ स्वाहा॑ । (पथः रक्षितृभ्यः इदन्नमम) । य ए॒तस्य, प॒थः, अभिरक्षितारॅः, तेभ्यॅः, स्वाहा॑ । (पथः, अभिरक्षितृभ्यः इदन्नमम) । आख्यात्रे स्वाहा॑ - (आख्यात्रे इदन्नमम) । अपाख्यात्रे स्वाहा॑ - (अपाख्यात्रे इदन्नमम)। अभिलालॅपते, स्वाहा॑ - (अभिलालपते इदन्नमम) । अपलालॅपते, स्वाहा॑ - (अपलालपते इदन्नमम) । अ॒ग्नये॑ कर्मकृते॑, स्वाहा॑ - (अग्नये कर्मकृते इदन्नमम) । यमत्र, नाधीमः, तस्मै॑, स्वाहा॑ - (यमाय इदन्नमम) ।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०१(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ य एतस्य</summary>
+
+य᳓ एत᳓स्य पथो᳓ गोप्ता᳓रस्  
+ते᳓भ्यस् स्वा᳓हा
+</details>
+</div>
+
+(पथो गोप्तृभ्य इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ य एतस्य</summary>
+
+य᳓ एत᳓स्य पथो᳓ रक्षिता᳓रस्  
+ते᳓भ्यस् स्वा᳓हा
+</details>
+</div>
+
+(पथो रक्षितृभ्य इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०३(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ य एतस्य (1/6 व्यत्यस्त-स्वराः)</summary>
+
+य᳓ एत᳓स्य [[पथो᳙भि᳓ऽरक्षिता᳓रस्|पथो᳓भिऽरक्षिता᳓रस्]]  
+ते᳓भ्यस् स्वा᳓हा
+</details>
+</div>
+
+(पथोऽभिरक्षितृभ्य इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०४(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आख्यात्रे</summary>
+
+आख्यात्रे᳓ स्वा᳓हा
+</details>
+</div>
+
+(आख्यात्र इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अपाख्यात्रे</summary>
+
+अपाख्यात्रे᳓ स्वा᳓हा
+</details>
+</div>
+
+(अपाख्यात्र इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अभिलालपते</summary>
+
+अभिला᳓लपते स्वा᳓हा
+</details>
+</div>
+
+(अभिलालपत इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०७(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अपलालपते स्वाहा</summary>
+
+अपला᳓लपते स्वा᳓हा
+</details>
+</div>
+
+(अपलालपत इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०८(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ अग्नये कर्मकृते</summary>
+
+अग्न᳓ये कर्म-कृ᳓ते स्वा᳓हा
+</details>
+</div>
+
+(अग्नये कर्मकृत इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०९(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/02_sruvAhutayaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ यम् अत्र</summary>
+
+य᳓म् अ᳓त्र ना᳓धीम᳓स्  
+त᳓स्मै स्वा᳓हा ।
+</details>
+</div>
+
+(यमाय इदन्नमम) ।
 
 <details><summary>तमिऴ्</summary>
 

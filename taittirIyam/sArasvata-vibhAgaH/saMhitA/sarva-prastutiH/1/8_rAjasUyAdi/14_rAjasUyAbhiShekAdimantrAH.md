@@ -95,7 +95,7 @@ Thou art the glittering of Soma; as thine may my glittering be.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अमृतम् असि,</summary>
 
 अमृ᳓तम् असि,  
 मृत्यो᳓र् मा पाहि ।
@@ -132,7 +132,7 @@ Thou art ambrosia; from death protect me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ दिद्योन् मा</summary>
 
 दिद्यो᳓न्+++(→विद्युतः)+++ मा पाहि ।
 </details>
@@ -173,7 +173,7 @@ From the thunderbolt protect me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ अवेष्टा</summary>
 
 अ᳓वेष्टा+++(←यज्)+++ दन्दशू᳓काः ।
 </details>
@@ -209,7 +209,7 @@ Propitiated are biting flies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ निरस्तन्</summary>
 
 नि᳓रस्तन् न᳓मुचेश् शि᳓रः  ॥
 </details>
@@ -245,7 +245,7 @@ Cast away is Namuci's head.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सोमो राजा</summary>
 
 सो᳓मो रा᳓जा व᳓रुणो   
 देवा᳓ धर्म-सु᳓वश् च ये᳓ ।    
@@ -286,7 +286,7 @@ Soma, king Varuna, and the gods which instigate righteousness, may they instigat
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ सोमस्य त्वा</summary>
 
 सो᳓मस्य त्वा **द्युम्ने᳓नाभि᳓षिञ्चाम्य्**  
 अग्ने᳓स् ते᳓जसा  
@@ -319,7 +319,7 @@ With the glory of Soma I besprinkle thee, with the brilliance of Agni [1], with 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ क्षत्त्राणाङ्</summary>
 
 क्षत्त्रा᳓णाङ् क्षत्त्र᳓-पतिर् असि  ।
 </details>
@@ -353,7 +353,7 @@ Thou art the lord of kingly powers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ अति दिवस्</summary>
 
 अ᳓ति दिव᳓स् पाहि   ।
 </details>
@@ -384,7 +384,7 @@ Protect from the sky.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ समाववृत्रन्न्</summary>
 
 **समा᳓ववृत्रन्न्**+++(←वृत्)+++ अधरा᳓ग् उ᳓दीचीर्  
 अ᳓हिम् +++(मेरु-)+++बुध्नि᳓यम् अ᳓नु **सञ्च᳓रन्तीः** ।    
@@ -432,7 +432,7 @@ The ships that pour spontaneously go ever.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० रुद्र यत्ते</summary>
 
 रु᳓द्र य᳓त्ते क्र᳓यी प᳓रं ना᳓म  
 त᳓स्मै हुत᳓म् **असि**।  

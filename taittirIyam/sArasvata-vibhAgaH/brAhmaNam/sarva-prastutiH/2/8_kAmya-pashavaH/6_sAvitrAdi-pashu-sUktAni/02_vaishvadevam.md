@@ -10,7 +10,7 @@ title = "०२ वैश्वदेवम्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आ नो</summary>
 
 आ᳓ नो वि᳓श्वे +++(अभि=)+++अ᳓स्क्रा **ऽऽगमन्तु** देवाः᳓ ।  
 मित्रो᳓ अर्यमा᳓ व᳓रुणस् स-जो᳓षाः ।   
@@ -435,7 +435,7 @@ Vereinigt mögen alle Götter kommen, Arjaman, Mitra, Varuna gemeinsam, Damit si
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ शन् नो</summary>
 
 श᳓न् नो देवा᳓ विश्व᳓-देवा **भवन्तु** ।  
 शँ᳓ स᳓रस्वती सह᳓ धीभि᳓र् अस्तु ॥ 42 ॥  
@@ -837,7 +837,7 @@ Peace to us from the heavenly, the earthly, and the watery!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ये सवितुस्</summary>
 
 ये᳓ सवितु᳓स् सत्य᳓-**सवस्य** वि᳓श्वे ।     
 मित्र᳓स्य व्रते᳓ व᳓रुणस्य देवाः᳓ ।  
@@ -1170,7 +1170,7 @@ and diverse wealth!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अग्ने याहि</summary>
 
 अ᳓ग्ने **याहि᳓** दूत्यव्ँ᳙ वा᳓ **ऽरिषेण्यः** ।  
 देवाँ᳓ अ᳓च्छा ब्रह्म-कृ᳓ता गणे᳓न ।  
@@ -1535,7 +1535,7 @@ and all the gods, for the bestowing of treasures!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ द्यौ पित</summary>
 
 द्यौᳶ᳓ पितᳶ पृ᳓थिवि मा᳓तर् अ᳓-ध्रुक+++(←द्रुह्)+++ ।  
 अ᳓ग्ने भ्रातर् वसवो **मृड᳓ता** नः ।  
@@ -1904,7 +1904,7 @@ you who are in the midspace and you who abide in heaven,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विश्वे देवाश्</summary>
 
 वि᳓श्वे देवाश् **शृणुते᳓मँ᳓ ह᳓वम्** मे ।   
 ये᳓ अन्त᳓रिक्षे य᳓ उ᳓प द्य᳓वि ष्ठ᳓ ।  

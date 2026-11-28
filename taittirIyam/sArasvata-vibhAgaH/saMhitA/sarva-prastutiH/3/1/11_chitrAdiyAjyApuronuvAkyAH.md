@@ -14,7 +14,7 @@ title = "११ चित्रादियाज्यापुरोनुव�
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्निना</summary>
 
 अग्नि᳓ना रयि᳓मश्नवत्पो᳓षमेव᳓ दिवे᳓दिवे ।  
 यश᳓सव्ँवीर᳓वत्तमम् ॥
@@ -290,7 +290,7 @@ Durch Agni werd' uns Tag für Tag Gedeihn und schönes Gut zu Theil, Das reich m
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ गोमाँ</summary>
 
 गो᳓माँ अग्ने᳓ऽविमाँ अश्वी᳓ यज्ञो᳓ नृव᳓त्सखा स᳓दमि᳓दप्रमृष्यः᳓ ।   
 इ᳓डावाँ एषो᳓ असुर प्रजा᳓वान्दीर्घो᳓ रयिᳶ᳓ पृथुबुध्न᳓स्सभा᳓वान् ॥
@@ -716,7 +716,7 @@ Das Opfer, Agni, ausgeführt von Starken, ist reiches Gut an Rossen, Rindern, Sc
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आ प्यायस्व</summary>
 
 आ᳓ प्यायस्व ...   
 </details>
@@ -765,7 +765,7 @@ Swell up.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ सन्ते</summary>
 
 स᳓न्ते ..
 </details>
@@ -817,7 +817,7 @@ Together for thee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ इह</summary>
 
 इह᳓ त्व᳓ष्टारमग्रियव्ँ᳓विश्व᳓रूपमु᳓प ह्वये ।   
 अस्मा᳓कमस्तु के᳓वलः ॥
@@ -1059,7 +1059,7 @@ Den erstgebornen Tvaschtar auch, den allgestalt'gen ruf' ich her; Nur uns allein
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तन्नस्तुरीपमध</summary>
 
 त᳓न्नस्तुरी᳓पम᳓ध पोषयित्नु᳓ दे᳓व त्वष्टर्वि᳓ रराण᳓स्स्यस्व ।   
 य᳓तो वीरः᳓ [35] कर्मण्य᳙स्सुद᳓क्षो ..  
@@ -1466,7 +1466,7 @@ Und diesen unsern Samen, welcher Frucht schafft, o du Gott Tvaschtar lass uns hu
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ शिवस्त्वष्टरिहा</summary>
 
 शिव᳓स्त्वष्टरिहा᳓ गहि विभुᳶ᳓ पो᳓ष उत᳓ त्म᳓ना ।   
 यज्ञे᳓यज्ञे न उ᳓दव ।
@@ -1778,7 +1778,7 @@ O Tvaschtar komme segnend her an Nahrung reich aus eigner Lust, Bei jedem Opfer 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ पिशङ्गरूपस्सुभरो</summary>
 
 पिश᳓ङ्गरूपस्सुभ᳓रो वयोधा᳓श्श्रुष्टी᳓ वीरो᳓ जायते देव᳓कामः ।    
 प्रजा᳓न्त्व᳓ष्टा वि᳓ ष्यतु ना᳓भिमस्मे᳓ अ᳓था देवा᳓नाम᳓प्येतु पा᳓थः ।
@@ -2154,7 +2154,7 @@ Von Farbe braun, gedrungen, Leben spendend ersteht sogleich der Held die Götter
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ प्र णो</summary>
 
 प्र᳓ णो देवी᳓ ..  
 </details>
@@ -2196,7 +2196,7 @@ Forth for us, O goddess.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० आ नो</summary>
 
 आ᳓ नो दिवो᳓ ..
 </details>
@@ -2241,7 +2241,7 @@ From the sky.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ पीपिवाँसँ</summary>
 
 पीपिवाँ᳓सँ स᳓रस्वतस्स्त᳓नय्ँयो᳓ विश्व᳓दर्शतः ।  
 धुक्षीम᳓हि प्रजा᳓मि᳓षम् ॥ [36]
@@ -2305,7 +2305,7 @@ may we milk for offspring and nourishment.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ ये ते</summary>
 
 ये᳓ ते सरस्व ऊर्म᳓यो म᳓धुमन्तो घृतश्चु᳓तः ।  
 ते᳓षान्ते सुम्न᳓मीमहे ।
@@ -2370,7 +2370,7 @@ of those we seek thy favor.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ यस्य व्रतम्पशवो</summary>
 
 य᳓स्य व्रत᳓म्पश᳓वो य᳓न्ति स᳓र्वे य᳓स्य व्रत᳓मुपति᳓ष्ठन्त आ᳓पः ।   
 य᳓स्य व्रते᳓ पुष्टिप᳓तिर्नि᳓विष्टस्तँ᳓ स᳓रस्वन्तम᳓वसे हुवेम ।
@@ -2506,7 +2506,7 @@ in whose vow the lord of nourishment is established—that Sarasvant we would in
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ दिव्यँ</summary>
 
 दिव्यँ᳓ सुपर्णव्ँ᳓वयस᳓म्बृह᳓न्तमपा᳓ङ्ग᳓र्भव्ँवृषभ᳓मो᳓षधीनाम् ।   
 अभीपतो᳓ वृष्ट्या᳓ तर्प᳓यन्तन्तँ᳓ स᳓रस्वन्तम᳓वसे हुवेम ।
@@ -2547,7 +2547,7 @@ This Sarasvant let us call on for aid.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ सिनीवालि</summary>
 
 सि᳓नीवालि पृ᳓थुष्टुके या᳓ देवा᳓नाम᳓सि स्व᳓सा ।  
 जुष᳓स्व हव्य᳓म् [37]  आ᳓हुतम्प्रजा᳓न्देवि दिदिड्ढि नः ।
@@ -2985,7 +2985,7 @@ Breitflechtige Sinīvālī, die du der Götter Schwester bist, Geniess' den darg
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ या सुपाणिस्</summary>
 
 या᳓ सुपाणि᳓स् स्वङ्गुरि᳓स्  
 सु-षू᳓मा+++(←सू)+++ बहु-सू᳓वरी+++(←सू)+++ ।   
@@ -3030,7 +3030,7 @@ ___________________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ इन्द्रव्ँवो</summary>
 
 इ᳓न्द्रव्ँवो विश्व᳓तस्प᳓रि᳓ ...
 </details>
@@ -3068,7 +3068,7 @@ Indra from all sides.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ इन्द्रन्नरः</summary>
 
 इ᳓न्द्रन्न᳓रः ... ।
 </details>
@@ -3111,7 +3111,7 @@ Indra men.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ असितवर्णा</summary>
 
 अ᳓सितवर्णा ह᳓रयस्सुपर्णा᳓ मि᳓हो व᳓साना दि᳓वमु᳓त्पतन्ति ।  
 त᳓ आ᳓ऽववृत्रन्त्स᳓दनानि कृत्वा᳓दि᳓त्पृथिवी᳓ घृतै᳓र्व्युद्यते ।
@@ -3152,7 +3152,7 @@ Then the earth is wet with ghee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० हिरण्यकेशो रजसो</summary>
 
 हि᳓रण्यकेशो र᳓जसो विसारे᳓ऽहिर्धु᳓निर्वा᳓त इव ध्र᳓जीमान् ।    
 शु᳓चिभ्राजा उष᳓सः [38]  न᳓वेदा य᳓शस्वतीरपस्यु᳓वो न᳓ सत्याः᳓ ।
@@ -3509,7 +3509,7 @@ Goldhaarig ist er in dem Raum der Lüfte, ein Drache schnaubend, wie der Windzug
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ आ ते</summary>
 
 आ᳓ ते सुपर्णा᳓ अमिनन्त ए᳓वैः कृष्णो᳓ नोनाव वृषभो᳓ य᳓दीद᳓म् ।   
 शिवा᳓भिर्न᳓ स्म᳓यमानाभिरा᳓गात्प᳓तन्ति मि᳓हस्स्तन᳓यन्त्यभ्रा᳓ ।
@@ -3954,7 +3954,7 @@ In ihren Flügen lösten deine Vögel sich ab, wenn hier der schwarze Stier gebr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ वाश्रेव</summary>
 
 वाश्रे᳓व विद्यु᳓न्मिमाति वत्स᳓न्न᳓ माता᳓ सिषक्ति ।   
 य᳓देषाव्ँवृष्टि᳓र᳓सर्जि ।
@@ -4259,7 +4259,7 @@ Wie die Kuh so brüllt ihr Blitzstrahl, wie dem Kalb die Mutter nachgeht, Wenn i
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ पर्वतश्चिन्महि</summary>
 
 प᳓र्वतश्चिन्म᳓हि वृद्धो᳓ बिभाय दिव᳓श्चित्सा᳓नु रेजत स्वने᳓ वः ।   
 य᳓त्क्री᳓डथ मरुतः [39]  ऋष्टिम᳓न्त आ᳓प इव सध्रि᳓यञ्चो धवध्वे ।
@@ -4624,7 +4624,7 @@ Es fürchten sich die mächtig hohen Berge, des Himmels Gipfel bebt bei eurem To
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ अभि क्रन्द</summary>
 
 अभि᳓ क्रन्द स्तन᳓य ग᳓र्भमा᳓ धा उदन्व᳓ता प᳓रि दीया र᳓थेन ।   
 दृ᳓तिँ सु᳓ कर्ष वि᳓षितन्न्य᳙ञ्चँ समा᳓ भवन्तूद्व᳓ता निपादाः᳓ ।
@@ -5042,7 +5042,7 @@ Auf, brülle laut und donnre, schaffe Frucht her und flieg umher mit wasserreich
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ त्वन्त्या</summary>
 
 त्व᳓न्त्या᳓ चिद᳓च्युता᳓ग्ने पशु᳓र्न᳓ य᳓वसे ।   
 धा᳓मा ह य᳓त्ते अजर व᳓ना वृश्च᳓न्ति शि᳓क्वसः ।
@@ -5378,7 +5378,7 @@ Das Feste auch bemeisterst du, verzehrend Agni, wie das Vieh, Wenn, Ew'ger, dein
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ अग्ने भूरीणि</summary>
 
 अ᳓ग्ने भू᳓रीणि त᳓व जातवेदो दे᳓व स्वधावोऽमृ᳓तस्य धा᳓म ।  
 या᳓श्च [40]  माया᳓ मायि᳓नाव्ँविश्वमिन्व त्वे᳓ पूर्वी᳓स्सन्दधुᳶ᳓ पृष्टबन्धो ।
@@ -5735,7 +5735,7 @@ O Agni, viele Namen, Wesenkenner, sind dir, o Gott, unsterblicher Beherrscher; I
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ दिवो नो</summary>
 
 दिवो᳓ नो वृष्टि᳓म्मरुतो ररीध्वम्प्र᳓ पिन्वत वृ᳓ष्णो अ᳓श्वस्य धा᳓राः ।  
 अर्वा᳓ङेते᳓न स्तनयित्नु᳓ते᳓ह्यपो᳓ निषिञ्च᳓न्न᳓सुरᳶ पिता᳓ नः ।
@@ -6154,7 +6154,7 @@ Des Himmels Regen spendet uns, o Maruts, des brünst'gen Hengstes Ströme lasset
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ पिन्वन्त्यपो</summary>
 
 पि᳓न्वन्त्यपो᳓ मरु᳓तस्सुदा᳓नवᳶ प᳓यो घृत᳓वद्विद᳓थेष्वाभु᳓वः ।   
 अ᳓त्यन्न᳓ मिहे᳓ वि᳓ नयन्ति वाजि᳓नमु᳓त्सन्दुहन्ति स्तन᳓यन्तम᳓क्षितम् ।
@@ -6517,7 +6517,7 @@ Die tropfenreichen Maruts giessen Wasser aus und, bei den Opfern gegenwärtig, f
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ उदप्रुतो</summary>
 
 उदप्रु᳓तो मरुतस्ताँ᳓ इयर्त वृ᳓ष्टिम् [41]  ये᳓ वि᳓श्वे मरु᳓तो जुन᳓न्ति ।  
 क्रो᳓शाति ग᳓र्दा कन्ये᳙व तुन्ना᳓ पे᳓रुन्तुञ्जाना᳓ प᳓त्येव जाया᳓ ।
@@ -6558,7 +6558,7 @@ Like a wife with her husband in union.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० घृतेन</summary>
 
 घृते᳓न द्या᳓वापृथिवी᳓ म᳓धुना स᳓मुक्षत प᳓यस्वतीᳵ कृणुता᳓प ओ᳓षधीः ।   
 ऊ᳓र्जञ्च त᳓त्र सुमति᳓ञ्च पिन्वथ य᳓त्रा नरो मरुतस्सिञ्च᳓था म᳓धु ।
@@ -6599,7 +6599,7 @@ When, O hero Maruts, ye pour the honey.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ उदु त्यम्</summary>
 
 उ᳓दु त्य᳓म् ..
 </details>
@@ -6636,7 +6636,7 @@ Upwards that.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ चित्रम्</summary>
 
 चित्र᳓म्  ..
 </details>
@@ -6678,7 +6678,7 @@ The radiant.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ और्वभृगुवच्छुचिम्</summary>
 
 और्वभृगुव᳓च्छु᳓चिम्  ..  
 अप्नवानव᳓दा᳓ हुवे ।   
@@ -7198,7 +7198,7 @@ Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerum
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ हुवे</summary>
 
 हुवे᳓ वा᳓तस्वनङ्कवि᳓म्पर्ज᳓न्यक्रन्द्यँ स᳓हः ।   
 अग्निँ᳓ समुद्र᳓वाससम् ॥ [42]

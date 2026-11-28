@@ -28,57 +28,13 @@ Mantras for blowing out the fire and striking on the burnt bones on the third, f
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi/01_yan_te_agnim.md">
+</div>
 
-य᳓न् ते अग्नि᳓म् अ᳓मन्थाम  
-वृषभा᳓येव प᳓क्तवे ।  
-इम᳓न् तँ᳓ **शमयामसि**  
-क्षीरे᳓ण चोदके᳓न च ।
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/04_asthi-sanchayAdi/01_yan_te_agnim.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-We now blow out that fire by milk and water, which we burnt for cooking you as (cooking) a bull.
-</details>
-
-<details><summary>मूलम्</summary>
-
-यन्ते॑ अ॒ग्निमम॑न्थाम वृष॒भाये॑व॒ पक्त॑वे ।  
-इ॒मन्तँ श॑मयामसि क्षी॒रेण॑ चोद॒केन॑ च ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-17/728, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-23/244, *VS-K*-53/456, *KS*-31/818, *MS*-183/3763)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
-- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
-- अ᳓मन्थाम (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- वृषभा᳓य (*TS*-1/15, *RV*-13/149, *TB*-0/6, *AV*-4/37, *SB-M*-0/11, *SB-K*-0/7, *VS-M*-1/9, *VS-K*-1/11, *KS*-1/13, *MS*-3/25)
-- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-41, *SB-K*-741, *VS-K*-38, *KS*-68, *MS*-240)
-- प᳓क्तवे (*AV*-1, तुमुन्/तवेन् पा॰ ३.४.९, ६.१.१९७)
-- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-14/287, *AV*-148/1259, *SB-M*-203/5240, *SB-K*-219/5549, *VS-M*-15/70, *VS-K*-24/151, *KS*-38/319, *MS*-120/1379)
-- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-140/1327, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-50/268, *VS-K*-63/395, *KS*-117/1225, *MS*-528/5550)
-- शमयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- क्षीरे᳓ण (*TS*-0/2, *RV*-1/5, *TB*-0/1, *AV*-2/28, *SB-M*-1/2, *SB-K*-1/3, *VS-M*-0/1, *KS*-0/1, *MS*-0/3)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1417, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
-- उदके᳓न (*TS*-0/2, *RV*-0/9, *TB*-0/2, *AV*-3/23, *SB-M*-4/22, *SB-K*-4/24, *MS*-1/6, प्रातिपदिकम् उदक᳓ (*MW*))
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1417, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-हे प्रेत! यम् अग्निं ते त्वदर्थम् अमन्थाम आधानकाले मथितवन्तः वयं वृषभायेव । द्वितीयार्थे चतुर्थी । वृषभमिव पक्तवे । तुमर्थे तवेप्रत्ययः । यथा आतिथ्यादौ वृषभं पक्तुमग्निं मन्थति तद्वत् त्वदर्थमग्निम् अमन्थाम तमिमम् अग्निं शमयामसि शमयामः केन ? क्षीरेण चोदकेन च मिश्रितेन ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हे प्रेत-शरीर, ते तव पक्तवे पाकार्थं वृषभायेव यथा पशवे तथा यम् अग्निम् अमन्थाम। पशु-बन्धेषु हि पशोः पाकार्थम् अग्निर् मथ्यते "निर्मन्थ्यं वा कुर्याद्" इति श्रुतेः। तम् इमम् अग्निम् अनेन क्षीरेण चोदकेन च शमयामसि शान्तं कुर्मः।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यन् त्वम् (1/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓न् त्व᳓म् अग्ने सम᳓दहस्  
 त्व᳓म् उ नि᳓र्वापया पु᳓नः ।  
@@ -130,57 +86,13 @@ O fire, make him away, whom you have burnt; may here grow by some water any plan
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (4/12 व्यत्यस्त-स्वराः)</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi/03_shItike_shItikAvati.md">
+</div>
 
-शी᳓तिके शी᳓तिकावति  
-ह्ला᳓दुके ह्ला᳓दुकावति ।  
-मण्डूक्या᳙ [[सुसङ्गम᳓य|सुस᳓ङ्गमय]]  
-इमँ᳓ [[स्व्-अग्निँ᳓|स्व्-अ᳙ग्निँ᳓]]+++(←स्वरो युक्तः)+++ [[शम᳓य|शमय]] ।
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/04_asthi-sanchayAdi/03_shItike_shItikAvati.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-O earth, sprinkled by the water; and O earth, sprinkled by the milk: take this to the place of the water where there are the frogs; make this fire blown out well.
-</details>
-
-<details><summary>मूलम्</summary>
-
-शीति॑के॒ शीति॑कावति॒ ह्लादु॑के॒ ह्लादु॑कावति ।  
-म॒ण्डू॒क्या॑ सुसङ्ग॒मये॒मँ स्व॑ग्निँ श॒मय॑ ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः - 4/12 व्यत्यस्त-स्वराः)</summary>
-
-- शी᳓तिके (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *RV*-1)
-- शी᳓तिकावति (*RV*-1, *AV*-1)
-- ह्ला᳓दुके (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८)
-- ह्ला᳓दुकावति (पादादावामन्त्रितम् आद्युदात्तम् पा॰ ६.१.१९८, आमन्त्रितं पूर्वमविद्यमानवत् पा॰ ८.१.७२)
-- मण्डूक्या᳙ (*RV*-1)
-- सु (गतिर्गतौ, पा॰ ८.१.७०, *TS*-1, *TB*-9, *SB-M*-7, *SB-K*-4, *VS-K*-1, *KS*-4, *MS*-19)
-- सम् → **स᳓म्** (*TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
-- गम᳓य → **गमय** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-14/287, *AV*-148/1259, *SB-M*-203/5240, *SB-K*-219/5549, *VS-M*-15/70, *VS-K*-24/151, *KS*-38/319, *MS*-120/1379)
-- सु᳓ (*TS*-24, *RV*-265, *SB-K*-31, *VS-K*-8, *KS*-24, *MS*-29)
-- अग्निम् → **अग्नि᳓म्** (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
-- शम᳓य → **शमय** (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-शीतिके इति ॥ कुम्भोदकं वृष्टिरूपेण रूप्यते शीतिका वृष्टिः । शीताधिदेवतेत्यन्ये । हे शीतिके! शीतिकावति! शीतिका कम्पकरव्याधिरतिशैत्येन समुत्पद्यते । तद्वति! अत्यन्तशैत्यवति! । ह्लादुके! सर्वस्य ह्लादयित्रि! ह्लादुकावति ! अत्यन्तह्लादनवति ! त्वमिमं प्रदेशं **मण्डूक्या** मण्डूकस्त्रिया सुसङ्गमय । **इमं** चाग्निं सुष्ठु शमय । इममग्निं शमयित्वा प्रदेशमिमं तथा शीतं कृत्वा यथा न कदाचिदपि स्थानमिदं मण्डूकी जहाति ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ तृतीयाम् आह -
-
-शीतेन जलेन युक्ता भूमिः शीतिका, ह्लादकारिणा क्षीरेण युक्ता भूमिर् ह्लादुका। हे शीतिके भूमे, शीतिकावति शीतिका-भूमि-युक्ते स्थाने, हे ह्लादुके ह्लादुकावति ह्लादुकायुक्ते स्थान-विशेषे, मण्डूक्यासु मण्डूक-प्लवन-योग्यास्व् अप्सु संगमयेमं प्रेत-देहं प्रापय। अग्निं च सुष्ठु शमय।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ शन् ते</summary>
 
 श᳓न् ते धन्वन्या᳓ आ᳓पश्  
 श᳓म् उ ते सन्त्वनूक्याः᳙ ।  
@@ -236,63 +148,11 @@ May the water of the deserts be auspicious for you; may the waters of the wonder
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi/05_shante_sravantIs_tanuve.md">
+</div>
 
-श᳓न्ते स्र᳓वन्तीस् तनु᳓वे  
-श᳓मु ते सन्तु कू᳓प्याः ।  
-श᳓न्ते नीहारो᳓ वर्षतु  
-श᳓म् उ पृ᳓ष्वा᳓ऽवशीयताम् ।  
-(9)
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-May the flowing waters be auspicious for your body, may the waters of the wells be auspicious; may the snow fall suspiciously on you; may dew fall suspiciously (1).
-</details>
-
-<details><summary>मूलम्</summary>
-
-शन्ते॒ स्रव॑न्तीस्त॒नुवे॒ शमु॑ ते सन्तु॒ कूप्याः॑ ।  
-शन्ते॑ नीहा॒रो व॑र्षतु॒ शमु॒ पृष्वाऽव॑शीयताम् ।  
-(9)
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- श᳓म् (*TS*-33, *RV*-159, *TB*-6, *AV*-185, *SB-K*-29, *VS-K*-37, *KS*-13, *MS*-51)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
-- स्र᳓वन्तीः (*TS*-0/1, *RV*-4, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-0/1, *VS-K*-1/2, *MS*-1/2)
-- तनु᳓वे (*TS*-2/41, *TB*-1/22)
-- श᳓म् (*TS*-33, *RV*-159, *TB*-6, *AV*-185, *SB-K*-29, *VS-K*-37, *KS*-13, *MS*-51)
-- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *SB-K*-2028, *VS-K*-15, *KS*-77, *MS*-201)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
-- सन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-24, *RV*-60, *SB-K*-20, *VS-K*-25, *KS*-8, *MS*-21)
-- कू᳓प्याः (*TS*-0/3, *SB-M*-0/1, *VS-M*-0/2, *VS-K*-0/2, *KS*-0/3, *MS*-0/2, प्रातिपदिकम् कू᳓प्य (*MW*))
-- श᳓म् (*TS*-33, *RV*-159, *TB*-6, *AV*-185, *SB-K*-29, *VS-K*-37, *KS*-13, *MS*-51)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
-- नीहारः᳓ (*TS*-0/2, *RV*-0/1, *AV*-1/2, *VS-M*-0/2, *VS-K*-0/2, *KS*-0/1, *MS*-0/3, फिषोऽन्तः फि॰ १.१, प्रत्ययस्वरः पा॰ ३.१.३)
-- वर्षतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *SB-K*-1, *VS-K*-2, *KS*-1, *MS*-1)
-- श᳓म् (*TS*-33, *RV*-159, *TB*-6, *AV*-185, *SB-K*-29, *VS-K*-37, *KS*-13, *MS*-51)
-- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *SB-K*-2028, *VS-K*-15, *KS*-77, *MS*-201)
-- पृ᳓ष्वा (*TS*-1/2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- अ᳓व (*TS*-497, *RV*-217, *SB-K*-561, *VS-K*-15, *KS*-111, *MS*-474)
-- शीयताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-शं ते स्रवन्तीर् नद्यादिषु स्रवन्त्य आपस् ते तनुवे तन्वै शरीराय शं भवन्तु । कूपे भवाः कूप्याः । नीहारो हिमानी स च ते शं वर्षतु सुखवृष्टिं करोतु । पृष्वा अवश्यायोदकं साऽपि शं भूत्वा अवशीयताम् अवपततु ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ पञ्चमीम् आह -
-
-स्रवन्तीर् नदी-गता आपो हे प्रेत, ते तनुवे शं सुख-हेतवो भवन्तु। कूपे भवाः कूप्याः, ताश् च ते सुख-हेतवो भवन्तु। नीहारो हिम-रूपस् ते सुखार्थं वर्षतु वृष्टि-वत् स्रवतु। पृष्वा जल-बिन्दुः शमु सुखार्थम् एवावशीयताम् अधः पततु।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/04_asthi-sanchayAdi/05_shante_sravantIs_tanuve.md">
+</div>
 
 ## स्रुवाहुतयः
 
@@ -318,7 +178,7 @@ Mantras for offering three oblations after throwing the cinders in the south.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ अव सृज</summary>
 
 अ᳓व सृज पु᳓नर् अग्ने पितृ᳓भ्यो  
 य᳓स्त आ᳓हुतश् च᳓रति स्वधा᳓भिः ।  
@@ -672,64 +532,13 @@ Entlass ihn, Agni, zu den Vätern wieder, der dir geweihet nun in Wonne wandert;
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi/07_sangachChasva_pitRbhis_sa.N.md">
+</div>
 
-स᳓ङ्गच्छस्व पितृ᳓भिस् सँ᳓ स्वधा᳓भिस्  
-स᳓म् इष्टापूर्ते᳓न परमे᳓ व्यो᳙मन् ।  
-य᳓त्र भू᳓म्यै वृण᳓से त᳓त्र गच्छ  
-त᳓त्र त्वा देव᳓स् सविता᳓ दधातु ।
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/04_asthi-sanchayAdi/07_sangachChasva_pitRbhis_sa.N.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-Go with the feathers, with Hails, with stored up sacrifices in the highest heaven; which earth you choose to be born, go there; may the god Savitr put you there.
-</details>
-
-<details><summary>मूलम्</summary>
-
-सङ्ग॑च्छस्व पि॒तृभि॒स्सँ स्व॒धाभि॒स्समि॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन् ।  
-यत्र॒ भूम्यै॑ वृ॒णसे॒ तत्र॑ गच्छ॒ तत्र॑ त्वा दे॒वस्स॑वि॒ता द॑धातु ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- स᳓म् (*TS*-547, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- गच्छस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2)
-- पितृ᳓भिः (*TS*-7/121, *RV*-9/254, *TB*-0/67, *AV*-10/228, *SB-M*-3/321, *SB-K*-3/317, *VS-M*-1/56, *VS-K*-2/52, *KS*-1/43, *MS*-4/157)
-- स᳓म् (*TS*-547, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- स्वधा᳓भिः (*TS*-1/18, *RV*-16/70, *TB*-0/18, *AV*-10/58, *SB-M*-1/28, *SB-K*-1/24, *VS-M*-0/17, *VS-K*-0/16, *KS*-0/7, *MS*-1/16)
-- स᳓म् (*TS*-547, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- इष्टा-पूर्ते᳓न (*TS*-2/4, *RV*-1, *TB*-0/2, *AV*-1/6, *SB-M*-1/4, *SB-K*-1/4, *VS-K*-0/2, *MS*-0/1)
-- परमे᳓ (*TS*-9/45, *RV*-29/74, *TB*-2/11, *TK*-1/2, *AV*-28/53, *SB-M*-15/89, *SB-K*-14/91, *VS-M*-9/25, *VS-K*-8/27, *KS*-7/16, *MS*-13/38)
-- व्यो᳙मन् (*SB-M*-12, *SB-K*-12, *VS-M*-2, *KS*-3, *MS*-8)
-- य᳓त्र (*TS*-39, *RV*-123, *TB*-9, *TK*-1, *SB-K*-362, *VS-K*-28, *KS*-21, *MS*-99)
-- भू᳓म्यै (*TS*-4/24, *RV*-0/52, *TB*-2/5, *AV*-1/120, *SB-M*-0/19, *SB-K*-0/23, *VS-M*-0/6, *VS-K*-0/17, *KS*-0/9, *MS*-0/27)
-- वृण᳓से (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- त᳓त्र (*TS*-14, *RV*-22, *TB*-25, *TK*-1, *SB-K*-207, *VS-K*-3, *KS*-23, *MS*-20)
-- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *SB-K*-36, *VS-K*-33, *KS*-19)
-- त᳓त्र (*TS*-14, *RV*-22, *TB*-25, *TK*-1, *SB-K*-207, *VS-K*-3, *KS*-23, *MS*-20)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-539, *SB-K*-675, *VS-K*-525, *KS*-326, *MS*-812)
-- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-42/257, *VS-K*-58/350, *KS*-24/317, *MS*-104/1216)
-- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-25/40, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-44/88, *VS-K*-44/92, *KS*-14/41, *MS*-80/155)
-- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-13, *SB-K*-28, *VS-K*-9, *KS*-11, *MS*-30)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-हे प्रेत! पितृभिस्सङ्गच्छस्व पितृगणैरन्तर्भव । ततः स्वधाभिर् अपि सङ्गच्छस्व इष्टापूर्तफलेन च सङ्गच्छस्व! क्व परमे व्योमन् विशिष्टस्थाने स्वर्गाख्ये । पश्चाच्च भूम्यै भूम्यास्सम्बन्धिनि यत्र प्रदेशे वृणसे जन्म प्रार्थयसे तत्र प्रदेशे गच्छ तत्र त्वा देवः सविता दधातु उत्पादयतु ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ द्वितीयाम् आह -
-
-हे प्रेत, त्वं पितृभिः संगच्छस्व संगतो भव। परमे व्योमन्न् उत्कृष्टे स्वर्गे इष्टा-पूर्तेन श्रौत-स्मार्त-कर्म-फलेन संगतो भव। भूम्यै भूम्यां यत्र यस्मिन् देश-विशेषे वृणसे जन्म प्रार्थयसे तत्र गच्छ। सविता देवस् त्वां तत्र दधातु स्थापयतु।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यत् ते</summary>
 
 य᳓त् ते कृष्ण᳓श् शकुन᳓ आतुतो᳓द  
 पिपील᳓स् सर्प᳓ उत᳓ वा श्वा᳓पदः ।  
@@ -1160,64 +969,11 @@ Mantra to be uttered by the principal wife when taking up the bones.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/04_asthi-sanchayAdi/09_uttiShThAtas_tanuva.N.md">
+</div>
 
-**उ᳓त्तिष्ठा᳓तस्** तनु᳓वँ **सं᳓भरस्व**  
-**मे᳓ह᳓** गा᳓त्रम् **अ᳓वहा** मा᳓ श᳓रीरम् ।  
-य᳓त्र भू᳓म्यै **वृण᳓से** त᳓त्र **गच्छ**  
-त᳓त्र त्वा देव᳓स् सविता᳓ **दधातु** ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-(O dead one!) stand up, obtain the body, do not leave here any limb or body; which earth you choose, go there; may the god Savitr take you there.
-</details>
-
-<details><summary>मूलम्</summary>
-
-उत्ति॒ष्ठात॑स्त॒नुवँ॒ संभ॑रस्व॒ मेह गात्र॒मव॑हा॒ मा शरी॑रम् ।  
-यत्र॒ भूम्यै॑ वृ॒णसे॒ तत्र॑ गच्छ॒ तत्र॑ त्वा दे॒वस्स॑वि॒ता द॑धातु ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- उ᳓त् (*TS*-274, *RV*-293, *SB-K*-667, *KS*-81, *MS*-339)
-- तिष्ठ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-24, *RV*-26, *SB-K*-11, *VS-K*-5, *KS*-6, *MS*-21)
-- अ᳓तः (*TS*-14, *RV*-61, *SB-K*-258, *VS-K*-1, *KS*-5, *MS*-35)
-- तनु᳓वम् (*TS*-17/41, *TB*-5/22)
-- स᳓म् (*TS*-547, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- भरस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८; मूले संभ॑रस्व)
-- मा᳓ (निषेधः, *TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
-- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262, *SB-K*-166, *VS-K*-39, *KS*-43, *MS*-103)
-- गा᳓त्रम् (*TS*-0/11, *RV*-0/6, *AV*-0/8, *VS-M*-0/4, *VS-K*-0/4, *KS*-1/4, *MS*-1/3, प्रातिपदिकम् गा᳓त्र (*MW*))
-- अ᳓व (*TS*-497, *RV*-217, *SB-K*-561, *VS-K*-15, *KS*-111, *MS*-474)
-- हा (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1)
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
-- श᳓रीरम् (*TS*-14/18, *RV*-3/6, *TB*-1, *TK*-3/4, *AV*-26/32, *SB-M*-64/82, *SB-K*-54/71, *VS-M*-2/6, *VS-K*-2/6, *KS*-2/3, *MS*-5/9)
-- य᳓त्र (*TS*-39, *RV*-123, *TB*-9, *TK*-1, *SB-K*-362, *VS-K*-28, *KS*-21, *MS*-99)
-- भू᳓म्यै (*TS*-4/24, *RV*-0/52, *TB*-2/5, *AV*-1/120, *SB-M*-0/19, *SB-K*-0/23, *VS-M*-0/6, *VS-K*-0/17, *KS*-0/9, *MS*-0/27)
-- वृण᳓से (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- त᳓त्र (*TS*-14, *RV*-22, *TB*-25, *TK*-1, *SB-K*-207, *VS-K*-3, *KS*-23, *MS*-20)
-- गच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-5, *SB-K*-36, *VS-K*-33, *KS*-19)
-- त᳓त्र (*TS*-14, *RV*-22, *TB*-25, *TK*-1, *SB-K*-207, *VS-K*-3, *KS*-23, *MS*-20)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-539, *SB-K*-675, *VS-K*-525, *KS*-326, *MS*-812)
-- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-36/242, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-42/257, *VS-K*-58/350, *KS*-24/317, *MS*-104/1216)
-- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-25/40, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-44/88, *VS-K*-44/92, *KS*-14/41, *MS*-80/155)
-- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-13, *SB-K*-28, *VS-K*-9, *KS*-11, *MS*-30)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-हे प्रेत! अतः श्मशानाद् उत्तिष्ठ। उत्थाय च तनुवं तन्वम् इतस्ततो विप्रकीर्णम् अस्थिशरीरं सम्भरस्व कुम्भे सम्भृतं कुर्व् इह श्मशाने गात्रं स्वल्पमपि माऽवहा मा अवहासीर् मा त्याक्षीर् मा शरीरं मा च स्थूलम् अङ्गम् । सम्भृत्य च यत्र भूम्यै इत्यादि गतम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हे प्रेत, अतो ऽस्माद् दहन-देशाद् उत्तिष्ठ। तनुवं शरीरं संभरस्व संपादय, इह दहन-देशे गात्रम् अङ्गम् एकम् अपि मावहा मा परित्यज। शरीरम् अपि मावहा मा परित्यज। "यत्रेत्यादि" पूर्ववत्।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/04_asthi-sanchayAdi/09_uttiShThAtas_tanuva.N.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1227,7 +983,7 @@ Mantra to be uttered while collecting the bones in a jar.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ इदन् त</summary>
 
 इद᳓न् त ए᳓कं पर᳓ **ऊत** ए᳓कन्  
 तृती᳓येन ज्यो᳓तिषा सं᳓विशस्व ।  
@@ -1418,7 +1174,7 @@ Mantra for taking the jar near the branch of Palasa or Sami tree.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/20 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ उत्तिष्ठ प्रेहि (1/20 व्यत्यस्त-स्वराः)</summary>
 
 उ᳓त्तिष्ठ प्रे᳓हि प्र᳓द्रवौ᳓कः  
 कृणुष्व परमे᳓ व्यो᳙मन् ।  
@@ -1487,7 +1243,7 @@ Last five Mantras of the Anuvaka III of this Prapathaka. Last Mantra of the Anuv
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/16 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अश्मन्वती (1/16 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓श्मन्वती [[रेवतीर्|रेव᳓तीर्]]! …  
 य᳓द् वै᳓ देव᳓स्य सवितुः᳓ पवि᳓त्रय्ँ…   
@@ -1571,7 +1327,7 @@ Mantra for burning the bone again in the case of soma-sacrificers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ अस्मात् त्वम्</summary>
 
 अस्मा᳓त् त्व᳓म् अ᳓धि जातो᳙ऽसि  
 त्व᳓द् अय᳓ञ् जायतां पु᳓नः ।  

@@ -34,7 +34,7 @@ title = "०१ प्राक् चित्तिस् सृक्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ चित्तिस् स्रुक्</summary>
 
 चि᳓त्तिस् **स्रु᳓क्** ।
 </details>
@@ -75,7 +75,7 @@ Om. The thinking is the Sruc (large wooden ladle);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ चित्तम् आज्यम्</summary>
 
 चित्त᳓म् **आ᳓ज्यम्** ।
 </details>
@@ -98,7 +98,7 @@ the heart, the ghee;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ वाग् वेदिः</summary>
 
 वा᳓ग् **वे᳓दिः** ।
 </details>
@@ -127,7 +127,7 @@ the Vac (speech), the altar;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आधीतं बर्हिः</summary>
 
 आ᳓धीतं+++(=वाञ्छितम्, रूपम्)+++ **बर्हिः᳓** ।
 </details>
@@ -160,7 +160,7 @@ the uttering, the Barhi-grass;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ केतो अग्निः</summary>
 
 के᳓तो+++(←केत मन्त्रणे निःश्रावणे)+++ **अग्निः᳓** ।
 </details>
@@ -191,7 +191,7 @@ the Hotṛ, the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विज्ञातम्</summary>
 
 वि᳓ज्ञातम् अग्निः᳓ /अग्नी᳓त्।
 </details>
@@ -223,7 +223,7 @@ knowledge, (also) the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ वाक्पतिर् होता (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[वा᳓क्-पतिर्|वाक्-प᳓तिर्]] +++(→इन्द्रियम्)+++ हो᳓ता ।
 </details>
@@ -252,7 +252,7 @@ the lord of speech (Vacaspati), the invoker;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मन उपवक्ता</summary>
 
 म᳓न उपवक्ता᳓ +++(=ब्रह्मा)+++ ।
 </details>
@@ -282,7 +282,7 @@ the mind, the Upavakṭr (the impeller);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ प्राणो हविः</summary>
 
 प्राणो᳓ हविः᳓ ।
 </details>
@@ -311,7 +311,7 @@ the breath, the oblation;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० सामाध्वर्युः</summary>
 
 सा᳓माध्वर्युः᳓ ।
 </details>
@@ -359,7 +359,7 @@ the Samana, the Adhvaryu priest.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ वाचस्पते! विधे!</summary>
 
 वा᳓चस्पते! विधे! नामन्! +++(इष्टिके!)+++  
 **विधे᳓म** ते ना᳓म ।
@@ -395,7 +395,7 @@ O Vacaspati (lord of speech), O disposer, making others bend (to salute), we spr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ विधेस् त्वम्</summary>
 
 **विधे᳓स्** त्व᳓म् अस्मा᳓कन् ना᳓म ।
 </details>
@@ -421,7 +421,7 @@ spread our fame;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ वाचस्पतिस् सोमम्</summary>
 
 वाच᳓स्-प᳓तिस् सो᳓मं **पिबतु** ।  
 आ᳓ ऽस्मा᳓सु नृम्ण᳓न्+++(=नॄणां मननीयं)+++ **धात्** स्वा᳓हा ॥ (1)

@@ -17,7 +17,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ कर्मणे वान्,</summary>
 
 +++(हस्तौ!)+++ क᳓र्मणे वान्, +++(युवाभ्यां)+++ देवे᳓भ्यश् शकेयम्।+++(5)+++
 </details>
@@ -55,7 +55,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वेषाय त्वा</summary>
 
 +++(शूर्प!)+++ वे᳓षाय+++(=विष्णवे [यज्ञाय])+++ त्वा।
 </details>
@@ -94,11 +94,12 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -128,7 +129,7 @@ The Raksas is burned up, the evil spirits are burned up.
 
 किञ्च, अरातयोपि प्रत्युष्टास्सन्तु । रातयो धनस्य दातारस्सुहृदः । 'कृत्यल्युटो बहुळम्' (पा.सू. 3.3.113) इति बहुलवचनात्कर्तरि क्तिन् । अतोन्येऽरातयः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.2) ॥
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -154,7 +155,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ धूर् असि</summary>
 
 धू᳓र्+++(=धूस्स्थ हिंसको ऽग्निः)+++ असि  ।  
 +++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++
@@ -183,7 +184,7 @@ Thou art the yoke.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ धूर्व</summary>
 
 धू᳓र्व+++(=नाशय)+++ धू᳓र्वन्तम्+++(=हिंसकं)+++।  
 धू᳓र्व+++(=नाशय)+++ तं᳓ यो᳙ ऽस्मा᳓न् धू᳓र्वति।  
@@ -233,7 +234,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ त्वन् देवानाम्</summary>
 
 +++(हे शकट!)+++ त्व᳓न् देवा᳓नाम् अ᳓सि᳓   
 स᳓स्नि+++(←सन् दाने)+++-तमम्, प᳓प्रि+++(=पूर्ण)+++-तमं, जु᳓ष्ट+++(=प्रिय)+++-त᳓म᳓म्, व᳓ह्नि-तमं, देव-हू᳓-तमम्।
@@ -262,7 +263,7 @@ Thou art of gods, the most firmly jointed, the most richly filled, the most agre
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अह्रुतम् असि</summary>
 
 अ᳓ह्रुतम्+++(=अकुटिलम्)+++ असि हविर्धा᳓नम्।
 </details>
@@ -298,12 +299,13 @@ Thou art the oblation-holder that wavers not.
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृँ᳓हस्व+++(=दृढा भव)+++।  
 मा᳓ ह्वाः+++(=कुटिला भूः)+++।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -330,7 +332,7 @@ Be firm, waver not.
 
 दृंहस्व वर्धस्व दृढा भव । दृहदृहि वृद्धौ, व्यत्ययेनात्मनेपदम् । केचिदाहुर्वर्धनायां वर्तत इति । यद्वा - दृंहगा इतिवत् ण्यन्तात्कर्मकर्तर्यात्मनेपदम् । पूर्ववद्यक्प्रतिषेधादि (पा.सू. 3.1.89 वा 1) । मा ह्वाः मा कुटिला भूः । ह्वृ कौटिल्ये, लुङ्मध्यमपुरुषैकवचने, सिचि वृद्धौ, 'बहुळं छन्दसि' (पा.सू. 7.3.97) इतीडभावे, हल्ङ्यादिलोपे 'रात्सस्य' (पा.सू. 8.2.24) इति सकारलोपः । अत्र 'चादिलोपे विभाषा' (पा.सू. 8.1.63) इति प्रथमा तिङ्विभक्तिर्न निहन्यते दृंह॑स्व॒ मा ह्वाः॒ इति ॥
 </details>
-
+</details>
 </div>
 
 ____
@@ -348,7 +350,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ मित्रस्य त्वा</summary>
 
 +++(पुरोडाशीयाः!)+++ मित्र᳓स्य त्वा च᳓क्षुषा प्रे᳓क्षे +++(मित्रत्वाय)+++।
 </details>
@@ -380,7 +382,7 @@ I gaze on thee with the eye of Mitra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मा भेः</summary>
 
 मा᳓ भेः᳓+++(=भैषीः)+++ ।  
 मा᳓ सव्ँ᳓ विक्थाः+++(=कंपिष्ठाः)+++ ।  
@@ -434,7 +436,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ उरु वाताय</summary>
 
 उरु᳓ +++(भव)+++ वा᳓ताय +++(अवारुणत्वाय)+++।  
 </details>
@@ -479,13 +481,14 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -518,10 +521,10 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० ‌… अग्नये</summary>
 
 ‌… अग्न᳓ये जु᳓ष्टन् नि᳓र्वपामि ।    
 </details>
@@ -558,13 +561,14 @@ ______________
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
 +++(देवाध्वर्यू→)+++ ऽश्वि᳓नोर् बाहु᳓भ्याम्,  
 पूष्णो᳓ ह᳓स्ताभ्याम्…
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -597,10 +601,10 @@ ______________
 अश्विनोरेव बाहुम्यां नात्मीयाभ्यां  
 पूष्णो हस्ताभ्यां
 </details>
-
+</details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ …</summary>
 
 … अग्नी᳓षो᳓माभ्यां [जुष्टन् नि᳓र्वपामि] ।
 </details>
@@ -640,7 +644,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ इदन् देवानाम्</summary>
 
 इद᳓न् देवा᳓नाम् ।
 </details>
@@ -678,7 +682,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ इदम् उ</summary>
 
 इद᳓म् उ नस् सह᳓ +++(देवैः)+++।
 </details>
@@ -716,7 +720,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ स्फात्यै त्वा</summary>
 
 स्फात्यै᳓+++(=वृद्ध्यै)+++ त्वा +++(=अवशिष्टं)+++ ना᳓रात्यै ।
 </details>
@@ -755,11 +759,12 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् अभि᳓ वि᳓ ख्येषव्ँ+++(=अपश्यं)+++ वैश्वानर᳓ञ् ज्यो᳓तिः ।
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -786,7 +791,7 @@ May I behold the light, the radiance for all men.
 
 13 आहवनीयमीक्षते - सुवरिति ॥ स्वर्गसाधनत्वेन स्तुतिः । विश्वेषां नराणां ज्योतिष्ट्वं नयतीति वैश्वानरं द्योतमानमाहवनीयमाभिमुख्येन पश्यामीति । व्याख्यातम् । ख्यातेराशिषि लिङि, 'लिङ्यशिष्यङ्' 'अतो येयः' ॥
 </details>
-
+</details>
 </div>  
 
 ____
@@ -799,7 +804,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ दृँहन्तान्</summary>
 
 +++(द्या᳓वा-पृथिवी᳓ हवि᳓षि गृहीत᳓ उ᳓दवेपेताम्। अ᳓तः᳓)+++  
 दृँ᳓हन्तान् दु᳓र्या+++(=द्वारवन्ति)+++ द्या᳓वापृथिव्योः᳓ +++(भोगाय)+++।
@@ -839,10 +844,12 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
 
 16एति - उर्वन्तरिक्षमन्विहीति ॥ व्याख्यातमेव ।
+</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -850,6 +857,8 @@ ____
 उ॒र्व् अ᳙न्तरि॑क्ष॒म् अन्वि॑हि ।  
 +++(महान् पन्थाः, सुखेन गच्छेति भावः ॥)+++
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -885,7 +894,7 @@ Fare along the wide atmosphere.
 
 इति।
 </details>
-
+</details>
 </div>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -906,7 +915,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ अदित्यास्</summary>
 
 +++(पृथ्वी-रूपाया)+++ अ᳓दित्यास् त्वोप᳓स्थे सादयामि ।
 </details>
@@ -945,11 +954,12 @@ ____
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने हव्यँ᳓ रक्षस्व ॥ [6]
 </details>
+
+<details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>Keith</summary>
 
@@ -971,7 +981,7 @@ O Agni, guard the offering.
 17गार्हपत्यमभिमन्त्रयते - अग्न इति ॥ हे अग्ने गार्हपत्य, इदं हव्यं हवनाय निरुप्तं रक्षस्व । व्यत्ययेनात्मनेपदम् । 'छन्दसि च' (पा.सू. 5.1.67) इति यः ॥
 
 </details>
-
+</details>
 </div>  
 
 इति चतुर्थोनुवाकः ॥

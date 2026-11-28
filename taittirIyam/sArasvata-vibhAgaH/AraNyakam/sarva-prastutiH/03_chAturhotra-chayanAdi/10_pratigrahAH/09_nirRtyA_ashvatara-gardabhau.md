@@ -94,7 +94,7 @@ O Goddess Dakṣiṇā (Sacrificial Fee), I take you by the impelling of the imp
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ राजा त्वा</summary>
 
 रा᳓जा त्वा व᳓रुणो नयतु  
 देवि दक्षिणे नि᳓रृत्या अश्वतरगर्दभौ᳓ ।

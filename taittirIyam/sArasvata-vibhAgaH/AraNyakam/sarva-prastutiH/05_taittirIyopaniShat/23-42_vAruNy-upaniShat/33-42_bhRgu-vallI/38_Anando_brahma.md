@@ -2,7 +2,7 @@
 title = "३८ आनन्दो ब्रह्म"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ स तपस्तप्त्वा</summary>
 
 स᳓ त᳓पस्तप्त्वा᳓ । (37) आनन्दो᳓ ब्रह्मे᳓ति व्य᳙जानात् ।
 </details>
@@ -20,7 +20,7 @@ Having performed penance:— He understood bliss (ānanda) as Brahman.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ आनन्दाद्ध्येव</summary>
 
 आन᳓न्दाद्ध्ये᳙व खल्विमा᳓नि भू᳓तानि जा᳓यन्ते ।
 </details>
@@ -43,7 +43,7 @@ For from bliss, verily, these beings are born;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आनन्देन जातानि</summary>
 
 आनन्दे᳓न जा᳓तानि जी᳓वन्ति ।
 </details>
@@ -61,7 +61,7 @@ by bliss, when born, they live;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आनन्दम्</summary>
 
 आनन्दं᳓ प्र᳓यन्त्यभि᳓ सव्ँ᳓ विशन्ती᳓ति ।
 </details>
@@ -79,7 +79,7 @@ to bliss they go and merge (thereinto).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सैषा भार्गवी</summary>
 
 सै᳓षा᳓ भार्गवी᳓ वारुणी᳓ विद्या᳓ ।
 </details>
@@ -102,7 +102,7 @@ This is the knowledge of Bhṛgu, the son of Varuṇa,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ परमे व्योमन्</summary>
 
 परमे᳓ व्योमन् प्र᳓तिष्ठिता ।
 </details>
@@ -126,7 +126,7 @@ fixed in the highest heaven.
 </details>
 
 ## ब्रह्म-विद्या-फलम्
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ य एवव्ँ</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द प्र᳓तितिष्ठति ।
 </details>
@@ -149,7 +149,7 @@ He who knows this, becomes fixed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ अन्नवानन्नादो</summary>
 
 अ᳓न्नवानन्नादो᳓ भवति ।
 </details>
@@ -172,7 +172,7 @@ becomes possessor of food (and) eater of food;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ महान्भवति</summary>
 
 महा᳓न्भवति प्रज᳓या पशु᳓भिर्ब्रह्मवर्चसे᳓न ।
 </details>
@@ -195,7 +195,7 @@ becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० महान्कीर्त्या</summary>
 
 महा᳓न्कीर्त्या᳓ । (38)
 </details>

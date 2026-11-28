@@ -2,7 +2,7 @@
 title = "४२ अन्न-दानम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ न कञ्चन (5/7 व्यत्यस्त-स्वराः)</summary>
 
 न᳓ क᳓ञ्चन᳓ वसतौ᳓ [[प्र᳓त्याचक्षीत|प्रत्या᳓चक्षीत]] ।
 </details>
@@ -36,7 +36,7 @@ title = "४२ अन्न-दानम्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तद्व्रतम्</summary>
 
 त᳓द्व्रत᳓म् ।
 </details>
@@ -65,7 +65,7 @@ That is the duty.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ तस्माद्यया कया (7/7 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्माद्य᳓या क᳓या च विध᳓या बह्वन्नं᳓ प्राप्नुया᳓त् ।
 </details>
@@ -99,7 +99,7 @@ Therefore, in any way whatsoever, one should obtain much food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अराद्ध्यस्मा (6/6 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓राद्ध्यस्मा अ᳓न्नमि᳓त्या᳓चक्षते ।
 </details>
@@ -132,7 +132,7 @@ Therefore, in any way whatsoever, one should obtain much food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ एतद्वै (3/5 व्यत्यस्त-स्वराः)</summary>
 
 एत᳓द्वै᳓ मुखतो᳓ऽन्नँ राद्ध᳓म् ।
 </details>
@@ -164,7 +164,7 @@ This, verily, is the food cooked primarily;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ मुखतोऽस्मा (4/4 व्यत्यस्त-स्वराः)</summary>
 
 मुखतो᳙ऽस्मा अ᳓न्नँ राद्ध्यते ।
 </details>
@@ -190,7 +190,7 @@ This, verily, is the food cooked primarily;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ एतद्वै (3/5 व्यत्यस्त-स्वराः)</summary>
 
 एत᳓द्वै᳓ मद्ध्यतो᳓ऽन्नँ राद्ध᳓म् ।
 </details>
@@ -217,7 +217,7 @@ This, verily, is the food cooked in the middle;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मद्ध्यतोऽस्मा (4/4 व्यत्यस्त-स्वराः)</summary>
 
 मद्ध्यतो᳙ऽस्मा अ᳓न्नँ राद्ध्यते ।
 </details>
@@ -243,7 +243,7 @@ This, verily, is the food cooked in the middle;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ एतद्वा (3/5 व्यत्यस्त-स्वराः)</summary>
 
 एत᳓द्वा᳓ अन्ततो᳓ऽन्नँ राद्ध᳓म् ।
 </details>
@@ -270,7 +270,7 @@ This, verily, is the food cooked in the end;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अन्ततोऽस्मा (4/4 व्यत्यस्त-स्वराः)</summary>
 
 अन्ततो᳙ऽस्मा अ᳓न्नँ राद्ध्यते ।
 </details>
@@ -296,7 +296,7 @@ This, verily, is the food cooked in the end;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ य एवव्ँ (2/3 व्यत्यस्त-स्वराः)</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द ।
 </details>
@@ -326,7 +326,7 @@ He who knows this (he obtains the aforesaid things).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ क्षेम इति (2/3 व्यत्यस्त-स्वराः)</summary>
 
 क्षे᳓म इ᳓ति वाचि᳓ ।
 </details>
@@ -356,7 +356,7 @@ As protection in speech,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ योगक्षेम इति (3/3 व्यत्यस्त-स्वराः)</summary>
 
 योगक्षेम᳓ इ᳓ति प्राणापान᳓योः ।
 </details>
@@ -386,7 +386,7 @@ as acquisition and protection in the in-breath (prāṇa) and the out-breath (ap
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ कर्मेति हस्तयोः (2/3 व्यत्यस्त-स्वराः)</summary>
 
 क᳓र्मे᳓ति ह᳓स्तयोः ।
 </details>
@@ -416,7 +416,7 @@ as work in the hands,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ गतिरिति पादयोः (3/3 व्यत्यस्त-स्वराः)</summary>
 
 ग᳓तिरि᳓ति पा᳓दयोः ।
 </details>
@@ -441,7 +441,7 @@ as motion in the feet,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ विमुक्तिरिति (2/3 व्यत्यस्त-स्वराः)</summary>
 
 वि᳓मुक्तिरि᳓ति पायौ᳓ ।
 </details>
@@ -466,7 +466,7 @@ as discharge in the anus:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ इति (2/3 व्यत्यस्त-स्वराः)</summary>
 
 इ᳓ति मा᳓नुषीस्समाज्ञाः᳓ ।
 </details>
@@ -496,7 +496,7 @@ these are the human worships (of Brahman).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ अथ दैवीः (2/2 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓थ दै᳓वीः ।
 </details>
@@ -520,7 +520,7 @@ Now the divine ones:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ तृप्तिरिति (2/3 व्यत्यस्त-स्वराः)</summary>
 
 तृ᳓प्तिरि᳓ति वृष्टौ᳓ ।
 </details>
@@ -550,7 +550,7 @@ as satisfaction in the rain,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० बलमिति विद्युति (3/3 व्यत्यस्त-स्वराः)</summary>
 
 ब᳓लमि᳓ति विद्यु᳓ति ।
 </details>
@@ -575,7 +575,7 @@ as power in lightning,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ यश इति (3/3 व्यत्यस्त-स्वराः)</summary>
 
 य᳓श इ᳓ति पशु᳓षु ।
 </details>
@@ -605,7 +605,7 @@ as fame in the cattle,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ ज्योतिरिति (3/3 व्यत्यस्त-स्वराः)</summary>
 
 ज्यो᳓तिरि᳓ति न᳓क्षत्रेषु ।
 </details>
@@ -635,7 +635,7 @@ as light in the stars,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ प्रजातिरमृतमानन्द (5/5 व्यत्यस्त-स्वराः)</summary>
 
 प्र᳓जातिरमृ᳓तमानन्द᳓ इ᳓त्युप᳓स्थे ।
 </details>
@@ -667,7 +667,7 @@ as procreation, immortality and bliss in the generative organ,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ सर्वमित्याकाशे (2/3 व्यत्यस्त-स्वराः)</summary>
 
 स᳓र्वमि᳓त्याकाशे᳓ ।
 </details>
@@ -697,7 +697,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ तत्प्रतिष्ठेत्युपासीत (4/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓त्प्रतिष्ठे᳓त्यु᳓पासीत ।
 </details>
@@ -729,7 +729,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ प्रतिष्ठावान्भवति (2/2 व्यत्यस्त-स्वराः)</summary>
 
 प्रतिष्ठा᳓वान्भवति ।
 </details>
@@ -753,7 +753,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ तन्मह (3/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓न्म᳓ह इ᳓त्यु᳓पासीत ।
 </details>
@@ -785,7 +785,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ महान्भवति (2/2 व्यत्यस्त-स्वराः)</summary>
 
 महा᳓न्भवति ।
 </details>
@@ -809,7 +809,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ तन्मन (3/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓न्म᳓न इ᳓त्यु᳓पासीत ।
 </details>
@@ -841,7 +841,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० मानवान्भवति (1/2 व्यत्यस्त-स्वराः)</summary>
 
 मा᳓नवान्भवति ।
 </details>
@@ -865,7 +865,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ तन्नम (3/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓न्न᳓म इ᳓त्यु᳓पासीत ।
 </details>
@@ -897,7 +897,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ नम्यन्तेऽस्मै (2/3 व्यत्यस्त-स्वराः)</summary>
 
 न᳓म्यन्तेऽस्मै का᳓माः ।
 </details>
@@ -922,7 +922,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ तद्ब्रह्मेत्युपासीत (2/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द्ब्र᳓ह्मे᳓त्यु᳓पासीत ।
 </details>
@@ -954,7 +954,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ ब्रह्मवान्भवति (1/2 व्यत्यस्त-स्वराः)</summary>
 
 ब्र᳓ह्मवान्भवति ।
 </details>
@@ -978,7 +978,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ तद्ब्रह्मणः (4/6 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द्ब्र᳓ह्मणः परिम᳓र इ᳓त्यु᳓पासीत ।
 </details>
@@ -1011,7 +1011,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (8/9 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ पर्येणम् (8/9 व्यत्यस्त-स्वराः)</summary>
 
 प᳓र्येणं म्रियन्ते द्विष᳓न्तस्सप᳓त्नाः ।  
 प᳓रि ये᳓ऽप्रिया भ्रा᳓तृव्याः ।
@@ -1043,7 +1043,7 @@ as all in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ स यश् (4/11 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ य᳓श् चायं᳓ पु᳓रुषे । य᳓श् चासा᳓वादित्ये᳓ । स᳓ ए᳓कः ।
 </details>
@@ -1081,7 +1081,7 @@ He who is in the man and who is in the sun—he is one. (4)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (8/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ स य (8/10 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ य᳓ एवव्ँ-वि᳓त् । अस्मा᳓ल् लोका᳓त् प्रे᳓त्य ।  
 एत᳓म् अन्नम᳓यम् आत्मा᳓नम् उपसङ्क्र᳓म्य ।
@@ -1114,7 +1114,7 @@ He who knows this, after departing from this world, proceeding on to this self, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ एतम् (4/4 व्यत्यस्त-स्वराः)</summary>
 
 एतं᳓ प्राणम᳓यमात्मा᳓नमुपसङ्क्र᳓म्य ।
 </details>
@@ -1140,7 +1140,7 @@ proceeding on to this self, consisting of breath;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० एतम् (4/4 व्यत्यस्त-स्वराः)</summary>
 
 एतं᳓ मनोम᳓यमात्मा᳓नमुपसङ्क्र᳓म्य ।
 </details>
@@ -1166,7 +1166,7 @@ proceeding on to this self, consisting of mind;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ एतम् (4/4 व्यत्यस्त-स्वराः)</summary>
 
 एतं᳓ विज्ञानम᳓यमात्मा᳓नमुपसङ्क्र᳓म्य ।
 </details>
@@ -1192,7 +1192,7 @@ proceeding on to this self, consisting of knowledge;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२ एतमानन्दमयमात्मानमुपसङ्क्रम्य (4/4 व्यत्यस्त-स्वराः)</summary>
 
 एत᳓मानन्दम᳓यमात्मा᳓नमुपसङ्क्र᳓म्य ।
 </details>
@@ -1218,7 +1218,7 @@ proceeding on to this self, consisting of bliss;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (9/9 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३ इमाल्ँ (9/9 व्यत्यस्त-स्वराः)</summary>
 
 इमाल्ँ᳓ लोका᳓न्कामान्नी᳓ कामरूप्य᳙नुसञ्च᳓रन् । एत᳓त्सा᳓म गा᳓यन्नास्ते ।
 </details>
@@ -1249,7 +1249,7 @@ roaming in these worlds according to his desire, and having food according to hi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - साम (23/49 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४ हावु हावु (23/49 व्यत्यस्त-स्वराः)</summary>
 
 हा᳓+++(३)+++वु हा᳓+++(३)+++वु हा᳓+++(३)+++वु ।  
 अह᳓म᳓न्नमह᳓म᳓न्नमह᳓म᳓न्नम् ।  
@@ -1347,7 +1347,7 @@ I am food, I am food, I am food! I am eater of food, I am eater of food, I am ea
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५ य एवव्ँ</summary>
 
 य᳓ एवव्ँ᳓ वे᳓द । इ᳓त्युपनि᳓षत् । (42)
 </details>

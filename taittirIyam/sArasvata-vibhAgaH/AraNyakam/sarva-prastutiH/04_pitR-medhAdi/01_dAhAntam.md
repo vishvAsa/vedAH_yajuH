@@ -57,7 +57,7 @@ Mantra for offering Homa to the household fire after the death of someone.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ परेयुवाँसम्</summary>
 
 **परेयु+++(यि)+++वाँ᳓सं** प्रव᳓तो+++(←प्रवत् →)+++ मही᳓र् अ᳓नु  
 बहु᳓भ्यः प᳓न्थाम् **अन+++(नु)+++पस्पशान᳓म्** ।  
@@ -437,7 +437,7 @@ Mantra for clothing and putting the dead one on the cart.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ इदन् त्वा</summary>
 
 इद᳓न् त्वा व᳓स्त्रं प्रथमं᳓ न्व् **आ᳓गन्**,  
 अ᳓पैत᳓द् **ऊह** य᳓द् **इहा᳓बिभः** पुरा᳓ ।  
@@ -522,54 +522,11 @@ Put off that cloth which you wore before; remember what sacrificial rite you hav
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/13 व्यत्यस्त-स्वराः)</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/01_dAhAntam/03_imau_yunajmi_te.md">
+</div>
 
-इमौ᳓ **युनज्मि** ते [[वह्नी᳓|व᳓ह्नी]]  
-अ᳓सु-नीथाय **[[वोढ᳓वे|वो᳓ढवे]]** ।  
-या᳓भ्याय्ँ यम᳓स्य सा᳓दनँ  
-सु-कृ᳓ताञ् चा᳓पि **गच्छतात्** ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-I yoke these fires (bulls) to carry your body (as) the breath, by whom you may go to the place of Yama or the place of the sacred ones.
-</details>
-
-<details><summary>मूलम्</summary>
-
-इ॒मौ यु॑नज्मि ते व॒ह्नी असु॑नीथाय वो॒ढवे॑ ।  
-याभ्याय्ँ॑य॒मस्य॒ साद॑नँ सु॒कृता॒ञ्चापि॑ गच्छतात् ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः - 2/13 व्यत्यस्त-स्वराः)</summary>
-
-- इमौ᳓ (*TS*-17/965, *RV*-3/1247, *TB*-0/287, *AV*-5/1259, *SB-M*-69/5240, *SB-K*-70/5549, *VS-M*-1/70, *VS-K*-1/151, *KS*-2/319, *MS*-13/1379)
-- युनज्मि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-10, *RV*-4, *SB-K*-5, *VS-K*-2, *KS*-1, *MS*-4)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
-- वह्नी᳓ → **व᳓ह्नी** (*TS*-3/15, *RV*-2/65, *TB*-0/8, *AV*-1/7, *VS-M*-0/2, *VS-K*-0/6, *MS*-0/10, अत इनिठनौ पा॰ ५.२.११५, प्रत्ययस्वरः पा॰ ३.१.३)
-- अ᳓सुनीथाय (ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- वोढ᳓वे → **वो᳓ढवे** (*TS*-3, *RV*-9/10, *AV*-1, *VS-M*-2, *MS*-6)
-- या᳓भ्याम् (*TS*-1/3383, *RV*-1/4011, *TB*-1/728, *AV*-16/3120, *SB-M*-4/8327, *SB-K*-3/8438, *VS-M*-1/244, *VS-K*-1/456, *KS*-0/818, *MS*-3/3763)
-- यम᳓स्य (*TS*-6/39, *RV*-14/49, *TB*-1/3, *AV*-36/92, *SB-M*-0/28, *SB-K*-0/25, *VS-M*-2/12, *VS-K*-0/11, *KS*-1/10, *MS*-8/41)
-- सा᳓दनम् (*TS*-1, *RV*-2/6, *SB-M*-5, *SB-K*-4, *KS*-1)
-- सुकृ᳓ताम् (*TS*-3/14, *RV*-2/36, *TB*-0/2, *AV*-16/32, *SB-M*-2/7, *SB-K*-1/6, *VS-M*-0/2, *VS-K*-0/2, *KS*-1/5, *MS*-3/15)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1417, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
-- अ᳓पि (*TS*-103, *RV*-86, *TB*-12, *AV*-94, *SB-K*-467, *VS-K*-6, *KS*-31, *MS*-118)
-- गच्छतात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-5, *SB-K*-3)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-इमौ वाहौ युनज्मि ते त्वदर्थं **वह्नी** वोढारौ **असुनीथ** अप्रशस्तं तस्मै प्रेतकर्मणे **वोढवे** वोढुं यथा एतौ सम्यग्वहतः । याभ्यां वाहाभ्यां यमस्य सुकृतां च सादनं सदनम् आधिगच्छतात् अपिरभेरर्थे अभिगमिष्यसि ।।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हे प्रेत, ते तवासुनीथाय प्राण-सदृशस्य शरीरस्य नयनाय वोढवे शकटं वोढुं वह्नी वोढाराव् इमौ बलीवर्दौ युनज्मि शकटे योजयामि। याभ्यां बलीवर्दाभ्यां यमस्य सादनं स्थानं सु-कृतां चापि पुण्य-कृतां पुरुषाणाम् अपि स्थानं गच्छताद् गमिष्यसि। तादृशौ युनज्मीत्य् अन्वयः।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/01_dAhAntam/03_imau_yunajmi_te.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -593,7 +550,7 @@ Mantra addressing the dead body.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ पूषा त्वेतश्</summary>
 
 पूषा᳓ त्वेत᳓श् **च्यावयतु** प्र᳓ विद्वा᳓न्  
 अ᳓नष्ट-पशुर् भु᳓वनस्य गोपाः᳓ ।  
@@ -1003,58 +960,11 @@ Dich führe Puschan fort von hier, der kund'ge, der Hirt der Welt, der nie ein R
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/17 व्यत्यस्त-स्वराः)</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/01_dAhAntam/05_pUShemA_AshA_anuveda.md">
+</div>
 
-पूषे᳓मा᳓ आ᳓शा **अ᳓नुवेद** स᳓र्वास्  
-सो᳓ अस्माँ᳓ अ᳓भयतमेन **नेषत्** ।  
-स्वस्ति-**दा᳓** अ᳓घृणिस् स᳓र्ववीरो᳓+  
-**ऽप्रयुच्छन्**+++(=अप्रमाद्यन्)+++ पुर᳓ **एतु** [[प्र᳓|प्र]] **विद्वा᳓न्** । (1)
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-Pusan knows well all the quarters; may he carry us by the unfierce way; may he, the welfare-granter, not heated, fully brave, not swerving come to us (1).
-</details>
-
-<details><summary>मूलम्</summary>
-
-पू॒षेमा आशा॒ अनु॑वेद॒ सर्वा॒स् सो अ॒स्माँ अभ॑यतमेन नेषत् ।  
-स्व॒स्ति॒दा अघृ॑णि॒स् सर्व॑वी॒रोऽप्र॑युच्छन् पु॒र ए॑तु॒ प्रवि॒द्वान् । (1)
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः - 1/17 व्यत्यस्त-स्वराः)</summary>
-
-- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-17/25, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-12/47, *VS-K*-12/50, *KS*-16/32, *MS*-79/130)
-- इमाः᳓ (*TS*-21/965, *RV*-60/1247, *TB*-0/287, *AV*-50/1259, *SB-M*-201/5240, *SB-K*-253/5549, *VS-M*-0/70, *VS-K*-0/151, *KS*-20/319, *MS*-137/1379)
-- आ᳓शाः (*TS*-9/12, *RV*-7/8, *TB*-2/4, *TK*-1/3, *AV*-9/15, *SB-M*-1/14, *SB-K*-4/12, *VS-M*-2, *VS-K*-2/7, *KS*-2/6, *MS*-5/14)
-- अ᳓नु (*TS*-471, *RV*-475, *TB*-57, *TK*-40, *SB-K*-716, *VS-K*-41, *KS*-96, *MS*-350)
-- वेद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *RV*-42, *SB-K*-32, *VS-K*-7, *KS*-3, *MS*-19)
-- स᳓र्वाः (*TS*-51/287, *RV*-12/68, *TB*-0/109, *AV*-67/444, *SB-M*-143/2264, *SB-K*-143/2224, *VS-M*-9/39, *VS-K*-8/41, *KS*-11/43, *MS*-101/419)
-- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395, *KS*-225/1225, *MS*-784/5550)
-- अस्मा᳓न् (*TS*-46/565, *RV*-93/1308, *TB*-3/114, *TK*-1/15, *AV*-119/1252, *SB-M*-51/723, *SB-K*-56/728, *VS-M*-0/127, *VS-K*-5/178, *KS*-17/242, *MS*-50/641)
-- अ᳓भयतमेन (*RV*-1, *AV*-1, *MS*-1)
-- नेषत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-3)
-- स्वस्ति-दाः᳓ (*RV*-3, *AV*-3, *MS*-1, स्वस्ति᳓ (*TS*-25, *RV*-56, *SB-K*-29, *VS-K*-10, *KS*-8, *MS*-21) + दाः᳓ (*TS*-3, *RV*-7, *AV*-1, *SB-M*-7, *SB-K*-6, *KS*-1, *MS*-6), क्विप्/विच् गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
-- अ᳓घृणिः (ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- स᳓र्व-वीरः (*TS*-1/3, *RV*-3/13, *TB*-0/1, *AV*-1/16, *SB-M*-1/3, *SB-K*-1, *VS-M*-0/4, *VS-K*-0/4, *KS*-0/3, *MS*-1/6, स᳓र्व (*MW*) + वीरः᳓ (*TS*-6/20, *RV*-27/119, *TB*-8/16, *AV*-10/66, *SB-M*-11/28, *SB-K*-12/32, *VS-M*-2/15, *VS-K*-2/19, *KS*-2/9, *MS*-11/36), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
-- अ᳓प्र-युच्छन् (*TS*-4, *RV*-13, *AV*-4, *SB-M*-1, *SB-K*-3, *VS-K*-1, *KS*-2)
-- पुरः᳓ (*TS*-18, *RV*-52, *SB-K*-33, *VS-K*-11, *KS*-12, *MS*-39)
-- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *SB-K*-16, *VS-K*-7, *KS*-8, *MS*-26)
-- प्र᳓-विद्वा᳓न् → **प्र-विद्वा᳓न्** (*RV*-3, *AV*-6, *MS*-0/1, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-पूषा इमाः प्राच्याद्या दिशस्सर्वा **अनुवेद** आनुपूर्व्येण जानाति स एवंभूतः पूषा अस्मान् । 'अस्मदोद्वयोश्र' इति एकस्मिन् बहुवचनम् - ताम् ।   मृतेन सह एकत्वमापन्नस्य पुत्रादेर्वचनं - यत्र भयगन्धो नास्ति तेन अभयतमेन पथा नेषत् नयतु । **स्वस्तिदाः** अविनाशस्य दाता **अघृणिः** अक्रोधः आगतदीप्तिर्वा । आघृणिरिति बह्वृचाः । **सर्ववीरः** सर्वैः परिचारकपुरुषैस्तद्वान् **अप्रयुच्छन्** अप्रमाद्यन् पुरः **प्रैतु** अस्माकम् अग्रतो गच्छतु विद्वान् पथां ज्ञाता ।।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-यो ऽयं पूषा देवः सो ऽयम् इमाः सर्वा आशा दिशो ऽनुवेद 'इयम् अनुकूला दिक्' इति जानाति। स देवो ऽस्मान् अत्यन्तं भय-रहितेन मार्गेण नेषन् नयतु। कीदृशः पूषा? स्वस्ति-दाः क्षेम-प्रदः। अघृणिर् अदीप्तः, अस्मास्व् अनुग्राही। सर्व-वीरः सर्वेभ्यः प्रतिकूलेभ्यो ऽत्यन्तं शूरः। स तादृशो ऽसाव् अप्रयुच्छन् प्रमादम् अकुर्वन् प्रविद्वान् मार्गं प्रकर्षेण जानन्न् अस्माकं पुरत एतु गच्छतु।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/01_dAhAntam/05_pUShemA_AshA_anuveda.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1482,7 +1392,7 @@ Mantras for the Rajagavi.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ भुवनस्य पत</summary>
 
 भु᳓वनस्य पत इदँ᳓ हविः᳓ ।
 </details>
@@ -1537,7 +1447,7 @@ Lord of the world, this Rajagavi (is) the oblation (for you).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अग्नये रयिमते</summary>
 
 अग्न᳓ये रयिम᳓ते स्वा᳓हा ।
 </details>
@@ -1593,7 +1503,7 @@ For wealthy fire, all (is oblation)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ पुरुषस्य</summary>
 
 पु᳓रुषस्य स-यावर्य्! अ᳓पे᳓द् अघा᳓नि **मृज्महे** ।  
 य᳓था नो अ᳓त्र ना᳓परः पुरा᳓ जर᳓स **आ᳓यति** ।
@@ -1658,7 +1568,7 @@ For wealthy fire, all (is oblation)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ पुरुषस्य सयावरि (2/18 व्यत्यस्त-स्वराः)</summary>
 
 पु᳓रुषस्य स-यावरि  
 वि᳓ ते प्राण᳓म् **असिस्रसम्** ।  
@@ -1724,7 +1634,7 @@ For wealthy fire, all (is oblation)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/20 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मैवम् माँस्ता (3/20 व्यत्यस्त-स्वराः)</summary>
 
 **[[मै᳓वम्|मै᳓व᳓म्]]** [[माँस्ता᳓|माँस्ता]]+++(→मांसतया)+++ **प्रिये** ऽह᳓न्  
 देवी᳓ सती᳓ पितृ-लोकय्ँ᳓ **[[य᳓दै᳓षि|यदै᳓षि]]** ।  
@@ -1813,7 +1723,7 @@ Mantras for the wife of the dead one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ इयन् नारी</summary>
 
 इय᳓न् ना᳓री पतिलोकव्ँ᳓ **वृणाना᳓**  
 **नि᳓पद्यत** उ᳓प त्वा मर्त्य प्रे᳓तम् ।  
@@ -1988,7 +1898,7 @@ Choosing her husband's world, O man, this woman lays herself down beside thy lif
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० उदीर्ष्व नार्य्</summary>
 
 **उ᳓दीर्ष्व** नार्य् अभि᳓ जीवलोक᳓म्  
 इता᳓सुम्+++(=गतासुं)+++ एत᳓म् उ᳓पशेष **ए᳓हि** ।  
@@ -2187,62 +2097,11 @@ O woman, stand up and come in the world of the living ones, you sleep with this 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/01_dAhAntam/14_suvarNa.N_hastAd_AdadAnA.md">
+</div>
 
-सुव᳓र्णँ ह᳓स्ताद् **आद᳓दाना** मृत᳓स्य  
-श्रियै᳓ ब्र᳓ह्मणे ते᳓जसे ब᳓लाय ।  
-अ᳓त्रैव᳓ त्व᳓म् इह᳓ वयँ᳓ सुशे᳓वा  
-वि᳓श्वास् स्पृ᳓धो अभि᳓मातीर् **जयेम** ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-Taking the gold from the hand of the dead one live here, verily, for prosperity, sacred knowledge, brilliance and vigour; and may we also, having comfort, win all the competing enemies.
-</details>
-
-<details><summary>मूलम्</summary>
-
-सु॒वर्णँ॒ हस्ता॑दा॒ददा॑ना मृ॒तस्य॑ श्रि॒यै ब्रह्म॑णे॒ तेज॑से॒ बला॑य ।  
-अत्रै॒व त्वमि॒ह व॒यँ सु॒शेवा॒ विश्वा॒स्स्पृधो॑ अ॒भिमा॑तीर्जयेम ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- सुव᳓र्णम् (*RV*-0/1, *TB*-5/8, *AV*-2/8, *SB-M*-18/20, *SB-K*-18/20, *MS*-2, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
-- ह᳓स्तात् (*TS*-0/40, *RV*-2/47, *TB*-0/9, *AV*-2/47, *SB-M*-0/59, *SB-K*-0/60, *VS-M*-0/22, *VS-K*-0/26, *KS*-0/28, *MS*-0/69)
-- आद᳓दाना (*TS*-1/2, *RV*-0/1, *AV*-1/6, *SB-M*-1/10, *SB-K*-3/9, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
-- मृत᳓स्य (*TS*-0/5, *RV*-2/4, *AV*-2/13, *SB-M*-2/9, *SB-K*-2/6, *KS*-0/6, *MS*-0/7)
-- श्रियै᳓ (*TS*-2, *TB*-3, *SB-M*-14, *SB-K*-8, *VS-M*-3, *MS*-3)
-- ब्र᳓ह्मणे (*TS*-5/157, *RV*-9/237, *TB*-5/72, *TK*-2/19, *AV*-5/266, *SB-M*-11/420, *SB-K*-12/434, *VS-M*-3/37, *VS-K*-3/44, *KS*-5/53, *MS*-7/230)
-- ते᳓जसे (*TS*-3/152, *RV*-2/7, *TB*-5/54, *AV*-6/77, *SB-M*-1/97, *SB-K*-0/120, *VS-M*-2/20, *VS-K*-3/26, *KS*-3/31, *MS*-1/155)
-- ब᳓लाय (*TS*-3/27, *RV*-2/19, *TB*-2/9, *AV*-8/62, *SB-M*-0/26, *SB-K*-0/26, *VS-M*-4/17, *VS-K*-4/21, *KS*-3/5, *MS*-7/32)
-- अ᳓त्र (*TS*-20, *RV*-120, *TB*-4, *SB-K*-440, *VS-K*-8, *KS*-15, *MS*-59)
-- एव᳓ (*TS*-3243, *RV*-173, *TB*-507, *SB-K*-8573, *VS-K*-5, *KS*-434, *MS*-2376)
-- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-27/46, *TK*-6/17, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-47/95, *VS-K*-56/114, *KS*-66/165, *MS*-225/382)
-- इह᳓ (*TS*-100, *RV*-277, *TB*-22, *AV*-262, *SB-K*-166, *VS-K*-39, *KS*-43, *MS*-103)
-- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-37/114, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-56/127, *VS-K*-60/178, *KS*-46/242, *MS*-120/641)
-- सुशे᳓वाः (*TS*-1/3, *RV*-2/22, *TB*-0/2, *AV*-3/8, *SB-M*-2/5, *SB-K*-1/5, *VS-M*-1/4, *VS-K*-1/3, *KS*-1/4, *MS*-3/9)
-- वि᳓श्वाः (*TS*-19/283, *RV*-102/1116, *TB*-0/73, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-3/143, *VS-K*-8/192, *KS*-17/118, *MS*-28/301)
-- स्पृ᳓धः (*RV*-23/26, *TB*-1, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2, *MS*-1)
-- अभि᳓मातीः (*TS*-0/2, *RV*-5/13, *AV*-1/5, *SB-M*-2/5, *SB-K*-2/5, *VS-K*-2/3, *MS*-5/13)
-- जयेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-15, *SB-K*-1, *VS-K*-3, *KS*-3, *MS*-9)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-मृतस्य1 हस्तात् सुवर्णमाददाना आदाय  
-तव हस्तौ सम्मृजन्त इत्यर्थः ।  
-एवंभूता वयं श्र्यादिभ्यो भवेम ।  
-ब्रह्म वेदः तेजः ब्रह्मवर्चसम् अन्यत् प्रसिद्धम् ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हे नारि, त्वं श्रियै संपद्-अर्थं ब्रह्मणे ब्राह्मण-जात्य्-अर्थं तेजसे कान्त्य्-अर्थं बलाय शरीर-बलार्थं मृतस्य पुरुषस्य हस्तात् सुवर्णम् आददाना सत्य् अत्रैव लोके तिष्ठ। वयम् अपीह लोके सु-शेवाः सुखं सेवमानाः सन्तः स्पृधो ऽस्माभिः सह स्पर्धमाना विश्वा अभिमातीः सर्वाञ् शत्रून् जयेम।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/01_dAhAntam/14_suvarNa.N_hastAd_AdadAnA.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2256,7 +2115,7 @@ Taking the gold from the hand of the dead one live here, verily, for prosperity,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ धनुर्् हस्ताद्</summary>
 
 ध᳓नुर्् ह᳓स्ताद् **आद᳓दाना** मृत᳓स्य  
 श्रियै᳓ क्षत्रा᳓यौ᳓जसे ब᳓लाय ।  
@@ -2305,7 +2164,7 @@ Taking the bow from the hand of the dead one live here, verily, for prosperity, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ मणिँ हस्ताद् (1/18 व्यत्यस्त-स्वराः)</summary>
 
 [[म᳓णिँ|मणिँ᳓]] ह᳓स्ताद् **आद᳓दाना** मृत᳓स्य  
 श्रियै᳓ विशे᳓ पु᳓ष्ट्यै ब᳓लाय ।  
@@ -2387,7 +2246,7 @@ Address to the fire while putting the sacrificial vessel, different parts of the
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ इमम् अग्ने</summary>
 
 इम᳓म् अग्ने चमसं᳓ मा᳓ **वि᳓जीह्वरः**+++(←ह्वृ कौटिल्ये)+++  
 प्रियो᳓ देवा᳓नाम् उत᳓ सोम्या᳓नाम् ।  
@@ -2528,7 +2387,7 @@ Address to the fire while putting different parts of the slaughtered cow.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/19 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ अग्नेर् वर्म (1/19 व्यत्यस्त-स्वराः)</summary>
 
 अग्ने᳓र् व᳓र्म प᳓रि गो᳓भिर्+++(→राजगव्या अवयवैः)+++ **व्ययस्व**  
 सं᳓ **प्रो᳓र्णुष्व** मे᳓दसा पी᳓वसा च ।  
@@ -2689,7 +2548,7 @@ Address to the fire while putting skin on the dead one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ मैनम् अग्ने</summary>
 
 मै᳓नम् अग्ने **वि᳓दहो मा᳓ ऽभि᳓शोचो**  
 मा᳓ऽस्य त्व᳓चञ् **चिक्षिपो मा᳓** श᳓रीरम् ।  
@@ -3163,13 +3022,8 @@ Address to the fire while putting fire on the dead one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
-
-शृतय्ँ᳓ यदा᳓ **[[कर᳓सि|क᳓रसि]]** [[जातवेदो᳓|जातवेदो]]  
-+अ᳓थेम् एनं **प᳓रिदत्तात्** पितृ᳓भ्यः ।  
-यदा᳓ **ग᳓च्छात्य्** अ᳓सु-**नीतिम्** एता᳓म्  
-अ᳓था देवा᳓नाव्ँ वशनी᳓र् **भवाति** ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/01_dAhAntam/20_shRtay.N_yadA_karasi.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/016/02_shRtaM_yadA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -3572,7 +3426,7 @@ Address to the fire while burning the dead one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/23 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ सूर्यन् ते (1/23 व्यत्यस्त-स्वराः)</summary>
 
 सू᳓र्यन् ते च᳓क्षुर् **गच्छतु**, वा᳓तम् आत्मा᳓  
 द्या᳓ञ् च **[[ग᳓च्छ|गच्छ]]** पृथिवी᳓ञ् च ध᳓र्मणा ।  
@@ -4019,7 +3873,7 @@ Zur Sonne geh dein Aug', dein Hauch zum Winde, zur Erd' und Himmel geh nach dein
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ अजो भागस्</summary>
 
 अजो᳓ भाग᳓स् त᳓पसा त᳓न् **तपस्व**  
 त᳓न् ते शोचि᳓स् **तपतु** त᳓न् ते अर्चिः᳓ ।  
@@ -4090,7 +3944,7 @@ Zur Sonne geh dein Aug', dein Hauch zum Winde, zur Erd' und Himmel geh nach dein
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/23 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ अयव्ँ वै (2/23 व्यत्यस्त-स्वराः)</summary>
 
 अय᳓व्ँ वै᳓ त्व᳓म्, अस्मा᳓द् अ᳓धि त्व᳓म्  
 एत᳓द् अय᳓व्ँ वै᳓, त᳓द् अस्य यो᳓निर् **असि** ।  

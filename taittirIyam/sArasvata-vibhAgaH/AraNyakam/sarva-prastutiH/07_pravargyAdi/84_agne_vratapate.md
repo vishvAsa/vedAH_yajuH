@@ -20,7 +20,7 @@ title = "८४ अग्ने व्रतपते"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्ने व्रतपते!</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
@@ -87,7 +87,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायो व्रतपते</summary>
 
 वा᳓यो व्रतपते
 </details>
@@ -141,7 +141,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आदित्य व्रतपते</summary>
 
 आ᳓दित्य व्रतपते
 </details>
@@ -190,7 +190,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्रतानाव्व्ँरतपते</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>

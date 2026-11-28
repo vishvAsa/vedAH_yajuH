@@ -18,7 +18,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अञ्जन्ति</summary>
 
 अञ्ज᳓न्ति त्वा᳓मध्वरे᳓ देवय᳓न्तः ।   
 व᳓नस्पते म᳓धुना दै᳓व्येन ।   
@@ -832,7 +832,7 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ समिद्धस्य</summary>
 
 स᳓मिद्धस्य श्र᳓यमाणᳶ पुर᳓स्तात् ।   
 ब्र᳓ह्म वन्वानो᳓ अज᳓रँ सुवी᳓रम् ॥1॥  
@@ -1235,7 +1235,7 @@ Dort aufgestellt vor des Entflammten Antlitz, Gebet empfangend, stetes, männerr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ऊर्ध्व ऊषुण</summary>
 
 ऊर्ध्व᳓ ऊषु᳓ण ऊत᳓ये ।   
 ति᳓ष्ठा देवो᳓ न᳓ सविता᳓ ।   
@@ -1748,7 +1748,7 @@ Steh aufrecht nun zu unserm Schutz, erhaben wie Gott Savitar, Erhaben als der Be
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ ऊर्ध्वो न</summary>
 
 ऊर्ध्वो᳓ नᳶ पाह्यँ᳓हसो नि᳓ केतु᳓ना ।   
 वि᳓श्वँ स᳓मत्रि᳓णन्दह ।   
@@ -2162,7 +2162,7 @@ Und aufrecht schütz uns vor Gefahr durch dein Panier, verbrenne jeden bösen Fe
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ जातो जायते</summary>
 
 जातो᳓ जायते सुदिनत्वे᳓ अ᳓ह्नाम् ।   
 स᳓मर्य᳓ आ᳓ विद᳓थे व᳓र्धमानः ।   
@@ -2570,7 +2570,7 @@ A youth, well clad, wrapped round, he has arrived;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ युवा सुवासा</summary>
 
 यु᳓वा सुवा᳓साᳶ प᳓रिवीत आ᳓गात् ।   
 स᳓ उ श्रे᳓यान्भवति जा᳓यमानः ।   
@@ -2976,7 +2976,7 @@ Der Jüngling kam umhüllet, schöngekleidet, von der Geburt an wird er immer sc
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ पृथुपाजा</summary>
 
 पृथुपा᳓जा अ᳓मर्त्यः ।   
 घृत᳓निर्णिक्स्वा᳙हुतः ।   
@@ -3280,7 +3280,7 @@ Weitschimmernd der unsterbliche, mit Fett umkleidet, schön getränkt, Agni, der
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ तँ सबाधो</summary>
 
 तँ᳓ सबा᳓धो यत᳓स्स्रुचः ।   
 इत्था᳓ धिया᳓ यज्ञ᳓वन्तः ।   
@@ -3628,7 +3628,7 @@ Den Agni schaffen sich herbei mit rechter Andacht opferreich Die Löffel-Lenker 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ त्वव्ँवरुण उत</summary>
 
 त्वव्ँ᳓व᳓रुण उत᳓ मित्रो᳓ अग्ने ।   
 त्वाव्ँ᳓वर्धन्ति मति᳓भिर्व᳓सिष्ठाः ।   

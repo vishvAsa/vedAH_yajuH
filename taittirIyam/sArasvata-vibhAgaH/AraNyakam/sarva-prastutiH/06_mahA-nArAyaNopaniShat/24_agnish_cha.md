@@ -16,7 +16,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (10/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्निश्च मा (10/10 व्यत्यस्त-स्वराः)</summary>
 
 अग्नि᳓श्च मा मन्यु᳓श्च मन्यु᳓पतयश्च मन्यु᳓कृतेभ्यः।  
 पापे᳓भ्यो रक्षन्ताम् ।  
@@ -60,7 +60,7 @@ May the fire, the anger and the lord of the anger protect me from the sins of th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यद् अह्ना (7/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓द् अ᳓ह्ना पाप᳓म् अकार्ष᳓म् ।  
 म᳓नसा वाचा᳓ ह᳓स्ताभ्याम् ।  
@@ -107,7 +107,7 @@ may the day destroy that sin which I have done in the day by mind, speech, hands
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यत्किञ् च (7/13 व्यत्यस्त-स्वराः)</summary>
 
 य᳓त्कि᳓ञ् च दुरितं᳓ म᳓यि ।  
 इद᳓म् अहं᳓ मा᳓म् अमृत-योनौ᳓ ।  

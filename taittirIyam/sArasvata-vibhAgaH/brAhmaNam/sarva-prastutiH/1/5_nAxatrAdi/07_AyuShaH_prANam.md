@@ -21,7 +21,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आयुष प्राणँ</summary>
 
 आ᳓युषᳶ प्राणँ᳓ स᳓न्तनु ।
 </details>
@@ -77,7 +77,7 @@ Continue exhalation from lifespan;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ प्राणाद् अपानँ</summary>
 
 प्राणा᳓द् अपानँ᳓ स᳓न्तनु ।
 </details>
@@ -117,7 +117,7 @@ continue inhalation from exhalation;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ अपानाद् व्यानँ</summary>
 
 अपाना᳓द् व्यानँ᳓ स᳓न्तनु ।
 </details>
@@ -145,7 +145,7 @@ continue diffused breath from inhalation;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्यानाच्</summary>
 
 व्याना᳓च् च᳓क्षुस् स᳓न्तनु ।
 </details>
@@ -173,7 +173,7 @@ continue sight from diffused breath;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ चक्षुषश्</summary>
 
 च᳓क्षुषश् श्रो᳓त्रँ स᳓न्तनु ।
 </details>
@@ -201,7 +201,7 @@ continue hearing from sight;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ श्रोत्रान् मनस्</summary>
 
 श्रो᳓त्रान् म᳓नस् स᳓न्तनु ।
 
@@ -234,7 +234,7 @@ continue speech from mind;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ वाच आत्मानँ</summary>
 
 वाच᳓ आत्मा᳓नँ स᳓न्तनु ।
 </details>
@@ -262,7 +262,7 @@ continue the self from speech;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ आत्मन पृथिवीँ</summary>
 
 आत्म᳓नᳶ पृथिवीँ᳓ स᳓न्तनु ।
 पृथिव्या᳓ अन्त᳓रिक्षँ स᳓न्तनु ।
@@ -293,7 +293,7 @@ continue the intermediate region from the earth;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अन्तरिक्षाद्</summary>
 
 अन्त᳓रिक्षाद् दि᳓व ँस᳓न्तनु ।
 दि᳓वस् सु᳓वस् स᳓न्तनु ॥ 32 ॥  

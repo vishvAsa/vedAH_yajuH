@@ -24,7 +24,7 @@ title = "१२ वाजप्रसवीयहोमः"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ वाजो नस्सप्त</summary>
 
 वा᳓जो नस्सप्त᳓ प्रदि᳓शश्च᳓तस्रो वा पराव᳓तः ।   
 वा᳓जो नो वि᳓श्वैर्देवै᳓र्ध᳓नसाताविहा᳓वतु ।
@@ -265,7 +265,7 @@ may vigor protect me here with all the gods in winning wealth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विश्वे अद्य</summary>
 
 वि᳓श्वे अद्य᳓ मरु᳓तो वि᳓श्व ऊती᳓ वि᳓श्वे भवन्त्वग्न᳓यस्स᳓मिद्धाः ।   
 वि᳓श्वे नो देवा᳓ अ᳓वसा᳓ ऽऽगमन्तु वि᳓श्वमस्तु द्र᳓विणव्ँवा᳓जो अस्मे᳓ ।
@@ -861,7 +861,7 @@ Alle Maruts, alle entflammten Feuer, sie seien alle mit Hülfe hier; alle Götte
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ वाजस्य</summary>
 
 वा᳓जस्य प्रसव᳓न्देवा र᳓थैर्याता हिरण्य᳓यैः ।   
 अग्नि᳓रि᳓न्द्रो बृ᳓हस्प᳓तिर्मरु᳓तस्सो᳓मपीतये ।   
@@ -902,7 +902,7 @@ And the Maruts to drink the Soma.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ वाजेवाजेऽवत</summary>
 
 वा᳓जेवाजेऽवत वाजिनो नो ध᳓नेषु [21]  विप्रा अमृता ऋतज्ञाः ।   
 अस्य᳓ म᳓ध्वᳶ पिबत माद᳓यध्वन्तृप्ता᳓ यात पथि᳓भिर्देवया᳓नैः ।
@@ -1450,7 +1450,7 @@ In jeder Schlacht helft uns, o Rosse, in Wettkämpfen, o unsterbliche Priester, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ वाज पुरस्तादुत</summary>
 
 वा᳓जᳶ पुर᳓स्तादुत᳓ मध्यतो᳓ नो वा᳓जो देवाँ᳓ ऋतु᳓भिᳵ कल्पयाति ।   
 वा᳓जस्य हि᳓ प्रसवो᳓ न᳓न्नमीति वि᳓श्वा आ᳓शा वा᳓जपतिर्भवेयम् ।
@@ -1558,7 +1558,7 @@ for in the impulse of vigor it bows down; as lord of vigor may I become all regi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ पय पृथिव्याम्पय</summary>
 
 प᳓यᳶ पृथिव्या᳓म्प᳓य ओ᳓षधीषु प᳓यो दिव्य᳙न्त᳓रिक्षे प᳓यो धाम् ।   
 प᳓यस्वतीᳶ प्रदि᳓शस्सन्तु म᳓ह्यम् ।
@@ -1786,7 +1786,7 @@ rich in milk let the quarters be for me!"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ सम्मा सृजामि</summary>
 
 स᳓म्मा सृजामि प᳓यसा घृते᳓न स᳓म्मा सृजाम्यपः᳓ [22]  ओ᳓षधीभिः ।   
 सो᳙ऽहव्ँ᳓वा᳓जँ सनेयमग्ने ।  
@@ -2197,7 +2197,7 @@ bringing welfare, bringing delight, blow towards me, svāhā!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मारुतोऽसि</summary>
 
 मा᳓रुतो᳙ऽसि मरु᳓ताङ्गण᳓श्शम्भू᳓र्मयोभू᳓रभि᳓ मा वाहि स्वा᳓हा
 </details>
@@ -2235,7 +2235,7 @@ Thou art of the Maruts, the horde of the Maruts, blow over me with healing, with
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अवस्युरसि</summary>
 
 अ᳓वस्यु᳓रसि दु᳓वस्वाञ्छम्भू᳓र्मयोभू᳓रभि᳓ मा वाहि स्वा᳓हा ॥[23]
 </details>

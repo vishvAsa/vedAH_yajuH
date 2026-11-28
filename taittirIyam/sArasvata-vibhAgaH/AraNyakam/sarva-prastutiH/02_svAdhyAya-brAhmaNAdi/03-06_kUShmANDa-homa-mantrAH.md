@@ -28,7 +28,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यद्देवा (1/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓द्देवा देवहे᳓ळनन्दे᳓वासश्चकृमा᳓ वय᳓म् ।  
 आ᳓दित्यास्त᳓स्मान्मा मुञ्चतर्त᳓स्यर्ते᳓न [[मा᳓मित᳓|मा᳓मित]] ॥
@@ -90,7 +90,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ देवा जीवनकाम्या</summary>
 
 दे᳓वा जीवनकाम्या᳓ य᳓द्वाचा᳓ऽनृतमूदिम᳓ ।  
 त᳓स्मान्न इह᳓ मुञ्चत वि᳓श्वे देवास्सजो᳓षसः ॥
@@ -149,7 +149,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ऋतेन</summary>
 
 ऋते᳓न द्यावापृथिवी ऋते᳓न त्वँ᳓ सरस्वति ।  
 कृता᳓न्नः पाह्ये᳓नसो य᳓त्कि᳓ञ्चा᳓नृतमूदिम᳓ ॥
@@ -205,7 +205,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ इन्द्राग्नी</summary>
 
 इन्द्राग्नी᳓ मित्रा᳓व᳓रुणौ सो᳓मो धाता᳓ बृ᳓हस्प᳓तिः ।  
 ते᳓ नो मुञ्चन्त्वे᳓नसो य᳓दन्य᳓कृतमारिम᳓ ॥
@@ -259,7 +259,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सजातशँसादुत</summary>
 
 सजातशँसा᳓दुत᳓ जामिशँसा᳓ज्ज्या᳓यसश्शँ᳓सादुत᳓ वा क᳓नीयसः ।  
 अ᳓नाधृष्टन्देव᳓कृतय्ँय᳓दे᳓नस्त᳓स्मात्त्व᳓मस्मा᳓ञ्जातवेदो मुमुग्धि ॥
@@ -318,7 +318,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ यद्वाचा यन्मनसा</summary>
 
 य᳓द्वाचा᳓ य᳓न्म᳓नसा बाहु᳓भ्याम् ऊरु᳓भ्याम्  
 अष्ठीव᳓द्भ्याँ शिश्नै᳓र् य᳓द् अ᳓नृतञ् चकृमा᳓ वय᳓म् ।  
@@ -384,7 +384,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ येन त्रितो</summary>
 
 ये᳓न त्रितो᳓ अर्णवा᳓न्निर्बभू᳓व ये᳓न सू᳓र्यन्त᳓मसो निर्मुमो᳓च ।  
 ये᳓ने᳓न्द्रो वि᳓श्वा अ᳓जहाद᳓रातीस्ते᳓नाह᳓ञ्ज्यो᳓तिषा ज्यो᳓तिरानशान᳓ आक्षि ॥
@@ -449,7 +449,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यत्कुसीदमप्रतीत्तम्</summary>
 
 य᳓त्कु᳓सीदम᳓प्रतीत्तं म᳓येह᳓ ये᳓न यम᳓स्य निधि᳓ना च᳓रामि ।  
 एत᳓त्त᳓दग्ने अनृणो᳓ भवामि जी᳓वन्नेव᳓ प्र᳓ति त᳓त्ते दधामि ॥
@@ -511,7 +511,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ यन्मयि माता (4/17 व्यत्यस्त-स्वराः)</summary>
 
 य᳓न्म᳓यि माता᳓ [[य᳓दा|यदा᳓]] पिपे᳓ष [[य᳓दन्त᳓रिक्षय्ँय᳓दाश᳓सा᳓तिक्रामामि|य᳓दन्त᳓रिक्षय्ँयदा᳓श᳓सा᳓तिक्रा᳓मामि]] त्रिते᳓ देवा᳓ दिवि᳓ जाता᳓ [[य᳓दा᳓प|यदा᳓प]]
 </details>
@@ -576,7 +576,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० इमम्मे वरुण</summary>
 
 इम᳓म्मे वरुण
 </details>
@@ -601,7 +601,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ तत्त्वा यामि</summary>
 
 त᳓त्त्वा यामि
 </details>
@@ -626,7 +626,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ त्वन्नो अग्ने</summary>
 
 त्व᳓न्नो अग्ने
 </details>
@@ -651,7 +651,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ सत्वन्नो अग्ने</summary>
 
 स᳓त्व᳓न्नो अग्ने
 </details>
@@ -676,7 +676,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ त्वमग्ने अयासि</summary>
 
 त्व᳓मग्ने अया᳓सि । 3 ।
 </details>
@@ -711,7 +711,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ यददीव्यन्नृणमहम् (1/18 व्यत्यस्त-स्वराः)</summary>
 
 य᳓द᳓दीव्यन्नृण᳓महं᳓ बभू᳓वा᳓दित्सन्वा सञ्जग᳓र ज᳓नेभ्यः ।  
 अग्नि᳓र्मा त᳓स्मादि᳓न्द्रश्च [[सव्ँ|सव्ँ᳓]] विदानौ᳓ प्र᳓मुञ्चताम् ॥
@@ -771,7 +771,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ यद्धस्ताभ्याञ्चकर</summary>
 
 य᳓द्ध᳓स्ताभ्याञ्चक᳓र कि᳓ल्बिषाण्यक्षा᳓णाव्ँ वग्नु᳓मुपजि᳓घ्नमानः ।  
 उग्रंपश्या᳓ च राष्ट्रभृ᳓च्च ता᳓न्यप्सर᳓साव᳓नुदत्तामृणा᳓नि ॥
@@ -829,7 +829,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ उग्रम्पश्ये (1/17 व्यत्यस्त-स्वराः)</summary>
 
 उ᳓ग्रंपश्ये रा᳓ष्ट्रभृत्कि᳓ल्बिषाणि य᳓दक्ष᳓वृत्तम᳓नुदत्तमेत᳓त् ।  
 ने᳓न्न ऋणा᳓नृण᳓व [[इ᳓त्समानो|इ᳓त्समानो᳓]] यम᳓स्य लोके᳓ अ᳓धिरज्जुरा᳓य ॥
@@ -892,7 +892,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ अव ते (1/17 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓व ते हे᳓ळ उ᳓दुत्तम᳓मिमं᳓ मे वरुण त᳓त्त्वा यामि त्व᳓न्नो अग्ने [[स᳓त्व᳓न्नो|स᳓त्वन्नो]] अग्ने ।
 </details>
@@ -966,7 +966,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ सङ्कुसुको</summary>
 
 स᳓ङ्कुसुको वि᳓कुसुको निरृथो᳓ य᳓श्च निस्वनः᳓ ।  
 ते᳓१᳓ऽस्म᳓द्य᳓क्ष्मम᳓नागसो दूरा᳓द्दूर᳓मचीचतम् ।
@@ -1021,7 +1021,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० निर्यक्ष्ममचीचते (1/14 व्यत्यस्त-स्वराः)</summary>
 
 [[नि᳓र्यक्ष्ममचीचते|नि᳓र्य᳓क्ष्ममचीचते]] कृत्या᳓न्नि᳓रृतिञ्च ।  
 ते᳓न यो᳓१᳓ऽस्म᳓त्स᳓मृच्छातै त᳓मस्मै प्र᳓सुवामसि ।
@@ -1077,7 +1077,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ दुश्शँसानुशँसाभ्याङ्घणेनानुघणेन</summary>
 
 दुश्शँसानुशँसा᳓भ्याङ्घणे᳓नानुघणे᳓न च ।  
 ते᳓नान्यो᳓१᳓ऽस्म᳓त्स᳓मृच्छातै त᳓मस्मै प्र᳓सुवामसि ।
@@ -1132,7 +1132,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ सव्ँ वर्चसा</summary>
 
 सव्ँ᳓ व᳓र्चसा प᳓यसा स᳓न्तनू᳓भिर᳓गन्महि म᳓नसा सँ᳓ शिवे᳓न ।  
 त्व᳓ष्टा नो अ᳓त्र वि᳓दधातु रायो᳓ऽनुमार्ष्टु [[तन्वो᳓|तन्वो᳙]]१᳓ य᳓द्वि᳓लिष्टम् । 4 ।
@@ -1409,7 +1409,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 17).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ आयुष्टे विश्वतो</summary>
 
 आ᳓युष्टे विश्व᳓तो दधदय᳓मग्नि᳓र्व᳓रेण्यः ।  
 पु᳓नस्ते प्राण᳓ आ᳓याति प᳓राय᳓क्ष्मँ सुवामि ते ॥
@@ -1472,7 +1472,7 @@ I drive away the disease from thee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ आयुर्दा अग्ने</summary>
 
 आयुर्दा᳓ अग्ने हवि᳓षो जुषाणो᳓ घृत᳓प्रतीको घृत᳓योनिरेधि ।  
 घृतं᳓ पीत्वा᳓ म᳓धु चा᳓रु ग᳓व्यम्पिते᳓व पुत्र᳓मभि᳓रक्षतादिम᳓म् ॥
@@ -1574,7 +1574,7 @@ As a father his son [4], do thou protect him.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ इममग्न आयुषे</summary>
 
 इम᳓मग्न आ᳓युषे व᳓र्चसे कृधि तिग्म᳓मो᳓जो वरुण सँ᳓शिशाधि ।  
 माते᳓वास्मा अदिते श᳓र्म यच्छ  
@@ -2780,7 +2780,7 @@ Den Sänger Agni flehn wir an, der flammt, der viele Güter hat, Der fünf Gesch
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ अग्ने</summary>
 
 अ᳓ग्ने जाता᳓न्प्र᳓णुदा नस्सप᳓त्नान्प्र᳓त्य᳓जाता- ञ्जातवेदो नुदस्व ।  
 अस्मे᳓ दीदिहि सुम᳓ना अ᳓हेळञ्छ᳓र्मन्ते स्याम त्रिव᳓रूथ उद्भौ᳓ ॥
@@ -2804,7 +2804,7 @@ Den Sänger Agni flehn wir an, der flammt, der viele Güter hat, Der fünf Gesch
 - अ᳓ग्ने (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-157, *RV*-265, *SB-K*-80, *VS-K*-62, *KS*-72, *MS*-180)
 - जाता᳓न् (*TS*-11/65, *RV*-1/144, *TB*-2/16, *AV*-8/95, *SB-M*-3/84, *SB-K*-2/82, *VS-M*-2/21, *VS-K*-2/33, *KS*-0/17, *MS*-3/57)
 - प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
-- णुद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- नुद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८; संहितायां णत्वम्)
 - नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
 - सप᳓त्नान् (*TS*-11/15, *RV*-1/4, *TB*-3/6, *AV*-47/67, *SB-M*-43/73, *SB-K*-37/74, *VS-M*-3, *VS-K*-3, *KS*-2/3, *MS*-12/27)
 - प्र᳓ति (*TS*-334, *RV*-247, *TB*-29, *TK*-5, *SB-K*-530, *VS-K*-25, *KS*-58, *MS*-265)
@@ -2841,7 +2841,7 @@ Den Sänger Agni flehn wir an, der flammt, der viele Güter hat, Der fünf Gesch
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ सहसा</summary>
 
 स᳓हसा जाता᳓न्प्र᳓णुदा नस्सप᳓त्नान्प्र᳓त्य᳓जाताञ्जातवेदो नुदस्व ।  
 अ᳓धि नो ब्रूहि सुमनस्य᳓मानो वयँ᳓ स्याम प्र᳓णुदा नस्सप᳓त्नान् ॥
@@ -2988,7 +2988,7 @@ May we (enjoy thy protection); drive away our foes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ अग्ने यो</summary>
 
 अ᳓ग्ने यो᳓ नोऽभि᳓तो ज᳓नो वृ᳓को वा᳓रो जि᳓घाँसति ।  
 ताँ᳓स्त्वव्ँ᳓ वृत्रहञ्जहि व᳓स्वस्म᳓भ्यमा᳓भर ॥
@@ -3061,7 +3061,7 @@ May we (enjoy thy protection); drive away our foes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ अग्ने यो</summary>
 
 अ᳓ग्ने यो᳓ नोऽभिदा᳓सति समानो᳓ य᳓श्च नि᳓ष्ट्यः ।  
 तव्ँ᳓ वयँ᳓ समि᳓धङ्कृत्वा᳓ तु᳓भ्यमग्ने᳓ऽपि दध्मसि । 6 ।
@@ -3119,7 +3119,7 @@ May we (enjoy thy protection); drive away our foes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० यो नश्शपादशपतो</summary>
 
 यो᳓ नश्श᳓पाद᳓शपतो य᳓श्च नश्श᳓पतश्श᳓पात् ।  
 उषा᳓श्च त᳓स्मै निम्रु᳓क्च स᳓र्वं पापँ᳓ स᳓मूहताम् ।
@@ -3179,7 +3179,7 @@ May we (enjoy thy protection); drive away our foes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ यो नस्सपत्नो</summary>
 
 यो᳓ नस्सप᳓त्नो यो᳓ र᳓णो म᳓र्तोऽभिदा᳓सति देवाः ।  
 इध्म᳓स्येव प्रक्षा᳓यतो मा᳓ त᳓स्यो᳓च्छेषि कि᳓ञ्चन᳓ ।
@@ -3238,7 +3238,7 @@ May we (enjoy thy protection); drive away our foes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ यो मान्द्वेष्टि</summary>
 
 यो᳓ मा᳓न्द्वे᳓ष्टि जातवेदो य᳓ञ्चाह᳓न्द्वे᳓ष्मि य᳓श्च मा᳓म् ।  
 स᳓र्वाँस्ता᳓नग्ने स᳓न्दह याँ᳓श्चाह᳓न्द्वे᳓ष्मि ये᳓ च मा᳓म् ।
@@ -3303,7 +3303,7 @@ May we (enjoy thy protection); drive away our foes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ यो</summary>
 
 यो᳓ अस्म᳓भ्यमरातीया᳓द्य᳓श्च नो द्वे᳓षते ज᳓नः ।  
 नि᳓न्दाद्यो᳓ अस्मा᳓न्दि᳓प्साच्च स᳓र्वाँस्ता᳓न्मष्मषा᳓ कुरु ।
@@ -3428,7 +3428,7 @@ whoever reviles and seeks to harm us, crush all of them to pieces!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ सँशितं मे</summary>
 
 सँ᳓शितं मे ब्र᳓ह्म सँ᳓शितव्ँ [[वीर्य᳓|वीर्य᳙]] १᳓ म् ब᳓लम् ।  
 सँ᳓शितङ्क्षत्रं᳓ मे जिष्णु᳓ य᳓स्याह᳓म᳓स्मि पुरो᳓हितः ।
@@ -3673,7 +3673,7 @@ sharpened is my victorious dominion, of which I am the Purohita.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ उदेषां बाहू</summary>
 
 उ᳓देषां बाहू᳓ अतिरमु᳓द्व᳓र्चो अ᳓थो ब᳓लम् ।  
 क्षिणो᳓मि ब्र᳓ह्मणाऽमि᳓त्रानु᳓न्नयामि स्वा᳓ १᳓ म् अह᳓म् ।
@@ -3944,7 +3944,7 @@ with sacred power I destroy the enemies; I lift up my own people.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ पुनर्मनः</summary>
 
 पु᳓नर्म᳓नः पु᳓नरा᳓युर्म आ᳓गात्पु᳓नश्च᳓क्षुः पु᳓नः श्रो᳓त्रम्म आ᳓गात्पु᳓नः प्राणः᳓ पु᳓नरा᳓धीतं म आ᳓गात् ।  
 वैश्वानरो᳓ मे᳓ऽदब्धस्तनूपा᳓ अ᳓वबाधतान्दुरिता᳓नि वि᳓श्वा । 7 ।
@@ -4022,7 +4022,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ वैश्वानराय (1/18 व्यत्यस्त-स्वराः)</summary>
 
 वैश्वानरा᳓य प्र᳓तिवेदयामो य᳓दीनृणँ᳓ सङ्गरो᳓ देव᳓तासु ।  
 स᳓ एता᳓न्पा᳓शान् प्रमु᳓चन् प्र᳓वेद स᳓ नो मुञ्चातु [[दुरिता᳓द᳓वद्या᳓त्|दुरिता᳓दवद्या᳓त्]] ।
@@ -4084,7 +4084,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ वैश्वानरः (1/18 व्यत्यस्त-स्वराः)</summary>
 
 वैश्वानरः᳓ [[प᳓वयान्नः|पवयान्नः]] पवि᳓त्रैर्य᳓त्सङ्गर᳓मभि᳓धा᳓वाम्याशा᳓म् ।  
 अ᳓नाजानन्म᳓नसा या᳓चमानो य᳓द᳓त्रै᳓नो अ᳓व त᳓त्सुवामि ।
@@ -4144,7 +4144,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ अमी ये</summary>
 
 अमी᳓ ये᳓ सुभ᳓गे दिवि᳓ विचृ᳓तौ ना᳓म ता᳓रके ।  
 प्रे᳓हा᳓मृ᳓तस्य यच्छतामेत᳓द्बद्धकमो᳓चनम् ।
@@ -4201,7 +4201,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० विजिहीर्ष्व</summary>
 
 वि᳓जिहीर्ष्व लोका᳓न्कृधि बन्धा᳓न्मुञ्चासि ब᳓द्धकम् ।  
 यो᳓नेरिव प्र᳓च्युतो ग᳓र्भस्स᳓र्वान्पथो᳓ अनुष्व ।
@@ -4261,7 +4261,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ स</summary>
 
 स᳓ प्रजान᳓न्प्र᳓तिगृभ्णीत विद्वा᳓न्प्रजा᳓पतिः प्रथमजा᳓ ऋत᳓स्य ।  
 अस्मा᳓भिर्दत्त᳓ञ्जर᳓सः पर᳓स्ताद᳓च्छिन्नं त᳓न्तुमनु स᳓ञ्चरेम । 8 ।
@@ -4324,7 +4324,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/21 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२ ततन्तन्तुमन्वेके (1/21 व्यत्यस्त-स्वराः)</summary>
 
 तत᳓न्त᳓न्तुम᳓न्वे᳓के अ᳓नु स᳓ञ्चरन्ति ये᳓षान्दत्तं᳓ पि᳓त्र्यमा᳓यनवत् ।  
 अबन्ध्वे᳓के द᳓दतः [[प्रय᳓च्छाद्दा᳓तुञ्चे᳓च्छक्न᳓वाँस᳓स्स्वर्ग᳓|प्रय᳓च्छाद्दा᳓तुञ्चे᳓च्छक्नवाँस᳓स्स्वर्ग᳓]] एषाम् ।
@@ -4387,7 +4387,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/21 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३ आरभेथामनु (1/21 व्यत्यस्त-स्वराः)</summary>
 
 आ᳓रभेथाम᳓नु सँ᳓रभेथाँ समानं᳓ प᳓न्थामवथो घृते᳓न ।  
 य᳓द्वां पूर्तं᳓ प᳓रिविष्टय्ँय᳓दग्नौ᳓ त᳓स्मै [[गो᳓त्रायेह᳓|गोत्रा᳓येह᳓]] जा᳓यापती सँ᳓रभेथाम् ।
@@ -4450,7 +4450,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४ यदन्तरिक्षम्</summary>
 
 य᳓दन्त᳓रिक्षं पृथिवी᳓मुत᳓ द्याय्ँ᳓य᳓न्मात᳓रं पित᳓रव्ँ वा जिहिँसिम᳓ ।  
 अग्नि᳓र्मा त᳓स्मादे᳓नसो गा᳓र्हपत्य उ᳓न्नो नेषद्दुरिता᳓ या᳓नि चकृम᳓ ।
@@ -4513,7 +4513,7 @@ Mantras of the Kūṣmāṇḍa Homa. (From 1 to 13).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/21 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५ भूमिर्माताऽदितिर्नो (2/21 व्यत्यस्त-स्वराः)</summary>
 
 भू᳓मिर्माता᳓ऽदितिर्नो जनि᳓त्रं भ्रा᳓तान्त᳓रिक्षमभि᳓शस्त [[एनः|ए᳓नः]] ।  
 द्यौ᳓र्नः पिता᳓ पितृया᳓च्छं᳓ भवासि जामि᳓ मित्वा᳓ मा᳓ [[विवित्सि|वि᳓वित्सि]] लोका᳓त् ।
@@ -4645,7 +4645,7 @@ Earth is our Mother, Aditi our birth-place: our brother Air save us from impreca
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६ यत्र</summary>
 
 य᳓त्र सुहा᳓र्दस्सुकृ᳓तो म᳓दन्ते विहा᳓य रो᳓गन्तन्वा᳓ १ँ᳓ स्वा᳓याम् ।  
 अश्लोणा᳓ङ्गैर᳓ह्रुतास्स्वर्गे᳓ त᳓त्र पश्येम पित᳓रञ्च पुत्र᳓म् ।
@@ -4794,7 +4794,7 @@ There where our virtuous friends, who left behind them their bodily infirmities,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७ यदन्नमद्म्यनृतेन</summary>
 
 य᳓द᳓न्नम᳓द्म्य᳓नृतेन देवा दास्य᳓न्न᳓दास्यन्नुत᳓ वा करिष्य᳓न् ।  
 य᳓द्देवा᳓नाञ्च᳓क्षुष्या᳓गो अ᳓स्ति य᳓देव᳓ कि᳓ञ्च प्रतिजग्राह᳓मग्नि᳓र्मा त᳓स्मादनृण᳓ङ्कृणोतु ।
@@ -4862,7 +4862,7 @@ There where our virtuous friends, who left behind them their bodily infirmities,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८ यदन्नमद्मि</summary>
 
 य᳓द᳓न्नम᳓द्मि बहुधा᳓ वि᳓रूपव्ँ वा᳓सो हि᳓रण्यमुत᳓ गा᳓मजा᳓म᳓विम् ।  
 य᳓द्देवा᳓नाञ्च᳓क्षुष्या᳓गो अ᳓स्ति य᳓देव᳓ कि᳓ञ्च प्रतिजग्राह᳓मग्नि᳓र्मा त᳓स्मादनृण᳓ङ्कृणोतु ।
@@ -4931,7 +4931,7 @@ There where our virtuous friends, who left behind them their bodily infirmities,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/16 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९ यन्मे मनसा (6/16 व्यत्यस्त-स्वराः)</summary>
 
 य᳓न्मे म᳓नसा वाचा᳓ कृत᳓मे᳓नः कदा᳓चन᳓ ।  
 स᳓र्वस्मान्मेळितो᳓ मोग्धि त्वँ᳓ हि᳓ वे᳓त्थ यथातथ᳓म् । 9 ।

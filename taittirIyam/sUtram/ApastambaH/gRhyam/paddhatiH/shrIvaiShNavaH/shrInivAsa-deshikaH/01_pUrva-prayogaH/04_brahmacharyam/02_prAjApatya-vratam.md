@@ -2021,7 +2021,7 @@ Prajāpati, the firstborn of truth, possessing a thousand abodes, may he enjoy o
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्ने व्रतपते!</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
@@ -2088,7 +2088,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायो व्रतपते</summary>
 
 वा᳓यो व्रतपते
 </details>
@@ -2142,7 +2142,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आदित्य व्रतपते</summary>
 
 आ᳓दित्य व्रतपते
 </details>
@@ -2191,7 +2191,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्रतानाव्व्ँरतपते</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
@@ -4137,7 +4137,7 @@ Prajāpati, the firstborn of truth, possessing a thousand abodes, may he enjoy o
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आदित्य व्रतपते</summary>
 
 आ᳓दित्य व्रतपते
 </details>
@@ -4155,7 +4155,7 @@ Aditya, lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -4178,7 +4178,7 @@ I followed the rules;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -4196,7 +4196,7 @@ I could follow that, that was increased for me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ वायो व्रतपते</summary>
 
 वा᳓यो व्रतपते᳓
 </details>
@@ -4214,7 +4214,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -4227,7 +4227,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -4240,7 +4240,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अग्ने व्रतपते!</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
@@ -4258,7 +4258,7 @@ O fire, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -4271,7 +4271,7 @@ O fire, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -4284,7 +4284,7 @@ O fire, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० व्रतानाव्व्ँरतपते</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
@@ -4302,7 +4302,7 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -4320,7 +4320,7 @@ I followed the rules;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -4338,15 +4338,6 @@ I could follow that, that was increased for me (7).
 </details>
 </details>
 </div>  
-
-<details><summary>मूलम्</summary>
-
-> अग्ने॑ व्रतपते काण्ड॒र्षिभ्यःँ प्राजाप॒त्यं व्र॒तमॅचारिष॒म् । तदँशकं॒ तन्मेँ राधि ।  
-वायो॑ व्रतपते काण्ड॒र्षिभ्यःँ प्राजाप॒त्यं व्र॒तमॅचारिष॒म् । तदँशकं॒ तन्मेँ राधि ।  
-आदित्य व्रतपते काण्ड॒र्षिभ्यःँ प्राजाप॒त्यं व्र॒तमॅचारिष॒म् । तदँशकं॒ तन्मेँ राधि ।  
-व्रतानां व्रतपते काण्ड॒र्षिभ्यःँ प्राजाप॒त्यं व्र॒तमॅचारिष॒म् । तदँशकं॒ तन्मेँ राधि । [[TODO::परिष्कार्यम्??]] 
-
-</details>
 
 यथास्थानम् उपविशेत्,
 

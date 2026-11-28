@@ -113,6 +113,7 @@ title = "+०२ उदकशान्तिः (पूर्णपाठः)"
 
 
 
+
 अद्भिर् **अवोक्ष्य**  
 व्रीहीन् तत्र **निक्षिप्य**  
 
@@ -157,7 +158,7 @@ title = "+०२ उदकशान्तिः (पूर्णपाठः)"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आपो वा</summary>
 
 आ᳓पो वा᳓ इदँ᳓ स᳓र्वं
 </details>
@@ -185,7 +186,7 @@ The waters are, verily, all this
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विश्वा भूतान्य्</summary>
 
 वि᳓श्वा भूता᳓न्य् आ᳓पः
 </details>
@@ -203,7 +204,7 @@ the waters are all the beings
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ प्राणा वा</summary>
 
 प्राणा᳓ वा᳓ आ᳓पः
 </details>
@@ -221,7 +222,7 @@ the waters are the breaths
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ पशव आपः,</summary>
 
 पश᳓व आ᳓पः,
 </details>
@@ -239,7 +240,7 @@ the waters are the animals
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अन्नम् आपः,</summary>
 
 अ᳓न्नम् आ᳓पः,
 </details>
@@ -257,7 +258,7 @@ the waters are the food
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अमृतम् आपः</summary>
 
 अमृ᳓तम् आ᳓पः
 </details>
@@ -275,7 +276,7 @@ the waters are the nectar
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ सम्राड् आपो,</summary>
 
 सम्रा᳓ड् आ᳓पो, विरा᳓ड् आ᳓पः, स्वरा᳓ड् आ᳓पश्
 </details>
@@ -293,7 +294,7 @@ the waters are the Samrat, Virat and Svarat
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ छन्दाँस्य् आपो,</summary>
 
 छ᳓न्दाँस्य् आ᳓पो,
 </details>
@@ -311,7 +312,7 @@ the waters are the metres
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ ज्योतीँष्य्</summary>
 
 ज्यो᳓तीँष्य् आ᳓पो,
 </details>
@@ -329,7 +330,7 @@ the waters are the Yajuses
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० यजूँष्य् आपस्,</summary>
 
 य᳓जूँष्य् आ᳓पस्,
 </details>
@@ -347,7 +348,7 @@ the waters are the truth
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ सत्यम् आपस्,</summary>
 
 सत्य᳓म् आ᳓पस्,
 </details>
@@ -365,7 +366,7 @@ the waters are all the gods
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ सर्वा देवता</summary>
 
 स᳓र्वा देव᳓ता आ᳓पो,  
 भू᳓र् भु᳓वस् सु᳓वर् आ᳓प  

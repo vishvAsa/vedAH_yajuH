@@ -12,7 +12,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सुरावन्तम्बर्हिषदँ</summary>
 
 सु᳓रावन्तम्बर्हिष᳓दँ सुवी᳓रम् ।  
 यज्ञँ᳓ हिन्वन्ति महिषा᳓ न᳓मोभिः ।  
@@ -253,7 +253,7 @@ placing Soma in heaven among the deities, the sacrificers with fair songs [speed
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यस्ते</summary>
 
 य᳓स्ते र᳓सस्स᳓म्भृत ओ᳓षधीषु ।  
 सो᳓मस्य शु᳓ष्मस्सु᳓रया सुत᳓स्य ।  
@@ -480,7 +480,7 @@ with that exhilaration invigorate the sacrificer, Sarasvatī, the two Aśvins, I
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यमश्विना</summary>
 
 य᳓मश्वि᳓ना न᳓मुचेरासुरा᳓द᳓धि ।  
 स᳓रस्वत्य᳓सनोदिन्द्रिया᳓य ॥9॥   
@@ -710,7 +710,7 @@ that bright, honeyed drop, King Soma, I consume here.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यदत्र रिप्तँ</summary>
 
 य᳓द᳓त्र रिप्तँ᳓ रसि᳓नस्सुत᳓स्य ।  
 य᳓दि᳓न्द्रो अ᳓पिबच्छ᳓चीभिः ।  
@@ -999,7 +999,7 @@ may the great-grandfathers purify me with a strainer of a hundred-year lifespan!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ पुनन्तु मा</summary>
 
 पुन᳓न्तु मा पितामहाः᳓ ।  
 पुन᳓न्तु प्र᳓पितामहाः ॥11॥  
@@ -1084,7 +1084,7 @@ With a strainer of a hundredfold lifetime may I attain all lifetime!
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अग्न आयूँषि</summary>
 
 अ᳓ग्न आ᳓यूँषि पवसे᳓ऽग्ने प᳓वस्व ।  
 प᳓वमानस्सु᳓वर्ज᳓नᳶ पुन᳓न्तु मा देवजनाः᳓ ।  
@@ -1193,7 +1193,7 @@ with both, O divine Savitṛ, the purifying \[strainer\] belonging to all gods, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ ये समानास्समनसः</summary>
 
 ये᳓ समाना᳓स्स᳓मनसः ।  
 पित᳓रो यमरा᳓ज्ये ।  
@@ -1357,44 +1357,13 @@ theirs is the world, svadhā, homage! May their sacrifice be accomplished among 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/03_grahahomaH/09_ye_sajAtAssamanasaH_jIvA.md">
+</div>
 
-ये᳓ सजाता᳓स्स᳓मनसः ।  
-जीवा᳓ जीवे᳓षु मामकाः᳓ ।  
-ते᳓षाँ श्री᳓र्म᳓यि कल्पताम् ।  
-अस्मिल्ँ᳓ लोके᳓ शतँ᳓ स᳓माः ।  
-</details>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/2/6_sautrAmaNiH_kaukilI_hotram/03_grahahomaH/09_ye_sajAtAssamanasaH_jIvA.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-Those kinsmen of equal mind,  
-who are my living among the living—  
-may their glory be established in me  
-in this world for a hundred autumns.
-</details>
-
-<details><summary>मूलम्</summary>
-
-ये स॑जा॒तास्सम॑नसः ।  
-जी॒वा जी॒वेषु॑ माम॒काः ।  
-तेषाँ॒ श्रीर्मयि॑ कल्पताम् ।  
-अ॒स्मिल्ँ लो॒के श॒तँ समाः॑ ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-ये᳓ । सजाताः᳓ । स᳓मनसः । जीवाः᳓ । जीवे᳓षु । मामकाः᳓ । ते᳓षाम् । श्रीः᳓ । म᳓यि । कल्पताम् । अस्मि᳓न् । लोके᳓ । शत᳓म् । स᳓माः ।
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-जीवेषु वर्तमानेषु मध्ये मामका मदीया ये जीवाः सजाता भ्रात्रादिरूपेण मया सहोत्पन्नाः संगतमनस्का मयि प्रीतियुक्ताः तेषां सर्वेषां श्रीः धनादिसंपत् मयि कल्पतां तिष्ठतु मदधीना भवत्वित्यर्थः । अस्मिन् लोके मम समाः शतसंख्याकाः सन्तु ॥
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ द्वे स्रुती</summary>
 
 द्वे᳓ स्रुती᳓ अशृणवम्पितृणा᳓म् ।  
 अह᳓न्देवा᳓नामुत᳓ म᳓र्त्यानाम् ।  
@@ -1887,7 +1856,7 @@ Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Mensch
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ इदँ हवि</summary>
 
 इदँ᳓ हविᳶ᳓ प्रज᳓ननम्मे अस्तु ।  
 द᳓शवीरँ सर्व᳓गणँ स्वस्त᳓ये ।  
@@ -1924,7 +1893,7 @@ winning domestic animals, winning safety, winning the world.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अग्नि</summary>
 
 अग्निᳶ᳓ प्रजा᳓म्बहुला᳓म्मे करोतु ।  
 </details>
@@ -1952,7 +1921,7 @@ May Agni make my offspring abundant.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ अन्नम्पयो रेतो</summary>
 
 अ᳓न्नम्प᳓यो रे᳓तो अस्मा᳓सु धत्त ।   
 </details>
@@ -1980,7 +1949,7 @@ Place food, milk, \[and\] seed in us;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ रायस्पोषमिषमूर्जमस्मासु</summary>
 
 राय᳓स्पो᳓षमि᳓षमू᳓र्जमस्मा᳓सु दीधरत्स्वा᳓हा ॥13॥
 </details>

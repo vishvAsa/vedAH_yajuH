@@ -32,8 +32,24 @@ title = "२१ अर्घ्यसंयोजनम्"
 
 सव्यञ्जान्वाच्य प्रेतार्घ्यमादाय 
 
-> समानोमन्त्रः, समितिः, समानी। समानं, मनॅः, सहचि॒त्तं, एषां। समानं केतः, अभिसँरॅभध्वम्। संज्ञानेनवः। ह॒विषा॑, य॒जा॒मः। स॒मा॒नीवः, आकूतिः। समाना, हृदयानिवः। स॒मानमॅस्तु, वो मनः। यथॉवः, सुसहासति॥ (श्रीमते नारायणाय नमः) 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/4/12_samAno.md">
+समानो᳓ म᳓न्त्रस्स᳓मितिस्समानी᳓ ।  
+समान᳓म्म᳓नस्सह᳓ चित्त᳓मेषाम् ।  
+समान᳓ङ्के᳓तो अभि᳓ सँ᳓रभध्वम् ।  
+संज्ञा᳓नेन वो हवि᳓षा यजामः ।
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ११(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/4_upahomAdi/4">
+<details open><summary>विश्वास-प्रस्तुतिः - ११ समानी व</summary>
+
+समानी᳓ व आ᳓कूतिः ।  
+समाना᳓ हृ᳓दयानि वः ।  
+समान᳓मस्तु वो म᳓नः ।  
+य᳓था वस्सु᳓सहा᳓सति ॥38॥
+</details>
+</div>
+
+*(श्रीमते नारायणाय नमः)*
 
 इति प्रेतार्घ्यं पित्राद्यर्घ्येणसंयोजयेत्॥
 

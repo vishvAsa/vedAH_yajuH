@@ -10,37 +10,11 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/01_punar_UrjA_ni.md">
+</div>
 
-पु᳓नर् **ऊर्जा᳓ नि᳓ वर्तस्व**  
-पु᳓नर् अग्न इषा᳓ ऽऽयुषा ।  
-पु᳓नर् नᳶ **पाहि** विश्व᳓तः +++(अंशसः इति कौथुमे)+++ ॥
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-<details><summary>Keith</summary>
-
-Return with strength, return,  
-O Agni, with food and life;  
-Again guard us on all sides.
-</details>
-
-<details><summary>मूलम्</summary>
-
-पुन॑रू॒र्जा नि व॑र्तस्व॒ पुन॑रग्न इ॒षाऽऽयु॑षा ।  
-पुन॑र्नᳶ पाहि वि॒श्वतः॑  ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-पुनः॑ । ऊ॒र्जा । नीति॑ । व॒र्त॒स्व॒ । पुनः॑ । अ॒ग्ने॒ । इ॒षा । आयु॑षा ॥ पुनः॑ । नः॒ । पा॒हि॒ । वि॒श्वतः॑ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-हे अग्ने ऊर्जा रसेन क्षीरादिना अस्मभ्यं देयेन सह निवर्तस्व पुनरुद्वासितोहमिति सञ्जातमन्युर्वा मय्युपेक्षां मा कार्षीः । इषा अन्नेन आयुषा च सह पुनार्निवर्तस्वेत्येव । उद्वासननिमित्ताच्च पापाद्विश्वतोस्मान्पुनः पाहि रक्ष ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/03_punar-AdhAna-mantrAH/04_abhitaH_puroDAsham/01_punar_UrjA_ni.md">
+</div>
 
 _______
 <details><summary>सर्वा अवतारिकाः</summary>
@@ -51,7 +25,7 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सह रय्या</summary>
 
 सह᳓ **रय्या᳓**+++(←उदात्तयणः इति स्वरः)+++ **नि᳓ वर्तस्व᳓**  
 +अ᳓ग्ने **पि᳓न्वस्व** धा᳓रया ।  

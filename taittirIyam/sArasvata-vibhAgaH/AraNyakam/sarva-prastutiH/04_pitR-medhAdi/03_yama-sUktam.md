@@ -37,13 +37,8 @@ Ceremonies after cremation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/20 व्यत्यस्त-स्वराः)</summary>
-
-प्र᳓ केतु᳓ना बृहता᳓ भात्य् अग्नि᳓र्  
-आवि᳓र् वि᳓श्वानि वृषभो᳓ रोरवीति ।  
-दिव᳓श् चिद् अ᳓न्ताद् उ᳓प मा᳓म् [[उदा᳓नड्|उ᳓दानड्]]  
-अपा᳓म् उप᳓स्थे महिषो᳓ ववर्ध ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/01_pra_ketunA_bRhatA.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/65_pra_ketunAbRhatA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -161,13 +156,8 @@ This Fire is burning with great flames; he sounds all the worlds being born as a
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
-
-इद᳓न् त ए᳓कं पर᳓ ऊत ए᳓कन्  
-तृती᳓येन ज्यो᳓तिषा सं᳓विशस्व ।  
-[[सव्ँवे᳓शनस्|सव्ँ᳓वे᳓शनस्]] तनु᳓वै चा᳓रुर् एधि  
-प्रियो᳓ देवा᳓नां परमे᳓ सध᳓स्थे ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/02_idan_ta_ekam.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/18/003_pitRmedhaH/07_idaM_taekam.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -695,7 +685,7 @@ Als dich den Adler, der am Himmel hinflog, die Menschen sahn mit Sehnsucht in de
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अतिद्रव सारमेयौ</summary>
 
 अ᳓तिद्रव सारमेयौ᳓ श्वा᳓नौ चतुर्-अक्षौ᳓  
 शब᳓लौ साधु᳓ना पथा᳓ ।  
@@ -1071,7 +1061,7 @@ Addresses to Yama and his two envoys, the two four-eyed dogs to take care of the
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यौ ते</summary>
 
 यौ᳓ ते श्वा᳓नौ यम-रक्षिता᳓रौ  
 चतुरक्षौ᳓ पथिर᳓क्षी नृच᳓क्षसा ।  
@@ -1189,7 +1179,7 @@ O king Yama, who are your two dogs, having four eyes, protectors of the ways, fa
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ उरुणसाव्</summary>
 
 उरु-णसा᳓व् असुतृ᳓पाव् उलुम्बलौ᳓  
 यम᳓स्य दूतौ᳓ चरतो व᳓शाँ अ᳓नु ।  
@@ -1647,7 +1637,7 @@ Den einen rieselt Somatrank, die andern lieben fette Kost; Auch sie, für die de
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ ये युद्ध्यन्ते</summary>
 
 ये᳓ यु᳓द्ध्यन्ते प्रध᳓नेषु  
 शू᳓रासो ये᳓ तनु-त्य᳓जः ।  
@@ -1990,13 +1980,8 @@ Die kämpfen in so mancher Schlacht, ihr Leben lassen, Helden kühn, Die Opfer l
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/15 व्यत्यस्त-स्वराः)</summary>
-
-त᳓पसा ये᳓ अनाधृष्या᳓स्  
-त᳓पसा ये᳓ [[सु᳓वर्|सुवर्]] गताः᳓ ।  
-त᳓पो ये᳓ चक्रिरे᳓ मह᳓त्   
-ताँ᳓श् चिद् एवा᳓पि गच्छतात् ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/09_tapasA_ye_anAdhRShyAs.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/154/02_tapasA_ye.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -2350,61 +2335,11 @@ Addresses to relatives to take bath in the three pits dug in the north of the cr
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/10_ashmanvatI_revatIs.md">
+</div>
 
-अ᳓श्मन्वती [[रेवतीस्|रेव᳓तीस्]] सँ᳓-रभध्वम्  
-उ᳓त्तिष्ठत प्र᳓तरता सखायः ।  
-अ᳓त्रा जहाम ये᳓ अ᳓सन्न् अ᳓शेवाश्  
-शिवा᳓न् वय᳓म् अभि᳓ वा᳓जान् उ᳓त्तरेम । (7)
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-Friends, stand up, enter and swim the (three pits) having stones and wealth (waters); we leave all the troubles here; and may we pass to the auspicious vigours (2).
-</details>
-
-<details><summary>मूलम्</summary>
-
-अश्म॑न्वती रेवती॒स्सँ र॑भध्व॒ मुत्ति॑ष्ठत॒ प्रत॑रता सखायः ।  
-अत्रा॑ जहाम॒ ये अस॒न्नशे॑वाश्शि॒वान् व॒यम॒भि वाजा॒नुत्त॑रेम । (7)
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः - 1/20 व्यत्यस्त-स्वराः)</summary>
-
-- अ᳓श्मन्वती (*RV*-1, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
-- रेवतीः → **रेव᳓तीः** (प्रथमाद्वितीयाबहुवचने रेव᳓तीः मध्योदात्ता श्रेयसी, *RV*-4 १०.१८.७, *TS*-6, *TB*-3, *KS*-2, *MS*-8; पादादावामन्त्रिते रे᳓वतीः पा॰ ६.१.१९८, *TS*-6/11)
-- स᳓म् (*TS*-547, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- रभध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *SB-K*-1, *KS*-3, *MS*-3)
-- उ᳓त् (*TS*-274, *RV*-293, *SB-K*-667, *KS*-81, *MS*-339)
-- तिष्ठत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-4, *SB-K*-1, *MS*-1)
-- प्र᳓ (*TS*-780, *RV*-1193, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
-- तरता (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1)
-- सखायः (अपादादौ आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-2, *MS*-2)
-- अ᳓त्र (*TS*-20, *RV*-120, *TB*-4, *SB-K*-440, *VS-K*-8, *KS*-15, *MS*-59)
-- जहाम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
-- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-55/728, *TK*-14/66, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-71/244, *VS-K*-84/456, *KS*-66/818, *MS*-201/3763)
-- अ᳓सन् (*TS*-1, *RV*-7, *SB-K*-6, *KS*-1, *MS*-1; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- अ᳓शेवाः (*RV*-1/2)
-- शिवा᳓न् (*TS*-0/59, *RV*-1/50, *TB*-0/21, *AV*-2/83, *SB-M*-1/52, *SB-K*-1/49, *VS-M*-2/41, *VS-K*-2/44, *KS*-1/26, *MS*-1/68)
-- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-37/114, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-56/127, *VS-K*-60/178, *KS*-46/242, *MS*-120/641)
-- अभि᳓ (*TS*-345, *RV*-754, *TB*-32, *TK*-5, *SB-K*-595, *VS-K*-28, *KS*-76, *MS*-346)
-- वा᳓जान् (*TS*-1/92, *RV*-36/350, *TB*-0/23, *AV*-5/49, *SB-M*-3/73, *SB-K*-4/71, *VS-M*-2/48, *VS-K*-2/56, *KS*-1/53, *MS*-3/115)
-- उ᳓त् (*TS*-274, *RV*-293, *SB-K*-667, *KS*-81, *MS*-339)
-- तरेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-16, *SB-K*-1, *KS*-2, *MS*-1)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अश्मभिः पाषाणैः सिकताभिश्च तद्वतीः रेवतीर् उदकाख्येन धनेन तद्वतीः। 'रयेर्मतौ बहुलम्' इति सम्प्रसारणम् । एवम्भूताः कः संरभध्वम् उत्तिष्ठत प्रतरत च कर्षूर् हे सखायः! समानख्यातयो ज्ञातयः! अत्र कर्षूः श्मशाने वा जहाम परित्यजामः । ये अस्माकम् अशेवा असुखाः । शेवमिति सुखनाम । असन् । अस्तेः पञ्चमो लकारः । स्युर् यान्यस्माकमसुखानि तान्यत्रैव जहाम । शिवांस्तु वाजान् अभि । वाजानित्यन्ननाम । शिवान्यन्नानि प्रत्य् उत्तरेम कर्षूभ्यः ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-कर्षूः कुल्याः, तत्रत्यास्व् अप्स्व् अवगाहनाय ज्ञातयः परस्परं संबोध्यन्ते - हे सखायो, ऽश्मन्वतीः पाषाण-युक्ता रेवतीर् धन-हेतु-भूता अपः संरभध्वं प्रविशत। उत्तिष्ठतोत्साह-वन्तः सन्तः प्रत्युद्गच्छत। अनेन क्रमेण प्रतरत कुल्या-त्रयं प्रकर्षेण तरत। अत्रास्मिन् दहन-देशे ऽशेवाः सेवितुम् अशक्या दुःख-विशेषा ये केचिद् असं पूर्वम् आसंस् तान् सर्वान् जहीम परित्यजाम। शिवान् सुख-हेतून् वाजान् गति-विशेषान् अन्न-विशेषान् वाभिलक्ष्य वयम् उत्तरेमोत्तीर्णा भवाम।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/03_yama-sUktam/10_ashmanvatI_revatIs.md">
+</div>
 
 ## सर्पणम्
 
@@ -2431,59 +2366,11 @@ Mantra for passing through two Palasa sticks planted over the pits.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/11_yad_vai_devasya.md">
+</div>
 
-य᳓द् वै᳓ देव᳓स्य सवितुः᳓ पवि᳓त्रँ  
-सह᳓स्रधारव्ँ वि᳓ततम् अन्त᳓रिक्षे ।  
-ये᳓ना᳓पुनाद् इ᳓न्द्रम् अ᳓नार्तम् आ᳓र्त्यै  
-ते᳓नाहं᳓ माँ᳓ सर्व᳓तनुं पुनामि ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-What is, verily, thousand-streamed, purifying (ray) of the divine Savitr, spread in the mid-region, by which he purified Indra making him trouble-less from the trouble; I purify all limbs of myself by that.
-</details>
-
-<details><summary>मूलम्</summary>
-
-यद्वै दे॒वस्य॑ सवि॒तुः प॒वित्रँ॑ स॒हस्र॑धारव्ँ॒ वित॑तम॒न्तरि॑क्षे ।  
-येनापु॑ना॒दिन्द्र॒मना॑र्त॒मार्त्यै॒ तेना॒हं माँ स॒र्वत॑नुं पुनामि ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-102/728, *TK*-6/66, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-5/244, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
-- वै᳓ (*TS*-2126, *RV*-26, *TB*-670, *TK*-82, *SB-K*-7309, *KS*-314, *MS*-3722)
-- देव᳓स्य (*TS*-39/1025, *RV*-61/1342, *TB*-11/242, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-38/257, *VS-K*-44/350, *KS*-22/317, *MS*-54/1216)
-- सवितुः᳓ (*TS*-37/120, *RV*-33/157, *TB*-3/40, *AV*-7/96, *SB-M*-43/225, *SB-K*-43/198, *VS-M*-30/88, *VS-K*-31/92, *KS*-22/41, *MS*-46/155)
-- पवि᳓त्रम् (*TS*-13/20, *RV*-37/101, *TB*-8/22, *AV*-2/11, *SB-M*-23/64, *SB-K*-28/63, *VS-M*-0/15, *VS-K*-3/19, *KS*-5/13, *MS*-23/45)
-- सह᳓स्र-धारम् (*TS*-1, *RV*-4/19, *TB*-1, *AV*-4/7, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1/2, *MS*-1)
-- वि᳓-ततम् (*TS*-0/5, *RV*-7/12, *TB*-0/1, *AV*-10/16, *SB-M*-2/4, *SB-K*-2/5, *VS-M*-1/3, *VS-K*-2/3, *KS*-1/2, *MS*-3/5)
-- अन्त᳓रिक्षे (*TS*-28/180, *RV*-23/94, *TB*-2/25, *TK*-1/2, *AV*-28/143, *SB-M*-37/263, *SB-K*-37/257, *VS-M*-2/5, *VS-K*-14/32, *KS*-10/57, *MS*-37/193)
-- ये᳓न (*TS*-36/3383, *RV*-119/4011, *TB*-12/728, *TK*-3/66, *AV*-103/3120, *SB-M*-101/8327, *SB-K*-96/8438, *VS-M*-14/244, *VS-K*-14/456, *KS*-9/818, *MS*-36/3763)
-- अ᳓पुनात् (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-21/160, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-7/44, *VS-K*-32/196, *KS*-41/189, *MS*-118/711)
-- अ᳓नार्तम् (*TS*-0/3, *TB*-0/1, *SB-M*-6/16, *SB-K*-6/12, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓र्त्यै (*TS*-0/54, *TB*-1/8, *AV*-0/4, *SB-M*-0/39, *SB-K*-0/24, *VS-K*-1, *KS*-0/5, *MS*-0/21)
-- ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-101/1327, *TK*-10/135, *AV*-217/3165, *SB-M*-616/20457, *SB-K*-684/20018, *VS-M*-24/268, *VS-K*-25/395, *KS*-80/1225, *MS*-494/5550)
-- अह᳓म् (*TS*-162/565, *RV*-198/1308, *TB*-18/114, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
-- मा᳓म् (*TS*-31/565, *RV*-50/1308, *TB*-8/114, *AV*-47/1252, *SB-M*-42/723, *SB-K*-47/728, *VS-M*-4/127, *VS-K*-6/178, *KS*-12/242, *MS*-37/641)
-- सर्व᳓-तनुम् (स᳓र्व (*MW*) + तनु᳓ (*MW*), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
-- पुनामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *SB-K*-5, *MS*-4)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-वै प्रसिद्धौ । देवस्य सवितुः सम्बन्धि यत् पवित्रं सर्वशोधयितृसहस्रधारं सहस्रसङ्ख्याकम् अन्तरिक्षे विततं रश्मिजालम् । येन रश्मिजालेन इन्द्रमनार्तं कर्तुम् आर्त्यै आर्त्या अपुनात् शोधितवान् कः? सवितैव तेनाहं मां सर्वतनुं समस्तावयवयुक्तम् अन्तर्बहिश्च पुनामि शोधयामि ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-सवितुः प्रेरकस्य सूर्यस्य देवस्य संबन्धि पवित्रं शुद्धि-कारणं यद् वै यद् एव शुल्बं सहस्र-धारं बहु-सन्धिकम् अन्तरिक्षे विततं प्रसृतं, येन सूर्य-रूपेण शुल्बेन पुरा आर्त्या आर्तेः सकाशाद् इन्द्रम् अनार्तम् अपुनाद् आर्तो यथा न भवति तथा शोधितवान्। तेन शुल्बेनाहं प्रेतस्य ज्ञातिं मां मद्-रूपां सर्व-तनुं कृत्स्न-शरीरं पुनामि शोधयामि।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/03_yama-sUktam/11_yad_vai_devasya.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -2507,61 +2394,11 @@ Mantra for plucking out the sticks.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/12_yA_rAShTrAt_pannAd.md">
+</div>
 
-या᳓ राष्ट्रा᳓त् पन्ना᳓द् अ᳓प य᳓न्ति शा᳓खा  
-अभि᳓मृता नृप᳓तिम् इच्छ᳓मानाः ।  
-धातु᳓स् ता᳓स् स᳓र्वाः प᳓वनेन पूताः᳓  
-प्रज᳓या ऽस्मा᳓न् रय्या᳓ व᳓र्चसा सँ᳓सृजाथ ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-May those branches, being purified by the wind of the disposer (sun) make us full with offspring, wealth and brilliance; which are being plucked out by the relative ones of the dead one, desirous of a king (master) from this obtained nation.
-</details>
-
-<details><summary>मूलम्</summary>
-
-या रा॒ष्ट्रात्प॒न्नादप॒ यन्ति॒ शाखा॑ अ॒भिमृ॑ता नृ॒पति॑मि॒च्छमा॑नाः ।  
-धा॒तुस्तास्सर्वाः॒ पव॑नेन पू॒ताः प्र॒जया॒स्मान्र॒य्या वर्च॑सा॒ सँसृ॑जाथ ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456, *KS*-83/818, *MS*-177/3763)
-- राष्ट्रा᳓त् (*TS*-1/54, *RV*-0/10, *TB*-0/27, *AV*-0/53, *SB-M*-5/102, *SB-K*-5/103, *VS-M*-0/19, *VS-K*-0/18, *KS*-0/14, *MS*-0/43)
-- पन्ना᳓त् (*AV*-0/1, *SB-M*-1, *SB-K*-1, *MS*-0/2, निष्ठा क्तः पा॰ ३.२.१०२, प्रत्ययस्वरः पा॰ ३.१.३)
-- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
-- य᳓न्ति (*TS*-13, *RV*-19, *TB*-5, *SB-K*-89, *VS-K*-1, *KS*-1, *MS*-36; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
-- शा᳓खाः (*TS*-0/3, *RV*-1/3, *AV*-1/7, *SB-M*-6/16, *SB-K*-6/9, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1, *MS*-0/2)
-- अभि᳓मृताः (*MS*-0/1, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
-- नृप᳓तिम् (*TS*-1, *RV*-4/6, *AV*-1/2, *VS-M*-1, *VS-K*-1, *MS*-1/2)
-- इच्छ᳓मानाः (*TS*-1/6, *RV*-5/17, *TB*-1/4, *AV*-0/5, *SB-M*-0/4, *SB-K*-0/4, *VS-K*-0/1, *KS*-0/2)
-- धातुः᳓ (*TS*-11/76, *RV*-3/16, *TB*-0/12, *AV*-2/38, *SB-M*-2/15, *SB-K*-2/14, *VS-M*-0/7, *VS-K*-0/13, *KS*-1/7, *MS*-4/33)
-- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-7/1327, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-3/268, *VS-K*-3/395, *KS*-61/1225, *MS*-302/5550)
-- स᳓र्वाः (*TS*-51/287, *RV*-12/68, *TB*-0/109, *AV*-67/444, *SB-M*-143/2264, *SB-K*-143/2224, *VS-M*-9/39, *VS-K*-8/41, *KS*-11/43, *MS*-101/419)
-- प᳓वनेन (*AV*-1/2, प्रातिपदिकम् प᳓वन (*MW*))
-- पूताः᳓ (*TS*-1/14, *RV*-4/15, *TB*-0/4, *TK*-1, *AV*-6/14, *SB-M*-3/24, *SB-K*-3/22, *VS-M*-0/6, *VS-K*-0/8, *KS*-0/1, *MS*-2/19)
-- प्रज᳓या (*TS*-59/482, *RV*-11/70, *TB*-35/208, *TK*-1/10, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-8/53, *VS-K*-11/62, *KS*-10/82, *MS*-44/407)
-- अस्मा᳓न् (*TS*-46/565, *RV*-93/1308, *TB*-3/114, *TK*-1/15, *AV*-119/1252, *SB-M*-51/723, *SB-K*-56/728, *VS-M*-0/127, *VS-K*-5/178, *KS*-17/242, *MS*-50/641)
-- रय्या᳓ (*TS*-9/11, *RV*-1, *TB*-1, *AV*-2, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-2, *VS-K*-3, *KS*-2, *MS*-17)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-13/67, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
-- स᳓म् (*TS*-547, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- सृजाथ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-येषु जीवत्स्वन्यो म्रियते ते अभिमृता ज्ञातयः नृपतिं स्वामिनम् इच्छमाना इच्छन्तः राष्ट्राद् राष्ट्रस्थानीयाद् अस्मदमात्यसङ्घातात् पन्नात् स्वामिनाशेन विपन्नान् निस्सृत्य याश्शाखाः । व्यत्ययेन द्वयोर्बहुवचनम् । ये शाखे अपयन्त्य् अन्तरागच्छन्ति । ता यूयं सर्वाः शाखा धातुर् आदित्यस्य पवनेन रश्मिजालेन पूता अस्मान् प्रजया पुत्रादिकया रय्या धनेन वर्चसा दीप्तया संसृनाथ । पञ्चमो लकारः । संसृष्टान् कुरुत । सर्वत्र जात्यपेक्षं [वा] बहुवचनम् ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-शुल्बस्याधस्ताद् ये ज्ञातयो निर्गच्छन्ति तेषां मध्ये पश्चान् निर्गच्छन् दहन-कर्ता पुरुषः शाखा-द्वयम् अनेन मन्त्रेण व्युदस्येत्। अभिमृता अनुक्रमेण पूर्वं मृताः पुरुषा नृपतिम् इच्छमाना मनुष्याणां पालकं स्वामिनम् इच्छन्तः पन्नात् प्राप्ताद् राष्ट्राद् याः शाखा अपयन्त्य् अपसारयन्ति, ताः सर्वाः शाखा धातुः-संबन्धिना पवनेन शुद्धि-हेतुना पूताः शोधिताः। तादृश्यो हे शाखा, अस्मान् प्रजादिभिः संसृजाथ संयोजयत।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/03_yama-sUktam/12_yA_rAShTrAt_pannAd.md">
+</div>
 
 ## अवगाहान्तम्
 
@@ -2592,7 +2429,7 @@ Mantra addressing the sun.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ उद् वयन्</summary>
 
 उ᳓द् वय᳓न् त᳓मसस् प᳓रि  
 प᳓श्यन्तो ज्यो᳓तिर् उ᳓त्तरम् ।  
@@ -2722,7 +2559,7 @@ Mantras for taking bath not seeing each other.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ धाता पुनातु</summary>
 
 धाता᳓ पुनातु सविता᳓ पुनातु ।  
 अग्ने᳓स् ते᳓जसा सू᳓र्यस्य व᳓र्चसा ॥ (8)

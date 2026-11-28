@@ -7,7 +7,15 @@ title = "०४ अन्नप्राशनम्"
 
 प्रत्येकं क्रियमाणे, आदौ प्रतिसरम् अभ्युदयं पुण्याहञ्च कुर्यात् जातकादि सह क्रियमाणे, … नक्षत्रे … राशौ जातं गोत्रं शर्माणम् इमं मम कुमारम्, अन्नप्राशनेन कर्मणा संस्करिष्यामि । तदङ्गं पुण्याहवाचनं करिष्ये ॥ पुण्याहं वाचयीत । दधि, मधु, घृतमोदनमिति संसृज्य 
 
-> भूरपां त्वा॑, ओषेँधीनां, रसं, प्राशँयामि, शि॒वास्ते, आपॅः, ओषँधयः, स॒न्तु॒, अ॒न॒मीवास्ते॑, आपॅः, ओषँधयः सन्तु शर्मन् भुवोऽपांत्वा॑, ओषँधीनां, रसं, प्राशँयामि शि॒वास्ते, आपॅः, ओषँधयः, स॒न्तु, अ॒न॒मीवास्ते॑, आपॅः, ओषँधयः स॒न्तु शर्म॒न् [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/11_bhUrapAm_tvauShadhInAm.md">
+भू᳓र् अपां᳓ त्वौ᳓षधीनाँ र᳓सं प्रा᳓शयामि।  
+शिवा᳓स्त आ᳓प ओ᳓षधयस् सन्त्व्,  
+अनमीवा᳓स् त आ᳓प ओ᳓षधयस् सन्त्व् असौ+++(→नामनिर्देशः)+++ ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/12_bhuvo-pAm_tvauShadhInAm.md">
+भु᳓वोऽपाँ᳓ …।
+</div>
 
 அந்நப்ராசனம்
 
@@ -15,4 +23,12 @@ title = "०४ अन्नप्राशनम्"
 
 [[65]]
 
-सुवँर॒पांत्वा॑, ओषँधीनां, रसं, प्राशँयामि, शि॒वास्तै, आपॅः, ओषँधयः, स॒न्तु॒, अ॒न॒मीवास्ते॑, आपॅः, ओषँधयः स॒न्तु शर्मन् भूभुर्वस्सुवॅः, अ॒पांत्वा॑, ओषँधीनां, रसं प्राशँयामि शि॒वास्ते॑, आपॅः ओषँधयः, स॒न्तु, अ॒न॒मीवास्ते, आपॅः ओषँधयः स॒न्तु शर्मन् चतुर्णामन्ते प्राशयेत् ॥ [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/13_suvarapAm_tvauShadhInAm.md">
+सु᳓वरपां᳓  …।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/14_bhUrbhuvaH_suvarapAm_tvauShadhInAm.md">
+भू᳓र्भु᳓वस्सु᳓वरपां᳓ …।
+</div>
+
+चतुर्णाम् अन्ते प्राशयेत् ॥

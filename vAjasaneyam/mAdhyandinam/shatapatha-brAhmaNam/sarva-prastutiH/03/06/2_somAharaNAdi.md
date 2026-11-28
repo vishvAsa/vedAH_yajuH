@@ -127,7 +127,7 @@ They have the same marks, and those which have the same marks are congeners; and
 ## ०२
 
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/34 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/34 व्यत्यस्त-स्वराः)</summary>
 
 दिवि᳓ वै᳓ सो᳓म आ᳓सीत्॥  
 अ᳓थेह᳓ देवाः᳓।  
@@ -247,7 +247,7 @@ They have the same marks, and those which have the same marks are congeners; and
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/12 व्यत्यस्त-स्वराः)</summary>
 
 यतरा᳓ नौ द᳓वीयः +++(दूरतरं)+++ पराप᳓श्याद्,  
 आत्मा᳓नं नौ सा᳓ [[जयाद्|जया᳓द्]] 
@@ -345,7 +345,7 @@ Kadrū then said, 'Espy thou!'
 ## ०४
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/20 व्यत्यस्त-स्वराः)</summary>
 
 सा᳓ ह सुपर्ण्य् उ᳙वाच॥  
 "[[अ᳓स्य|अस्य᳓]] सलिल᳓स्य पारे᳓ ऽश्वः श्वेत᳓+++(ः)+++ स्थाणौ᳓ सेवते।  
@@ -407,7 +407,7 @@ Kadrū then said, 'Espy thou!'
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/19 व्यत्यस्त-स्वराः)</summary>
 
 "तं᳓ [[ही|ही᳓]]"त्य् अ᳓थ ह कद्रू᳓र् उवाच,  
 "त᳓स्य वा᳓लो न्यषञ्जि।  
@@ -465,7 +465,7 @@ Kadrū then said, 'Espy thou!'
 ## ०५
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (3/47 व्यत्यस्त-स्वराः)</summary>
 
 सा᳓ य᳓त् सुपर्ण्य् उ᳙वा᳓च -  
 "अस्य᳓ सलिल᳓स्य पार᳓" इ᳓ति --  
@@ -720,7 +720,7 @@ Kadrū said, 'Fly thou thither; thou wilt tell us, which of us is the winner.'
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/24 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् +ध त᳓थैवास य᳓था कद्रू᳓र् उवा᳓च।  
 ता᳓म् [[आ᳓गता᳓म्|आ᳓गताम्]] अभ्यु᳓वाद -  
@@ -791,7 +791,7 @@ When she had returned, she (Kadrū) said to her, 'Hast thou won, or I?' --'Thou!
 ## ०८
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/32 व्यत्यस्त-स्वराः)</summary>
 
 सा᳓ ह कद्रू᳓र् उवाच॥  
 
@@ -961,7 +961,7 @@ sharp-edged they closed together at every twinkling of the eye; and these two, f
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
 
 दीक्षा-तप᳓सौ [[हैव|हैव᳓]] ते᳓ आसतुः।+++(5)+++  
 त᳓म् एते᳓ गन्धर्वाः᳓ सोम-रक्षा᳓ जुगुपुः।  
@@ -1024,7 +1024,7 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 ## १०
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
 
 त᳓योर् अन्यतरां᳓ कुशी᳓म् आ᳓चिच्छेद॥  
 तां᳓ देवे᳓भ्यः प्र᳓ददौ -  
@@ -1228,7 +1228,7 @@ Those Gandharva Soma-wardens watched over him; they are these hearths, these fir
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्मात् खादिरो᳓ यू᳓पो भवति,  
 खादिर᳓ [[स्फ्यो᳓|स्फ्यो᳙]]।
@@ -1464,7 +1464,7 @@ Let him therefore guard him diligently, for verily in whosesoever charge they ca
 ## १५
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/11 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्माद् ब्रह्मचारि᳓ण [[आचा᳓र्यं|आचार्यं᳙]] गोपायन्ति, गृहा᳓न् पशू᳓न्।  
 ने᳓न् नो ऽपह᳓रान् इ᳓ति।
@@ -1610,7 +1610,7 @@ By means of him Suparṇī redeemed herself from the gods; wherefore they say, '
 ## १६
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (1/9 व्यत्यस्त-स्वराः)</summary>
 
 ऋणं᳓ ह [[वै|वै᳓]] पु᳓रुषो जा᳓यमान एव᳓ मृत्यो᳓र् आत्म᳓ना जायते।
 </details>
@@ -1658,7 +1658,7 @@ By means of him Suparṇī redeemed herself from the gods; wherefore they say, '
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः (2/19 व्यत्यस्त-स्वराः)</summary>
 
 [[स|स᳓]] [[यद्|य᳓द्]] य᳓जते, य᳓थैव᳓ त᳓त् सुपर्णी᳓ देवे᳓भ्य आत्मा᳓नं निर᳓क्रीणीतैव᳓म् एवै᳓ष᳓ एत᳓न् मृत्यो᳓र् आत्मा᳓नं नि᳓ष्क्रीणीते॥+++(5)+++
 </details>
@@ -2007,8 +2007,7 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 - अब्रुवन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-55, *AV*-8, *RV*-3, *TB*-30, *TK*-3, *KS*-8, *MS*-28)
 - तृतीय-सवने᳓ (*TS*-13/38, *TB*-8/13, *SB-K*-16/62, *KS*-0/1, *MS*-12/22)
 - वः (अनुदात्तम्, पा॰ ८.१.१८, *RV*-565, *AV*-273, *TS*-190, *VS-M*-114, *TB*-51, *TK*-6, *KS*-122, *MS*-231)
-- घृति (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- आ᳓-हुतिः (*TS*-8/82, *RV*-3/14, *TB*-4/62, *TK*-0/1, *AV*-4/15, *SB-K*-54/355, *VS-M*-0/4, *VS-K*-0/1, *KS*-5/23, *MS*-23/102)
+- घृत्या᳓-हुतिः (*MW* ŚBr., Weber-पाठः, श्रीधरादि-पाठः)
 - प्र᳓ (*RV*-1193, *TS*-780, *AV*-568, *VS-M*-203, *TB*-401, *TK*-34, *KS*-205, *MS*-829)
 - आप्स्यति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 - न᳓ (*RV*-2095, *TS*-758, *AV*-649, *TB*-429, *TK*-53, *KS*-139, *MS*-806)
@@ -2027,8 +2026,7 @@ and having come up they said, 'Do ye let us share in the sacrifice, exclude us n
 - एषा᳓ (*TS*-122/1674, *RV*-26/320, *TB*-47/858, *TK*-4/130, *AV*-26/340, *SB-K*-466/10669, *VS-M*-8/129, *VS-K*-4/26, *KS*-20/287, *MS*-162/2587)
 - तृतीय-सवने᳓ (*TS*-13/38, *TB*-8/13, *SB-K*-16/62, *KS*-0/1, *MS*-12/22)
 - एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24, *KS*-434, *MS*-2376)
-- घृति (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
-- आ᳓-हुतिः (*TS*-8/82, *RV*-3/14, *TB*-4/62, *TK*-0/1, *AV*-4/15, *SB-K*-54/355, *VS-M*-0/4, *VS-K*-0/1, *KS*-5/23, *MS*-23/102)
+- घृत्या᳓-हुतिः (*MW* ŚBr., Weber-पाठः, श्रीधरादि-पाठः)
 - प्र᳓ (*RV*-1193, *TS*-780, *AV*-568, *VS-M*-203, *TB*-401, *TK*-34, *KS*-205, *MS*-829)
 - आप्नोति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-43, *TB*-39, *TK*-13, *AV*-9, *KS*-20, *MS*-73)
 - न᳓ (*RV*-2095, *TS*-758, *AV*-649, *TB*-429, *TK*-53, *KS*-139, *MS*-806)
@@ -3110,7 +3108,7 @@ behind [^egg_408] the men are the beasts;
 - अ᳓नु (*RV*-475, *TS*-471, *AV*-299, *TB*-221, *TK*-67, *VS-M*-115, *KS*-96, *MS*-350)
 - व᳓यांसि (*TS*-9/66, *RV*-4/124, *TB*-0/48, *TK*-3, *AV*-7/37, *SB-K*-21/124, *VS-M*-0/73, *VS-K*-0/43, *KS*-1/11, *MS*-9/75)
 - ओ᳓षधयः (*TS*-63/161, *RV*-3/65, *TB*-31/69, *TK*-0/2, *AV*-26/98, *SB-K*-91/202, *VS-M*-21/49, *VS-K*-17/32, *KS*-12/34, *MS*-71/161)
-- व᳓नस्प᳓तयः (*TS*-13, *TB*-2, *TK*-1, *AV*-3, *SB-K*-27, *VS-M*-3, *VS-K*-2/3, *KS*-2, *MS*-13/14)
+- व᳓नस्-प᳓तयः (*TS*-13, *TB*-2, *TK*-1, *AV*-3, *SB-K*-27, *VS-M*-3, *VS-K*-2/3, *KS*-2, *MS*-13/14)
 - य᳓त् (*MW*, *TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
 - इद᳓म् (*MW*, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-30/151, *KS*-72/319, *MS*-231/1379)
 - कि᳓म् (*MW*, *TS*-53/158, *RV*-98/375, *TB*-32/93, *TK*-10/20, *AV*-46/216, *SB-K*-439/850, *VS-M*-22/98, *VS-K*-13/72, *KS*-4/42, *MS*-66/183)

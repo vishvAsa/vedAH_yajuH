@@ -20,8 +20,23 @@ title = "०७ अर्घ्यग्रहणं"
 
 इति यवान् निक्षित्य 
 
-> मधुवाताः + ओषधीः मधु मत्रुनक्तं + पिता - मधु, मधुमान्नः + भवन्तुनः मधु। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/06_madhu_vAtA.md">
+म᳓धु वा᳓ता ऋतायते᳓  
+म᳓धु क्षरन्ति सि᳓न्धवः  
+मा᳓ध्वीर् नः सन्तु ओ᳓षधीः
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/07_madhu_naktamutoShaso.md">
+म᳓धु न᳓क्तम् उतो᳓ष᳓सो  
+म᳓धुमत् पा᳓र्थिवं र᳓जः  
+म᳓धु द्यउ᳓र् अस्तु नः पिता᳓
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+म᳓धुमान् नो व᳓नस्प᳓तिर्  
+म᳓धुमाँ अस्तु सू᳓रियः  
+मा᳓ध्वीर् गा᳓वो भवन्तु नः
+</div>
 
 इति मधु त्रयेऽपि किञ्चित्किञ्चिन्मधुदद्यात् । 
 

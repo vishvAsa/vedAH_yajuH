@@ -2,7 +2,7 @@
 title = "३७ विज्ञानं ब्रह्म?"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ स तपस्तप्त्वा</summary>
 
 स᳓ त᳓पस्तप्त्वा᳓ । (36) विज्ञा᳓नं ब्र᳓ह्मे᳓ति व्य᳙जानात् ।
 </details>
@@ -20,7 +20,7 @@ Having performed penance:— He understood knowledge as Brahman.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विज्ञानाद्ध्येव</summary>
 
 विज्ञा᳓नाद्ध्ये᳙व खल्विमा᳓नि भू᳓तानि जा᳓यन्ते ।
 </details>
@@ -38,7 +38,7 @@ For from knowledge, verily, these beings are born;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ विज्ञानेन</summary>
 
 विज्ञा᳓नेन जा᳓तानि जी᳓वन्ति ।
 </details>
@@ -56,7 +56,7 @@ by knowledge, when born, they live;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ विज्ञानम्</summary>
 
 विज्ञा᳓नं प्र᳓यन्त्यभि᳓सव्ँ᳓ विशन्ती᳓ति ।
 </details>
@@ -74,7 +74,7 @@ to knowledge they go and merge (thereinto).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ तद्विज्ञाय</summary>
 
 त᳓द्विज्ञा᳓य । पु᳓नरेव᳓ व᳓रुणं पि᳓तरमु᳓पससार ।
 </details>
@@ -92,7 +92,7 @@ Having understood that, he went again to (his) father Varuṇa (and said):
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अधीहि भगवो</summary>
 
 अ᳓धीहि भगवो ब्र᳓ह्मे᳓ति ।
 </details>
@@ -110,7 +110,7 @@ Having understood that, he went again to (his) father Varuṇa (and said):
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ तँ होवाच</summary>
 
 तँ᳓ होवाच । त᳓पसा ब्र᳓ह्म वि᳓जिज्ञासस्व ।
 </details>
@@ -128,7 +128,7 @@ To him he said: "By penance desire to know Brahman;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ तपो ब्रह्मेति</summary>
 
 त᳓पो ब्र᳓ह्मे᳓ति ।
 </details>
@@ -146,7 +146,7 @@ penance is Brahman."
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ स तपोऽतप्यत</summary>
 
 स᳓ त᳓पोऽतप्यत ।
 </details>

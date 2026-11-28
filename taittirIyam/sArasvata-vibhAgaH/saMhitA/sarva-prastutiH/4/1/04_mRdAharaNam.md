@@ -25,7 +25,7 @@ title = "०४ मृदाहरणम्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सन्ते</summary>
 
 स᳓न्ते वायु᳓र्मातरि᳓श्वा दधातूत्ताना᳓यै हृ᳓दयय्ँय᳓द्वि᳓लिष्टम् ।  
 देवा᳓नाय्ँय᳓श्च᳓रति प्राण᳓थेन त᳓स्मै च देवि व᳓षडस्तु तु᳓भ्यम् ।  
@@ -90,7 +90,7 @@ To him who moveth with the expiration of the gods, With thee, O goddess, be Vasa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ सुजातो ज्योतिषा</summary>
 
 सु᳓जातो ज्यो᳓तिषा सह᳓ श᳓र्म व᳓रूथमा᳓सदस्सु᳓वः ।  
 वा᳓सो अग्ने विश्व᳓रूपँ स᳓व्व्ँययस्व विभावसो ।  
@@ -130,7 +130,7 @@ Put on, O thou that dost abound in light.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ उदु तिष्ठ</summary>
 
 उ᳓दु तिष्ठ स्वध्वरा᳓वा नो देव्या᳓ कृपा᳓ ।  
 दृशे᳓ च भासा᳓ बृहता᳓ सुशुक्व᳓निरा᳓ग्ने याहि सुशस्ति᳓भिः ।  [14]
@@ -828,7 +828,7 @@ Steh aufrecht nun zu unserm Schutz, erhaben wie Gott Savitar, Erhaben als der Be
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ स जातो</summary>
 
 स᳓ जातो᳓ ग᳓र्भो असि रो᳓दस्योर᳓ग्ने चा᳓रुर्वि᳓भृत ओ᳓षधीषु ।  
 चित्र᳓श्शि᳓शुᳶ प᳓रि त᳓माँस्यक्तᳶ᳓ प्र᳓ मातृ᳓भ्यो अ᳓धि क᳓निक्रदद्गाः ।
@@ -1344,7 +1344,7 @@ Du bist erzeugt als Spross der beiden Welten, o Agni, schön vertheilt in die Ge
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ स्थिरो भव</summary>
 
 स्थिरो᳓ भव वीड्व᳙ङ्ग आशु᳓र्भव वाज्य᳙र्वन् ।  
 पृथु᳓र्भव सुष᳓दस्त्व᳓मग्नेᳶ᳓ पुरीषवा᳓हनः ।
@@ -1524,7 +1524,7 @@ be broad, easy to sit upon, bearer of Agni's soil.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ शिवो भव</summary>
 
 शिवो᳓ भव [15] प्रजा᳓भ्यो मा᳓नुषीभ्यस्त्व᳓मङ्गिरः ।  
 मा᳓ द्या᳓वापृथिवी᳓ अभि᳓ शूशुचो मा᳓न्त᳓रिक्षम्मा᳓ व᳓नस्प᳓तीन् ।
@@ -1673,7 +1673,7 @@ Nor the atmosphere, nor the trees.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ प्रैतु वाजी</summary>
 
 प्रै᳓तु वाजी᳓ क᳓निक्रदन्ना᳓नदद्रा᳓सभᳶ प᳓त्वा ।  
 भ᳓रन्नग्नि᳓म्पुरीष्य᳙म्मा पाद्या᳓युषᳶ पुरा᳓ ।
@@ -1745,7 +1745,7 @@ bearing Agni suitable for the loose earth; may he not fall before [his full] lif
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ रासभो</summary>
 
 रा᳓सभो वाङ्क᳓निक्रदत्सु᳓युक्तो वृषणा र᳓थे ।  
 स᳓ वामग्नि᳓म्पुरीष्य᳙माशु᳓र्दूतो᳓ वहादितः᳓ ।  
@@ -1786,7 +1786,7 @@ Bear hence Agni of the dust.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ वृषाग्निव्ँवृषणम्भरन्नपाङ्गर्भँ</summary>
 
 वृ᳓षाग्निव्ँ᳓वृषणम्भ᳓रन्नपा᳓ङ्ग᳓र्भँ समुद्रि᳓यम् ।  
 अ᳓ग्न आ᳓ याहि [16]  वीत᳓य ऋतँ᳓ सत्य᳓म् ।  
@@ -1835,7 +1835,7 @@ As holy order and truth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० ओषधय प्रति</summary>
 
 ओ᳓षधयᳶ प्र᳓ति गृह्णीताग्नि᳓मेतँ᳓ शिव᳓माय᳓न्तमभ्य᳓त्र युष्मा᳓न् ।  
 व्य᳓स्यन्वि᳓श्वा अ᳓मतीर᳓रातीर्निषी᳓दन्नो अ᳓प दुर्मतिँ᳓ हनत् ।
@@ -1943,11 +1943,8 @@ dispelling all distress and disease, sitting down, strike away ill-will from us!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-ओ᳓षधयᳶ प्र᳓ति मोदध्वमेनम्पु᳓ष्पावतीस्सुपिप्पलाः᳓ ।  
-अयव्ँ᳓वो ग᳓र्भ ऋत्वि᳓यᳶ प्रत्नँ᳓ सध᳓स्थमा᳓सदत् ॥ [17]
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/1/04_mRdAharaNam/12_oShadhaya_prati.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/1/04_mRdAharaNam/12_oShadhaya_prati.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>

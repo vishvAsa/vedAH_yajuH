@@ -12,7 +12,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ते</summary>
 
 ते᳓ शुक्रा᳓सश्शु᳓चयो रश्मिव᳓न्तः ।   
 सी᳓दन्नादित्या᳓ अ᳓धि बर्हि᳓षि प्रिये᳓ ।  
@@ -57,7 +57,7 @@ let them come to our sacrifice, enjoying \[it\]!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ते सूनवो</summary>
 
 ते᳓ सून᳓वो अ᳓दितेᳶ पीवसा᳓मि᳓षम् ।  
 घृत᳓म्पि᳓न्वत्प्र᳓तिहर्यन्नृतेजाः᳓ ।  
@@ -102,7 +102,7 @@ the Ādityas, a food-rich desire for us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आ न</summary>
 
 आ᳓ नᳶ पुत्रा᳓ अ᳓दितेर्यान्तु यज्ञ᳓म् ।  
 आदित्या᳓सᳶ पथि᳓भिर्देवया᳓नैः ॥7 ॥  
@@ -148,7 +148,7 @@ may they enjoy the ghee-anointed sacrificial cake!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ स्कभायत निरृतिँ</summary>
 
 स्कभाय᳓त नि᳓रृतिँ से᳓धता᳓मतिम् ।  
 प्र᳓ रश्मि᳓भिर्य᳓तमाना अमृध्राः ।  
@@ -192,7 +192,7 @@ O Ādityas, according to your desire, at the offered vaṣaṭ-utterance
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ आदित्यान्काममवसे</summary>
 
 आदित्या᳓न्का᳓मम᳓वसे हुवेम ।  
 ये᳓ भूता᳓नि जन᳓यन्तो विचिख्युः᳓ ।   
@@ -237,7 +237,7 @@ may the sons of Aditi sit in the lap,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ स्तीर्णम्बर्हिस्सीदता</summary>
 
 स्तीर्ण᳓म्बर्हि᳓स्सीदता यज्ञे᳓ अस्मि᳓न् ।  
 ध्राजा᳓स्से᳓धन्तो अ᳓मतिन्दुरे᳓वाम् ।  
@@ -284,7 +284,7 @@ the Ādityas, according to desire, enjoying the oblation!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अग्ने नय</summary>
 
 अ᳓ग्ने न᳓य सुप᳓था राये᳓ अस्मा᳓न् ।  
 वि᳓श्वानि देव वयु᳓नानि विद्वा᳓न् ।  
@@ -1025,7 +1025,7 @@ Führ, Agni, uns auf schönem Pfad zum Reichthum der du, o Gott, die Werke alle 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ प्र वश्शुक्राय</summary>
 
 प्र᳓ वश्शुक्रा᳓य भान᳓वे भरध्वम् ।  
 हव्य᳓म्मति᳓ञ्चाग्न᳓ये सु᳓पूतम् ॥ 9 ॥  
@@ -1424,7 +1424,7 @@ Bringt eurem Agni, ihm, dem hellen Lichte, Gebet und Opfer dar als reinste Gabe,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अच्छा गिरो</summary>
 
 अ᳓च्छा गि᳓रो मत᳓यो देवय᳓न्तीः ।  
 अग्निय्ँ᳓यन्ति द्र᳓विणम्भि᳓क्षमाणाः ।   
@@ -1774,7 +1774,7 @@ Zu Agni gehen Lieder und Gebete, die Götter liebend und um Schätze bittend; De
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अग्ने</summary>
 
 अ᳓ग्ने त्व᳓मस्म᳓द्युयोध्य᳓मीवाः ।  
 अ᳓नग्नित्रा अभ्य᳙मन्त कृष्टीः᳓ ।   
@@ -2171,7 +2171,7 @@ O Agni, halte fern von uns die Plagen, die agnilosen Völker lass sie plagen; La
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ अग्ने</summary>
 
 अ᳓ग्ने त्व᳓म्पारया न᳓व्यो अस्मा᳓न् ।  
 स्वस्ति᳓भिर᳓ति दुर्गा᳓णि वि᳓श्वा ।  
@@ -2592,7 +2592,7 @@ O führ aufs neue Agni uns hinüber durch deinen Segen über alle Leiden; Sei ei
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ प्रकारवो मनना</summary>
 
 प्र᳓कारवो मनना᳓ वच्य᳓मानाः ।  
 देवद्री᳓चीन्नयथ देवय᳓न्तः ।   
@@ -2947,7 +2947,7 @@ O Sänger streckt mit Andacht eifrig wirkend, ihr Frommen, vor den Löffel für 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ इन्द्रन्नरो</summary>
 
 इ᳓न्द्रन्न᳓रो युजे᳓ र᳓थम् ।
 </details>
@@ -3002,7 +3002,7 @@ I have grasped your right hand, O Indra,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ जगृभ्णाते</summary>
 
 जगृभ्णा᳓ते द᳓क्षिणमिन्द्र ह᳓स्तम् ॥ 11 ॥  
 वसूय᳓वो वसुपते व᳓सूनाम् ।   
@@ -3374,7 +3374,7 @@ Yours is all this around that has cattle,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ तवेदव्ँ</summary>
 
 त᳓वेदव्ँ᳓ वि᳓श्वमभि᳓तᳶ पशव्य᳙म् ।  
 य᳓त्प᳓श्यसि च᳓क्षसा सू᳓र्यस्य ।   
@@ -3467,7 +3467,7 @@ Unite us with wisdom, O Indra, with cows,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ समिन्द्र णो</summary>
 
 स᳓मिन्द्र णो म᳓नसा नेषि गो᳓भिः ।  
 सँ᳓ सूरि᳓भिर्मघवन्त्सँ᳓ स्वस्त्या᳓ ।  
@@ -3542,7 +3542,7 @@ unite us with the favor of the gods worthy of sacrifice!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ आराच्छत्रुमप</summary>
 
 आरा᳓च्छ᳓त्रुम᳓प बाधस्व दूर᳓म् ।  
 उग्रो᳓ य᳓श्श᳓म्बᳶ पुरुहूत ते᳓न ।  
@@ -3922,7 +3922,7 @@ Auch aus der Ferne stosse fort die Feinde mit deiner starken Waffe, vielgerufner
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ आ वेधसँ</summary>
 
 आ᳓ वेध᳓सँ स᳓ हि᳓ शु᳓चिः ।
 </details>
@@ -3972,7 +3972,7 @@ To the creator, for he is pure;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ बृहस्पति</summary>
 
 बृ᳓हस्प᳓तिᳶ प्रथम᳓ञ्जा᳓यमानः ।  
 महो᳓ ज्यो᳓तिषᳶ परमे᳓ व्योमन् ।   
@@ -4098,7 +4098,7 @@ seven-mouthed, mighty-born, with a roar, seven-rayed, blew away the darknesses.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० बृहस्पतिस्समजयद्वसूनि</summary>
 
 बृ᳓हस्प᳓तिस्स᳓मजयद्व᳓सूनि ।  
 महो᳓ व्रजा᳓न्गो᳓मतो देव᳓ एषः᳓ ।  
@@ -4246,7 +4246,7 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ बृहस्पते</summary>
 
 बृ᳓हस्पते प᳓र्येवा᳓ पित्रे᳓ ।
 </details>
@@ -4292,7 +4292,7 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ आ नो</summary>
 
 आ᳓ नो दिवᳶ᳓ पा᳓वीरवी ।
 </details>
@@ -4336,7 +4336,7 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ इमा जुह्वाना</summary>
 
 इमा᳓ जु᳓ह्वाना य᳓स्ते स्त᳓नः ।
 </details>
@@ -4378,7 +4378,7 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ सरस्वत्यभि नो</summary>
 
 स᳓रस्वत्यभि᳓ नो नेषि ।
 </details>
@@ -4421,7 +4421,7 @@ Seeking to win the waters and the light of heaven, irresistible, Bṛhaspati sla
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ इयँ</summary>
 
 इयँ᳓ शु᳓ष्मेभिर्बिसखा᳓ इवारुजत् ।   
 सा᳓नु गिरीणा᳓न्तविषे᳓भिरूर्मि᳓भिः ।  

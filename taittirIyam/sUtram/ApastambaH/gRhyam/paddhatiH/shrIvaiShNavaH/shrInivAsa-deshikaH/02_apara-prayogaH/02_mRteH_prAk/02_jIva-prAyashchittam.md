@@ -92,11 +92,54 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 > (शन्न आपस्तु द्रुपदा दापो हिष्ठाघमर्षणः ।) 
 
-> शन्नो॑ देवी रभिष्टय आपो॑ भवन्तु पी॒तये॑ । शंय्यो॒ र॒भि स्रवन्तुनः ।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/06_shan_no.md">
+श᳓न् नो देवी᳓र् अभि᳓ष्टये ।  
+आ᳓पो भवन्तु पीत᳓ये ।  
+शय्ँ᳓यो᳓र् अभि᳓ स्रवन्तु नः ।
+</div>
 
-> आपो वा इदँ सर्वं विश्वा भूतान्यापॅः प्राणावा आपॅः प॒शव आपोऽमृत॒ मापोऽन्न॒ मापॅस्स॒म्राडापो॑ वि॒राडापॅस्स्व॒राडाप॒श्छन्दाँस्यापोज्योतीँष्यापॅस्सत्यमापस्सर्वा देवता आपो भूर्भुवस्सुवराप ओम् । द्रुप॒दादि॒वेन्सॅमुचानः। स्व॒न्नस्त्रात्वी मलाँदिव । पूतं प॒वित्रे॑ण॒ वाज्य॑म् । आपॅश्शुन्धन्तु मैनॅसः॥ आपो हिष्ठा मॅयो भुव॒स्तान ऊर्जे दॅधातन। महे रणॉय चक्षसे। योबॅश्शिवतमोरसस्तस्य भाजयतेहनॅः । उशतीरिव मातरॅः । तस्मा ॲरॅङ्गमामवो यस्य क्षयॉय जिन्वॅथ। आप जनयॅथाचनः ॥ ऋतञ्चँसत्यञ्चार्भीद्धात्तपसोऽध्यजायत ।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०१(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/22_Apo_vA_idam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आपो वा</summary>
+
+आ᳓पो वा᳓ इदँ᳓ स᳓र्वं
+</details>
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०८(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/06_avabhRthaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ द्रुपदादिवेन्मुमुचानः</summary>
+
+द्रुपदा᳓दिवे᳓न्मुमुचानः᳓ ।  
+स्विन्न᳓स्स्नात्वी᳓ म᳓लादिव ॥30॥  
+पूत᳓म्पवि᳓त्रेणेवा᳓ज्यम् ।  
+आ᳓पश्शुन्धन्तु मै᳓नसः ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/01_Apo_hi.md">
+आ᳓पो हि᳓ ष्ठा᳓ मयो-भु᳓वस्  
+ता᳓ न ऊर्जे᳓+++(जाः)+++ दधातन ।  
+महे᳓ र᳓णाय+++(=रमणीयाय)+++ च᳓क्षसे+++(=दर्शनाय)+++ ॥
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/02_yo_vaH.md">
+यो᳓ वः शिव᳓तमो र᳓सस्  
+त᳓स्य भाजयतेह᳓ नः ।  
+उशती᳓र्+++(=कामयमाना)+++ इव मात᳓रः ॥
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/03_tasmA_araM.md">
++++(रसाय)+++ त᳓स्मा अ᳓रं+++(=शीघ्रम्)+++ **गमाम** वो  
+य᳓स्य +++(प्रभावेण)+++ **क्ष᳓याय**+++(=निवासाय)+++ **जि᳓न्वथ**+++(=प्रीणयथ)+++ ।  
+आ᳓पो +++(प्रजा)+++ **जन᳓यथा** च नः ॥  
++++(`चादिषु` च इति न स्वर-निघातः। )+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+ऋतं᳓ च सत्यं᳓ चाभी᳙द्धात्  
+त᳓पसो᳓ ऽध्यजायत ।  
+त᳓तो रा᳓त्रिर् +++(रात्र्य् इति शाकले)+++ अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓+++(←अर्णः = जलम्)+++ ॥
+</div>
 
 <details><summary>द्राविडम्</summary>
 
@@ -104,11 +147,76 @@ Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the f
 
 </details>
 
-> ततो रात्रिरजायत॒ ततॅस्समुद्रो अर्णवः । समुद्रादर्णवा दधिँसंवत्स॒रो ॲजायत । अहोरात्राणि विदधद्विश्वस्य मिषतोवशी सूर्याचन्द्रमस धाता यॅथा पूर्वमॅकल्पयत् । दिवॅञ्च पृथि॒वीञ्चा॒न्तरि॑क्षमथोसुवॅः। यत्पृ॑थि॒व्या रजॅस्स्वमान्तरिक्षे विरोदसी । इमाऽस्तदापो वरुणः पुनात्वॅघमर्षणः । एष भूतस्यँ भ॒व्ये भुवनस्य गोप्ता । एष पुण्य कृताल्ँ लोका नेषमृत्योहि॑र॒ण्मय॑म् ।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/01_RtaM_cha.md">
+ऋतं᳓ च सत्यं᳓ चाभी᳙द्धात्  
+त᳓पसो᳓ ऽध्यजायत ।  
+त᳓तो रा᳓त्रिर् +++(रात्र्य् इति शाकले)+++ अजायत  
+त᳓तः समुद्रो᳓ अर्णवः᳓+++(←अर्णः = जलम्)+++ ॥
+</div>
 
-> द्यावॉ पृथि॒व्यो ह्ये॑ण्मय॒सऽत॒िसुवॅः ॥ सन॒स्सुव॒स्सशिँशाधि। आर्द्रं ज्वलॅति ज्योति॑िरहमस्मि । ज्योतिर्ज्वलॅति ब्रह्माहमस्मि । योऽहमॅस्मि ब्रह्म॒ाहमॅस्मि। अ॒हमे॒वाह॑ माञ्जुहोमि॒स्वाहा॑ । अकार्य॒ कार्य॑वकीर्णीस्ते॒नो भ्रूणहा गुँरुतल्पगः। वरु॑णोऽपामँघमर्षण स्तस्मा॑त्पा॒ापात्प्रमुच्यते। र॒जोभूमि॑स्त्व॒मारोदॅयस्व प्रवे॑दन्ति॒धीरा॑ः। पु॒नन्तु॒
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
+समुद्रा᳓द् अर्णवा᳓द्+++(←अर्णः = जलम्)+++ अ᳓धि  
+संवत्सरो᳓ अजायत ।  
+अहो-रात्रा᳓णि विद᳓धद्  
+वि᳓श्वस्य +++(नेत्राभ्यां)+++ मिषतो᳓ +++(प्राणिजातस्य)+++ वशी᳓ +++(प्रजापतिर् demiurge)+++॥
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190/03_sUryAchandramasau_dhAtA.md">
+सूर्या-चन्द्रम᳓सौ धाता᳓  
+यथा-पूर्व᳓म् अकल्पयत् ।  
+दि᳓वं च पृथिवीं᳓ चान्त᳓रिक्षम् अ᳓थो स्वः᳙+++(=लोक-विशेषम्)+++ ॥
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - (?:०१|०२)(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_09_yat_pRthivyAm">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यत् पृथिव्याँ (3/11 व्यत्यस्त-स्वराः)</summary>
+
+य᳓त् पृथिव्याँ᳓ र᳓जस्वम्  
+[[आ᳓न्त᳓रिक्षे|आन्तरिक्षे᳓]] विरो᳓दसी ।  
+इमाँ᳓स् त᳓द् आपो᳓ [[वरुणः|व᳓रुणः]]  
+पुना᳓त्व् [[अघमर्षणः᳓|अघम᳓र्षणः]] ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ एष भूतस्य (2/11 व्यत्यस्त-स्वराः)</summary>
+
+एष᳓ भूत᳓स्य [[भव्ये᳓|भ᳓व्ये]] भु᳓वनस्य गोप्ता᳓ ।  
+एष᳓ पुण्य᳓कृताल्ँ [[लोकान्|लोका᳓न्]], एष᳓ मृत्यो᳓र् हिरण्म᳓यम् ।
+</details>
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०३(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_09_yat_pRthivyAm">
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ द्यावापृथिव्योर् (1/10 व्यत्यस्त-स्वराः)</summary>
+
+द्या᳓वा-पृथिव्यो᳓र् हिरण्म᳓यँ [[सँ᳓श्रितँ|सँ᳓श्रितँ᳓]] सु᳓वः । (9)  
+स᳓ नस् सु᳓वस् सँ᳓शिशाधि ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/02_Ardra~n_jvalati.md">
+आर्द्र᳓ञ् **ज्वलति** ज्यो᳓तिर् अह᳓म् **अस्मि** ।  
+ज्यो᳓तिर् **ज्वलति** ब्र᳓ह्मा ऽह᳓म् अस्मि ।  
+यो᳓ऽह᳓म् **अ᳓स्मि**  ब्र᳓ह्मा ऽह᳓म् अस्मि ।  
+अह᳓म् एवा᳓ ऽहं᳓ मा᳓ञ् **जुहोमि** स्वा᳓हा ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/05_akAryakAry_avakIrNI.md">
+अ-कार्य-कार्य᳙वकीर्णी᳓  
+स्तेनो᳓ भ्रूणहा᳓ गुरु-तल्प-गः᳓ ।  
+व᳓रुणोऽपा᳓म् अघ-म᳓र्षणस्  
+त᳓स्मात् पापा᳓त् **प्र᳓मुच्यते** ।
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - (?:०१|०२)(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ रजो भूमिस् (3/8 व्यत्यस्त-स्वराः)</summary>
+
+[[रजो᳓|र᳓जो]] भू᳓मिस् [[त्वमाँ᳓|त्व᳓माँ᳓]] [[रो᳓दयस्व|रोदयस्व]] प्र᳓वदन्ति धी᳓राः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ पुनन्तु ऋषयः, (1/8 व्यत्यस्त-स्वराः)</summary>
+
+पुन᳓न्तु ऋ᳓षयः, पुन᳓न्तु व᳓सवः,  
+पुना᳓तु व᳓रुणः, पुना᳓त्व् [[अघमर्षणः᳓|अघम᳓र्षणः]] ।
+</details>
+</div>
 
 "तत्त्वायामि" इति कुम्भा द्वरुण मुद्वासयेत् ॥ कलशं गृहीत्वा अधो निर्दिष्टेन मार्गेणपितरं प्रोक्षेत् ।
 

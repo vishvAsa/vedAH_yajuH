@@ -19,7 +19,7 @@ title = "१० अग्निधारणम्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यदग्ने यानि</summary>
 
 य᳓दग्ने या᳓नि का᳓नि चा᳓ ते दा᳓रूणि दध्म᳓सि ।  
 त᳓दस्तु तु᳓भ्यमि᳓द्घृत᳓न्त᳓ज्जुषस्व यविष्ठ्य ।  
@@ -62,7 +62,7 @@ Accept it, O youngest one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यदत्त्युपजिह्विका</summary>
 
 य᳓द᳓त्त्युपजि᳓ह्विका य᳓द्वम्रो᳓ अतिस᳓र्पति ।  
 स᳓र्वन्त᳓दस्तु ते घृत᳓न्त᳓ज्जुषस्व यविष्ठ्य ।
@@ -212,7 +212,7 @@ may all that be clarified butter for you; relish that, O youngest one!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ रात्रिँरात्रिमप्रयावम्भरन्तोऽश्वायेव</summary>
 
 रा᳓त्रिँरात्रिम᳓प्रयावम्भ᳓रन्तो᳓ऽश्वायेव ति᳓ष्ठते घास᳓म᳓स्मै᳓ ।  
 राय᳓स्पो᳓षेण स᳓मिषा᳓ म᳓दन्तो᳓ऽग्ने मा᳓ ते प्र᳓तिवेशा रिषाम ।
@@ -444,7 +444,7 @@ rejoicing together in vigor with wealth's increase, o Agni, may we, your neighbo
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ नाभा</summary>
 
 ना᳓भा [38] पृथिव्या᳓स्समिधान᳓मग्निँ᳓ राय᳓स्पो᳓षाय बृहते᳓ हवामहे ।  
 इरम्मद᳓म्बृह᳓दुक्थय्ँय᳓जत्रञ्जे᳓तारमग्नि᳓म्पृतनासु सासहि᳓म् ।  
@@ -484,7 +484,7 @@ Delighting in drink, recipient of great praise, worthy of offering, The victor, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ यास्सेना</summary>
 
 या᳓स्से᳓ना अभी᳓त्वरीराव्याधि᳓नीरु᳓गणा उत᳓ ।  
 ये᳓ स्तेना᳓ ये᳓ च त᳓स्करास्ताँ᳓स्ते अग्ने᳓ऽपि दधाम्यास्ये᳙ ।
@@ -691,7 +691,7 @@ and whoever are thieves, whoever are robbers, those I place into your mouth, o A
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ दँष्ट्राभ्याम्मलिम्लूञ्जम्भ्यैस्तस्कराँ</summary>
 
 दँ᳓ष्ट्राभ्याम्मलि᳓म्लूञ्ज᳓म्भ्यैस्त᳓स्कराँ उत᳓ ।  
 ह᳓नूभ्याँस्तेना᳓न्भगवस्ताँ᳓स्त्व᳓ङ्खाद सु᳓खादितान् ।
@@ -886,7 +886,7 @@ with both jaws the thieves, o bountiful one; chew them well-chewed.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ ये जनेषु</summary>
 
 ये᳓ ज᳓नेषु मलि᳓म्लवस्स्तेना᳓सस्त᳓स्करा व᳓ने ।  
 ये᳓ [39]  क᳓क्षेष्वघाय᳓वस्ताँ᳓स्ते दधामि ज᳓म्भयोः ।
@@ -1058,7 +1058,7 @@ whoever in the thickets are evil-minded, those I place between your jaws.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यो</summary>
 
 यो᳓ अस्म᳓भ्यमरातीया᳓द्य᳓श्च नो द्वे᳓षते ज᳓नः ।  
 नि᳓न्दाद्यो᳓ अस्मा᳓न्दि᳓प्साच्च स᳓र्वन्त᳓म्मस्मसा᳓ कुरु ।
@@ -1235,7 +1235,7 @@ Every one of them do thou crush to atoms.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ सँशितम्मे</summary>
 
 सँ᳓शितम्मे ब्र᳓ह्म सँ᳓शितव्ँ᳓वी᳓र्यम्ब᳓लम् ।  
 सँ᳓शितङ्क्षत्र᳓ञ्जिष्णु᳓ य᳓स्याह᳓म᳓स्मि पुरो᳓हितः ।
@@ -1480,7 +1480,7 @@ sharpened is my victorious dominion, of which I am the Purohita.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० उदेषाम्बाहू</summary>
 
 उ᳓देषाम्बाहू᳓ अतिरमु᳓द्व᳓र्च उ᳓दू ब᳓लम् ।  
 क्षिणो᳓मि ब्र᳓ह्मणाऽमि᳓त्रानु᳓न्नयामि [40]  स्वाँ अह᳓म् ।
@@ -1751,7 +1751,7 @@ with sacred power I destroy the enemies; I lift up my own people.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ दृशानो रुक्म</summary>
 
 दृशानो᳓ रुक्म᳓ उर्व्या᳓ व्यद्यौद्दुर्म᳓र्षमा᳓युश्श्रिये᳓ रुचानः᳓ ।  
 अग्नि᳓रमृ᳓तो अभवद्व᳓योभिर्य᳓देनन्द्यौ᳓र᳓जनयत्सुरे᳓ताः ।
@@ -2340,7 +2340,7 @@ Wie Gold zu schauen glänzt er in die Weite, zum Heile unvergänglich Leben stra
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ विश्वा रूपाणि</summary>
 
 वि᳓श्वा रूपा᳓णि प्र᳓ति मुञ्चते कविᳶ᳓ प्रा᳓सावीद्भद्र᳓न्द्विप᳓दे च᳓तुष्पदे ।  
 वि᳓ ना᳓कमख्यत्सविता᳓ व᳓रेण्यो᳓ऽनु प्रया᳓णमुष᳓सो वि᳓ राजति ।
@@ -2859,7 +2859,7 @@ In alle Farben kleidet sich der weise Gott, er schaffet Segen für den Menschen 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ नक्तोषासा समनसा</summary>
 
 न᳓क्तोषा᳓सा स᳓मनसा वि᳓रूपे धाप᳓येते शि᳓शुमे᳓कँ समीची᳓ ।  
 द्या᳓वा क्षा᳓मा रुक्मः᳓ [41]  अन्त᳓र्वि᳓ भाति देवा᳓ अग्नि᳓न्धारयन्द्रविणोदाः᳓ ।

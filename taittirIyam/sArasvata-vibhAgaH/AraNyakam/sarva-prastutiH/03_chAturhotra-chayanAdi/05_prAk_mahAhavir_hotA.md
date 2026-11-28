@@ -32,7 +32,7 @@ Identification of the priests with the earth etc. and the seven seers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ महाहविर् होता</summary>
 
 महा᳓-हविर् हो᳓ता ।
 </details>
@@ -60,7 +60,7 @@ Identification of the priests with the earth etc. and the seven seers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ सत्यहविर्</summary>
 
 सत्य᳓-हविर् अध्वर्युः᳓ ।
 </details>
@@ -89,7 +89,7 @@ Satyasavi, the Adhvaryu priest;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ अच्युतपाजा</summary>
 
 अ᳓च्युत-पाजा+++(=बलं)+++ अग्नी᳓त् ।
 </details>
@@ -118,7 +118,7 @@ Acyutatejas, verily, the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अच्युतमना</summary>
 
 अ᳓-च्युत-मना उपवक्ता᳓ +++(→ब्रह्मा)+++।
 </details>
@@ -147,7 +147,7 @@ Acyutamanas, the impeller;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अनाधृष्यश्</summary>
 
 अनाधृष्य᳓श् चाप्रतिधृष्य᳓श् च यज्ञ᳓स्याभिगरौ᳓+++(=गानौ)+++ ।
 </details>
@@ -187,7 +187,7 @@ Anadhravis and Apratadhravis, the Abhigar priests (who call out approvingly to t
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अयास्य उद्गाता</summary>
 
 अया᳓स्य+++(=अयानमयः)+++ उद्गाता᳓ ।
 </details>
@@ -236,7 +236,7 @@ Acyutasya, the Udgātṛ priest.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ वाचस्पते</summary>
 
 वा᳓चस्पते हृद्-विधे नामन् ।  
 **विधे᳓म** ते ना᳓म ।  
@@ -283,7 +283,7 @@ O Vacaspati, O disposer of the heart, making others bend (to salute), I spread y
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ वाचस्पतिस्</summary>
 
 वाच᳓स्-प᳓तिस् सो᳓मम् **अपात्** ।
 </details>
@@ -308,7 +308,7 @@ Vacaspati drank the Soma-juice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ मा दैव्यस् (1/6 व्यत्यस्त-स्वराः)</summary>
 
 मा᳓ दै᳓व्यस् त᳓न्तुश् **[[छे᳓दि|छेदि]]**, मा᳓ मनुष्यः᳙ ।
 </details>
@@ -341,7 +341,7 @@ Do not cut the divine line, do not cut the manly line.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० नमो दिवे</summary>
 
 न᳓मो दिवे᳓ ।  
 न᳓मः पृथिव्यै᳓ स्वा᳓हा ।  

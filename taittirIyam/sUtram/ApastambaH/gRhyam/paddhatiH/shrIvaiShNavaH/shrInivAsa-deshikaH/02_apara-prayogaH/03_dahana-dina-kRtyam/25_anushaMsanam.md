@@ -21,11 +21,80 @@ title = "२५ अनुशंसनम्"
 
 इति नियमात् अत्रस्वरं विहाय लिख्यते ॥
 
-> प्रकेतुना, बृहता, भाति, अग्निः, आविर्विश्वानि, वृषभः, रोरवीति । दिवश्चिदन्तात्, उपमां, उदानट्, अपां, उपस्थे, महिषः, ववर्धो(३)मिदन्ते, एकं, पर ऊत एकं, तृतीयेन, ज्योतिषा, संविशस्व । संवेशनः, तनुवै, चारुरेधि, प्रियः, देवानां, परमे, सधस्थों(३) नाके सुपर्णं, उपयत्पतन्तं, हृदा, वेनन्तः, अभ्यचक्षतत्वा । हिरण्यपक्षं, वरुणस्य, दूतं, यमस्य, योनौ, शकुनं, भुरण्यो(३)मतिद्रवसारमेयौ, श्वानौ, चतुरक्षौ
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/01_pra_ketunA_bRhatA.md">
+प्र᳓ केतु᳓ना बृहता᳓ भात्य् अग्नि᳓र्  
+आवि᳓र् वि᳓श्वानि वृषभो᳓ रोरवीति ।  
+दिव᳓श् चिद् अ᳓न्ताद् उ᳓प मा᳓म् [[उदा᳓नड्|उ᳓दानड्]]  
+अपा᳓म् उप᳓स्थे महिषो᳓ ववर्ध ।
+</div>
 
-> शबलौ, साधुना, पथा । अथापितॄन्, सुविदत्रान्, अपीहि, यमेनये, सधमादं, मदन्तों(३)यौतेश्वानौ, यम रक्षितारौ, चतुरक्षौ, पथिरक्षी, नृचक्षसा । ताभ्यां, राजन्, परिदेहि, एनं, स्वस्तिचास्मै, अनमीवञ्चधेहो(३)मुरुणसौ, असुतृपौ, उलुम्बलौ, यमस्य, दूतौ, चरतः, अवशान्, अनु । तावस्मभ्यं, दृशये, सूर्याय, पुनर्दत्तौ, असुमद्येह, भद्रों(३) सोम एकेभ्यः, पवते, घृतमेके, उपासते । येभ्यः, मधु, प्रधावति, ताँश्चित्, एवापि गच्छतों(३) येयुध्यन्ते, प्रधनेषु, शूरासः, ये तनुत्यजः । येवा, सहस्रदक्षिणाः, ताँश्चित् एवापिगच्छतों(३) तपसाये, अनाधृष्याः, तपसा ये, सुवर्गताः । तपोये, चक्रिरे, महत्, ताँश्चित्, एवापिगच्छतों(३)
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/02_idan_ta_ekam.md">
+इद᳓न् त ए᳓कं पर᳓ ऊत ए᳓कन्  
+तृती᳓येन ज्यो᳓तिषा सं᳓विशस्व ।  
+[[सव्ँवे᳓शनस्|सव्ँ᳓वे᳓शनस्]] तनु᳓वै चा᳓रुर् एधि  
+प्रियो᳓ देवा᳓नां परमे᳓ सध᳓स्थे ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md">
+ना᳓के सुपर्ण᳓म् +++(→सूर्यं)+++ उ᳓प य᳓त् प᳓तन्तं  
+हृदा᳓ **वे᳓नन्तो अभ्य᳓चक्षत** त्वा ।  
+हि᳓रण्य-पक्षं +++(शतभिषक्-स्थ-)+++व᳓रुणस्य दूतं᳓  
+यम᳓स्य यो᳓नौ +++(→भरण्यां)+++ शकुनं᳓ भुरण्यु᳓म्+++(←भृ)+++ ॥
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०१(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/03_yama-sUktam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अतिद्रव सारमेयौ</summary>
+
+अ᳓तिद्रव सारमेयौ᳓ श्वा᳓नौ चतुर्-अक्षौ᳓  
+शब᳓लौ साधु᳓ना पथा᳓ ।  
+अ᳓था पितॄ᳓न्त् सुविद᳓त्राँ अ᳓पीहि  
+यमे᳓न ये᳓ सधमा᳓दं म᳓दन्ति ।
+</details>
+</div>
+
+> *(पूर्वोक्त-मन्त्र-शेषः — शबलौ साधुना पथा । अथा पितॄन् सुविदत्रान् अपीहि यमेन ये सधमादं मदन्तः ।)*
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - (?:०२|०३)(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/03_yama-sUktam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यौ ते</summary>
+
+यौ᳓ ते श्वा᳓नौ यम-रक्षिता᳓रौ  
+चतुरक्षौ᳓ पथिर᳓क्षी नृच᳓क्षसा ।  
+ता᳓भ्याँ राजन् प᳓रि देह्य् एनँ स्वस्ति᳓  
+चास्मा अनमीव᳓ञ्च धेहि । (6)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ उरुणसाव्</summary>
+
+उरु-णसा᳓व् असुतृ᳓पाव् उलुम्बलौ᳓  
+यम᳓स्य दूतौ᳓ चरतो व᳓शाँ अ᳓नु ।  
+ता᳓व् अस्म᳓भ्यन् दृश᳓ये सू᳓र्याय  
+पु᳓नर्-दत्ता व᳓सुम् अद्ये᳓ह᳓ भद्र᳓म् ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/154/01_soma_ekebhyaH.md">
+सो᳓म ए᳓केभ्यः पवते  
+घृत᳓म् ए᳓क उ᳓पासते  
+ये᳓भ्यो म᳓धु प्रधा᳓वति  
+तां᳓श् चिद् एवा᳓पि गछतात्
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०४(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/03_yama-sUktam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ ये युद्ध्यन्ते</summary>
+
+ये᳓ यु᳓द्ध्यन्ते प्रध᳓नेषु  
+शू᳓रासो ये᳓ तनु-त्य᳓जः ।  
+ये᳓ वा सह᳓स्रदक्षिणास्  
+ताँ᳓श् चिद् एवा᳓पि गच्छतात् ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/09_tapasA_ye_anAdhRShyAs.md">
+त᳓पसा ये᳓ अनाधृष्या᳓स्  
+त᳓पसा ये᳓ [[सु᳓वर्|सुवर्]] गताः᳓ ।  
+त᳓पो ये᳓ चक्रिरे᳓ मह᳓त्   
+ताँ᳓श् चिद् एवा᳓पि गच्छतात् ।
+</div>
 
 <details><summary>तमिऴ्</summary>
 
@@ -39,8 +108,12 @@ title = "२५ अनुशंसनम्"
 
 (सू - जघनेन दहनदेशमुदीचीस्तिस्त्रः कर्षूः खात्वा अश्मभिस्सिकताभिश्चोपप्रकीर्य, अयुग्भिरुदकुम्भैरपः परिप्लाव्य तासु ज्ञातयस्सङ्गाहन्तेऽश्मन्वतीरेवतीरिति ।) ततश्चितेः पश्चादुदगायतान् दक्षिणावसानान् दीर्घान् त्रीन् गर्तान्खात्वाऽश्मनस्सिकताश्चोप प्रकीर्य, अयुग्मैः कुम्भजलैः पूरयित्वातेषुज्ञातयः कनिष्ठपूर्वाः, 
 
-> अश्मॅन्वतीः, रेवतीः, सँरॅभध्वं, उत्तिष्ठत, प्रतरत, सरवायः । अत्रॉजहाम, ये असॅन्, अशेवाः, शि॒वान्, व॒यं, अ॒भिवाजा॑न्, उत्तरेम ॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/10_ashmanvatI_revatIs.md">
+अ᳓श्मन्वती [[रेवतीस्|रेव᳓तीस्]] सँ᳓-रभध्वम्  
+उ᳓त्तिष्ठत प्र᳓तरता सखायः ।  
+अ᳓त्रा जहाम ये᳓ अ᳓सन्न् अ᳓शेवाश्  
+शिवा᳓न् वय᳓म् अभि᳓ वा᳓जान् उ᳓त्तरेम । (7)
+</div>
 
 इति सङ्गाहन्ते (इदानीं स्वयं प्रोक्षणं कुर्वन्ति)
 
@@ -48,8 +121,12 @@ title = "२५ अनुशंसनम्"
 
 गर्तानां पश्चात्पलाशशाखे शमीशाखेवा दक्षिणोत्तरे प्रतिष्ठाप्य, तयोरग्रे दर्भमयेनशुल्बेन रज्जुना तोरणवद्बध्वा तयोर्मध्ये, 
 
-> यद्वै, दे॒वस्य, स॒वि॒तुः, प॒वित्र॑, स॒हस्र॑धारं, विततं, अ॒न्तरिक्षे । येनापुनात्, इन्द्रं, अना॑र्तं, आर्त्यै, तेना॒हं मां, सर्वत॒नुं पुनामि । 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/11_yad_vai_devasya.md">
+य᳓द् वै᳓ देव᳓स्य सवितुः᳓ पवि᳓त्रँ  
+सह᳓स्रधारव्ँ वि᳓ततम् अन्त᳓रिक्षे ।  
+ये᳓ना᳓पुनाद् इ᳓न्द्रम् अ᳓नार्तम् आ᳓र्त्यै  
+ते᳓नाहं᳓ माँ᳓ सर्व᳓तनुं पुनामि ।
+</div>
 
 इति कनिष्ठपूर्वं निर्गच्छेयुः । पश्चाद्गच्छेत्कर्ता ।
 
@@ -63,20 +140,36 @@ title = "२५ अनुशंसनम्"
 
 (सू - जघन्यश्शाखेव्युदस्यति याराष्ट्रात्पन्नादिति) भूमौ प्रतिष्ठिते शाखे उत्क्षिप्य रज्जूञ्च्छित्वा, 
 
-> याराष्ट्रात्, पन्नात्, अपयन्ति, शाखाः, अभिमृताः, नृपतिं, इच्छमॉनाः । धातुस्ताः सर्वाः, पवनेन, पूताः, प्र॒जया॑, अ॒स्मान्, र॒य्या, वर्चसा सँसृजाय । 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/03_yama-sUktam/12_yA_rAShTrAt_pannAd.md">
+या᳓ राष्ट्रा᳓त् पन्ना᳓द् अ᳓प य᳓न्ति शा᳓खा  
+अभि᳓मृता नृप᳓तिम् इच्छ᳓मानाः ।  
+धातु᳓स् ता᳓स् स᳓र्वाः प᳓वनेन पूताः᳓  
+प्रज᳓या ऽस्मा᳓न् रय्या᳓ व᳓र्चसा सँ᳓सृजाथ ।
+</div>
 
 इति दक्षिणस्यां, नैरऋत्याञ्च दिशिपृथक्परित्यजेत् । (सू - उद्वयं तमसस्परीत्यादित्यमुपस्थायानवेक्षमाणा अपोऽवगाहन्ते धाता पुनातु सविता पुनात्विति) ॥
 
 ततः ज्ञातयः 
 
-> उद्वयं, तमॊस॒स्परि॑, पश्यॅन्तः, ज्योति॒रुत्तरम् । दे॒वं, देवत्रा, सूर्यं, अगॅन्म, ज्योति॑रुत्त॒मम् । 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/03_yama-sUktam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ उद् वयन्</summary>
+
+उ᳓द् वय᳓न् त᳓मसस् प᳓रि  
+प᳓श्यन्तो ज्यो᳓तिर् उ᳓त्तरम् ।  
+देव᳓न् देवत्रा᳓ सू᳓र्यम्  
+अ᳓गन्म ज्यो᳓तिर् उत्तम᳓म् ।
+</details>
+</div>
 
 इति आदित्यमुपस्थाय श्मशानमनवेक्षमाणाः कनिष्ठपूर्वाः अपः (उदकाशये) अवगाहन्ते । 
 
-> धा॒ता, पुनातु, स॒वि॒ता, पुनातु । अ॒ग्नेः, तेजॅसा, सूर्य॑स्य, वर्च॑सा ॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/03_yama-sUktam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ धाता पुनातु</summary>
+
+धाता᳓ पुनातु सविता᳓ पुनातु ।  
+अग्ने᳓स् ते᳓जसा सू᳓र्यस्य व᳓र्चसा ॥ (8)
+</details>
+</div>
 
 इति - केशान्प्रकीर्य, पांसूनोप्य, एकवाससो दक्षिणामुखाः सकृदुपमज्योत्तीर्योपविशन्ति । एवंत्रिः ।
 

@@ -49,17 +49,17 @@ unicode_script = "devanagari"
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206)
-- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *SB-K*-11/77, *VS-M*-5/16, *VS-K*-6/16)
-- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- उदिता᳓ (*AV*-1, निष्ठा क्तः पा॰ ३.२.१०२, प्रत्ययस्वरः पा॰ ३.१.३)
-- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
+- न᳓मः (*TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206, *KS*-291, *MS*-286)
+- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *SB-K*-11/77, *VS-M*-5/16, *VS-K*-6/16, *KS*-1/7, *MS*-9/32)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456, *KS*-83/818, *MS*-177/3763)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- उदिता᳓ (*AV*-1, *MS*-1, निष्ठा क्तः पा॰ ३.२.१०२, प्रत्ययस्वरः पा॰ ३.१.३)
+- या᳓ (*TS*-96/3383, *RV*-159/4011, *TB*-45/728, *TK*-5/66, *AV*-105/3116, *SB-M*-135/1139, *SB-K*-228/8438, *VS-M*-34/244, *VS-K*-44/456, *KS*-83/818, *MS*-177/3763)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
 - अ᳓न्-उदिता (*RV*-0/1, *TB*-0/1, *AV*-1, *SB-K*-0/14, नञ्-तत्पुरुषः पा॰ ६.२.२)
-- त᳓स्यै (*TS*-25/4763, *RV*-1/3136, *TB*-4/1327, *AV*-7/3163, *SB-M*-64/2303, *SB-K*-87/20018, *VS-M*-4/268, *VS-K*-5/395)
-- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *SB-K*-11/77, *VS-M*-5/16, *VS-K*-6/16)
-- न᳓मः (*TS*-291, *RV*-49, *TB*-28, *AV*-230, *SB-K*-100, *VS-K*-206; पा॰ ८.१.१९)
+- त᳓स्यै (*TS*-25/4763, *RV*-1/3136, *TB*-4/1327, *AV*-7/3163, *SB-M*-64/2303, *SB-K*-87/20018, *VS-M*-4/268, *VS-K*-5/395, *KS*-8/1225, *MS*-29/5550)
+- वाचे᳓ (*TS*-4/42, *RV*-0/22, *TB*-1/18, *AV*-0/19, *SB-M*-3/24, *SB-K*-11/77, *VS-M*-5/16, *VS-K*-6/16, *KS*-1/7, *MS*-9/32)
+- न᳓मः (*TS*-291, *RV*-49, *TB*-28, *AV*-230, *SB-K*-100, *VS-K*-206, *KS*-291, *MS*-286)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -115,8 +115,8 @@ salutation to the lord of the speech (Vācaspati);
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206)
-- वाचः᳓-प᳓तये (*TS*-5, *TB*-0/2, *VS-M*-2/4, *VS-K*-2/10; उभे वनस्पत्यादिषु युगपत् पा॰ ६.२.१४०)
+- न᳓मः (*TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206, *KS*-291, *MS*-286)
+- वाचः᳓-प᳓तये (*TS*-5, *TB*-0/2, *VS-M*-2/4, *VS-K*-2/10, *KS*-1/5, *MS*-6/18; उभे वनस्पत्यादिषु युगपत् पा॰ ६.२.१४०)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -149,10 +149,10 @@ salutation to the seers, the makers of the Mantras, the lords of the Mantras;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- न᳓मः (आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८, *TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206)
-- ऋ᳓षिभ्यः (*TS*-4/56, *RV*-1/101, *TB*-0/1, *AV*-1/70, *SB-M*-1/27, *SB-K*-5/130, *VS-M*-0/5, *VS-K*-0/31)
-- मन्त्र-कृ᳓द्भ्यः (क्विप् पा॰ ३.२.७६, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
-- म᳓न्त्र-पतिभ्यः (पत्यावैश्वर्ये पा॰ ६.२.१८, म᳓न्त्र *TS*-0/2, *RV*-4/16, *SB-K*-10, *VS-K*-2)
+- न᳓मः (*TS*-291, *RV*-49, *SB-K*-100, *VS-K*-206, *KS*-291, *MS*-286)
+- ऋ᳓षिभ्यः (*TS*-4/56, *RV*-1/101, *TB*-0/1, *AV*-1/70, *SB-M*-1/27, *SB-K*-5/130, *VS-M*-0/5, *VS-K*-0/31, *KS*-0/16, *MS*-1/52)
+- मन्त्र-कृ᳓द्भ्यः (*MS*-1, क्विप् पा॰ ३.२.७६, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
+- म᳓न्त्र-पतिभ्यः (पत्यावैश्वर्ये पा॰ ६.२.१८, म᳓न्त्र *TS*-0/2, *RV*-4/16, *SB-K*-10, *VS-K*-2, *KS*-3, *MS*-9)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -193,13 +193,13 @@ may not the seers, the makers of the Mantras, the lords of the Mantras disobey m
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98; पा॰ ८.१.२३)
-- मा᳓म् (*TS*-31/565, *RV*-50/1306, *TB*-8/114, *AV*-47/1248, *SB-M*-9/174, *SB-K*-47/728, *VS-M*-4/127, *VS-K*-6/178; पा॰ ८.१.२३)
-- ऋ᳓षयः (*TS*-21/56, *RV*-24/101, *TB*-1, *AV*-42/70, *SB-M*-15/27, *SB-K*-54/130, *VS-M*-0/5, *VS-K*-14/31)
-- मन्त्र-कृ᳓तः (*RV*-0/1, म᳓न्त्र (*MW*) + कृ᳓त्, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238; पा॰ ८.१.२३)
+- मा᳓म् (*TS*-31/565, *RV*-50/1306, *TB*-8/114, *AV*-47/1248, *SB-M*-9/174, *SB-K*-47/728, *VS-M*-4/127, *VS-K*-6/178, *KS*-12/242, *MS*-37/641; पा॰ ८.१.२३)
+- ऋ᳓षयः (*TS*-21/56, *RV*-24/101, *TB*-1, *AV*-42/70, *SB-M*-15/27, *SB-K*-54/130, *VS-M*-0/5, *VS-K*-14/31, *KS*-3/16, *MS*-20/52)
+- मन्त्र-कृ᳓तः (*RV*-0/1, *MS*-1/2, म᳓न्त्र (*MW*) + कृ᳓त्, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
 - मन्त्र-प᳓तयः (म᳓न्त्र (*MW*) + प᳓ति, पत्यावैश्वर्ये पा॰ ६.२.१८)
-- प᳓रा (*TS*-29, *RV*-78, *TB*-10, *SB-K*-62, *VS-K*-4)
-- दुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- प᳓रा (*TS*-29, *RV*-78, *TB*-10, *SB-K*-62, *VS-K*-4, *KS*-25, *MS*-96)
+- दुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-2, *MS*-6)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -232,13 +232,13 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98; पा॰ ८.१.२३)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- ऋ᳓षीन् (*TS*-0/56, *RV*-1/101, *TB*-0/1, *AV*-5/70, *SB-M*-0/27, *SB-K*-9/130, *VS-M*-0/5, *VS-K*-0/31)
-- मन्त्र-कृ᳓तः (*RV*-0/1, म᳓न्त्र (*MW*) + कृ᳓त्, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238; पा॰ ८.१.२३)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- ऋ᳓षीन् (*TS*-0/56, *RV*-1/101, *TB*-0/1, *AV*-5/70, *SB-M*-0/27, *SB-K*-9/130, *VS-M*-0/5, *VS-K*-0/31, *KS*-0/16, *MS*-0/52)
+- मन्त्र-कृ᳓तः (*RV*-0/1, *MS*-1/2, म᳓न्त्र (*MW*) + कृ᳓त्, गतिकारकोपपदात् कृत् पा॰ ६.२.१३९)
 - मन्त्र-प᳓तीन् (म᳓न्त्र (*MW*) + प᳓ति, पत्यावैश्वर्ये पा॰ ६.२.१८)
-- प᳓रा (*TS*-29, *RV*-78, *TB*-10, *SB-K*-62, *VS-K*-4)
-- दाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- प᳓रा (*TS*-29, *RV*-78, *TB*-10, *SB-K*-62, *VS-K*-4, *KS*-25, *MS*-96)
+- दाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -276,14 +276,14 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः - 1/8 व्यत्यस्त-स्वराः)</summary>
 
-- वैश्वदेवी᳓म् (*TS*-4/7, *AV*-1/4, *SB-K*-0/10, *VS-M*-0/1, *VS-K*-0/1)
-- वा᳓चम् (*TS*-68/207, *RV*-72/108, *TB*-22/47, *AV*-39/86, *SB-M*-84/123, *SB-K*-157/597, *VS-M*-10/27, *VS-K*-18/35)
-- उत् → **उ᳓त्** (*TS*-6, *RV*-293, *SB-K*-667)
+- वैश्वदेवी᳓म् (*TS*-4/7, *AV*-1/4, *SB-K*-0/10, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/3, *MS*-2/21)
+- वा᳓चम् (*TS*-68/207, *RV*-72/108, *TB*-22/47, *AV*-39/86, *SB-M*-84/123, *SB-K*-157/597, *VS-M*-10/27, *VS-K*-18/35, *KS*-14/39, *MS*-93/290)
+- उत् → **उ᳓त्** (*TS*-6, *RV*-293, *SB-K*-667, *KS*-81, *MS*-339)
 - यासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- शिवा᳓म् (*TS*-0/59, *RV*-1/50, *TB*-0/21, *AV*-2/82, *SB-M*-3/30, *SB-K*-2/49, *VS-M*-2/41, *VS-K*-2/44)
-- अ᳓दस्ताम् (*TS*-0/1, *TB*-0/1, नञ्तत्पुरुषे पा॰ ६.२.२)
-- जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *SB-M*-4/32, *SB-K*-2/52, *VS-M*-1/24, *VS-K*-1/26)
-- देवे᳓भ्यः (*TS*-101/1025, *RV*-60/1342, *TB*-33/242, *AV*-40/705, *SB-M*-119/567, *SB-K*-210/1945, *VS-M*-42/257, *VS-K*-59/350)
+- शिवा᳓म् (*TS*-0/59, *RV*-1/50, *TB*-0/21, *AV*-2/82, *SB-M*-3/30, *SB-K*-2/49, *VS-M*-2/41, *VS-K*-2/44, *KS*-1/26, *MS*-1/68)
+- अ᳓दस्ताम् (*TS*-0/1, *TB*-0/1, *KS*-0/2, *MS*-0/2, नञ्तत्पुरुषे पा॰ ६.२.२)
+- जु᳓ष्टाम् (*TS*-1/23, *RV*-2/24, *TB*-0/5, *AV*-0/2, *SB-M*-4/32, *SB-K*-2/52, *VS-M*-1/24, *VS-K*-1/26, *KS*-0/13, *MS*-2/58)
+- देवे᳓भ्यः (*TS*-101/1025, *RV*-60/1342, *TB*-33/242, *AV*-40/705, *SB-M*-119/567, *SB-K*-210/1945, *VS-M*-42/257, *VS-K*-59/350, *KS*-40/317, *MS*-138/1216)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -332,21 +332,21 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
-- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
-- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
-- वि᳓श्वम् (*TS*-24/275, *RV*-140/1116, *TB*-5/73, *AV*-58/350, *SB-M*-20/169, *SB-K*-27/219, *VS-M*-16/143, *VS-K*-21/192)
-- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151)
-- ज᳓गत् (*TS*-6/16, *RV*-16/40, *AV*-7/20, *SB-M*-0/1, *SB-K*-5/12, *VS-M*-4/8, *VS-K*-4/9)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
-- चन्द्रः᳓ (*TS*-0/12, *RV*-2/28, *TB*-0/4, *AV*-7/20, *SB-M*-2/7, *SB-K*-7/29, *VS-M*-0/6, *VS-K*-0/9)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-26/56, *TK*-3/4, *AV*-77/173, *SB-M*-30/86, *SB-K*-74/151, *VS-M*-15/53, *VS-K*-24/88)
-- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747)
-- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16, *KS*-15/16, *MS*-35/37)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143, *KS*-23/128, *MS*-48/308)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16, *KS*-15/16, *MS*-35/37)
+- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42, *KS*-20/35, *MS*-43/104)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16, *KS*-15/16, *MS*-35/37)
+- वि᳓श्वम् (*TS*-24/275, *RV*-140/1116, *TB*-5/73, *AV*-58/350, *SB-M*-20/169, *SB-K*-27/219, *VS-M*-16/143, *VS-K*-21/192, *KS*-14/118, *MS*-33/301)
+- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151, *KS*-72/319, *MS*-231/1379)
+- ज᳓गत् (*TS*-6/16, *RV*-16/40, *AV*-7/20, *SB-M*-0/1, *SB-K*-5/12, *VS-M*-4/8, *VS-K*-4/9, *KS*-5/13, *MS*-6/24)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16, *KS*-15/16, *MS*-35/37)
+- चन्द्रः᳓ (*TS*-0/12, *RV*-2/28, *TB*-0/4, *AV*-7/20, *SB-M*-2/7, *SB-K*-7/29, *VS-M*-0/6, *VS-K*-0/9, *KS*-0/5, *MS*-1/15)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-26/56, *TK*-3/4, *AV*-77/173, *SB-M*-30/86, *SB-K*-74/151, *VS-M*-15/53, *VS-K*-24/88, *KS*-13/52, *MS*-45/143)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *AV*-1405, *SB-K*-2881, *VS-K*-747, *KS*-766, *MS*-1700)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-10/11, *AV*-44/46, *SB-M*-11/12, *SB-K*-20/21, *VS-M*-16/17, *VS-K*-15/16, *KS*-15/16, *MS*-35/37)
 - ब्रह्म-प्रजापती᳓ (द्वन्द्वः समासस्य पा॰ ६.१.२२३)
 </details>
 
@@ -391,19 +391,19 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- भूत᳓म् (*TS*-21/65, *RV*-13/22, *TB*-2/14, *AV*-29/73, *SB-M*-30/184, *SB-K*-59/290, *VS-M*-4/19, *VS-K*-4/23)
+- भूत᳓म् (*TS*-21/65, *RV*-13/22, *TB*-2/14, *AV*-29/73, *SB-M*-30/184, *SB-K*-59/290, *VS-M*-4/19, *VS-K*-4/23, *KS*-3/21, *MS*-11/66)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- भु᳓वनम् (*TS*-6/39, *RV*-15/144, *TB*-4/15, *AV*-8/63, *SB-M*-1/20, *SB-K*-6/26, *VS-M*-3/32, *VS-K*-4/33)
+- भु᳓वनम् (*TS*-6/39, *RV*-15/144, *TB*-4/15, *AV*-8/63, *SB-M*-1/20, *SB-K*-6/26, *VS-M*-3/32, *VS-K*-4/33, *KS*-2/16, *MS*-7/53)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- ते᳓जः (*TS*-111/152, *RV*-2/7, *TB*-28/54, *AV*-49/76, *SB-M*-25/36, *SB-K*-92/120, *VS-M*-8/20, *VS-K*-13/26)
+- ते᳓जः (*TS*-111/152, *RV*-2/7, *TB*-28/54, *AV*-49/76, *SB-M*-25/36, *SB-K*-92/120, *VS-M*-8/20, *VS-K*-13/26, *KS*-19/31, *MS*-107/155)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6)
+- य᳓शः (*TS*-11, *RV*-24, *TB*-7, *SB-K*-82, *VS-K*-6, *KS*-7, *MS*-12)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- त᳓पः (*TS*-18/46, *RV*-4/20, *TB*-8/23, *TK*-8/16, *AV*-36/88, *SB-M*-26/38, *SB-K*-56/89, *VS-M*-0/8, *VS-K*-4/15)
+- त᳓पः (*TS*-18/46, *RV*-4/20, *TB*-8/23, *TK*-8/16, *AV*-36/88, *SB-M*-26/38, *SB-K*-56/89, *VS-M*-0/8, *VS-K*-4/15, *KS*-6/12, *MS*-19/44)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-32/72, *TK*-8/19, *AV*-133/266, *SB-M*-138/203, *SB-K*-285/434, *VS-M*-22/37, *VS-K*-26/44)
+- ब्र᳓ह्म (*TS*-70/157, *RV*-96/237, *TB*-32/72, *TK*-8/19, *AV*-133/266, *SB-M*-138/203, *SB-K*-285/434, *VS-M*-22/37, *VS-K*-26/44, *KS*-25/53, *MS*-115/230)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-15/26, *TK*-14/28, *AV*-33/70, *SB-M*-30/51, *SB-K*-129/184, *VS-M*-4/17, *VS-K*-3/18)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-15/26, *TK*-14/28, *AV*-33/70, *SB-M*-30/51, *SB-K*-129/184, *VS-M*-4/17, *VS-K*-3/18, *KS*-13/24, *MS*-64/103)
 - वदिष्ये (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -437,12 +437,12 @@ may I not disobey the seers, the makers of the Mantras, the lords of the Mantras
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- त᳓स्मै (*TS*-128/4763, *RV*-58/3136, *TB*-21/1327, *TK*-5/135, *AV*-84/3163, *SB-M*-61/2303, *SB-K*-199/20018, *VS-M*-22/268, *VS-K*-25/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151)
-- उपस्त᳓रणम् (*RV*-1, *AV*-1)
-- उ᳓प (*TS*-723, *RV*-487, *TB*-32, *TK*-7, *SB-K*-1332, *VS-K*-42)
-- स्तृण (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- त᳓स्मै (*TS*-128/4763, *RV*-58/3136, *TB*-21/1327, *TK*-5/135, *AV*-84/3163, *SB-M*-61/2303, *SB-K*-199/20018, *VS-M*-22/268, *VS-K*-25/395, *KS*-26/1225, *MS*-74/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- इद᳓म् (*TS*-139/968, *RV*-178/1246, *TB*-39/287, *AV*-257/1253, *SB-M*-95/379, *SB-K*-982/5549, *VS-M*-5/70, *VS-K*-30/151, *KS*-72/319, *MS*-231/1379)
+- उपस्त᳓रणम् (*RV*-1, *AV*-1, *MS*-1)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-32, *TK*-7, *SB-K*-1332, *VS-K*-42, *KS*-116, *MS*-488)
+- स्तृण (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -479,16 +479,16 @@ may there be bed (shelter) for my offspring, cattle; may I become bed (shelter) 
 
 <details><summary>पद-पाठः (यान्त्रिकः - 1/10 व्यत्यस्त-स्वराः)</summary>
 
-- उ᳓पस्त᳓रणम् → **उपस्त᳓रणम्** (*RV*-1, *AV*-1)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
-- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *SB-K*-1/626, *VS-M*-0/53, *VS-K*-0/62)
-- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *SB-K*-100/953, *VS-M*-4/21, *VS-K*-5/31)
-- भूयात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *SB-K*-4, *VS-K*-4)
-- उपस्त᳓रणम् (*RV*-1, *AV*-1)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *SB-K*-1/626, *VS-M*-0/53, *VS-K*-0/62)
-- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *SB-K*-100/953, *VS-M*-4/21, *VS-K*-5/31)
-- भूयासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-44, *RV*-1, *SB-K*-21, *VS-K*-13)
+- उ᳓पस्त᳓रणम् → **उपस्त᳓रणम्** (*RV*-1, *AV*-1, *MS*-1)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *SB-K*-1/626, *VS-M*-0/53, *VS-K*-0/62, *KS*-0/82, *MS*-0/407)
+- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *SB-K*-100/953, *VS-M*-4/21, *VS-K*-5/31, *KS*-11/94, *MS*-105/805)
+- भूयात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *SB-K*-4, *VS-K*-4, *KS*-1, *MS*-4)
+- उपस्त᳓रणम् (*RV*-1, *AV*-1, *MS*-1)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- प्रजा᳓यै (*TS*-12/482, *RV*-9/70, *TB*-4/208, *AV*-9/164, *SB-M*-6/277, *SB-K*-1/626, *VS-M*-0/53, *VS-K*-0/62, *KS*-0/82, *MS*-0/407)
+- पशूना᳓म् (*TS*-85/736, *RV*-0/36, *TB*-15/224, *TK*-1/4, *AV*-24/140, *SB-M*-27/319, *SB-K*-100/953, *VS-M*-4/21, *VS-K*-5/31, *KS*-11/94, *MS*-105/805)
+- भूयासम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-44, *RV*-1, *SB-K*-21, *VS-K*-13, *KS*-8, *MS*-14)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -574,7 +574,7 @@ may Prāṇa and Apāna do not leave me.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/3/02_stotropAkaraNam_pratigarAngamantrAshcha/madhu_maniShye.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 म᳓धु **मनिष्ये** ।  
@@ -716,8 +716,8 @@ Om Peace! Peace! Peace!
 
 <details><summary>पद-पाठः (यान्त्रिकः - 2/4 व्यत्यस्त-स्वराः)</summary>
 
-- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1)
-- शा᳓न्तिः (*TS*-6/43, *TB*-2/15, *AV*-13/16, *SB-M*-0/14, *SB-K*-20/45, *VS-M*-5/6, *VS-K*-4/7)
+- ओ᳓म् (*TK*-1, *SB-K*-28, *VS-K*-1, *MS*-2)
+- शा᳓न्तिः (*TS*-6/43, *TB*-2/15, *AV*-13/16, *SB-M*-0/14, *SB-K*-20/45, *VS-M*-5/6, *VS-K*-4/7, *KS*-2/8, *MS*-21/40)
 - शा᳓न्तिः → **शान्तिः** (द्विर्वचने परस्यानुदात्तत्वम्, पा॰ ८.१.३)
 - शा᳓न्तिः → **शान्तिः** (द्विर्वचने परस्यानुदात्तत्वम्, पा॰ ८.१.३)
 </details>
@@ -758,7 +758,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००१ युञ्जते मन</summary>
 
 युञ्ज᳓ते म᳓न उत᳓ युञ्जते धि᳓यः ।  
 वि᳓प्रा वि᳓प्रस्य बृहतो᳓ विपश्चि᳓तः ।  
@@ -835,7 +835,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००२ देवस्य त्वा</summary>
 
 देव᳓स्य त्वा सवितुः᳓ प्रसवे᳓ ।  
 अश्वि᳓नोर्बाहु᳓भ्याम् ।  
@@ -880,7 +880,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००३ अभ्रिरसि</summary>
 
 अ᳓भ्रिरसि ना᳓रिरसि ।  
 अद्ध्वरकृ᳓द्देवे᳓भ्यः ।
@@ -935,7 +935,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००४ उत्तिष्ठ</summary>
 
 उ᳓त्तिष्ठ ब्रह्मणस्पते । (2)  
 देवय᳓न्तस्त्वेमहे ।
@@ -983,7 +983,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००५ उप प्रयन्तु</summary>
 
 उ᳓प प्र᳓यन्तु मरु᳓तस्सुदा᳓नवः ।  
 इ᳓न्द्र प्राशू᳓र्भवा स᳓चा ।
@@ -1046,7 +1046,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००६ प्रैतु</summary>
 
 प्रै᳓तु ब्र᳓ह्मणस्प᳓तिः ।  
 प्र᳓ देव्ये᳙तु सूनृ᳓ता ।  
@@ -1117,7 +1117,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००७ देवी</summary>
 
 दे᳓वी द्यावापृथिवी अ᳓नु मे मँसाथाम् ।
 </details>
@@ -1167,7 +1167,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००८ ऋद्ध्यासमद्य</summary>
 
 ऋद्ध्या᳓समद्य᳓ ।
 </details>
@@ -1203,7 +1203,7 @@ may Maruts, well donators go near; O Indra, become swift-going one with us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ००९ मखस्य शिरः</summary>
 
 मख᳓स्य शि᳓रः । (3)
 </details>
@@ -1250,7 +1250,7 @@ this is the head of the sacrifice (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१० मखाय त्वा</summary>
 
 मखा᳓य त्वा ।
 </details>
@@ -1292,7 +1292,7 @@ this is the head of the sacrifice (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०११ मखस्य त्वा</summary>
 
 मख᳓स्य त्वा शीर्ष्णे᳓ ।
 </details>
@@ -1330,7 +1330,7 @@ this is the head of the sacrifice (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१२ इयत्यग्र आसीः</summary>
 
 इ᳓यत्य᳓ग्र आसीः ।
 </details>
@@ -1373,7 +1373,7 @@ this is the head of the sacrifice (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१३ ऋद्ध्यासमद्य</summary>
 
 ऋद्ध्या᳓समद्य᳓ ।
 </details>
@@ -1391,7 +1391,7 @@ this is the head of the sacrifice (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१४ मखस्य शिरः</summary>
 
 मख᳓स्य शि᳓रः ।
 </details>
@@ -1415,7 +1415,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१५ मखाय त्वा</summary>
 
 मखा᳓य त्वा ।
 </details>
@@ -1444,7 +1444,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१६ मखस्य त्वा</summary>
 
 मख᳓स्य त्वा शीर्ष्णे᳓ ।
 </details>
@@ -1495,7 +1495,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१७ देवीर्वम्रीरस्य</summary>
 
 दे᳓वीर्वम्रीरस्य᳓ भूत᳓स्य प्रथमजा ऋतावरीः ।
 </details>
@@ -1541,7 +1541,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१८ ऋद्ध्यासमद्य</summary>
 
 ऋद्ध्या᳓समद्य᳓ ।
 </details>
@@ -1559,7 +1559,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१९ मखस्य शिरः</summary>
 
 मख᳓स्य शि᳓रः । (4)
 </details>
@@ -1583,7 +1583,7 @@ this is the head of the sacrifice (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२० मखाय त्वा</summary>
 
 मखा᳓य त्वा ।
 </details>
@@ -1607,7 +1607,7 @@ this is the head of the sacrifice (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२१ मखस्य त्वा</summary>
 
 मख᳓स्य त्वा शीर्ष्णे᳓ ।
 </details>
@@ -1640,7 +1640,7 @@ this is the head of the sacrifice (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२२ इन्द्रस्यौजोऽसि</summary>
 
 इ᳓न्द्रस्यौ᳓जोऽसि ।
 </details>
@@ -1670,7 +1670,7 @@ this is the head of the sacrifice (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२३ ऋद्ध्यासमद्य</summary>
 
 ऋद्ध्या᳓समद्य᳓ ।
 </details>
@@ -1688,7 +1688,7 @@ this is the head of the sacrifice (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२४ मखस्य शिरः</summary>
 
 मख᳓स्य शि᳓रः ।
 </details>
@@ -1712,7 +1712,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२५ मखाय त्वा</summary>
 
 मखा᳓य त्वा ।
 </details>
@@ -1736,7 +1736,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२६ मखस्य त्वा</summary>
 
 मख᳓स्य त्वा शीर्ष्णे᳓ ।
 </details>
@@ -1787,7 +1787,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२७ अग्निजा असि</summary>
 
 अग्निजा᳓ असि प्रजा᳓पते रे᳓तः ।
 </details>
@@ -1823,7 +1823,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२८ ऋद्ध्यासमद्य</summary>
 
 ऋद्ध्या᳓समद्य᳓ ।
 </details>
@@ -1841,7 +1841,7 @@ this is the head of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२९ मखस्य शिरः</summary>
 
 मख᳓स्य शि᳓रः । (5)
 </details>
@@ -1865,7 +1865,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३० मखाय त्वा</summary>
 
 मखा᳓य त्वा ।
 </details>
@@ -1889,7 +1889,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३१ मखस्य त्वा</summary>
 
 मख᳓स्य त्वा शीर्ष्णे᳓ ।
 </details>
@@ -1931,7 +1931,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३२ आयुर्धेहि</summary>
 
 आ᳓युर्धेहि प्राण᳓न्धेहि ।  
 अपान᳓न्धेहि व्यान᳓न्धेहि ।  
@@ -2015,7 +2015,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३३ मधु त्वा</summary>
 
 म᳓धु त्वा मधुला᳓ करोतु ।
 </details>
@@ -2069,7 +2069,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३४ मखस्य शिरोऽसि</summary>
 
 मख᳓स्य शि᳓रोऽसि । (6)
 </details>
@@ -2115,7 +2115,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३५ यज्ञस्य पदे</summary>
 
 यज्ञ᳓स्य पदे᳓ स्थः ।
 </details>
@@ -2163,7 +2163,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३६ गायत्रेण त्वा</summary>
 
 गायत्रे᳓ण त्वा छ᳓न्दसा करोमि ।
 </details>
@@ -2199,7 +2199,7 @@ this is the head of the sacrifice (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३७ त्रैष्टुभेन</summary>
 
 त्रै᳓ष्टुभेन त्वा छ᳓न्दसा करोमि ।
 </details>
@@ -2225,7 +2225,7 @@ I perform you by the Triṣṭubh-verse,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३८ जागतेन त्वा</summary>
 
 जा᳓गतेन त्वा छ᳓न्दसा करोमि ।
 </details>
@@ -2264,7 +2264,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३९ मखस्य रास्नाऽसि</summary>
 
 मख᳓स्य रा᳓स्नाऽसि ।
 </details>
@@ -2312,7 +2312,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४० अदितिस्ते</summary>
 
 अ᳓दितिस्ते बि᳓लङ्गृह्णातु ।  
 पा᳓ङ्क्तेन छ᳓न्दसा ।
@@ -2365,7 +2365,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४१ सूर्यस्य हरसा</summary>
 
 सू᳓र्यस्य ह᳓रसा श्राय ।
 </details>
@@ -2413,7 +2413,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४२ मखोऽसि</summary>
 
 मखो᳙ऽसि ॥ (7)
 </details>
@@ -2467,7 +2467,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४३ वृष्णो अश्वस्य</summary>
 
 वृ᳓ष्णो अ᳓श्वस्य निष्प᳓दसि ।  
 व᳓रुणस्त्वा धृत᳓व्रत आ᳓धूपयतु ।  
@@ -2535,7 +2535,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४४ अर्चिषे त्वा</summary>
 
 अर्चि᳓षे त्वा ।  
 शोचि᳓षे त्वा ।  
@@ -2601,7 +2601,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४५ अभीमं महिना</summary>
 
 अभी᳓मं᳓ महिना᳓ दि᳓वम् ।  
 मित्रो᳓ बभूव सप्र᳓थाः ।  
@@ -2652,7 +2652,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४६ सिद्ध्यै त्वा</summary>
 
 सि᳓द्ध्यै त्वा ।
 </details>
@@ -2701,7 +2701,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४७ देवस्त्वा</summary>
 
 देव᳓स्त्वा सवितो᳓द्वपतु ।  
 सुपाणि᳓स्स्वङ्गुरिः᳓ ।  
@@ -2748,7 +2748,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४८ अपद्यमानः</summary>
 
 अ᳓पद्यमानः पृथिव्या᳓म् ।  
 आ᳓शा दि᳓श आ᳓ पृण ।  
@@ -2820,7 +2820,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४९ सूर्यस्य त्वा</summary>
 
 सू᳓र्यस्य त्वा च᳓क्षुषा᳓ऽन्वीक्षे ।  
 ऋज᳓वे त्वा ।  
@@ -2889,7 +2889,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५० इदमहममुमामुष्यायणव्ँ</summary>
 
 इद᳓मह᳓ममु᳓मामुष्यायणव्ँ᳓ विशा᳓ पशु᳓भिर्ब्रह्मवर्चसे᳓न प᳓र्यूहामि ।
 </details>
@@ -2950,7 +2950,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५१ गायत्रेण त्वा</summary>
 
 गायत्रे᳓ण त्वा छ᳓न्दसा᳓ च्छृणद्मि ।
 </details>
@@ -2987,7 +2987,7 @@ I perform you by the Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५२ त्रैष्टुभेन</summary>
 
 त्रै᳓ष्टुभेन त्वा छ᳓न्दसा᳓ च्छृणद्मि ।
 </details>
@@ -3024,7 +3024,7 @@ I sprinkle you by the Triṣṭubh-verse;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५३ जागतेन त्वा</summary>
 
 जा᳓गतेन त्वा छ᳓न्दसा᳓ च्छृणद्मि ।
 </details>
@@ -3056,7 +3056,7 @@ I sprinkle you by the Jagatī-verse;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५४ छृणत्तु त्वा</summary>
 
 छृण᳓त्तु त्वा वा᳓क् ।
 </details>
@@ -3086,7 +3086,7 @@ may the speech sprinkle you,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५५ छृणत्तु</summary>
 
 छृण᳓त्तु त्वो᳓र्क् ।
 </details>
@@ -3116,7 +3116,7 @@ may the vigour sprinkle you,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५६ छृणत्तु त्वा</summary>
 
 छृण᳓त्तु त्वा हविः᳓ ।
 </details>
@@ -3146,7 +3146,7 @@ may the oblation sprinkle you;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५७ छृन्धि वाचम्</summary>
 
 छृन्धि᳓ वा᳓चम् ।
 </details>
@@ -3175,7 +3175,7 @@ sprinkle the speech;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५८ छृन्ध्यूर्जम्</summary>
 
 छृन्ध्यू᳓र्जम् ।
 </details>
@@ -3199,7 +3199,7 @@ sprinkle the vigour;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५९ छृन्धि हविः</summary>
 
 छृन्धि᳓ हविः᳓ ।
 </details>
@@ -3241,7 +3241,7 @@ sprinkle the oblation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६० देव पुरश्चर</summary>
 
 दे᳓व पुरश्चर सग्घ्या᳓सन्त्वा । (10)
 </details>
@@ -3298,7 +3298,7 @@ sprinkle the oblation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६१ ब्रह्मन्</summary>
 
 ब्र᳓ह्मन् प्रवर्ग्ये᳙ण प्र᳓चरिष्यामः ।
 </details>
@@ -3336,7 +3336,7 @@ sprinkle the oblation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६२ होतर्घर्ममभिष्टुहि</summary>
 
 हो᳓तर्घर्म᳓मभि᳓ष्टुहि ।
 </details>
@@ -3362,7 +3362,7 @@ O Hotṛ (priest), praise well the Gharma (Pravargya);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६३ अग्नीद्रौहिणौ (1/4 व्यत्यस्त-स्वराः)</summary>
 
 [[अ᳓ग्नीद्रौ᳓हिणौ|अ᳓ग्नीद्रौहिणौ]] पुरोडा᳓शाव᳓धिश्रय ।
 </details>
@@ -3393,7 +3393,7 @@ O Āgnīdhra and Rauhiṇa (-priests) put the Puroḍāśa above;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६४ प्रतिप्रस्थातर्विहर</summary>
 
 प्र᳓तिप्रस्थातर्वि᳓हर ।
 </details>
@@ -3423,7 +3423,7 @@ O Pratiprasthātṛ (-priest), bring;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६५ प्रस्तोतस्सामानि</summary>
 
 प्र᳓स्तोतस्सा᳓मानि गाय ।
 </details>
@@ -3468,7 +3468,7 @@ O Prastotṛ (-priest) sing the Sāmans.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६६ यजुर्युक्तँ</summary>
 
 य᳓जुर्युक्तँ सा᳓मभिरा᳓क्तखन्त्वा ।  
 वि᳓श्वैर्देवै᳓र᳓नुमतं मरु᳓द्भिः ।  
@@ -3522,7 +3522,7 @@ O Prastotṛ (-priest) sing the Sāmans.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६७ भूर्भुवस्सुवः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वः ।
 </details>
@@ -3545,7 +3545,7 @@ Bhūr, Bhuvaḥ, Suvar;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६८ ओमिन्द्रवन्तः</summary>
 
 ओ᳓मि᳓न्द्रवन्तः प्र᳓चरत । (11)
 </details>
@@ -3598,7 +3598,7 @@ perform (the Pravargya, O priests) (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६९ ब्रह्मन्प्रचरिष्यामः</summary>
 
 ब्र᳓ह्मन्प्र᳓चरिष्यामः ।
 </details>
@@ -3641,7 +3641,7 @@ perform (the Pravargya, O priests) (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७० होतर्घर्ममभिष्टुहि</summary>
 
 हो᳓तर्घर्म᳓मभि᳓ष्टुहि ।
 </details>
@@ -3697,7 +3697,7 @@ O Hotṛ (-priest), praise the Gharma (Pravargya).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७१ यमाय त्वा</summary>
 
 यमा᳓य त्वा
 </details>
@@ -3725,7 +3725,7 @@ O Hotṛ (-priest), praise the Gharma (Pravargya).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७२ मखाय त्वा</summary>
 
 मखा᳓य त्वा ।
 </details>
@@ -3759,7 +3759,7 @@ for the sacrifice,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७३ सूर्यस्य हरसे</summary>
 
 सू᳓र्यस्य ह᳓रसे त्वा ।
 </details>
@@ -3814,7 +3814,7 @@ for the brilliance of the sun.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७४ प्राणाय स्वाहा</summary>
 
 प्राणा᳓य स्वा᳓हा
 </details>
@@ -3837,7 +3837,7 @@ for the brilliance of the sun.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७५ व्यानाय स्वाहा</summary>
 
 व्याना᳓य स्वा᳓हा
 </details>
@@ -3855,7 +3855,7 @@ Hail for Vyāna-breath!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७६ अपानाय स्वाहा</summary>
 
 अपाना᳓य स्वा᳓हा ।
 </details>
@@ -3873,7 +3873,7 @@ Hail for Apāna-breath!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७७ चक्षुषे स्वाहा</summary>
 
 च᳓क्षुषे स्वा᳓हा
 </details>
@@ -3897,7 +3897,7 @@ Hail for the eye!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७८ श्रोत्राय</summary>
 
 श्रो᳓त्राय स्वा᳓हा ।
 </details>
@@ -3915,7 +3915,7 @@ Hail for the ear!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७९ मनसे स्वाहा</summary>
 
 म᳓नसे स्वा᳓हा
 </details>
@@ -3933,7 +3933,7 @@ Hail for the mind!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८० वाचे सरस्वत्यै</summary>
 
 वाचे᳓ स᳓रस्वत्यै स्वा᳓हा ।
 </details>
@@ -3956,7 +3956,7 @@ Hail for Vāc and Sarasvatī!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८१ दक्षाय स्वाहा</summary>
 
 द᳓क्षाय स्वा᳓हा
 </details>
@@ -3990,7 +3990,7 @@ Hail for encouragement!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८२ क्रतवे स्वाहा</summary>
 
 क्र᳓तवे स्वा᳓हा ।
 </details>
@@ -4024,7 +4024,7 @@ Hail for the will!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८३ ओजसे स्वाहा</summary>
 
 ओ᳓जसे स्वा᳓हा
 </details>
@@ -4047,7 +4047,7 @@ Hail for the vigour!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८४ बलाय स्वाहा</summary>
 
 ब᳓लाय स्वा᳓हा ।
 </details>
@@ -4088,7 +4088,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८५ देवस्त्वा सविता</summary>
 
 देव᳓स्त्वा सविता᳓ म᳓द्ध्वाऽनक्तु । (12)
 </details>
@@ -4134,7 +4134,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८६ पृथिवीन्तपसस्त्रायस्व</summary>
 
 पृथिवी᳓न्त᳓पसस्त्रायस्व ।
 </details>
@@ -4189,7 +4189,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८७ अर्चिरसि</summary>
 
 अर्चि᳓रसि शोचि᳓रसि ज्यो᳓तिरसि त᳓पोऽसि ।
 </details>
@@ -4251,7 +4251,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८८ सँसीदस्व महाँ</summary>
 
 सँ᳓सीदस्व महाँ᳓ असि ।  
 शो᳓चस्व देववी᳓तमः ।  
@@ -4316,7 +4316,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८९ अञ्जन्ति यम्</summary>
 
 अञ्ज᳓न्ति यं᳓ प्रथ᳓यन्तो न᳓ वि᳓प्राः ।  
 वपा᳓वन्तन्ना᳓ग्नि᳓ना त᳓पन्तः ।  
@@ -4393,7 +4393,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९० अनाधृष्या</summary>
 
 अनाधृष्या᳓ पुर᳓स्तात् ।  
 अग्ने᳓रा᳓धिपत्ये ।  
@@ -4436,7 +4436,7 @@ Hail for the vitality! (1)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९१ पुत्रवती</summary>
 
 पुत्र᳓वती दक्षिणतः᳓ ।  
 इ᳓न्द्रस्या᳓धिपत्ये ।  
@@ -4479,7 +4479,7 @@ as possessor of son, in the south, in the rule of Indra, grant me offspring;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९२ सुषदा पश्चात्</summary>
 
 सुष᳓दा पश्चा᳓त् ।  
 देव᳓स्य सवितु᳓रा᳓धिपत्ये ।  
@@ -4523,7 +4523,7 @@ sitting well, in the west, in the rule of the god Savitṛ, grant me breath;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९३ आश्रुतिरुत्तरतः</summary>
 
 आ᳓श्रुतिरुत्तरतः᳓ । (14)  
 मित्रा᳓व᳓रुणयोरा᳓धिपत्ये ।  
@@ -4566,7 +4566,7 @@ famous, in the north (3), in the rule of Mitra-Varuṇa, grant me hearing;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९४ विधृतिरुपरिष्टात्</summary>
 
 वि᳓धृतिरुप᳓रिष्टात् ।  
 बृ᳓हस्प᳓तेरा᳓धिपत्ये ।  
@@ -4648,7 +4648,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९५ मनोरश्वाऽसि</summary>
 
 म᳓नोर᳓श्वाऽसि भू᳓रिपुत्रा ।  
 वि᳓श्वाभ्यो मा नाष्ट्रा᳓भ्यः पाहि । (15)  
@@ -4718,7 +4718,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/19 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९६ तपोष्वग्ने (1/19 व्यत्यस्त-स्वराः)</summary>
 
 त᳓पोष्व᳙ग्ने अ᳓न्तराँ अमि᳓त्रान् ।  
 [[त᳓पाशँ᳓समररु᳓षः|त᳓पा᳓शँसम᳓ररुषः]] प᳓रस्य ।  
@@ -4793,7 +4793,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९७ चितस्स्थ</summary>
 
 चि᳓तस्स्थ परिचि᳓तः ।
 </details>
@@ -4828,7 +4828,7 @@ disposer, above, in the rule of Bṛhaspati, grant me Brahma (sacred knowledge),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९८ स्वाहा मरुद्भिः</summary>
 
 स्वा᳓हा मरु᳓द्भिः प᳓रिश्रयस्व ।
 </details>
@@ -4884,7 +4884,7 @@ Hail for Maruts; be spread all over.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९९ मा असि</summary>
 
 मा᳓ असि ।
 </details>
@@ -4920,7 +4920,7 @@ Hail for Maruts; be spread all over.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०० प्रमा असि</summary>
 
 प्रमा᳓ असि ।
 </details>
@@ -4956,7 +4956,7 @@ you are good measuring,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०१ प्रतिमा असि</summary>
 
 प्रतिमा᳓ असि । (16)
 </details>
@@ -4979,7 +4979,7 @@ you are each measuring (5),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०२ सम्मा असि (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[सम्मा᳓|स᳓म्मा]] असि ।
 </details>
@@ -5008,7 +5008,7 @@ you are well measuring,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०३ विमा असि</summary>
 
 विमा᳓ असि ।
 </details>
@@ -5031,7 +5031,7 @@ you are best measuring,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०४ उन्मा असि</summary>
 
 उन्मा᳓ असि ।
 </details>
@@ -5068,7 +5068,7 @@ you are above measuring,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०५ अन्तरिक्षस्यान्तर्द्धिरसि</summary>
 
 अन्त᳓रिक्षस्यान्तर्द्धि᳓रसि ।
 </details>
@@ -5116,7 +5116,7 @@ you are the inner holder of the mid-region.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०६ दिवन्तपसस्त्रायस्व</summary>
 
 दि᳓वन्त᳓पसस्त्रायस्व ।
 </details>
@@ -5173,7 +5173,7 @@ you are the inner holder of the mid-region.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०७ आभिर्गीर्भिर्यदतो</summary>
 
 आभि᳓र्गीर्भि᳓र्य᳓द᳓तो न ऊन᳓म् ।  
 आ᳓प्यायय हरिवो व᳓र्द्धमानः ।  
@@ -5238,7 +5238,7 @@ you are the inner holder of the mid-region.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०८ शुक्रन्ते</summary>
 
 शुक्र᳓न्ते अन्य᳓द्यजत᳓न्ते अन्य᳓त् । (17)  
 वि᳓षुरूपे अ᳓हनी द्यौ᳓रिवासि ।  
@@ -5306,7 +5306,7 @@ you are the inner holder of the mid-region.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १०९ अर्हन्बिभर्षि</summary>
 
 अ᳓र्हन्बिभर्षि सा᳓यकानि ध᳓न्व ।  
 अ᳓र्हन्निष्कय्ँ᳓यजतव्ँ᳓ विश्व᳓रूपम् ।  
@@ -5382,7 +5382,7 @@ you are the inner holder of the mid-region.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११० गायत्रमसि</summary>
 
 गायत्र᳓मसि ।
 </details>
@@ -5405,7 +5405,7 @@ you are the inner holder of the mid-region.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १११ त्रैष्टुभमसि</summary>
 
 त्रै᳓ष्टुभमसि ।
 </details>
@@ -5429,7 +5429,7 @@ of Triṣṭup-verse
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११२ जागतमसि</summary>
 
 जा᳓गतमसि ।
 </details>
@@ -5471,7 +5471,7 @@ and of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११३ मधु मधु (2/3 व्यत्यस्त-स्वराः)</summary>
 
 म᳓धु [[म᳓धु|मधु]] [[म᳓धु|मधु]] ॥ (18)
 </details>
@@ -5532,7 +5532,7 @@ and of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११४ दश प्राचीर्दश</summary>
 
 द᳓श प्रा᳓चीर्द᳓श भासि दक्षिणा᳓ ।  
 द᳓श प्रती᳓चीर्द᳓श भास्यु᳓दीचीः ।  
@@ -5599,7 +5599,7 @@ and of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११५ अग्निष्ट्वा</summary>
 
 अग्नि᳓ष्ट्वा व᳓सुभिः पुर᳓स्ताद्रोचयतु गायत्रे᳓ण छ᳓न्दसा ।
 </details>
@@ -5628,7 +5628,7 @@ and of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११६ स मा</summary>
 
 स᳓ मा रुचितो᳓ रोचय ।
 </details>
@@ -5662,7 +5662,7 @@ you as such make us shine being shined.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११७ इन्द्रस्त्वा</summary>
 
 इ᳓न्द्रस्त्वा रुद्रै᳓र्दक्षिणतो᳓ रोचयतु त्रै᳓ष्टुभेन छ᳓न्दसा ।
 </details>
@@ -5696,7 +5696,7 @@ you as such make us shine being shined.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११८ स मा</summary>
 
 स᳓ मा रुचितो᳓ रोचय ।
 </details>
@@ -5727,7 +5727,7 @@ you as such make us shine being shined.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११९ वरुणस्त्वादित्यैः</summary>
 
 व᳓रुणस्त्वादित्यैः᳓ पश्चा᳓द्रोचयतु जा᳓गतेन छ᳓न्दसा ।
 </details>
@@ -5756,7 +5756,7 @@ May Varuṇa, with Ādityas, make you shine in the west by the Jagatī-verse;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२० स मा</summary>
 
 स᳓ मा रुचितो᳓ रोचय । (19)
 </details>
@@ -5782,7 +5782,7 @@ you as such make us shine being shined (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२१ द्युतानस्त्वा</summary>
 
 द्युतान᳓स्त्वा मारुतो᳓ मरु᳓द्भिरुत्तरतो᳓ रोचयत्वा᳓नुष्टुभेन छ᳓न्दसा ।
 </details>
@@ -5812,7 +5812,7 @@ May the heavenly Maruta (wind), with Maruts, make you shine in the north by the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२२ स मा</summary>
 
 स᳓ मा रुचितो᳓ रोचय ।
 </details>
@@ -5838,7 +5838,7 @@ may you as such make us shine, being shined.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२३ बृहस्पतिस्त्वा</summary>
 
 बृ᳓हस्प᳓तिस्त्वा वि᳓श्वैर्देवै᳓रुप᳓रिष्टाद्रोचयतु पा᳓ङ्क्तेन छ᳓न्दसा ।
 </details>
@@ -5868,7 +5868,7 @@ May Bṛhaspati, with all-gods (Viśve-devas), make you shine above by the Paṅ
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२४ स मा</summary>
 
 स᳓ मा रुचितो᳓ रोचय ।
 </details>
@@ -5912,7 +5912,7 @@ May you as such make us shine, being shined.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२५ रोचितस्त्वन्देव (1/6 व्यत्यस्त-स्वराः)</summary>
 
 रोचित᳓स्त्व᳓न्देव घर्म [[देवे᳓ष्व᳓सि|देवे᳓ष्वसि]] ।
 </details>
@@ -5950,7 +5950,7 @@ May you as such make us shine, being shined.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२६ रोचिषीयाहम्</summary>
 
 रोचिषीया᳓हं᳓ मनुष्ये᳙षु ।
 </details>
@@ -5980,7 +5980,7 @@ may I become shining among the men.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२७ सम्राड्घर्म</summary>
 
 स᳓म्राड्घर्म रुचित᳓स्त्व᳓न्देवे᳓ष्वा᳓युष्माँस्तेजस्वी᳓ ब्रह्मवर्चस्य᳙सि ।
 </details>
@@ -6021,7 +6021,7 @@ may I become shining among the men.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२८ रुचितोऽहम्</summary>
 
 रुचितो᳙ऽहं᳓ मनुष्ये᳙ष्वा᳓युष्माँस्तेजस्वी᳓ ब्रह्मवर्चसी᳓ भूयासम् ।
 </details>
@@ -6068,7 +6068,7 @@ among the men may I become shining, full of life, brilliant and having splendour
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२९ रुगसि</summary>
 
 रु᳓गसि ।
 </details>
@@ -6096,7 +6096,7 @@ among the men may I become shining, full of life, brilliant and having splendour
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३० रुचं मयि</summary>
 
 रु᳓चं म᳓यि धेहि । (20)
 </details>
@@ -6131,7 +6131,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३१ मयि रुक्</summary>
 
 म᳓यि रु᳓क् ।
 </details>
@@ -6162,7 +6162,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/25 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३२ दश (1/25 व्यत्यस्त-स्वराः)</summary>
 
 द᳓श पुर᳓स्ताद्रोचसे ।  
 द᳓श दक्षिणा᳓ ।  
@@ -6259,7 +6259,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३३ अपश्यङ्गोपामनिपद्यमानम्</summary>
 
 अ᳓पश्यङ्गोपा᳓म᳓निपद्यमानम् ।  
 आ᳓ च प᳓रा च पथि᳓भिश्च᳓रन्तम् ।  
@@ -6328,7 +6328,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३४ अत्र प्रावीः (2/10 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓त्र [[प्रावीः᳓|प्रा᳓वीः]] ।  
 म᳓धु मा᳓द्ध्वीभ्यां म᳓धु मा᳓धूचीभ्याम् ।  
@@ -6384,7 +6384,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३५ समग्निरग्निना</summary>
 
 स᳓मग्नि᳓रग्नि᳓ना गत ।  
 स᳓न्देवे᳓न सवित्रा᳓ ।  
@@ -6430,7 +6430,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३६ स्वाहा (1/12 व्यत्यस्त-स्वराः)</summary>
 
 स्वा᳓हा स᳓मग्नि᳓स्त᳓पसा गत ।  
 स᳓न्देवे᳓न सवित्रा᳓ ।  
@@ -6486,7 +6486,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३७ धर्ता दिवो</summary>
 
 धर्ता᳓ दिवो᳓ वि᳓भासि र᳓जसः ।  
 पृथिव्या᳓ धर्ता᳓ ।  
@@ -6554,7 +6554,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३८ हृदे त्वा</summary>
 
 हृदे᳓ त्वा
 </details>
@@ -6582,7 +6582,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३९ मनसे त्वा</summary>
 
 म᳓नसे त्वा ।
 </details>
@@ -6605,7 +6605,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४० दिवे त्वा</summary>
 
 दिवे᳓ त्वा
 </details>
@@ -6623,7 +6623,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४१ सूर्याय त्वा</summary>
 
 सू᳓र्याय त्वा । (23)
 </details>
@@ -6646,7 +6646,7 @@ put the shining in me,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४२ ऊर्द्ध्वमिमद्ध्वरङ्कृधि</summary>
 
 ऊर्द्ध्व᳓मिम᳙द्ध्वर᳓ङ्कृधि ।
 </details>
@@ -6677,7 +6677,7 @@ make this sacrifice above,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४३ दिवि देवेषु</summary>
 
 दिवि᳓ देवे᳓षु हो᳓त्रा यच्छ ।
 </details>
@@ -6713,7 +6713,7 @@ give these sacrificings to the gods in the heaven.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४४ विश्वासां भुवाम् (1/3 व्यत्यस्त-स्वराः)</summary>
 
 वि᳓श्वासां [[भुवां|भुवां᳓]] पते ।
 </details>
@@ -6748,7 +6748,7 @@ give these sacrificings to the gods in the heaven.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४५ विश्वस्य</summary>
 
 वि᳓श्वस्य भुवनस्पते ।  
 वि᳓श्वस्य मनसस्पते ।  
@@ -6811,7 +6811,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४६ देवश्रूस्त्वन्देव</summary>
 
 देवश्रू᳓स्त्व᳓न्देव घर्म देवा᳓न्पाहि ।
 </details>
@@ -6862,7 +6862,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४७ तपोजाव्ँ</summary>
 
 तपोजाव्ँ᳓ वा᳓चमस्मे᳓ नि᳓यच्छ देवायु᳓वम् । (24)
 </details>
@@ -6908,7 +6908,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४८ गर्भो देवानाम्</summary>
 
 ग᳓र्भो देवा᳓नाम् ।
 </details>
@@ -6942,7 +6942,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४९ पिता मतीनाम्</summary>
 
 पिता᳓ मतीना᳓म् ।
 </details>
@@ -6979,7 +6979,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५० पतिः प्रजानाम्</summary>
 
 प᳓तिः प्रजा᳓नाम् ।
 </details>
@@ -7023,7 +7023,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५१ मतिः कवीनाम् (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[म᳓तिः|मतिः᳓]] कवीना᳓म् ।
 </details>
@@ -7065,7 +7065,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५२ सन्देवो देवेन</summary>
 
 स᳓न्देवो᳓ देवे᳓न सवित्रा᳓ यतिष्ट ।
 </details>
@@ -7102,7 +7102,7 @@ O lord of all the world; O lord of the mind of all; O lord of all the speech, O 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५३ सँ</summary>
 
 सँ᳓ सू᳓र्येणारुक्त ।
 </details>
@@ -7137,7 +7137,7 @@ and shined with the sun.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५४ आयुर्दास्त्वमस्मभ्यङ्घर्म</summary>
 
 आयुर्दा᳓स्त्व᳓मस्म᳓भ्यङ्घर्म वर्चोदा᳓ असि ।
 </details>
@@ -7180,7 +7180,7 @@ and shined with the sun.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५५ पिता नोऽसि</summary>
 
 पिता᳓ नोऽसि
 </details>
@@ -7208,7 +7208,7 @@ and shined with the sun.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५६ पिता नो</summary>
 
 पिता᳓ नो बोध ।
 </details>
@@ -7246,7 +7246,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५७ आयुर्द्धास्तनूधाः</summary>
 
 आयुर्द्धा᳓स्तनूधाः᳓ पयोधाः᳓ ।  
 वर्चोदा᳓ वरिवोदा᳓ द्रविणोदाः᳓ । (25)  
@@ -7311,7 +7311,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५८ त्वमग्ने</summary>
 
 त्व᳓मग्ने गृह᳓पतिर्विशा᳓मसि ।  
 वि᳓श्वासां मा᳓नुषीणाम् ।  
@@ -7394,7 +7394,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५९ त्वष्टीमती ते</summary>
 
 त्व᳓ष्टीमती ते सपेय ।  
 सुरे᳓ता रे᳓तो द᳓धाना ।  
@@ -7450,7 +7450,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६० देवस्य त्वा</summary>
 
 देव᳓स्य त्वा सवितुः᳓ प्रसवे᳓ ।  
 अश्वि᳓नोर्बाहु᳓भ्याम् ।  
@@ -7499,7 +7499,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६१ अदित्यै</summary>
 
 अ᳓दित्यै रा᳓स्नासि ।
 </details>
@@ -7535,7 +7535,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६२ इड एहि</summary>
 
 इ᳓ड ए᳓हि ।
 </details>
@@ -7571,7 +7571,7 @@ impel us as a father.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६३ अदित एहि</summary>
 
 अ᳓दित ए᳓हि ।
 </details>
@@ -7599,7 +7599,7 @@ O Aditi, come;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६४ सरस्वत्येहि</summary>
 
 स᳓रस्वत्ये᳓हि ।
 </details>
@@ -7630,7 +7630,7 @@ O Sarasvatī, come.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६५ असावेहि</summary>
 
 अ᳓सावे᳓हि ।
 </details>
@@ -7653,7 +7653,7 @@ O Sarasvatī, come.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६६ असावेहि</summary>
 
 अ᳓सावे᳓हि ।
 </details>
@@ -7671,7 +7671,7 @@ O that.....come;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६७ असावेहि</summary>
 
 अ᳓सावे᳓हि । (27)
 </details>
@@ -7707,7 +7707,7 @@ O that.....come (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६८ अदित्या</summary>
 
 अ᳓दित्या उष्णी᳓षमसि ।
 </details>
@@ -7760,7 +7760,7 @@ O that.....come (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६९ वायुरस्यैडः</summary>
 
 वायु᳓रस्यैडः᳓ ।
 </details>
@@ -7813,7 +7813,7 @@ O that.....come (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७० पूषा</summary>
 
 पूषा᳓ त्वोपा᳓वसृजतु ।
 </details>
@@ -7850,7 +7850,7 @@ O that.....come (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७१ अश्विभ्यां प्र</summary>
 
 अश्वि᳓भ्यां प्र᳓ दापय ।
 </details>
@@ -7900,7 +7900,7 @@ for Aśvins, cause to swell milk.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७२ यस्ते</summary>
 
 य᳓स्ते स्त᳓नश्शशयो᳓ यो᳓ मयोभूः᳓ ।  
 ये᳓न वि᳓श्वा पु᳓ष्यसि वा᳓र्याणि ।  
@@ -7971,7 +7971,7 @@ for Aśvins, cause to swell milk.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७३ उस्र घर्मँ</summary>
 
 उ᳓स्र घर्मँ᳓ शिँष ।
 </details>
@@ -8009,7 +8009,7 @@ for Aśvins, cause to swell milk.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७४ उस्र घर्मम्</summary>
 
 उ᳓स्र घर्मं᳓ पाहि । (28)
 </details>
@@ -8044,7 +8044,7 @@ O calf, protect the Gharma (2);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७५ घर्माय शिँष</summary>
 
 घर्मा᳓य शिँष ।
 </details>
@@ -8096,7 +8096,7 @@ leave for the Gharma (Pravargya).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७६ बृहस्पतिस्त्वोपसीदतु</summary>
 
 बृ᳓हस्प᳓तिस्त्वो᳓पसीदतु ।
 </details>
@@ -8150,7 +8150,7 @@ leave for the Gharma (Pravargya).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७७ दानवस्स्थ पेरवः (1/5 व्यत्यस्त-स्वराः)</summary>
 
 [[दा᳓नवस्स्थ|दानव᳓स्स्थ]] पे᳓रवः ।  
 विष्वग्वृ᳓तो लो᳓हितेन ।
@@ -8207,7 +8207,7 @@ leave for the Gharma (Pravargya).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७८ अश्विभ्याम्</summary>
 
 अश्वि᳓भ्यां पिन्वस्व ।
 </details>
@@ -8241,7 +8241,7 @@ leave for the Gharma (Pravargya).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७९ सरस्वत्यै</summary>
 
 स᳓रस्वत्यै पिन्वस्व ।
 </details>
@@ -8265,7 +8265,7 @@ for Sarasvatī cause to swell milk;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८० पूष्णे पिन्वस्व</summary>
 
 पूष्णे᳓ पिन्वस्व ।
 </details>
@@ -8284,7 +8284,7 @@ for Sarasvatī cause to swell milk;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८१ बृहस्पतये</summary>
 
 बृ᳓हस्प᳓तये पिन्वस्व ।
 </details>
@@ -8308,7 +8308,7 @@ for Bṛhaspati, cause to swell milk;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८२ इन्द्राय</summary>
 
 इ᳓न्द्राय पिन्वस्व ।
 </details>
@@ -8332,7 +8332,7 @@ for Indra, cause to swell milk;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८३ इन्द्राय</summary>
 
 इ᳓न्द्राय पिन्वस्व । (29)
 </details>
@@ -8380,7 +8380,7 @@ for Indra, cause to swell milk;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८४ गायत्रोऽसि</summary>
 
 गायत्रो᳙ऽसि ।
 </details>
@@ -8403,7 +8403,7 @@ for Indra, cause to swell milk;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८५ त्रैष्टुभोऽसि</summary>
 
 त्रै᳓ष्टुभोऽसि ।
 </details>
@@ -8429,7 +8429,7 @@ you are of Triṣṭup-verse,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८६ जागतमसि</summary>
 
 जा᳓गतमसि ।
 </details>
@@ -8476,7 +8476,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८७ सहोर्जो (1/7 व्यत्यस्त-स्वराः)</summary>
 
 सहो᳓र्जो᳓ [[भागे᳓नो᳓पमे᳓हि|भागे᳓नोपमे᳓हि]] ।
 </details>
@@ -8533,7 +8533,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८८ इन्द्राश्विना (1/8 व्यत्यस्त-स्वराः)</summary>
 
 इ᳓न्द्राश्विना म᳓धुनस्सारघ᳓स्य ।  
 घर्मं᳓ पात वसवो [[य᳓जता|यजता᳓]] व᳓ट् ।
@@ -8588,7 +8588,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८९ स्वाहा त्वा</summary>
 
 स्वा᳓हा त्वा सू᳓र्यस्य रश्म᳓ये वृष्टिव᳓नये जुहोमि ।
 </details>
@@ -8644,7 +8644,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९० मधु हविरसि</summary>
 
 म᳓धु हवि᳓रसि ।
 </details>
@@ -8692,7 +8692,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९१ सूर्यस्य तपस्तप</summary>
 
 सू᳓र्यस्य त᳓पस्तप ।
 </details>
@@ -8746,7 +8746,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९२ द्यावापृथिवीभ्यान्त्वा</summary>
 
 द्या᳓वापृथिवी᳓भ्यान्त्वा प᳓रिगृह्णामि । (30)
 </details>
@@ -8787,7 +8787,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९३ अन्तरिक्षेण</summary>
 
 अन्त᳓रिक्षेण त्वो᳓पयच्छामि ।
 </details>
@@ -8836,7 +8836,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९४ देवानान्त्वा</summary>
 
 देवा᳓नान्त्वा पितृणा᳓म᳓नुमतो भ᳓र्तुँ शकेयम् ।
 </details>
@@ -8894,7 +8894,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९५ तेजोऽसि</summary>
 
 ते᳓जोऽसि ।
 </details>
@@ -8922,7 +8922,7 @@ you are of Jagatī-verse.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९६ तेजोऽनु प्रेहि</summary>
 
 ते᳓जो᳓ऽनु प्रे᳓हि ।
 </details>
@@ -8950,7 +8950,7 @@ follow the brilliance;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९७ दिविस्पृङ्मा मा</summary>
 
 दिविस्पृ᳓ङ्मा᳓ मा हिँसीः ।
 </details>
@@ -8986,7 +8986,7 @@ touching the heaven, do not, do not violate;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९८ अन्तरिक्षस्पृङ्मा</summary>
 
 अन्तरिक्षस्पृ᳓ङ्मा᳓ मा हिँसीः ।
 </details>
@@ -9017,7 +9017,7 @@ touching the mid-region, do not, do not violate;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९९ पृथिविस्पृङ्मा</summary>
 
 पृथिविस्पृ᳓ङ्मा᳓ मा हिँसीः ।
 </details>
@@ -9048,7 +9048,7 @@ touching the earth, do not, do not violate;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०० सुवरसि</summary>
 
 सु᳓वरसि
 </details>
@@ -9071,7 +9071,7 @@ you are paradise,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०१ सुवर्मे यच्छ</summary>
 
 सु᳓वर्मे यच्छ ।
 </details>
@@ -9094,7 +9094,7 @@ grant me paradise;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०२ दिवय्ँयच्छ</summary>
 
 दि᳓वय्ँयच्छ
 </details>
@@ -9122,7 +9122,7 @@ grant me heaven,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०३ दिवो मा</summary>
 
 दिवो᳓ मा पाहि । (31)
 </details>
@@ -9181,7 +9181,7 @@ protect me from the heaven (5).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०४ समुद्राय त्वा</summary>
 
 समुद्रा᳓य त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9217,7 +9217,7 @@ protect me from the heaven (5).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०५ सलिलाय त्वा</summary>
 
 सलिला᳓य त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9248,7 +9248,7 @@ Hail for you, the wind, the water!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०६ अनाधृष्याय त्वा</summary>
 
 अनाधृष्या᳓य त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9279,7 +9279,7 @@ Hail for you, the wind, the non-injurable!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०७ अप्रतिधृष्याय</summary>
 
 अप्रतिधृष्या᳓य त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9310,7 +9310,7 @@ Hail for you, the wind, the protector!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०८ अवस्यवे त्वा</summary>
 
 अवस्य᳓वे त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9349,7 +9349,7 @@ Hail for you, the wind, the moving one!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २०९ दुवस्वते त्वा</summary>
 
 दु᳓वस्वते त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9380,7 +9380,7 @@ Hail for you, the wind, the active!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१० शिमिद्वते त्वा</summary>
 
 शि᳓मिद्वते त्वा वा᳓ताय स्वा᳓हा ।
 </details>
@@ -9406,7 +9406,7 @@ Hail for you, the wind, the active!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २११ अग्नये त्वा</summary>
 
 अग्न᳓ये त्वा व᳓सुमते स्वा᳓हा ।
 </details>
@@ -9437,7 +9437,7 @@ Hail for you, the fire, full of the things!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१२ सोमाय त्वा</summary>
 
 सो᳓माय त्वा रुद्र᳓वते स्वा᳓हा ।
 </details>
@@ -9468,7 +9468,7 @@ Hail for you, Soma, accompanied with Rudras!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१३ वरुणाय</summary>
 
 व᳓रुणाय त्वाऽऽदित्य᳓वते स्वा᳓हा । (32)
 </details>
@@ -9499,7 +9499,7 @@ Hail for you, Varuṇa, accompanied with Ādityas (1)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१४ बृहस्पतये त्वा</summary>
 
 बृ᳓हस्प᳓तये त्वा विश्व᳓देव्यावते स्वा᳓हा ।
 </details>
@@ -9530,7 +9530,7 @@ Hail for you, Bṛhaspati, accompanied with all the gods!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१५ सवित्रे</summary>
 
 सवित्रे᳓ त्वर्भुम᳓ते विभुम᳓ते प्रभुम᳓ते वा᳓जवते स्वा᳓हा ।
 </details>
@@ -9564,7 +9564,7 @@ Hail for you, Savitṛ, accompanied with Ṛbhus, accompanied with the pervading
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१६ यमाय</summary>
 
 यमा᳓य त्वा᳓ऽङ्गिरस्वते पितृम᳓ते स्वा᳓हा ।
 </details>
@@ -9614,7 +9614,7 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१७ विश्वा आशा</summary>
 
 वि᳓श्वा आ᳓शा दक्षिणस᳓त् ।
 </details>
@@ -9662,7 +9662,7 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१८ विश्वान्देवानयाडिह</summary>
 
 वि᳓श्वान्देवा᳓नयाडिह᳓ ।
 </details>
@@ -9713,7 +9713,7 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१९ स्वाहाकृतस्य</summary>
 
 स्वा᳓हाकृतस्य घर्म᳓स्य ।  
 म᳓धोः पिबतमश्विना ।
@@ -9752,7 +9752,7 @@ Hail for you, Yama, accompanied with Aṅgiras, accompanied with the fathers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२० स्वाहाऽग्नये</summary>
 
 स्वा᳓हाऽग्न᳓ये यज्ञि᳓याय ।
 </details>
@@ -9787,7 +9787,7 @@ Hail for the fire, the sacrificeable!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२१ शय्ँयजुर्भिः</summary>
 
 शय्ँ᳓य᳓जुर्भिः ।
 </details>
@@ -9836,7 +9836,7 @@ May there propitiation be by the Yajus-Mantra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२२ अश्विना घर्मम् (1/10 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓श्विना घर्मं᳓ पातँ हार्दिवान᳓म् । (33)  
 [[अ᳓हर्दिवा᳓भिरूति᳓भिः|अहर्दिवा᳓भिरूति᳓भिः]] ।  
@@ -9895,7 +9895,7 @@ May there propitiation be by the Yajus-Mantra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२३ स्वाहेन्द्राय</summary>
 
 स्वा᳓हे᳓न्द्राय ।  
 स्वा᳓हे᳓न्द्राव᳓ट् ।
@@ -9954,7 +9954,7 @@ May there propitiation be by the Yajus-Mantra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२४ घर्ममपातमश्विना (2/14 व्यत्यस्त-स्वराः)</summary>
 
 घर्म᳓मपातमश्विना हार्दिवान᳓म् ।  
 [[अ᳓हर्दिवा᳓भिरूति᳓भिः|अहर्दिवा᳓भिरूति᳓भिः]] ।  
@@ -10006,7 +10006,7 @@ May there propitiation be by the Yajus-Mantra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२५ नमो दिवे</summary>
 
 न᳓मो दिवे᳓ ।
 </details>
@@ -10024,7 +10024,7 @@ Salutation to the heaven,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२६ नमः पृथिव्यै</summary>
 
 न᳓मः पृथिव्यै᳓ । (34)
 </details>
@@ -10047,7 +10047,7 @@ salutation to the mid-region, salutation to the earth (3);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२७ दिविधा इमय्ँ</summary>
 
 दिवि᳓धा इमय्ँ᳓ यज्ञ᳓म् ।
 </details>
@@ -10078,7 +10078,7 @@ put this sacrifice in the heaven;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२८ यज्ञमिमन्दिवि</summary>
 
 यज्ञ᳓मिम᳓न्दिवि᳓ धाः ।
 </details>
@@ -10109,7 +10109,7 @@ put this sacrifice in the heaven;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२९ दिवङ्गच्छ</summary>
 
 दि᳓वङ्गच्छ ।
 </details>
@@ -10132,7 +10132,7 @@ go to the heaven,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३० अन्तरिक्षङ्गच्छ</summary>
 
 अन्त᳓रिक्षङ्गच्छ ।
 </details>
@@ -10156,7 +10156,7 @@ go to the mid-region,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३१ पृथिवीङ्गच्छ</summary>
 
 पृथिवी᳓ङ्गच्छ ।
 </details>
@@ -10174,7 +10174,7 @@ go to the earth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३२ पञ्च प्रदिशो</summary>
 
 प᳓ञ्च प्रदि᳓शो गच्छ ।
 </details>
@@ -10204,7 +10204,7 @@ go to the five great quarters,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३३ देवान्घर्मपान्गच्छ</summary>
 
 देवा᳓न्घर्मपा᳓न्गच्छ ।
 </details>
@@ -10234,7 +10234,7 @@ go to the gods, who drink the Gharma (milk with ghee),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३४ पितॄन्घर्मपान्गच्छ</summary>
 
 पितॄ᳓न्घर्मपा᳓न्गच्छ । (35)
 </details>
@@ -10286,7 +10286,7 @@ go to the fathers, who drink the Gharma (milk with ghee) (4).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३५ इषे पीपिहि</summary>
 
 इषे᳓ पीपिहि ।
 </details>
@@ -10320,7 +10320,7 @@ go to the fathers, who drink the Gharma (milk with ghee) (4).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३६ ऊर्जे पीपिहि</summary>
 
 ऊर्जे᳓ पीपिहि ।
 </details>
@@ -10344,7 +10344,7 @@ be increased for the vigour;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३७ ब्रह्मणे पीपिहि</summary>
 
 ब्र᳓ह्मणे पीपिहि ।
 </details>
@@ -10368,7 +10368,7 @@ be increased for Brahman;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३८ क्षत्राय पीपिहि</summary>
 
 क्षत्रा᳓य पीपिहि ।
 </details>
@@ -10392,7 +10392,7 @@ be increased for the dominion;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३९ अद्भ्यः पीपिहि</summary>
 
 अद्भ्यः᳓ पीपिहि ।
 </details>
@@ -10416,7 +10416,7 @@ be increased for the waters;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४० ओषधीभ्यः पीपिहि</summary>
 
 ओ᳓षधीभ्यः पीपिहि ।
 </details>
@@ -10440,7 +10440,7 @@ be increased for the plants;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४१ वनस्पतिभ्यः</summary>
 
 व᳓नस्प᳓तिभ्यः पीपिहि ।
 </details>
@@ -10474,7 +10474,7 @@ be increased for the vegetables;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४२ द्यावापृथिवीभ्याम्</summary>
 
 [[द्या᳓वापृथि᳓वी᳓भ्यां|द्या᳓वापृथिवी᳓भ्यां]] पीपिहि ।
 </details>
@@ -10503,7 +10503,7 @@ be increased for the heaven and the earth;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४३ सुभूताय पीपिहि</summary>
 
 सुभूता᳓य पीपिहि ।
 </details>
@@ -10537,7 +10537,7 @@ be increased for the good beings;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४४ ब्रह्मवर्चसाय</summary>
 
 ब्रह्मवर्चसा᳓य पीपिहि । (36)
 </details>
@@ -10561,7 +10561,7 @@ be increased for the brilliance of the sacred knowledge (1);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४५ यजमानाय पीपिहि</summary>
 
 य᳓जमानाय पीपिहि ।
 </details>
@@ -10585,7 +10585,7 @@ be increased for the sacrificer;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४६ मह्यञ्ज्यैष्ठ्याय</summary>
 
 म᳓ह्यञ्ज्यै᳓ष्ठ्याय पीपिहि ।
 </details>
@@ -10638,7 +10638,7 @@ be increased for my greatness.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४७ त्विष्यै त्वा</summary>
 
 त्वि᳓ष्यै त्वा ।  
 द्युम्ना᳓य त्वा ।  
@@ -10695,7 +10695,7 @@ be increased for my greatness.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४८ धर्मासि सुधर्मा (1/5 व्यत्यस्त-स्वराः)</summary>
 
 ध᳓र्मासि [[सुध᳓र्मा᳓|सुध᳓र्मा]] [[मेन्यस्मे᳓|मेन्य᳙स्मे᳓]] ।
 </details>
@@ -10732,7 +10732,7 @@ be increased for my greatness.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४९ ब्रह्माणि धारय</summary>
 
 ब्र᳓ह्माणि धारय ।
 </details>
@@ -10766,7 +10766,7 @@ put the brilliance of the sacred knowledge in us,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५० क्षत्राणि धारय</summary>
 
 क्षत्रा᳓णि धारय ।
 </details>
@@ -10794,7 +10794,7 @@ put the dominion,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५१ विशन्धारय</summary>
 
 वि᳓शन्धारय ।
 </details>
@@ -10828,7 +10828,7 @@ put the subject;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५२ नेत्त्वा</summary>
 
 ने᳓त्त्वा वा᳓तस्स्कन्द᳓यात् । (37)
 </details>
@@ -10884,7 +10884,7 @@ may the wind not move you even (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५३ अमुष्य त्वा</summary>
 
 अमु᳓ष्य त्वा प्राणे᳓ सादयामि ।
 </details>
@@ -10912,7 +10912,7 @@ may the wind not move you even (2).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५४ अमुना सह</summary>
 
 अमु᳓ना सह᳓ निरर्त्थ᳓ङ्गच्छ ।  
 यो᳓ऽस्मा᳓न्द्वे᳓ष्टि ।  
@@ -10979,7 +10979,7 @@ go with him useless (making his works useless).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५५ पूष्णे शरसे</summary>
 
 पूष्णे᳓ श᳓रसे स्वा᳓हा ।
 </details>
@@ -11014,7 +11014,7 @@ go with him useless (making his works useless).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५६ ग्रावभ्यः</summary>
 
 ग्रा᳓वभ्यः स्वा᳓हा ।
 </details>
@@ -11042,7 +11042,7 @@ Hail for the stones!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५७ प्रतिरेभ्यः</summary>
 
 प्रतिरे᳓भ्यः स्वा᳓हा ।
 </details>
@@ -11076,7 +11076,7 @@ Hail for ...! Hail for the promoting ones!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५८ द्यावापृथिवीभ्याँ</summary>
 
 द्या᳓वापृथिवी᳓भ्याँ स्वा᳓हा ।
 </details>
@@ -11094,7 +11094,7 @@ Hail for the heaven and the earth!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५९ पितृभ्यो</summary>
 
 पितृ᳓भ्यो घर्मपे᳓भ्यः स्वा᳓हा ।
 </details>
@@ -11142,7 +11142,7 @@ Hail for the fathers, drinkers of the Gharma (milk with ghee)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६० रुद्राय</summary>
 
 रुद्रा᳓य रुद्र᳓होत्रे स्वा᳓हा । (38)
 </details>
@@ -11195,7 +11195,7 @@ Hail for the fathers, drinkers of the Gharma (milk with ghee)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६१ अहर्ज्योतिः</summary>
 
 अ᳓हर्ज्यो᳓तिः केतु᳓ना जुषताम् ।
 </details>
@@ -11231,7 +11231,7 @@ Hail for the fathers, drinkers of the Gharma (milk with ghee)!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६२ सुज्योतिर्ज्योतिषाँ</summary>
 
 सुज्योति᳓र्ज्यो᳓तिषाँ स्वा᳓हा ।
 </details>
@@ -11261,7 +11261,7 @@ the good light of the lights; Hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६३ रात्रिर्ज्योतिः</summary>
 
 रा᳓त्रिर्ज्यो᳓तिः केतु᳓ना जुषताम् ।
 </details>
@@ -11287,7 +11287,7 @@ May the light of the night be connected with the impelling (of the moon);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६४ सुज्योतिर्ज्योतिषाँ</summary>
 
 सुज्योति᳓र्ज्यो᳓तिषाँ स्वा᳓हा ।
 </details>
@@ -11325,7 +11325,7 @@ the good light of the lights.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६५ अपीपरो माऽह्नो</summary>
 
 अ᳓पीपरो मा᳓ऽह्नो
 </details>
@@ -11355,7 +11355,7 @@ the good light of the lights.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६६ रात्रियै मा</summary>
 
 रा᳓त्रियै मा पाहि ।
 </details>
@@ -11393,7 +11393,7 @@ protect me from the day and the night;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६७ एषा ते</summary>
 
 एषा᳓ ते अग्ने समि᳓त् ।
 </details>
@@ -11429,7 +11429,7 @@ this is, O fire, your fuel;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६८ तया समिद्ध्यस्व</summary>
 
 त᳓या स᳓मिद्ध्यस्व ।
 </details>
@@ -11452,7 +11452,7 @@ be increased by that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६९ आयुर्मे दाः</summary>
 
 आ᳓युर्मे दाः ।
 </details>
@@ -11482,7 +11482,7 @@ give me life;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७० वर्चसा माञ्जीः</summary>
 
 व᳓र्चसा माञ्जीः ।
 </details>
@@ -11520,7 +11520,7 @@ make me full of brilliance.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७१ अपीपरो मा</summary>
 
 अ᳓पीपरो मा रा᳓त्रिया
 </details>
@@ -11550,7 +11550,7 @@ You have fulfilled (my desires);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७२ अह्नो मा</summary>
 
 अ᳓ह्नो मा पाहि । (39)
 </details>
@@ -11585,7 +11585,7 @@ protect me from the night and the day (4);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७३ एषा ते</summary>
 
 एषा᳓ ते अग्ने समि᳓त् ।
 </details>
@@ -11611,7 +11611,7 @@ this is, O fire, your fuel;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७४ तया समिद्ध्यस्व</summary>
 
 त᳓या स᳓मिद्ध्यस्व ।
 </details>
@@ -11634,7 +11634,7 @@ be increased by that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७५ आयुर्मे दाः</summary>
 
 आ᳓युर्मे दाः ।
 </details>
@@ -11659,7 +11659,7 @@ give me life;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७६ वर्चसा माञ्जीः</summary>
 
 व᳓र्चसा माञ्जीः ।
 </details>
@@ -11702,7 +11702,7 @@ make me full of brilliance.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७७ अग्निर्ज्योतिर्ज्योतिरग्निः</summary>
 
 अग्नि᳓र्ज्यो᳓तिर्ज्यो᳓तिरग्निः᳓ स्वा᳓हा ।
 </details>
@@ -11738,7 +11738,7 @@ make me full of brilliance.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७८ सूर्यो</summary>
 
 सू᳓र्यो ज्यो᳓तिर्ज्यो᳓तिः सू᳓र्यः स्वा᳓हा ।
 </details>
@@ -11784,7 +11784,7 @@ the sun is the light; the light is the sun; Hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७९ भूः स्वाहा</summary>
 
 भूः᳓ स्वा᳓हा ।
 </details>
@@ -11827,7 +11827,7 @@ the sun is the light; the light is the sun; Hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८० हुतँ हविः</summary>
 
 हुतँ᳓ हविः᳓ ।  
 म᳓धु हविः᳓ ।  
@@ -11869,7 +11869,7 @@ the sun is the light; the light is the sun; Hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८१ पिता नोऽसि</summary>
 
 पिता᳓ नोऽसि
 </details>
@@ -11892,7 +11892,7 @@ you are our father;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८२ मा मा</summary>
 
 मा᳓ मा हिँसीः ।
 </details>
@@ -11920,7 +11920,7 @@ do not, do not kill;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८३ अश्याम ते</summary>
 
 अश्या᳓म ते देवघर्म ।  
 म᳓धुमतो वा᳓जवतः पितुम᳓तः ।  
@@ -11965,7 +11965,7 @@ I have seen your (essence), O divine Gharma (Pravargya), (the essence of) one fu
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८४ अशीमहि त्वा</summary>
 
 अशीम᳓हि त्वा
 </details>
@@ -11988,7 +11988,7 @@ we have enjoyed you as such;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८५ मा मा</summary>
 
 मा᳓ मा हिँसीः ।
 </details>
@@ -12034,7 +12034,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८६ स्वाहा त्वा</summary>
 
 स्वा᳓हा त्वा सू᳓र्यस्य रश्मि᳓भ्यः ।
 </details>
@@ -12078,7 +12078,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८७ स्वाहा त्वा</summary>
 
 स्वा᳓हा त्वा न᳓क्षत्रेभ्यः । (41)
 </details>
@@ -12137,7 +12137,7 @@ Hail for you! (Hail) for the stars! (5)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८८ घर्म या</summary>
 
 घ᳓र्म या᳓ ते दिवि᳓ शु᳓क् ।  
 या᳓ गायत्रे᳓ छ᳓न्दसि ।  
@@ -12208,7 +12208,7 @@ Hail for you! (Hail) for the stars! (5)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८९ घर्म या</summary>
 
 घ᳓र्म या᳓ तेऽन्त᳓रिक्षे शु᳓क् ।  
 या᳓ त्रै᳓ष्टुभे छ᳓न्दसि ।  
@@ -12269,7 +12269,7 @@ Hail for you! (Hail) for the stars! (5)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९० घर्म या</summary>
 
 घ᳓र्म या᳓ ते पृथिव्याँ᳓ शु᳓क् ।  
 या᳓ जा᳓गते छ᳓न्दसि ।  
@@ -12337,7 +12337,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९१ अनुनोऽद्यानुमतिः</summary>
 
 अ᳓नुनोऽद्या᳓नुमतिः ।  
 अ᳓न्वि᳓दनुमते त्व᳓म् ।
@@ -12397,7 +12397,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९२ दिवस्त्वा</summary>
 
 दिव᳓स्त्वा परस्पा᳓याः ।  
 अन्त᳓रिक्षस्य तनु᳓वः पाहि ।  
@@ -12449,7 +12449,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९३ ब्रह्मणस्त्वा</summary>
 
 ब्र᳓ह्मणस्त्वा परस्पा᳓याः ।  
 क्षत्र᳓स्य तनु᳓वः पाहि ।  
@@ -12514,7 +12514,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९४ प्राणस्य त्वा</summary>
 
 प्राण᳓स्य त्वा परस्पा᳓यै ।  
 च᳓क्षुषस्तनु᳓वः पाहि ।  
@@ -12586,7 +12586,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९५ वल्गुरसि शय्ँ (1/6 व्यत्यस्त-स्वराः)</summary>
 
 वल्गु᳓रसि [[शय्ँ|शय्ँ᳓]] यु᳓धायाः । (44)  
 शि᳓शुर्ज᳓नधायाः ।
@@ -12639,7 +12639,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९६ शञ्च वक्षि (2/6 व्यत्यस्त-स्वराः)</summary>
 
 श᳓ञ्च [[व᳓क्षि|वक्षि]] प᳓रि च [[व᳓क्षि|वक्षि]] ।
 </details>
@@ -12690,7 +12690,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९७ चतुस्स्रक्तिर्नाभिरृतस्य</summary>
 
 च᳓तुस्स्रक्तिर्ना᳓भिरृत᳓स्य ।
 </details>
@@ -12743,7 +12743,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९८ सदो</summary>
 
 स᳓दो विश्वा᳓युश्श᳓र्म सप्र᳓थाः ।
 </details>
@@ -12797,7 +12797,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९९ अप द्वेषो (1/7 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓प द्वे᳓षो अ᳓पह्व᳓रः ।  
 [[अन्य᳓द्व्रतस्य|अन्य᳓द्व्रत᳓स्य]] सश्चिम ।
@@ -12858,7 +12858,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०० घर्मैतत्तेऽन्नमेतत्पुरीषम्</summary>
 
 घ᳓र्मैत᳓त्ते᳓ऽन्नमेत᳓त्पु᳓रीषम् ।
 </details>
@@ -12896,7 +12896,7 @@ O Gharma, what is your sorrow on the earth, in the Jagatī-verse, in the Vaiśya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०१ तेन वर्द्धस्व</summary>
 
 ते᳓न व᳓र्द्धस्व चा᳓ च प्यायस्व ।
 </details>
@@ -12929,7 +12929,7 @@ be (4) increased and satisfied by that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०२ वर्द्धिषीमहि च (1/6 व्यत्यस्त-स्वराः)</summary>
 
 वर्द्धिषीम᳓हि च वय᳓म् ।  
 आ᳓ च [[प्यासिषीम᳓हि|प्यासिषीमहि]] । (45)
@@ -12986,7 +12986,7 @@ may we become increased and satisfied.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०३ रन्तिर्नामासि</summary>
 
 र᳓न्तिर्ना᳓मासि दिव्यो᳓ गन्धर्वः᳓ ।
 </details>
@@ -13023,7 +13023,7 @@ may we become increased and satisfied.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०४ तस्य ते</summary>
 
 त᳓स्य ते पद्व᳓द्धविर्द्धा᳓नम् ।
 </details>
@@ -13054,7 +13054,7 @@ your sacrificing roof is one having the feet;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०५ अग्निरद्ध्यक्षाः</summary>
 
 अग्नि᳓र᳓द्ध्यक्षाः ।
 </details>
@@ -13083,7 +13083,7 @@ the fire is the president;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०६ रुद्रोऽधिपतिः</summary>
 
 रुद्रो᳓ऽधिपतिः ।
 </details>
@@ -13117,7 +13117,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०७ समहमायुषा सम्</summary>
 
 स᳓मह᳓मा᳓युषा ।  
 सं᳓ प्राणे᳓न ।  
@@ -13172,7 +13172,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/9 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०८ व्यसौ (1/9 व्यत्यस्त-स्वराः)</summary>
 
 [[व्य᳙सौ|व्य᳙सौ᳓]] ।  
 यो᳓ऽस्मा᳓न्द्वे᳓ष्टि ।  
@@ -13220,7 +13220,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३०९ अचिक्रदद्वृषा</summary>
 
 अ᳓चिक्रदद्वृ᳓षा ह᳓रिः ।  
 महा᳓न्मित्रो᳓ न᳓ दर्शतः᳓ ।  
@@ -13279,7 +13279,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१० चिदसि</summary>
 
 चि᳓दसि समुद्र᳓योनिः ।  
 इ᳓न्दुर्द᳓क्षश्श्येन᳓ ऋता᳓वा ।  
@@ -13336,7 +13336,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३११ विश्वावसुँ सोम</summary>
 
 विश्वा᳓वसुँ सोम गन्धर्व᳓म् ।  
 आ᳓पो ददृशु᳓षीः ।  
@@ -13401,7 +13401,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१२ विश्वावसुरभि</summary>
 
 विश्वा᳓वसुरभि᳓ त᳓न्नो गृणातु ।  
 दिव्यो᳓ गन्धर्वो᳓ र᳓जसो विमा᳓नः ।  
@@ -13462,7 +13462,7 @@ Rudra is sovereign.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१३ सस्निमविन्दच्चरणे</summary>
 
 स᳓स्निमविन्दच्च᳓रणे नदी᳓नाम् ।  
 अ᳓पावृणोद्दु᳓रो अ᳓श्मव्रजानाम् ।  
@@ -13533,7 +13533,7 @@ He found the purifying (Soma) in the feet of the rivers; opened the doors of (th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१४ एतत्त्वन्देव</summary>
 
 एत᳓त्त्व᳓न्देव घर्म देवो᳓ देवा᳓नु᳓पागाः ।
 </details>
@@ -13583,7 +13583,7 @@ He found the purifying (Soma) in the feet of the rivers; opened the doors of (th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१५ इदमहं मनुष्यो</summary>
 
 इद᳓महं᳓ मनुष्यो᳙ मनुष्या᳙न् ।
 </details>
@@ -13611,7 +13611,7 @@ He found the purifying (Soma) in the feet of the rivers; opened the doors of (th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१६ सोमपीथानुमेहि</summary>
 
 सो᳓मपीथा᳓नुमे᳓हि ।  
 सह᳓ प्रज᳓या सह᳓ राय᳓स्पो᳓षेण ।
@@ -13661,7 +13661,7 @@ O drinking of Soma, come to me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१७ सुमित्रा न</summary>
 
 सुमित्रा᳓ न आ᳓प ओ᳓षधयस्सन्तु । (49)
 </details>
@@ -13689,7 +13689,7 @@ O drinking of Soma, come to me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१८ दुर्मित्रास्तस्मै</summary>
 
 दुर्मित्रा᳓स्त᳓स्मै भूयासुः ।  
 यो᳙ऽस्मा᳓न्द्वे᳓ष्टि ।  
@@ -13734,7 +13734,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१९ उद्वयन्तमसस्परि</summary>
 
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।
 </details>
@@ -13774,7 +13774,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२० उदुत्यञ्चित्रम्</summary>
 
 उ᳓दुत्य᳓ञ्चित्र᳓म् ।
 </details>
@@ -13819,7 +13819,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२१ इममूषुत्यमस्मभ्यँ</summary>
 
 इम᳓मूषु᳓त्य᳓मस्म᳓भ्यँ सनि᳓म् ।  
 गायत्र᳓न्न᳓वीयाँसम् ।  
@@ -13896,7 +13896,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२२ महीनां पयोऽसि</summary>
 
 महीनां᳓ प᳓योऽसि वि᳓हितन्देवत्रा᳓ ।
 </details>
@@ -13946,7 +13946,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२३ ज्योतिर्भा असि</summary>
 
 ज्योतिर्भा᳓ असि व᳓नस्प᳓तीनामो᳓षधीनाँ र᳓सः ।
 </details>
@@ -13991,7 +13991,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२४ वाजिनन्त्वा</summary>
 
 वाजि᳓नन्त्वा वाजि᳓नो᳓ऽव नयामः ।  
 ऊर्द्ध्वं᳓ म᳓नस्सुवर्ग᳓म् । (51)
@@ -14054,7 +14054,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२५ अस्कान्द्यौः</summary>
 
 अ᳓स्कान्द्यौः᳓ पृथिवी᳓म् ।  
 अ᳓स्कानृषभो᳓ यु᳓वागाः᳓ ।  
@@ -14091,7 +14091,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२६ अस्कानजनि</summary>
 
 अ᳓स्कान᳓जनि प्रा᳓जनि ।  
 आ᳓ स्कन्ना᳓ज्जायते वृ᳓षा ।  
@@ -14140,7 +14140,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२७ या</summary>
 
 या᳓ पुर᳓स्ताद्विद्यु᳓दा᳓पतत् ।  
 ता᳓न्त एते᳓ना᳓व यजे स्वा᳓हा ।
@@ -14184,7 +14184,7 @@ may they become bad friends of him, who hates me or whom I hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२८ या दक्षिणतः</summary>
 
 या᳓ दक्षिणतः᳓ ।  
 या᳓ पश्चा᳓त् ।  
@@ -14261,7 +14261,7 @@ I destroy that lightning, which fell from the south, west, north, or above by th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२९ प्राणाय स्वाहा</summary>
 
 प्राणा᳓य स्वा᳓हा
 </details>
@@ -14279,7 +14279,7 @@ I destroy that lightning, which fell from the south, west, north, or above by th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३० व्यानाय स्वाहा</summary>
 
 व्याना᳓य स्वा᳓हा
 </details>
@@ -14297,7 +14297,7 @@ Hail for Vyāna-breath! Hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३१ अपानाय स्वाहा</summary>
 
 अपाना᳓य स्वा᳓हा ।
 </details>
@@ -14315,7 +14315,7 @@ Hail for Apāna-breath!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३२ चक्षुषे स्वाहा</summary>
 
 च᳓क्षुषे स्वा᳓हा
 </details>
@@ -14339,7 +14339,7 @@ Hail for the eye!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३३ श्रोत्राय</summary>
 
 श्रो᳓त्राय स्वा᳓हा ।
 </details>
@@ -14357,7 +14357,7 @@ Hail for the ear!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३४ मनसे स्वाहा</summary>
 
 म᳓नसे स्वा᳓हा
 </details>
@@ -14375,7 +14375,7 @@ Hail for the mind!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३५ वाचे सरस्वत्यै</summary>
 
 वाचे᳓ स᳓रस्वत्यै स्वा᳓हा । (54)
 </details>
@@ -14418,7 +14418,7 @@ Hail for the Vāc! Hail for Sarasvatī!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३६ पूष्णे स्वाहा</summary>
 
 पूष्णे᳓ स्वा᳓हा
 </details>
@@ -14449,7 +14449,7 @@ Hail for the Vāc! Hail for Sarasvatī!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३७ पूष्णे शरसे</summary>
 
 पूष्णे᳓ श᳓रसे स्वा᳓हा ।
 </details>
@@ -14484,7 +14484,7 @@ Hail for the Vāc! Hail for Sarasvatī!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३८ पूष्णे</summary>
 
 पूष्णे᳓ प्रपत्थ्या᳙य स्वा᳓हा
 </details>
@@ -14512,7 +14512,7 @@ Hail for Pūṣan, the good and well way!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३९ पूष्णे</summary>
 
 पूष्णे᳓ नर᳓न्धिषाय स्वा᳓हा ।
 </details>
@@ -14540,7 +14540,7 @@ Hail for Pūṣan, the pleaser of the men!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४० पूष्णेऽङ्घृणये</summary>
 
 पूष्णे᳓ऽङ्घृणये स्वा᳓हा
 </details>
@@ -14570,7 +14570,7 @@ Hail for Pūṣan, full of light!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४१ पूष्णे नरुणाय</summary>
 
 पूष्णे᳓ नरु᳓णाय स्वा᳓हा ।
 </details>
@@ -14605,7 +14605,7 @@ Hail for Pūṣan, the leader of the men;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४२ पूष्णे साकेताय</summary>
 
 पूष्णे᳓ साकेता᳓य स्वा᳓हा । (55)
 </details>
@@ -14656,7 +14656,7 @@ Hail for Pūṣan, full of knowledge!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४३ उदस्य</summary>
 
 उ᳓दस्य शु᳓ष्माद्भानु᳓र्ना᳓र्त बि᳓भर्ति ।  
 भारं᳓ पृथिवी᳓ न᳓ भू᳓म ।
@@ -14703,7 +14703,7 @@ Hail for Pūṣan, full of knowledge!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४४ प्र शुक्रैतु</summary>
 
 प्र᳓ शुक्रै᳓तु देवी᳓ मनीषा᳓ ।  
 अस्म᳓त्सु᳓तष्टो र᳓थो न᳓ वाजी᳓ ।
@@ -14747,7 +14747,7 @@ may the clean goddess Manīṣā (wisdom) come to us like a well-made, swift cha
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४५ अर्चन्त एके</summary>
 
 अ᳓र्चन्त ए᳓के म᳓हि सा᳓ममन्वत ।  
 ते᳓न सू᳓र्यमधारयन् ।  
@@ -14794,7 +14794,7 @@ Some, worshipping that, decide that as the great Sāman; they held the sun by th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४६ घर्मश्शिरस्तदयमग्निः (1/12 व्यत्यस्त-स्वराः)</summary>
 
 घर्म᳓श्शि᳓रस्त᳓दय᳓मग्निः᳓ ।  
 पु᳓रीषमसि [[सं᳓प्रियं|सं᳓प्रियं᳓]] प्रज᳓या पशु᳓भिर्भुवत् ।
@@ -14840,7 +14840,7 @@ what is this Gharma (Pravargya), the head (of the sacrifice), that is this fire.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४७ प्रजापतिस्त्वा</summary>
 
 प्रजा᳓प᳓तिस्त्वा सादयतु ।  
 त᳓या देव᳓तयाऽङ्गिरस्व᳓द्ध्रुवा᳓ सीद । (56)
@@ -14896,7 +14896,7 @@ may Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/30 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४८ यास्ते अग्न (1/30 व्यत्यस्त-स्वराः)</summary>
 
 या᳓स्ते अग्न आर्द्रा᳓ यो᳓नयो याः᳓ कुलायि᳓नीः ।  
 ये᳓ ते अग्न इ᳓न्दवो या᳓ उ ना᳓भयः ।  
@@ -14966,7 +14966,7 @@ may Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४९ प्रजापतिस्त्वा</summary>
 
 प्रजा᳓पतिस्त्वा सादयतु ।  
 त᳓या देव᳓तयाऽङ्गिरस्व᳓द्ध्रुवा᳓ सीद । (57)
@@ -15010,7 +15010,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५० अग्निरसि</summary>
 
 अग्नि᳓रसि
 </details>
@@ -15038,7 +15038,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५१ वैश्वानरोऽसि</summary>
 
 वैश्वानरो᳙ऽसि ।
 </details>
@@ -15066,7 +15066,7 @@ you are Vaiśvānara (fire, belonging to all men);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५२ सव्ँवत्सरोऽसि</summary>
 
 सव्ँवत्सरो᳙ऽसि
 </details>
@@ -15094,7 +15094,7 @@ you are Saṁvatsara (year, the first in the cycle of six years);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५३ परिवत्सरोऽसि</summary>
 
 परिवत्सरो᳙ऽसि ।
 </details>
@@ -15112,7 +15112,7 @@ you are Parivatsara (the second in the cycle of six years);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५४ इदावत्सरोऽसीदुवत्सरोऽसि</summary>
 
 इदावत्सरो᳙ऽसीदुवत्सरो᳙ऽसि ।
 </details>
@@ -15130,7 +15130,7 @@ you are Idāvatsara (the third year); you are Iḍuvatsara (the fourth year);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५५ इद्वत्सरोऽसि</summary>
 
 इद्वत्सरो᳙ऽसि
 </details>
@@ -15148,7 +15148,7 @@ you are Idvatsara (the fifth year);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५६ वत्सरोऽसि</summary>
 
 वत्सरो᳙ऽसि ।
 </details>
@@ -15176,7 +15176,7 @@ you are Vatsara (the sixth year of the cycle of the six years);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५७ तस्य ते</summary>
 
 त᳓स्य ते वसन्त᳓श्शि᳓रः ।
 </details>
@@ -15212,7 +15212,7 @@ of you, as such, the spring season is the head;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५८ ग्रीष्मो</summary>
 
 ग्रीष्मो᳓ द᳓क्षिणः पक्षः᳓ ।
 </details>
@@ -15230,7 +15230,7 @@ the summer, the right wing;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५९ वर्षाः पुच्छम्</summary>
 
 वर्षाः᳓ पु᳓च्छम् ।
 </details>
@@ -15248,7 +15248,7 @@ the rains, the tail;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६० शरदुत्तरः पक्षः</summary>
 
 शर᳓दु᳓त्तरः पक्षः᳓ ।
 </details>
@@ -15266,7 +15266,7 @@ the autumn, the left wing;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६१ हेमन्तो</summary>
 
 हेमन्तो᳓ म᳓द्ध्यम् ।
 </details>
@@ -15284,7 +15284,7 @@ the dewy season, the middle body;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६२ पूर्वपक्षाश्चितयः</summary>
 
 पूर्वपक्षा᳓श्चि᳓तयः ।
 </details>
@@ -15302,7 +15302,7 @@ the first wings are the collections (of the fire);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६३ अपरपक्षाः</summary>
 
 अपरपक्षाः᳓ पु᳓रीषम् ।
 </details>
@@ -15325,7 +15325,7 @@ the next wings are the Purīṣa (the dung-fuel);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६४ अहोरात्राणीष्टकाः</summary>
 
 अहोरात्रा᳓णी᳓ष्टकाः ।
 </details>
@@ -15343,7 +15343,7 @@ the days and the nights are the bricks.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६५ तस्य ते</summary>
 
 त᳓स्य ते मा᳓साश्चार्द्धमासा᳓श्च कल्पन्ताम् ।
 </details>
@@ -15382,7 +15382,7 @@ Of you, as such, may the months and the half-months be (able for their work);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६६ ऋतवस्ते</summary>
 
 ऋत᳓वस्ते कल्पन्ताम् ।
 </details>
@@ -15407,7 +15407,7 @@ may your seasons be (able for their work);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६७ सव्ँवत्सरस्ते</summary>
 
 सव्ँवत्सर᳓स्ते कल्पताम् ।
 </details>
@@ -15432,7 +15432,7 @@ may your year be (able for its work);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६८ अहोरात्राणि ते</summary>
 
 अहोरात्रा᳓णि ते कल्पन्ताम् ।
 </details>
@@ -15457,7 +15457,7 @@ may your days and nights be (able for their work);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६९ एति प्रेति</summary>
 
 ए᳓ति प्रे᳓ति वी᳓ति स᳓मि᳓त्यु᳓दि᳓ति ।
 </details>
@@ -15480,7 +15480,7 @@ A-this, Pra-this, Vi-this, Sam-this, Ud-this — (by these the able-being is spe
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७० प्रजापतिस्त्वा</summary>
 
 प्रजा᳓पतिस्त्वा सादयतु ।  
 त᳓या देव᳓तयाऽङ्गिरस्व᳓द्ध्रुवा᳓ सीद । (58)
@@ -15527,7 +15527,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७१ भूर्भुवस्सुवः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वः ।
 </details>
@@ -15575,7 +15575,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७२ ऊर्द्ध्व ऊषुण</summary>
 
 ऊर्द्ध्व᳓ ऊषु᳓ण ऊत᳓ये ।  
 ऊर्द्ध्वो᳓ नः पाह्यँ᳓हसः ।
@@ -15628,7 +15628,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७३ विधुन्द्रद्राणँ (1/18 व्यत्यस्त-स्वराः)</summary>
 
 विधु᳓न्द्रद्राणँ᳓ स᳓मने बहूना᳓म् ।  
 यु᳓वानँ स᳓न्तं पलितो᳓ जगार ।  
@@ -15704,7 +15704,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७४ यदृते</summary>
 
 य᳓दृते᳓ चिदभिश्रि᳓षः ।  
 पुरा᳓ जर्तृ᳓भ्य आतृ᳓दः ।  
@@ -15776,7 +15776,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७५ पुनरूर्जा सह</summary>
 
 पु᳓नरूर्जा᳓ सह᳓ रय्या᳓ ।
 </details>
@@ -15821,7 +15821,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/26 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७६ मा नो (3/26 व्यत्यस्त-स्वराः)</summary>
 
 मा᳓ नो घर्म व्यथितो᳓ [[विव्यथो|वि᳓व्यथो]] नः ।  
 मा᳓ नः प᳓रम᳓धरम्मा᳓ र᳓जोनैः ।  
@@ -15893,7 +15893,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७७ मा नः</summary>
 
 मा᳓ नः क्र᳓तुभिर्हीडिते᳓भिरस्मा᳓न् ।  
 द्वि᳓षासुनीते मा᳓ प᳓रा दाः ।  
@@ -15964,7 +15964,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७८ उप नो</summary>
 
 उ᳓प नो मित्रावरुणाविहा᳓वतम् ।  
 अन्वा᳓दीद्ध्याथामिह᳓ नस्सखाया ।  
@@ -16006,7 +16006,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७९ इमं मे</summary>
 
 इमं᳓ मे वरुण त᳓त्त्वा यामि ।  
 त्व᳓न्नो अग्ने स᳓ त्व᳓न्नो अग्ने ।  
@@ -16048,7 +16048,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८० उद्वयन्तमसस्परि (1/10 व्यत्यस्त-स्वराः)</summary>
 
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।  
 उ᳓दुत्य᳓ञ्चित्र᳓म् ।  
@@ -16116,7 +16116,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८१ भूर्भुवस्सुवः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वः ।
 </details>
@@ -16144,7 +16144,7 @@ May Prajāpati put you with that god; sit firm with Aṅgiras.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८२ मयि</summary>
 
 म᳓यि त्य᳓दिन्द्रियं᳓ मह᳓त् ।  
 म᳓यि द᳓क्षो म᳓यि क्र᳓तुः ।  
@@ -16176,7 +16176,7 @@ Put that great sense-organ in me; courage in me; the power in me; put good vigou
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८३ त्रिशुग्घर्मो</summary>
 
 त्रि᳓शुग्घर्मो᳓ वि᳓भातु मे ।  
 आ᳓कूत्या म᳓नसा सह᳓ ।  
@@ -16230,7 +16230,7 @@ may the Gharma shine in three ways for me with will and mind, with food and ligh
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८४ तस्य त</summary>
 
 त᳓स्य त इ᳓न्द्रेण पीत᳓स्य म᳓धुमतः ।  
 उ᳓पहूतस्यो᳓पहूतो भक्षयामि । (62)
@@ -16294,7 +16294,7 @@ may we, being assented, drink your juice, which has been drunk by Indra first, a
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/26 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८५ यास्ते अग्ने (1/26 व्यत्यस्त-स्वराः)</summary>
 
 या᳓स्ते अग्ने घोरा᳓स्तनु᳓वः ।  
 क्षु᳓च्च [[तृ᳓ष्णा᳓|तृ᳓ष्णा]] च ।  
@@ -16370,7 +16370,7 @@ may we, being assented, drink your juice, which has been drunk by Indra first, a
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८६ ताभिरमुङ्गच्छ</summary>
 
 ता᳓भिरमु᳓ङ्गच्छ ।  
 यो᳓ऽस्मा᳓न्द्वे᳓ष्टि ।  
@@ -16433,7 +16433,7 @@ by these go to him, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८७ स्निक्च</summary>
 
 स्नि᳓क्च स्नी᳓हितिश्च स्नि᳓हितिश्च ।  
 उष्णा᳓ च शीता᳓ च ।  
@@ -16495,7 +16495,7 @@ by these go to him, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८८ ताभिरमुङ्गच्छ</summary>
 
 ता᳓भिरमु᳓ङ्गच्छ ।  
 यो᳓ऽस्मा᳓न्द्वे᳓ष्टि ।  
@@ -16553,7 +16553,7 @@ by these go to him, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८९ धुनिश्च</summary>
 
 धु᳓निश्च द्ध्वान्त᳓श्च द्ध्वन᳓श्च द्ध्वन᳓यँश्च ।  
 निलिंप᳓श्च विलिंप᳓श्च विक्षिपः᳓ । (65)
@@ -16612,7 +16612,7 @@ by these go to him, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९० उग्रश्च धुनिश्च</summary>
 
 उग्र᳓श्च धु᳓निश्च द्ध्वान्त᳓श्च द्ध्वन᳓श्च द्ध्वन᳓यँश्च ।  
 सहसह्वाँ᳓श्च स᳓हमानश्च स᳓हस्वाँश्च स᳓हीयाँश्च ।  
@@ -16693,7 +16693,7 @@ by these go to him, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९१ अहोरात्रे</summary>
 
 अहोरात्रे᳓ त्वो᳓दीरयताम् ।
 </details>
@@ -16729,7 +16729,7 @@ by these go to him, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९२ अर्द्धमासास्त्वोदीञ्जयन्तु</summary>
 
 अर्द्धमासा᳓स्त्वो᳓दीञ्जयन्तु ।
 </details>
@@ -16765,7 +16765,7 @@ may the half-months win you, indeed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९३ मासास्त्वा</summary>
 
 मा᳓सास्त्वा श्रपयन्तु ।
 </details>
@@ -16800,7 +16800,7 @@ may the months be at you;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९४ ऋतवस्त्वा</summary>
 
 ऋत᳓वस्त्वा पचन्तु ।
 </details>
@@ -16830,7 +16830,7 @@ may the seasons cook you;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९५ सव्ँवत्सरस्त्वा (1/4 व्यत्यस्त-स्वराः)</summary>
 
 सव्ँवत्सर᳓स्त्वा [[हन्त्वसौ|हन्त्वसौ᳓]] । (67)
 </details>
@@ -16883,7 +16883,7 @@ may the year kill you, O you (thief).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९६ खट् फट् (2/10 व्यत्यस्त-स्वराः)</summary>
 
 ख᳓ट् फ᳓ट् [[जहि᳓|जहि]] ।  
 छिन्धी᳓ भिन्धी᳓ हन्धी᳓ क᳓ट् ।  
@@ -16943,7 +16943,7 @@ may the year kill you, O you (thief).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९७ विगा इन्द्र</summary>
 
 वि᳓गा᳓ इन्द्र विच᳓रन्त्स्पाशयस्व ।  
 स्वप᳓न्तमिन्द्र पशुम᳓न्तमिच्छ ।  
@@ -17014,7 +17014,7 @@ may the year kill you, O you (thief).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९८ अग्ने अग्निना</summary>
 
 अ᳓ग्ने अग्नि᳓ना सव्ँ᳓वदस्व ।
 </details>
@@ -17050,7 +17050,7 @@ may the year kill you, O you (thief).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९९ मृत्यो मृत्युना</summary>
 
 मृ᳓त्यो मृत्यु᳓ना सव्ँ᳓वदस्व ।
 </details>
@@ -17086,7 +17086,7 @@ O death, be concordant with the death;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०० नमस्ते अस्तु</summary>
 
 न᳓मस्ते अस्तु भगवः ।
 </details>
@@ -17124,7 +17124,7 @@ O prosperous one, may salutation be to you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०१ सकृत्ते अग्ने</summary>
 
 सकृ᳓त्ते अग्ने न᳓मः ।
 </details>
@@ -17155,7 +17155,7 @@ O prosperous one, may salutation be to you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०२ द्विस्ते नमः</summary>
 
 द्वि᳓स्ते न᳓मः ।
 </details>
@@ -17185,7 +17185,7 @@ salutation to you twice,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०३ त्रिस्ते नमः</summary>
 
 त्रि᳓स्ते न᳓मः ।
 </details>
@@ -17215,7 +17215,7 @@ salutation to you thrice,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०४ चतुस्ते नमः</summary>
 
 चतु᳓स्ते न᳓मः ।
 </details>
@@ -17240,7 +17240,7 @@ salutation to you four times,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०५ पञ्चकृत्वस्ते</summary>
 
 पञ्चकृ᳓त्वस्ते न᳓मः ।
 </details>
@@ -17265,7 +17265,7 @@ salutation to you five times,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०६ दशकृत्वस्ते नमः</summary>
 
 दशकृ᳓त्वस्ते न᳓मः ।
 </details>
@@ -17290,7 +17290,7 @@ salutation to you ten times,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०७ शतकृत्वस्ते नमः</summary>
 
 शतकृ᳓त्वस्ते न᳓मः ।
 </details>
@@ -17315,7 +17315,7 @@ salutation to you hundred times,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०८ आसहस्रकृत्वस्ते</summary>
 
 आसहस्रकृ᳓त्वस्ते न᳓मः ।
 </details>
@@ -17345,7 +17345,7 @@ salutation to you thousand times,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४०९ अपरिमितकृत्वस्ते</summary>
 
 अपरिमितकृ᳓त्वस्ते न᳓मः ।
 </details>
@@ -17375,7 +17375,7 @@ salutation to you innumerable times;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१० नमस्ते अस्तु</summary>
 
 न᳓मस्ते अस्तु
 </details>
@@ -17398,7 +17398,7 @@ may salutation be to you;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४११ मा मा</summary>
 
 मा᳓ मा हिँसीः ॥ (69)
 </details>
@@ -17438,7 +17438,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१२ असृन्मुखो</summary>
 
 अ᳓सृन्मुखो रुधिरे᳓णाव्य᳙क्तः ।  
 यम᳓स्य दूत᳓श्श्व᳓पाद्वि᳓धावसि ।  
@@ -17512,7 +17512,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१३ यदेतद्वृकसो</summary>
 
 य᳓देत᳓द्वृकसो᳓ भूत्वा᳓ ।  
 वा᳓ग्देव्यभिरा᳓यसि ।  
@@ -17588,7 +17588,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१४ यदीषितो यदि (2/18 व्यत्यस्त-स्वराः)</summary>
 
 य᳓दीषितो᳓ य᳓दि वा स्वकामी᳓ ।  
 [[भये᳓डको᳓|भये᳓डको]] व᳓दति वा᳓चमेता᳓म् ।  
@@ -17661,7 +17661,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१५ दीर्घमुखि</summary>
 
 दी᳓र्घमुखि दु᳓र्हणु ।  
 मा᳓ स्म दक्षिणतो᳓ वदः ।
@@ -17701,7 +17701,7 @@ do not, do not kill.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१६ यदि दक्षिणतो</summary>
 
 य᳓दि दक्षिणतो᳓ व᳓दाद्द्विष᳓न्तं मे᳓ऽव बाधासै । (73)
 </details>
@@ -17752,7 +17752,7 @@ if you speak in my right side, then destroy our enemies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१७ इत्थादुलूक</summary>
 
 इत्था᳓दु᳓लूक आ᳓पप्तत् ।  
 हिरण्याक्षो᳓ अ᳓योमुखः ।  
@@ -17820,7 +17820,7 @@ if you speak in my right side, then destroy our enemies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/20 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१८ यदेतद्भूतान्यन्वाविश्य (2/20 व्यत्यस्त-स्वराः)</summary>
 
 य᳓देत᳓द्भूता᳓न्यन्वावि᳓श्य ।  
 दै᳓वीव्ँ [[वा᳓चव्ँवद᳓सि|वा᳓चव्ँव᳓दसि]] ।  
@@ -17880,7 +17880,7 @@ if you speak in my right side, then destroy our enemies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१९ अग्निनाऽग्निस्सव्ँवदताम्</summary>
 
 अग्नि᳓नाऽग्नि᳓स्सव्ँ᳓वदताम् । (75)
 </details>
@@ -17926,7 +17926,7 @@ may the Fire be concordant with the Fire.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२० प्रसार्य (2/12 व्यत्यस्त-स्वराः)</summary>
 
 प्रसा᳓र्य सक्थ्यौ᳙ [[प᳓तसि|पतसि]] ।  
 सव्य᳓म᳓क्षि निपे᳓पि च ।  
@@ -17993,7 +17993,7 @@ may the Fire be concordant with the Fire.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२१ अत्रिणा त्वा</summary>
 
 अ᳓त्रिणा त्वा क्रिमे हन्मि ।  
 क᳓ण्वेन जम᳓दग्निना ।
@@ -18033,7 +18033,7 @@ may the Fire be concordant with the Fire.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२२ विश्वावसोर्ब्रह्मणा</summary>
 
 विश्वा᳓वसोर्ब्र᳓ह्मणा हतः᳓ ।  
 क्रि᳓मीणाँ रा᳓जा ।
@@ -18072,7 +18072,7 @@ by the sacred knowledge of Viśvāvasu the king of the worms has been killed,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२३ अप्येषाँ</summary>
 
 अ᳓प्येषाँ स्थप᳓तिर्हतः᳓ ।
 </details>
@@ -18103,7 +18103,7 @@ also the old one (of the worms) has been killed,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२४ अथो माताऽथो</summary>
 
 अ᳓थो माता᳓ऽथो पिता᳓ ।  
 अ᳓थो स्थूरा᳓ अ᳓थो क्षुद्राः᳓ ।  
@@ -18156,7 +18156,7 @@ also the father, the mother (have died), and then also the fat ones, the little 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२५ श्वेताभिस्सह</summary>
 
 श्वेता᳓भिस्सह᳓ स᳓र्वे हताः᳓ । (77)
 </details>
@@ -18216,7 +18216,7 @@ all have been killed with the white ones.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२६ आहरावद्य शृतस्य</summary>
 
 आ᳓हरा᳓वद्य ।  
 शृत᳓स्य हवि᳓षो य᳓था ।
@@ -18257,7 +18257,7 @@ all have been killed with the white ones.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२७ तत्सत्यम् (1/10 व्यत्यस्त-स्वराः)</summary>
 
 त᳓त्सत्य᳓म् ।  
 य᳓दमुय्ँ᳓यम᳓स्य ज᳓म्भयोः ।  
@@ -18303,7 +18303,7 @@ what is true, may this (speech) be like that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/1 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२८ खण्फण्म्रसि (1/1 व्यत्यस्त-स्वराः)</summary>
 
 खण्फण्म्रसि᳓ । (78)
 </details>
@@ -18355,7 +18355,7 @@ Khan, Phan, Mrasi (die being broken and destroyed).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२९ ब्रह्मणा त्वा</summary>
 
 ब्र᳓ह्मणा त्वा शपामि ।
 </details>
@@ -18390,7 +18390,7 @@ Khan, Phan, Mrasi (die being broken and destroyed).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३० ब्रह्मणस्त्वा</summary>
 
 ब्र᳓ह्मणस्त्वा शप᳓थेन शपामि ।
 </details>
@@ -18426,7 +18426,7 @@ I curse you by the oath of the sacred knowledge;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३१ घोरेण त्वा</summary>
 
 घोरे᳓ण त्वा भृ᳓गूणाञ्च᳓क्षुषा प्रे᳓क्षे ।
 </details>
@@ -18464,7 +18464,7 @@ I see you by the cruel eyes of Bhṛgus;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३२ रौद्रेण (2/5 व्यत्यस्त-स्वराः)</summary>
 
 [[रौद्रे᳓ण|रौ᳓द्रेण]] [[त्वा᳓ङ्गिरसां|त्वाङ्गिरसां᳓]] म᳓नसा द्ध्यायामि ।
 </details>
@@ -18501,7 +18501,7 @@ I meditate you by the cruel mind of Āṅgirasas;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३३ अघस्य त्वा</summary>
 
 अघ᳓स्य त्वा धा᳓रया विद्ध्यामि ।
 </details>
@@ -18537,7 +18537,7 @@ I injure by the edge of the cruel weapon;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३४ अधरो (1/4 व्यत्यस्त-स्वराः)</summary>
 
 अ᳓धरो [[म᳓त्पद्यस्वाऽसौ|म᳓त्पद्यस्वाऽसौ᳓]] । (79)
 </details>
@@ -18592,7 +18592,7 @@ O you named such, fall beneath me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३५ उत्तुद</summary>
 
 उ᳓त्तुद शिमिजावरि ।
 </details>
@@ -18627,7 +18627,7 @@ O you named such, fall beneath me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३६ तल्पेजे तल्प</summary>
 
 त᳓ल्पेजे त᳓ल्प उ᳓त्तुद ।
 </details>
@@ -18663,7 +18663,7 @@ O herb, born on his bed, trouble him on the bed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३७ गिरीँ रनु</summary>
 
 गिरीँ᳓ र᳓नु प्र᳓वेशय ।
 </details>
@@ -18699,7 +18699,7 @@ make him enter the mountains;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३८ मरीचीरुप सन्नुद</summary>
 
 म᳓रीचीरु᳓प स᳓न्नुद ।
 </details>
@@ -18735,7 +18735,7 @@ kill there near the rays of the death;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३९ यावदितः</summary>
 
 या᳓वदितः᳓ पुर᳓स्तादुद᳓याति सू᳓र्यः ।  
 ता᳓वदितो᳙ऽमु᳓न्नाशय ।  
@@ -18813,7 +18813,7 @@ destroy that enemy, who hates us or whom we hate, in the time by which the sun r
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४० भूर्भुवस्सुवो</summary>
 
 भू᳓र्भु᳓वस्सु᳓वो
 </details>
@@ -18841,7 +18841,7 @@ destroy that enemy, who hates us or whom we hate, in the time by which the sun r
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४१ भूर्भुवस्सुवो</summary>
 
 भू᳓र्भु᳓वस्सु᳓वो
 </details>
@@ -18859,7 +18859,7 @@ Bhūr, Bhuvaḥ, Suvaḥ;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४२ भूर्भुवस्सुवः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वः ।
 </details>
@@ -18877,7 +18877,7 @@ Bhūr, Bhuvaḥ, Suvaḥ;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४३ भुवोऽद्धायि</summary>
 
 भु᳓वोऽद्धायि
 </details>
@@ -18900,7 +18900,7 @@ from the earth may be performed,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४४ भुवोऽद्धायि</summary>
 
 भु᳓वोऽद्धायि
 </details>
@@ -18918,7 +18918,7 @@ from the earth may be performed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४५ भुवोऽद्धायि</summary>
 
 भु᳓वोऽद्धायि ।
 </details>
@@ -18936,7 +18936,7 @@ from the earth may be performed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४६ नृम्णायि नृम्णम् (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[नृम्णा᳓यि᳓|नृम्णायि᳓]] नृम्णं᳓
 </details>
@@ -18970,7 +18970,7 @@ may happiness be in happiness (in us),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४७ नृम्णायि नृम्णम् (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[नृम्णा᳓यि᳓|नृम्णायि᳓]] नृम्णं᳓
 </details>
@@ -18994,7 +18994,7 @@ may happiness be in happiness (in us),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४८ नृम्णायि (1/2 व्यत्यस्त-स्वराः)</summary>
 
 [[नृम्णा᳓यि᳓|नृम्णायि᳓]] नृम्ण᳓म् ।
 </details>
@@ -19018,7 +19018,7 @@ may happiness be in happiness (in us);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४९ निधाय्यो वायि</summary>
 
 निधा᳓य्यो वायि
 </details>
@@ -19053,7 +19053,7 @@ obtainable thing has been obtained,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५० निधाय्यो वायि</summary>
 
 निधा᳓य्यो वायि
 </details>
@@ -19078,7 +19078,7 @@ obtainable thing has been obtained,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५१ निधाय्यो वायि</summary>
 
 निधा᳓य्यो वायि ।
 </details>
@@ -19103,7 +19103,7 @@ obtainable thing has been obtained.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५२ ए अस्मे (1/6 व्यत्यस्त-स्वराः)</summary>
 
 ए᳓ अस्मे᳓ [[अस्मे᳓|अस्मे]] ।  
 सु᳓वर्न᳓ ज्यो᳓तीः । (81)
@@ -19171,7 +19171,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ पृथिवी समित्</summary>
 
 पृथिवी᳓ समि᳓त् ।
 </details>
@@ -19190,8 +19190,8 @@ Offering of the Udumbara wood to the fire while making consecration.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42, *KS*-20/35, *MS*-43/104)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -19205,7 +19205,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामग्निस्समिन्धे</summary>
 
 ता᳓मग्नि᳓स्स᳓मिन्धे ।
 </details>
@@ -19224,9 +19224,9 @@ the fire burned that,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-28/111, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-28/111, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193, *KS*-111/256, *MS*-528/1297)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -19236,7 +19236,7 @@ the fire burned that,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽग्निँ</summary>
 
 सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
 </details>
@@ -19255,9 +19255,9 @@ that (earth) burned the fire;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -19272,7 +19272,7 @@ that (earth) burned the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -19291,9 +19291,9 @@ I burned that (earth),
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -19303,7 +19303,7 @@ I burned that (earth),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -19332,19 +19332,19 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
-- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
-- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
-- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
-- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
-- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
-- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64, *KS*-67, *MS*-192)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-8, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38, *KS*-3/21, *MS*-18/51)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26, *KS*-7/31, *MS*-39/155)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1, *MS*-3/10)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9, *KS*-1/8, *MS*-6/24)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1, *KS*-2/16, *MS*-12/54)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96, *KS*-0/12, *MS*-1/80)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -19368,7 +19368,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अन्तरिक्षँ</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
@@ -19387,8 +19387,8 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अन्त᳓रिक्षम् (*TS*-105/180, *RV*-45/94, *TB*-16/25, *AV*-71/129, *SB-M*-23/26, *SB-K*-173/257, *VS-M*-3/5, *VS-K*-13/32)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- अन्त᳓रिक्षम् (*TS*-105/180, *RV*-45/94, *TB*-16/25, *AV*-71/129, *SB-M*-23/26, *SB-K*-173/257, *VS-M*-3/5, *VS-K*-13/32, *KS*-26/57, *MS*-114/193)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -19402,7 +19402,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ताव्ँ</summary>
 
 ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
 </details>
@@ -19421,14 +19421,14 @@ the wind burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- वायुः᳓ (*TS*-52/108, *RV*-22/89, *TB*-21/56, *AV*-27/42, *SB-M*-12/47, *SB-K*-134/227, *VS-M*-5/21, *VS-K*-12/39)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- वायुः᳓ (*TS*-52/108, *RV*-22/89, *TB*-21/56, *AV*-27/42, *SB-M*-12/47, *SB-K*-134/227, *VS-M*-5/21, *VS-K*-12/39, *KS*-14/32, *MS*-62/119)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सा वायुँ</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
 </details>
@@ -19447,14 +19447,14 @@ that burned the wind;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- वायु᳓म् (*TS*-15/108, *RV*-18/89, *TB*-1/56, *AV*-4/42, *SB-M*-10/47, *SB-K*-44/227, *VS-M*-2/21, *VS-K*-3/39)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- वायु᳓म् (*TS*-15/108, *RV*-18/89, *TB*-1/56, *AV*-4/42, *SB-M*-10/47, *SB-K*-44/227, *VS-M*-2/21, *VS-K*-3/39, *KS*-2/32, *MS*-12/119)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -19473,14 +19473,14 @@ I burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -19509,19 +19509,19 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
-- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
-- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
-- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
-- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
-- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
-- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64, *KS*-67, *MS*-192)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-8, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38, *KS*-3/21, *MS*-18/51)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26, *KS*-7/31, *MS*-39/155)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1, *MS*-3/10)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9, *KS*-1/8, *MS*-6/24)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1, *KS*-2/16, *MS*-12/54)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96, *KS*-0/12, *MS*-1/80)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 </details>
 </div>
@@ -19535,7 +19535,7 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ द्यौस्समित्</summary>
 
 द्यौ᳓स्समि᳓त् ।
 </details>
@@ -19554,8 +19554,8 @@ The heaven is the fuel;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143, *KS*-23/128, *MS*-48/308)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -19564,7 +19564,7 @@ The heaven is the fuel;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामादित्यस्समिन्धे</summary>
 
 ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
 </details>
@@ -19583,14 +19583,14 @@ the sun burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- आदित्यः᳓ (*TS*-59/195, *RV*-8/91, *TB*-16/61, *AV*-13/70, *SB-M*-37/72, *SB-K*-218/438, *VS-M*-0/5, *VS-K*-3/31)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- आदित्यः᳓ (*TS*-59/195, *RV*-8/91, *TB*-16/61, *AV*-13/70, *SB-M*-37/72, *SB-K*-218/438, *VS-M*-0/5, *VS-K*-3/31, *KS*-7/53, *MS*-80/229)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽऽदित्यँ</summary>
 
 सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
 </details>
@@ -19609,14 +19609,14 @@ that burned the sun;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- आदित्य᳓म् (*TS*-20/195, *RV*-3/91, *TB*-6/61, *AV*-5/70, *SB-M*-7/72, *SB-K*-73/438, *VS-M*-1/5, *VS-K*-1/31)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- आदित्य᳓म् (*TS*-20/195, *RV*-3/91, *TB*-6/61, *AV*-5/70, *SB-M*-7/72, *SB-K*-73/438, *VS-M*-1/5, *VS-K*-1/31, *KS*-4/53, *MS*-20/229)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -19635,14 +19635,14 @@ I burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -19671,19 +19671,19 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
-- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
-- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
-- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
-- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
-- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
-- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64, *KS*-67, *MS*-192)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-8, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38, *KS*-3/21, *MS*-18/51)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26, *KS*-7/31, *MS*-39/155)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1, *MS*-3/10)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9, *KS*-1/8, *MS*-6/24)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1, *KS*-2/16, *MS*-12/54)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96, *KS*-0/12, *MS*-1/80)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 </details>
 </div>
@@ -19697,7 +19697,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राजापत्या मे</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
 </details>
@@ -19716,15 +19716,15 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- प्राजापत्या᳓ (*TS*-1/53, *TB*-2/26, *AV*-1/6, *SB-M*-15/48, *SB-K*-1/90, *VS-M*-2, *VS-K*-3)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
-- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66)
-- सपत्न-क्ष᳓यणी (*TS*-2)
+- प्राजापत्या᳓ (*TS*-1/53, *TB*-2/26, *AV*-1/6, *SB-M*-15/48, *SB-K*-1/90, *VS-M*-2, *VS-K*-3, *KS*-0/6, *MS*-10/51)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66, *KS*-247, *MS*-805)
+- सपत्न-क्ष᳓यणी (*TS*-2, *KS*-2)
 - भ्रातृव्य-हा᳓ (*TS*-1)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
-- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66, *KS*-247, *MS*-805)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -19758,7 +19758,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्ने व्रतपते!</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
@@ -19825,7 +19825,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायो व्रतपते</summary>
 
 वा᳓यो व्रतपते
 </details>
@@ -19879,7 +19879,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आदित्य व्रतपते</summary>
 
 आ᳓दित्य व्रतपते
 </details>
@@ -19928,7 +19928,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्रतानाव्व्ँरतपते</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
@@ -19995,7 +19995,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ द्यौस्समित्</summary>
 
 द्यौ᳓स्समि᳓त् ।
 </details>
@@ -20014,8 +20014,8 @@ The heaven is the fuel;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-8/68, *AV*-62/339, *SB-M*-5/81, *SB-K*-107/342, *VS-M*-10/102, *VS-K*-16/143, *KS*-23/128, *MS*-48/308)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -20024,7 +20024,7 @@ The heaven is the fuel;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामादित्यस्समिन्धे</summary>
 
 ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
 </details>
@@ -20043,14 +20043,14 @@ the sun burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- आदित्यः᳓ (*TS*-59/195, *RV*-8/91, *TB*-16/61, *AV*-13/70, *SB-M*-37/72, *SB-K*-218/438, *VS-M*-0/5, *VS-K*-3/31)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- आदित्यः᳓ (*TS*-59/195, *RV*-8/91, *TB*-16/61, *AV*-13/70, *SB-M*-37/72, *SB-K*-218/438, *VS-M*-0/5, *VS-K*-3/31, *KS*-7/53, *MS*-80/229)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽऽदित्यँ</summary>
 
 सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
 </details>
@@ -20069,14 +20069,14 @@ that burned the sun;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- आदित्य᳓म् (*TS*-20/195, *RV*-3/91, *TB*-6/61, *AV*-5/70, *SB-M*-7/72, *SB-K*-73/438, *VS-M*-1/5, *VS-K*-1/31)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- आदित्य᳓म् (*TS*-20/195, *RV*-3/91, *TB*-6/61, *AV*-5/70, *SB-M*-7/72, *SB-K*-73/438, *VS-M*-1/5, *VS-K*-1/31, *KS*-4/53, *MS*-20/229)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -20095,14 +20095,14 @@ I burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -20131,19 +20131,19 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
-- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
-- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
-- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
-- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
-- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
-- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64, *KS*-67, *MS*-192)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-8, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38, *KS*-3/21, *MS*-18/51)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26, *KS*-7/31, *MS*-39/155)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1, *MS*-3/10)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9, *KS*-1/8, *MS*-6/24)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1, *KS*-2/16, *MS*-12/54)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96, *KS*-0/12, *MS*-1/80)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 </details>
 </div>
@@ -20157,7 +20157,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अन्तरिक्षँ</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
@@ -20176,8 +20176,8 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- अन्त᳓रिक्षम् (*TS*-105/180, *RV*-45/94, *TB*-16/25, *AV*-71/129, *SB-M*-23/26, *SB-K*-173/257, *VS-M*-3/5, *VS-K*-13/32)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- अन्त᳓रिक्षम् (*TS*-105/180, *RV*-45/94, *TB*-16/25, *AV*-71/129, *SB-M*-23/26, *SB-K*-173/257, *VS-M*-3/5, *VS-K*-13/32, *KS*-26/57, *MS*-114/193)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -20191,7 +20191,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ताव्ँ</summary>
 
 ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
 </details>
@@ -20210,14 +20210,14 @@ the wind burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- वायुः᳓ (*TS*-52/108, *RV*-22/89, *TB*-21/56, *AV*-27/42, *SB-M*-12/47, *SB-K*-134/227, *VS-M*-5/21, *VS-K*-12/39)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- वायुः᳓ (*TS*-52/108, *RV*-22/89, *TB*-21/56, *AV*-27/42, *SB-M*-12/47, *SB-K*-134/227, *VS-M*-5/21, *VS-K*-12/39, *KS*-14/32, *MS*-62/119)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सा वायुँ</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
 </details>
@@ -20236,14 +20236,14 @@ that burned the wind;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- वायु᳓म् (*TS*-15/108, *RV*-18/89, *TB*-1/56, *AV*-4/42, *SB-M*-10/47, *SB-K*-44/227, *VS-M*-2/21, *VS-K*-3/39)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- वायु᳓म् (*TS*-15/108, *RV*-18/89, *TB*-1/56, *AV*-4/42, *SB-M*-10/47, *SB-K*-44/227, *VS-M*-2/21, *VS-K*-3/39, *KS*-2/32, *MS*-12/119)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -20262,14 +20262,14 @@ I burned that;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -20298,19 +20298,19 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
-- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
-- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
-- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
-- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
-- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
-- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64, *KS*-67, *MS*-192)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-8, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38, *KS*-3/21, *MS*-18/51)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26, *KS*-7/31, *MS*-39/155)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1, *MS*-3/10)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9, *KS*-1/8, *MS*-6/24)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1, *KS*-2/16, *MS*-12/54)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96, *KS*-0/12, *MS*-1/80)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 </details>
 </div>
@@ -20331,7 +20331,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ पृथिवी समित्</summary>
 
 पृथिवी᳓ समि᳓त् ।
 </details>
@@ -20350,8 +20350,8 @@ Offering of the Udumbara wood to the fire while making consecration.
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
+- पृथिवी᳓ (*TS*-43/106, *RV*-76/143, *TB*-24/36, *TK*-1, *AV*-76/152, *SB-M*-30/49, *SB-K*-54/126, *VS-M*-15/31, *VS-K*-16/42, *KS*-20/35, *MS*-43/104)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -20365,7 +20365,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामग्निस्समिन्धे</summary>
 
 ता᳓मग्नि᳓स्स᳓मिन्धे ।
 </details>
@@ -20384,9 +20384,9 @@ the fire burned that,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-28/111, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-85/310, *TK*-2/30, *AV*-219/419, *SB-M*-28/111, *SB-K*-1151/2289, *VS-M*-5/36, *VS-K*-57/193, *KS*-111/256, *MS*-528/1297)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -20396,7 +20396,7 @@ the fire burned that,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽग्निँ</summary>
 
 सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
 </details>
@@ -20415,9 +20415,9 @@ that (earth) burned the fire;
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-52/310, *AV*-67/419, *SB-M*-22/111, *SB-K*-379/2289, *VS-M*-11/36, *VS-K*-22/193, *KS*-38/256, *MS*-307/1297)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -20432,7 +20432,7 @@ that (earth) burned the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -20451,9 +20451,9 @@ I burned that (earth),
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395)
-- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- ता᳓म् (*TS*-104/4763, *RV*-32/3136, *TB*-31/1327, *AV*-149/3163, *SB-M*-99/2303, *SB-K*-394/20018, *VS-M*-10/268, *VS-K*-11/395, *KS*-40/1225, *MS*-179/5550)
+- अह᳓म् (*TS*-162/565, *RV*-198/1306, *TB*-18/114, *AV*-253/1248, *SB-M*-19/174, *SB-K*-254/728, *VS-M*-4/127, *VS-K*-15/178, *KS*-58/242, *MS*-160/641)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्धे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
 </details>
 
@@ -20463,7 +20463,7 @@ I burned that (earth),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -20492,19 +20492,19 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395)
-- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64)
-- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
-- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38)
-- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26)
-- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37)
-- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5)
-- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9)
-- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1)
-- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96)
-- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82)
+- सा᳓ (*TS*-167/4763, *RV*-89/3136, *TB*-73/1327, *TK*-5/135, *AV*-179/3163, *SB-M*-210/2303, *SB-K*-649/20018, *VS-M*-23/268, *VS-K*-23/395, *KS*-64/1225, *MS*-276/5550)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *AV*-302, *SB-K*-264, *VS-K*-64, *KS*-67, *MS*-192)
+- स᳓मिद्धा (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-8, ञ्नित्यादिर्नित्यम् पा॰ ६.१.१९७, उणादिप्रत्ययस्वरः)
+- आ᳓युषा (*TS*-16/176, *RV*-4/97, *TB*-0/45, *AV*-25/136, *SB-M*-1/15, *SB-K*-9/80, *VS-M*-0/2, *VS-K*-1/38, *KS*-3/21, *MS*-18/51)
+- ते᳓जसा (*TS*-27/152, *RV*-3/7, *TB*-17/54, *TK*-2/6, *AV*-18/76, *SB-M*-8/36, *SB-K*-20/120, *VS-M*-10/20, *VS-K*-10/26, *KS*-7/31, *MS*-39/155)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-5/15, *AV*-57/120, *SB-M*-8/43, *SB-K*-10/61, *VS-M*-8/33, *VS-K*-9/37, *KS*-16/33, *MS*-19/59)
+- श्रिया᳓ (*TS*-0/3, *RV*-14/48, *TB*-5, *TK*-2, *AV*-4/5, *SB-M*-3/8, *SB-K*-16/33, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1, *MS*-3/10)
+- य᳓शसा (*TS*-2/14, *RV*-0/24, *TB*-2/10, *TK*-3/7, *AV*-15/48, *SB-M*-15/68, *SB-K*-19/106, *VS-M*-2/6, *VS-K*-2/9, *KS*-1/8, *MS*-6/24)
+- ब्रह्म-वर्चसे᳓न (*TS*-2/71, *TB*-3/20, *AV*-0/1, *SB-M*-4/11, *SB-K*-5/29, *VS-K*-0/1, *KS*-2/16, *MS*-12/54)
+- अन्ना᳓द्येन (*TS*-1/61, *TB*-4/10, *SB-M*-0/5, *SB-K*-4/96, *KS*-0/12, *MS*-1/80)
+- स᳓म् (*TS*-13, *RV*-608, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
 - इन्ताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -20528,7 +20528,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राजापत्या मे</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
 </details>
@@ -20547,15 +20547,15 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 
 <details><summary>पद-पाठः (यान्त्रिकः)</summary>
 
-- प्राजापत्या᳓ (*TS*-1/53, *TB*-2/26, *AV*-1/6, *SB-M*-15/48, *SB-K*-1/90, *VS-M*-2, *VS-K*-3)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
-- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1)
-- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66)
-- सपत्न-क्ष᳓यणी (*TS*-2)
+- प्राजापत्या᳓ (*TS*-1/53, *TB*-2/26, *AV*-1/6, *SB-M*-15/48, *SB-K*-1/90, *VS-M*-2, *VS-K*-3, *KS*-0/6, *MS*-10/51)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- समि᳓त् (*TS*-5/9, *RV*-3/6, *TB*-2/6, *AV*-5, *SB-M*-1, *SB-K*-21/30, *VS-M*-1, *VS-K*-1, *KS*-4, *MS*-23)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66, *KS*-247, *MS*-805)
+- सपत्न-क्ष᳓यणी (*TS*-2, *KS*-2)
 - भ्रातृव्य-हा᳓ (*TS*-1)
-- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427)
-- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66)
-- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *SB-K*-600, *VS-K*-66, *KS*-247, *MS*-805)
+- स्वा᳓हा (*TS*-875, *RV*-19, *TB*-219, *TK*-63, *SB-K*-444, *VS-K*-498, *KS*-116, *MS*-536)
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -20589,7 +20589,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आदित्य व्रतपते</summary>
 
 आ᳓दित्य व्रतपते
 </details>
@@ -20607,7 +20607,7 @@ Aditya, lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -20630,7 +20630,7 @@ I followed the rules;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -20648,7 +20648,7 @@ I could follow that, that was increased for me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ वायो व्रतपते</summary>
 
 वा᳓यो व्रतपते᳓
 </details>
@@ -20666,7 +20666,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -20679,7 +20679,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -20692,7 +20692,7 @@ O wind, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अग्ने व्रतपते!</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
@@ -20710,7 +20710,7 @@ O fire, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -20723,7 +20723,7 @@ O fire, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -20736,7 +20736,7 @@ O fire, the lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० व्रतानाव्व्ँरतपते</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
@@ -20754,7 +20754,7 @@ O Vratapati (lord of the rules), the ruling lord of the rules,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ … व्रतम्</summary>
 
 … व्रत᳓म् अचारिषम् ।
 </details>
@@ -20772,7 +20772,7 @@ I followed the rules;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ तद् अशकन्,</summary>
 
 त᳓द् अशकन्, त᳓न् मे ऽराधि ।
 </details>
@@ -20821,7 +20821,7 @@ I could follow that, that was increased for me (7).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५३ शन्नो वातः</summary>
 
 श᳓न्नो वा᳓तः पवतां मातरि᳓श्वा श᳓न्नस्तपतु सू᳓र्यः ।  
 अ᳓हानि शं᳓ भवन्तु नश्शँ᳓ रा᳓त्रिः प्र᳓तिधीयताम् ।
@@ -20880,7 +20880,7 @@ I could follow that, that was increased for me (7).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५४ शमुषा नो</summary>
 
 श᳓मुषा᳓ नो व्यु᳙च्छतु श᳓मादित्य᳓ उ᳓देतु नः ।
 </details>
@@ -20922,7 +20922,7 @@ I could follow that, that was increased for me (7).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५५ शिवा नश्शन्तमा (1/10 व्यत्यस्त-स्वराः)</summary>
 
 शिवा᳓ नश्श᳓न्तमा भव सुमृडीका᳓ [[स᳓रस्वति|सरस्वति]] ।  
 मा᳓ ते व्यो᳙म सन्दृ᳓शि ।
@@ -20974,7 +20974,7 @@ O well merciful Sarasvatī, be auspicious and most wealful for us; may we not se
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५६ इडायै वास्त्वसि</summary>
 
 इ᳓डायै वा᳓स्त्वसि
 </details>
@@ -21009,7 +21009,7 @@ O well merciful Sarasvatī, be auspicious and most wealful for us; may we not se
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५७ वास्तुमद्वास्तुमन्तो</summary>
 
 वास्तुम᳓द्वास्तुम᳓न्तो भूयास्म
 </details>
@@ -21044,7 +21044,7 @@ all possess residence by you; may we become the possessors of the residences;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५८ मा</summary>
 
 मा᳓ वा᳓स्तोश्छित्स्मह्यवास्तुः᳓ स᳓ भूयाद्यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।
 </details>
@@ -21089,7 +21089,7 @@ may he become without residence, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५९ प्रतिष्ठासि</summary>
 
 प्रतिष्ठा᳓सि
 </details>
@@ -21120,7 +21120,7 @@ may he become without residence, who hates us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६० प्रतिष्ठावन्तो</summary>
 
 प्रतिष्ठा᳓वन्तो भूयास्म
 </details>
@@ -21149,7 +21149,7 @@ may we become the possessors of the firm-standing;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६१ मा</summary>
 
 मा᳓ प्रतिष्ठा᳓याश्छित्स्मह्यप्रतिष्ठः᳓ स᳓ भूयाद्यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।
 </details>
@@ -21192,7 +21192,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६२ आ वात</summary>
 
 आ᳓ वात वाहि भेषजं᳓ वि᳓ वात वाहि य᳓द्र᳓पः ।  
 त्वँ᳓ हि᳓ विश्व᳓भेषजो देवा᳓नान्दूत᳓ ई᳓यसे ।
@@ -21249,7 +21249,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६३ द्वाविमौ वातौ (2/18 व्यत्यस्त-स्वराः)</summary>
 
 द्वा᳓विमौ᳓ वा᳓तौ वात आ᳓ सि᳓न्धोरा᳓ पराव᳓तः । (89)  
 द᳓क्षं मे अन्य᳓ [[आवा᳓तु|आ᳓वातु]] प᳓रान्यो᳓ वातु य᳓द्र᳓पः ।
@@ -21309,7 +21309,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६४ यददो वातते</summary>
 
 य᳓ददो᳓ वातते गृहे᳙ऽमृ᳓तस्य निधि᳓र्हितः᳓ ।  
 त᳓तो नो देहि जीव᳓से त᳓तो नो धेहि भेषज᳓म् ।
@@ -21367,7 +21367,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६५ ततो नो</summary>
 
 त᳓तो नो म᳓ह आ᳓वह वा᳓त आ᳓वातु भेषज᳓म् ।  
 शंभू᳓र्मयोभू᳓र्नो हृदे᳓ प्र᳓ ण आ᳓यूँषि तारिषत् ।
@@ -21426,7 +21426,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६६ इन्द्रस्य</summary>
 
 इ᳓न्द्रस्य गृहो᳙ऽसि तं᳓ त्वा प्र᳓पद्ये स᳓गुस्सा᳓श्वः ।  
 सह᳓ य᳓न्मे अ᳓स्ति ते᳓न ।
@@ -21482,7 +21482,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६७ भूः प्रपद्ये</summary>
 
 भूः᳓ प्र᳓पद्ये
 </details>
@@ -21517,7 +21517,7 @@ may we not be cut from the firm-standing; may he become without any firm-standin
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६८ भुवः प्रपद्ये</summary>
 
 भु᳓वः प्र᳓पद्ये
 </details>
@@ -21542,7 +21542,7 @@ I obtain Bhuvaḥ (mid-region);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६९ सुवः प्रपद्ये</summary>
 
 सु᳓वः प्र᳓पद्ये
 </details>
@@ -21567,7 +21567,7 @@ I obtain Suvaḥ (heaven);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७० भूर्भुवस्सुवः</summary>
 
 भू᳓र्भु᳓वस्सु᳓वः प्र᳓पद्ये
 </details>
@@ -21589,7 +21589,7 @@ I obtain Suvaḥ (heaven);
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७१ वायुं प्रपद्ये</summary>
 
 वायुं᳓ प्र᳓पद्ये᳓
 </details>
@@ -21614,7 +21614,7 @@ I obtain the wind;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७२ अनार्तां देवताम्</summary>
 
 [[अना᳓र्तां|अ᳓नार्तां]] देव᳓तां प्र᳓पद्ये
 </details>
@@ -21650,7 +21650,7 @@ I obtain the untroubled god;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७३ अश्मानमाखणम्</summary>
 
 अ᳓श्मानमाखणं᳓ प्र᳓पद्ये
 </details>
@@ -21681,7 +21681,7 @@ I obtain the unbreakable stone;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७४ प्रजापतेर्ब्रह्मकोशम्</summary>
 
 प्रजा᳓पतेर्ब्रह्मकोशं᳓ ब्र᳓ह्म प्र᳓पद्ये
 </details>
@@ -21718,7 +21718,7 @@ I obtain Brahma-Kośa (sheath of Brahman) of Prajāpati; I obtain Brahman;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७५ ओं प्रपद्ये</summary>
 
 ओं᳓ प्र᳓पद्ये ।
 </details>
@@ -21748,7 +21748,7 @@ I obtain OṂ.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७६ अन्तरिक्षं म</summary>
 
 अन्त᳓रिक्षं म उर्व᳙न्त᳓रं
 </details>
@@ -21779,7 +21779,7 @@ I obtain OṂ.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७७ बृहदग्नयः</summary>
 
 बृह᳓दग्न᳓यः प᳓र्वताश्च
 </details>
@@ -21818,7 +21818,7 @@ I obtain OṂ.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७८ यया वातः</summary>
 
 य᳓या वा᳓तः स्वस्त्या᳓ स्वस्तिमा᳓न्त᳓या स्वस्त्या᳓ स्वस्तिमा᳓नसानि ।
 </details>
@@ -21866,7 +21866,7 @@ by which welfare the wind makes welfare for me, by that may my inner welfare be.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७९ प्राणापानौ</summary>
 
 प्रा᳓णापानौ मृत्यो᳓र्मा पातं
 </details>
@@ -21894,7 +21894,7 @@ by which welfare the wind makes welfare for me, by that may my inner welfare be.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८० प्राणापानौ मा</summary>
 
 प्रा᳓णापानौ मा᳓ मा हासिष्टं
 </details>
@@ -21917,7 +21917,7 @@ may Prāṇa and Apāna not leave me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८१ मयि मेधाम्</summary>
 
 म᳓यि मेधां᳓ म᳓यि प्रजां᳓ म᳓य्यग्नि᳓स्ते᳓जो दधातु
 </details>
@@ -21948,7 +21948,7 @@ may Prāṇa and Apāna not leave me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८२ मयि मेधाम्</summary>
 
 म᳓यि मेधां᳓ म᳓यि प्रजां᳓ म᳓यी᳓न्द्र इन्द्रियं᳓ दधातु
 </details>
@@ -21976,7 +21976,7 @@ may Indra put wisdom in me, offspring in me, sense-organ in me;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८३ मयि मेधाम्</summary>
 
 म᳓यि मेधां᳓ म᳓यि प्रजां᳓ म᳓यि सू᳓र्यो भ्रा᳓जो दधातु । (90)
 </details>
@@ -22026,7 +22026,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८४ द्युभिरक्तुभिः (1/17 व्यत्यस्त-स्वराः)</summary>
 
 [[द्युभि᳓रक्तु᳓भिः|द्यु᳓भिरक्तु᳓भिः]] प᳓रिपातमस्मा᳓न᳓रिष्टेभिरश्विना सौ᳓भगेभिः ।  
 त᳓न्नो मित्रो᳓ व᳓रुणो मामहन्ताम᳓दितिः सि᳓न्धुः पृथिवी᳓ उत᳓ द्यौः᳓ ।
@@ -22085,7 +22085,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८५ कया नश्चित्र</summary>
 
 क᳓या नश्चित्र᳓ आ᳓ भुवदूती᳓ सदा᳓वृधः स᳓खा ।  
 क᳓या श᳓चिष्ठया वृता᳓ ।
@@ -22123,7 +22123,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८६ कस्त्वा सत्यो</summary>
 
 क᳓स्त्वा सत्यो᳓ म᳓दानां मँ᳓हिष्ठो मत्सद᳓न्धसः ।  
 दृढा᳓चिदारु᳓जे व᳓सु ।
@@ -22176,7 +22176,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८७ अभी षु</summary>
 
 अभी᳓ षु᳓ णः स᳓खीनामविता᳓ जरितॄणा᳓म् ।  
 शतं᳓ भवास्यूति᳓भिः ।
@@ -22227,7 +22227,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८८ वयस्सुपर्णा</summary>
 
 व᳓यस्सुपर्णा᳓ उ᳓पसेदुरि᳓न्द्रं प्रिय᳓मेधा ऋ᳓षयो ना᳓धमानाः ।  
 अ᳓प ध्वान्त᳓मूर्णुहि᳓ पूर्धि᳓ [[च᳓क्षुर्मुमुग्ध्य᳙स्मान्निध᳓येव|च᳓क्षुर्मुमुग्ध्य᳙स्मा᳓न्निध᳓येव]] बद्धा᳓न् । (91)
@@ -22287,7 +22287,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८९ शन्नो</summary>
 
 श᳓न्नो देवी᳓रभि᳓ष्टय आ᳓पो भवन्तु पीत᳓ये ।  
 शय्ँ᳓ यो᳓रभि᳓स्रवन्तु नः ।
@@ -22325,7 +22325,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९० ईशाना वार्याणाम्</summary>
 
 ई᳓शाना वा᳓र्याणां क्ष᳓यन्तीश्चर्षणीना᳓म् ।  
 अपो᳓ याचामि भेषज᳓म् ।
@@ -22374,7 +22374,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९१ सुमित्रा न</summary>
 
 सुमित्रा᳓ न आ᳓प ओ᳓षधयः सन्तु
 </details>
@@ -22402,7 +22402,7 @@ may the sun put wisdom in me, offspring in me and the shining in me.[P208_20]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९२ दुर्मित्रास्तस्मै</summary>
 
 दुर्मित्रा᳓स्त᳓स्मै भूयासुर्यो᳙ऽस्मान्द्वेष्टि य᳓ञ्च वय᳓न्द्विष्मः᳓ ।
 </details>
@@ -22447,7 +22447,7 @@ may they become bad friends of those who hate us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९३ आपो हि</summary>
 
 आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्ता᳓ न ऊर्जे᳓ दधातन ।  
 महे᳓ र᳓णाय च᳓क्षसे ।
@@ -22485,7 +22485,7 @@ may they become bad friends of those who hate us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९४ यो वश्शिवतमो</summary>
 
 यो᳓ वश्शिव᳓तमो र᳓सस्त᳓स्य भाजयतेह᳓ नः ।  
 उशती᳓रिव मात᳓रः ।
@@ -22523,7 +22523,7 @@ may they become bad friends of those who hate us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९५ तस्मा अरम्</summary>
 
 त᳓स्मा अ᳓रं गमाम वो य᳓स्य क्ष᳓याय जि᳓न्वथ । (92)  
 आ᳓पो जन᳓यथा च नः ।
@@ -22561,7 +22561,7 @@ may they become bad friends of those who hate us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९६ पृथिवी शान्ता</summary>
 
 पृथिवी᳓ शान्ता᳓
 </details>
@@ -22595,7 +22595,7 @@ may they become bad friends of those who hate us and whom we hate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९७ साग्निना शान्ता</summary>
 
 सा᳓ग्नि᳓ना शान्ता᳓
 </details>
@@ -22625,7 +22625,7 @@ it has become peaceful by the fire,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९८ सा मे</summary>
 
 सा᳓ मे शान्ता᳓ शु᳓चँ शमयतु ।
 </details>
@@ -22662,7 +22662,7 @@ may that destroy my sorrow being peaceful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९९ अन्तरिक्षँ</summary>
 
 अन्त᳓रिक्षँ शान्तं᳓
 </details>
@@ -22686,7 +22686,7 @@ may that destroy my sorrow being peaceful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०० तद्वायुना</summary>
 
 त᳓द्वायु᳓ना शान्तं᳓
 </details>
@@ -22711,7 +22711,7 @@ that has become peaceful by the wind;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०१ तन्मे शान्तँ</summary>
 
 त᳓न्मे शान्तँ᳓ शु᳓चँ शमयतु ।
 </details>
@@ -22738,7 +22738,7 @@ may that destroy my sorrow being peaceful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०२ द्यौश्शान्ता</summary>
 
 द्यौ᳓श्शान्ता᳓
 </details>
@@ -22762,7 +22762,7 @@ The heaven is peaceful,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०३ सादित्येन</summary>
 
 सा᳓दित्ये᳓न शान्ता᳓
 </details>
@@ -22787,7 +22787,7 @@ that is peaceful by the sun;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०४ सा मे</summary>
 
 सा᳓ मे शान्ता᳓ शु᳓चँ शमयतु ।
 </details>
@@ -22822,7 +22822,7 @@ may that destroy my sorrow being peaceful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०५ पृथिवी शान्तिः</summary>
 
 पृथिवी᳓ शा᳓न्तिः
 </details>
@@ -22856,7 +22856,7 @@ may that destroy my sorrow being peaceful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०६ अन्तरिक्षँ</summary>
 
 अन्त᳓रिक्षँ शा᳓न्तिः
 </details>
@@ -22880,7 +22880,7 @@ the mid-region is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०७ द्यौश्शान्तिः</summary>
 
 द्यौ᳓श्शा᳓न्तिः
 </details>
@@ -22904,7 +22904,7 @@ the heaven is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०८ दिशश्शान्तिः</summary>
 
 दि᳓शश्शा᳓न्तिः
 </details>
@@ -22928,7 +22928,7 @@ the quarters are the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५०९ अवान्तरदिशाश्शान्तिः</summary>
 
 अवान्तरदिशा᳓श्शा᳓न्तिः
 </details>
@@ -22952,7 +22952,7 @@ the intermediate quarters are the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१० अग्निश्शान्तिः</summary>
 
 अग्नि᳓श्शा᳓न्तिः
 </details>
@@ -22976,7 +22976,7 @@ the fire is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५११ वायुश्शान्तिः</summary>
 
 वायु᳓श्शा᳓न्तिः
 </details>
@@ -23000,7 +23000,7 @@ the wind is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१२ आदित्यश्शान्तिः</summary>
 
 आदित्य᳓श्शा᳓न्तिः
 </details>
@@ -23024,7 +23024,7 @@ the sun is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१३ चन्द्रमाश्शान्तिः</summary>
 
 चन्द्र᳓माश्शा᳓न्तिः
 </details>
@@ -23048,7 +23048,7 @@ the moon is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१४ नक्षत्राणि</summary>
 
 न᳓क्षत्राणि शा᳓न्तिः
 </details>
@@ -23072,7 +23072,7 @@ the stars are the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१५ आपश्शान्तिः</summary>
 
 आ᳓पश्शा᳓न्तिः
 </details>
@@ -23096,7 +23096,7 @@ the waters are the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१६ ओषधयश्शान्तिः</summary>
 
 ओ᳓षधयश्शा᳓न्तिः
 </details>
@@ -23120,7 +23120,7 @@ the plants are the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१७ वनस्पतयश्शान्तिः</summary>
 
 व᳓नस्प᳓तयश्शा᳓न्तिः
 </details>
@@ -23139,7 +23139,7 @@ the plants are the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१८ गौश्शान्तिः</summary>
 
 गौ᳓श्शा᳓न्तिः
 </details>
@@ -23163,7 +23163,7 @@ the cow is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१९ अजा शान्तिः</summary>
 
 अजा᳓ शा᳓न्तिः
 </details>
@@ -23187,7 +23187,7 @@ the goat is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२० अश्वश्शान्तिः</summary>
 
 अ᳓श्वश्शा᳓न्तिः
 </details>
@@ -23211,7 +23211,7 @@ the horse is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२१ पुरुषश्शान्तिः</summary>
 
 पु᳓रुषश्शा᳓न्तिः
 </details>
@@ -23243,7 +23243,7 @@ the man is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२२ ब्रह्म शान्तिः</summary>
 
 ब्र᳓ह्म शा᳓न्तिः
 </details>
@@ -23272,7 +23272,7 @@ Brahma is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२३ ब्राह्मणश्शान्तिः</summary>
 
 ब्राह्मण᳓श्शा᳓न्तिः
 </details>
@@ -23296,7 +23296,7 @@ the Brāhmaṇa is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२४ शान्तिरेव</summary>
 
 शा᳓न्तिरेव᳓ शा᳓न्तिः
 </details>
@@ -23331,7 +23331,7 @@ the peace is the peace,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२५ शान्तिर्मे</summary>
 
 शा᳓न्तिर्मे अस्तु शा᳓न्तिः ।
 </details>
@@ -23370,7 +23370,7 @@ may the peace be for me, the peace.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२६ तयाहँ शान्त्या (1/10 व्यत्यस्त-स्वराः)</summary>
 
 त᳓याहँ᳓ [[शान्त्या᳓|शा᳓न्त्या]] सर्वशान्त्या᳓ म᳓ह्यन्द्विप᳓दे च᳓तुष्पदे च शा᳓न्तिं करोमि
 </details>
@@ -23412,7 +23412,7 @@ may the peace be for me, the peace.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२७ शान्तिर्मे</summary>
 
 शा᳓न्तिर्मे अस्तु शा᳓न्तिः ।
 </details>
@@ -23443,7 +23443,7 @@ may the peace be for me, the peace.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२८ एह श्रीश्च</summary>
 
 ए᳓ह श्री᳓श्च ह्री᳓श्च धृ᳓तिश्च त᳓पो मेधा᳓ प्रतिष्ठा᳓ श्रद्धा᳓ सत्य᳓न्ध᳓र्मश्चैता᳓नि मो᳓त्तिष्ठन्तम᳓नू᳓त्तिष्ठन्तु
 </details>
@@ -23499,7 +23499,7 @@ may the peace be for me, the peace.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/19 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२९ मा माँ (1/19 व्यत्यस्त-स्वराः)</summary>
 
 मा᳓ [[माँ|माँ᳓]] श्री᳓श्च ह्री᳓श्च धृ᳓तिश्च त᳓पो मेधा᳓ प्रतिष्ठा᳓ श्रद्धा᳓ सत्य᳓न्ध᳓र्मश्चैता᳓नि मा मा᳓ हासिषुः ।
 </details>
@@ -23558,7 +23558,7 @@ may not the prosperity, shyness, holding power, austerity, wisdom, firm-standing
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३० उदायुषा</summary>
 
 उ᳓दा᳓युषा स्वायु᳓षो᳓दो᳓षधीनाँ र᳓सेनो᳓त्पर्ज᳓न्यस्य शु᳓ष्मेणो᳓दस्थाममृ᳓ताँ अ᳓नु ।
 </details>
@@ -23594,7 +23594,7 @@ may not the prosperity, shyness, holding power, austerity, wisdom, firm-standing
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३१ तच्चक्षुर्देवहितम्</summary>
 
 त᳓च्च᳓क्षुर्देव᳓हितं पुर᳓स्ताच्छुक्र᳓मुच्च᳓रत् ।  
 प᳓श्येम शर᳓दश्शतं᳓
@@ -23637,7 +23637,7 @@ may not the prosperity, shyness, holding power, austerity, wisdom, firm-standing
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३२ जीवेम शरदश्शतम्</summary>
 
 जी᳓वेम शर᳓दश्शतं᳓
 </details>
@@ -23667,7 +23667,7 @@ may we live for hundred autumns;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३३ नन्दाम शरदश्शतम्</summary>
 
 न᳓न्दाम शर᳓दश्शतं᳓
 </details>
@@ -23702,7 +23702,7 @@ may we be happy for hundred autumns,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३४ मोदाम शरदश्शतम्</summary>
 
 मो᳓दाम शर᳓दश्शतं᳓
 </details>
@@ -23737,7 +23737,7 @@ may we be delighted for hundred autumns,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३५ भवाम शरदश्शतँ</summary>
 
 भ᳓वाम शर᳓दश्शतँ᳓
 </details>
@@ -23772,7 +23772,7 @@ may we be for hundred autumns,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३६ शृणवाम शरदश्शतम्</summary>
 
 शृण᳓वाम शर᳓दश्शतं᳓
 </details>
@@ -23807,7 +23807,7 @@ may we hear for hundred autumns,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३७ प्रब्रवाम</summary>
 
 प्र᳓ब्रवाम शर᳓दश्शत᳓म᳓जीताः स्याम शर᳓दश्शतं᳓
 </details>
@@ -23847,7 +23847,7 @@ may we speak well for hundred autumns, may we be not defeated for hundred autumn
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३८ ज्योक्च सूर्यम्</summary>
 
 ज्यो᳓क्च सू᳓र्यं दृशे᳓ ।
 </details>
@@ -23883,7 +23883,7 @@ may we be able to see the sun for long time.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/16 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३९ य (1/16 व्यत्यस्त-स्वराः)</summary>
 
 य᳓ [[उ᳓दगान्महतो᳓ऽर्ण᳓वाद्विभ्रा᳓जमानः|उ᳓दगान्महतो᳓ऽर्णवा᳓द्विभ्रा᳓जमानः]] सरिर᳓स्य म᳓ध्यात्स᳓ मा वृषभो᳓ लोहिताक्षः᳓ सू᳓र्यो विपश्चि᳓न्म᳓नसा पुनातु ।
 </details>
@@ -23931,7 +23931,7 @@ may we be able to see the sun for long time.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४० ब्रह्मणश्चोतन्यसि</summary>
 
 ब्र᳓ह्मणश्चो᳓तन्यसि
 </details>
@@ -23961,7 +23961,7 @@ may we be able to see the sun for long time.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४१ ब्रह्मण आणी</summary>
 
 ब्र᳓ह्मण आणी᳓ स्थो
 </details>
@@ -23991,7 +23991,7 @@ you are the two pins of Brahman,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४२ ब्रह्मण आवपनमसि</summary>
 
 ब्र᳓ह्मण आव᳓पनमसि
 </details>
@@ -24029,7 +24029,7 @@ you are the holding place of Brahman;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४३ धारितेयं पृथिवी</summary>
 
 धारिते᳓यं᳓ पृथिवी᳓ ब्र᳓ह्मणा मही᳓
 </details>
@@ -24066,7 +24066,7 @@ by this Brahman this great earth has been held,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४४ धारितमेनेन</summary>
 
 धारित᳓मेनेन मह᳓दन्त᳓रिक्षं
 </details>
@@ -24097,7 +24097,7 @@ by this great mid-region has been held;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४५ दिवं दाधार</summary>
 
 दि᳓वं दाधार पृथिवीँ᳓ स᳓देवाय्ँ
 </details>
@@ -24133,7 +24133,7 @@ this held the great heaven full of the gods;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४६ यदहव्ँ वेद</summary>
 
 य᳓दहव्ँ᳓ वे᳓द त᳓दह᳓न्धारयाणि
 </details>
@@ -24171,7 +24171,7 @@ may I hold that which I know;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४७ मा</summary>
 
 मा᳓ म᳓द्वे᳓दो᳓ऽधिवि᳓स्रसत् ।
 </details>
@@ -24217,7 +24217,7 @@ may the Veda not be forgotten by me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४८ मेधामनीषे</summary>
 
 मेधामनीषे᳓ मा᳓विशताँ समी᳓ची
 </details>
@@ -24254,7 +24254,7 @@ may the Veda not be forgotten by me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४९ भूतस्य</summary>
 
 भूत᳓स्य भ᳓व्यस्या᳓वरुध्यै स᳓र्वमा᳓युरयाणि
 </details>
@@ -24292,7 +24292,7 @@ for accepting the past and future may I live the whole span of life;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५० सर्वमायुरयाणि</summary>
 
 स᳓र्वमा᳓युरयाणि ।
 </details>
@@ -24330,7 +24330,7 @@ may I live the whole span of life.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५१ आभिर्गीर्भिर्यदतो</summary>
 
 आभि᳓र्गीर्भि᳓र्य᳓द᳓तो न ऊन᳓मा᳓प्यायय हरिवो व᳓र्धमानः ।  
 यदा᳓ स्तोतृ᳓भ्यो म᳓हि गोत्रा᳓ रुजा᳓सि भूयिष्ठभा᳓जो अ᳓ध ते स्याम ।
@@ -24368,7 +24368,7 @@ may I live the whole span of life.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५२ ब्रह्म</summary>
 
 ब्र᳓ह्म प्रा᳓वादिष्म त᳓न्नो मा᳓ हासीत् ।
 </details>
@@ -24398,7 +24398,7 @@ may I live the whole span of life.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५३ ओम् (2/4 व्यत्यस्त-स्वराः)</summary>
 
 ओं᳓ [[शा᳓न्तिश्शा᳓न्तिश्शा᳓न्तिः|शा᳓न्तिश्शान्तिश्शान्तिः]] ॥ (93)
 </details>

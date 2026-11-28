@@ -5,14 +5,34 @@ title = "०७ पाणिग्रहणम्, सप्तपदी"
 
 (सू - अथास्यै दक्षिणेन नीचा हस्तेन दक्षिणमुत्तानं हस्तं गृह्णीयात् । यदि कामयेत स्त्रीरेव जनयेयमिति अङ्गुलीरेव गृह्णीयात् । यदिकामयेत पुंस एव जनयेयमित्यङ्गुष्ठमेव सोऽभीवांगुष्ठमभीव लोमानि गृह्णाति गृभ्णामित इत्येताभिः चतसृभिः ।)
 
-> गृभ्णामिँते, सुप्रजास्त्वायॅ, हस्तं, मया पत्या॑, ज॒रदॅष्टिः, यथाऽसॅः ।  
-भगोँ अर्य॒मा, स॒वि॒ता, पुरॅन्धिः, मह्यँन्त्वाऽदुः, गार्हंपत्याय, दे॒वाः ।  
-तेह॒पूर्वे, जनॉसः, यत्रँ, पूर्ववहॅः, हिताः ।  
-मूर्धन्वान्, यत्रँ, सौ भ्रवः, पूर्वंः, दे॒वेभ्यःँ, आतँपत् ।  
-सरॅस्वति, प्रेदमॅव, सुभँगे, वाजिँनीवति ।  
-तान्त्वा॑, विश्वँस्य, भूतस्यँ, प्र॒गायॉमसि, अग्रतः ।  
-य एतिँ, प्र॒दिशॅः, सर्वाः, दिशःँ, अनुपवँमानः ।  
-हिरॅण्यहस्तः, ऐर॒म्मः, सत्वा॑, मन्मॅनसं, कृ॒णोतु । [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/36_gRbhNAmi_te.md">
+गृभ्णा᳓+++(ह्णा)+++मि ते सुप्रजास्त्वा᳓य ह᳓स्तं  
+म᳓या प᳓त्या जर᳓दष्टिर् य᳓था᳓ ऽसः ।  
+भ᳓गो अर्यमा᳓ सविता᳓ पु᳓रन्धिर् +++(=बहुप्रज्ञा बहुकर्मा वा)+++  
+म᳓ह्यन् त्वा ऽदुर् गा᳓र्हपत्याय+++(=गार्हस्थ्याय)+++ देवाः ।+++(र५)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/04_te_ha.md">
+ते᳓ +++(भगादयः)+++ ह पू᳓र्वे ज᳓नासो  
+य᳓त्र +++(गार्हस्थ्ये)+++ पूर्व-व᳓हो+++(=पूर्वविवाहकृतः)+++ **हिताः᳓** ।  
+मूर्द्धन्वा᳓न्+++(=प्राधान्यवान् [अग्निः])+++ य᳓त्र सौभ्रवः᳓ +++(=सुभ्रुवा अदितेः पुत्रः)+++  
+पू᳓र्वो देवे᳓भ्य **आ᳓ऽतपत्** ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/05_sarasvati_predamava.md">
+स᳓रस्वति प्रे᳓द᳓म् **अव**  
+सु᳓भगे वा᳓जिनी+++(=अन्नक्रिया/स्तुति)+++वति ।  
+तां᳓ त्वा वि᳓श्वस्य भूत᳓स्य  
+**प्र᳓-गायामस्य्** +++(“इदन्तो मसि”)+++ अग्रतः᳓ ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/06_ya_eti.md">
+य᳓ **ए᳓ति** प्रदि᳓शस् स᳓र्वा  
+दि᳓शो᳓ऽनु प᳓वमानः ।  
+हि᳓रण्य-हस्त ऐरम्म᳓स्+++(=अग्निः)+++  
++++(इरा अन्नं तां मिमीते करोतीतीरंमः अग्निः)+++  
+स᳓ त्वा म᳓न्मनसं+++(!)+++ **कृणोतु** ।
+</div>
 
 इति मन्त्रान्ते तस्या दक्षिणमुत्तानं हस्तम् अङ्गुष्ठाङ्गुलीभिः यथा युक्तं भवति तथा गृह्णीयात् । 
 
@@ -26,35 +46,81 @@ title = "०७ पाणिग्रहणम्, सप्तपदी"
 
 उत्तरेणाग्निं दक्षिणेन पदा, एनां प्राचीमुदीचीं वा दिशमभिप्रक्रमयति 
 
-> एकॅमिषे, विष्णुँस्त्वा, अन्वेँतु, [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/41_ekamiShe_viShNustvA-nvetu.md">
+ए᳓कमिषे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
+</div>
 
 इति प्रथमं पदं, द्वे 
 
-> ऊर्जे विष्णुँस्त्वा, अन्वेँतु, [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/42_dve_Urje_viShNustvA-nvetu.md">
+द्वे᳓ ऊर्जे᳓ वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
+</div>
 
 द्वितीयं पदं 
 
-> त्रीणिव्ँरतायँ विष्णुँस्त्वा - अन्वेँतु, [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/43_trINi_vratAya_viShNustvA-nvetu.md">
+त्री᳓णि व्रता᳓य वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
+</div>
 
 तृतीयं पदं 
 
-> च॒त्वारिँ, मायोँ भवाय, विष्णुँस्त्वा - अन्वेँतु [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/44_chatvAri_mAyobhavAya_viShNustvA-nvetu.md">
+चत्वा᳓रि मा᳓योभवाय वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
+</div>
 
 चतुर्थं पदं,
 
-> पञ्चॅ, पशुभ्यःँ, विष्णुँस्त्वा, अन्वेँतु [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/yajuH/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas/45_pancha_pashubhyo_viShNustvA-nvetu.md">
+प᳓ञ्च पशु᳓भ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।
+</div>
 
 पञ्चमं पदं 
 
-> षडृतुभ्यःँ, विष्णुँस्त्वा, अन्वेँतु [[TODO::परिष्कार्यम्??]]
+> षडृतुभ्यः, विष्णुस् त्वाऽन्वेतु ।
 
 इति षष्ठं पदं 
 
-> सप्त सप्तभ्यःँ, होत्राभ्यः, विष्णुँस्त्वा, अन्वेँतु [[TODO::परिष्कार्यम्??]] 
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ४१(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/7_achChidra-prAyashchittAdi/07_somAngabhUtamantreShu_dIxAmArabhyAgnIShomIyapas">
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ सप्त सप्तभ्यो</summary>
+
+सप्त᳓ सप्त᳓भ्यो हो᳓त्राभ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
+</details>
+</div>
 
 इति सप्तमं पदं - तत्रैव स्थित्वा, 
 
-> सरवा॑, स॒प्तपॅदा, भव, सरवॉयौ, स॒प्त पॅदा, बभूव, स॒ख्यन्ते॑, ग॒मेयं, सख्यात्ते, मायौषं, सख्यान्मे॑, मायो॑ष्ठाः, समँयाव, संकॅल्पावहै, संप्रिँयौ, रोचिष्णू, सुमनस्यमॉनौ । इषमूर्जम्, अभि, संवसॉनौ, सन्नौ, मनॉसि, संव्रता, समुँचित्तानिँ, आकॅरम् । सात्वमॅसि, अमूहम्, अमूहमॅस्मि, सात्वं, द्यौर॒हं, पृथि॒वीत्वं, रेतोऽहं, रेतोभृत्त्वं, मनो॒ऽहमॅस्मि, वाक्त्वं, सामाहमॅस्मि, ऋक्त्वं, सामाम्, अनुव्ँरता, भव, पुँसे, पुत्रायॅ, वेत्तँवै, श्रियै, पुत्रायॅ, वेत्तँवै, एहिँ, सूनुते । [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_03/14_sakhA_saptapadA.md">
+स᳓खा +++(हे)+++ सप्त᳓पदा भव।  
+स᳓खायौ सप्त᳓पदा बभूव+++(=बभूविव)+++।  
+
+सख्य᳓न् ते गमेयम्।  
+सख्या᳓त् ते मा᳓ योषम्+++(=पृथकृतो मा भूवं)+++।  
+सख्या᳓न् मे मा᳓ योष्ठाः।  
+
+स᳓म् अयाव, स᳓ङ्कल्पावहै,  
+सं᳓ प्रियौ᳓ रोचिष्णू᳓+++(=दीप्यमानौ)+++  
+सुमनस्य᳓मानौ+++(=सुमनायमानौ)+++ ।  
+
+इ᳓षम् ऊ᳓र्जम् अभि᳓ संव᳓सानौ  
+स᳓न् नौ म᳓नाँसि सं᳓ व्रता᳓  
+स᳓म् उ चित्ता᳓न्य् आ᳓करम् ।  
+
++++(साम= आ+अमः।)+++  
+सा᳓ +++(ऋक्)+++ त्व᳓म् अस्य्  
+अ᳓मू+++(→अमः=साम)+++ ऽह᳓म्,  
+अ᳓मूऽह᳓म् अस्मि। +++(५)+++  
++++(बह्व्-ऋचानां तु अमोऽहम् इति एव पाठः ।)+++  
+
+सा᳓ त्वं᳓ द्यौ᳓र्, अहं᳓ पृथिवी᳓।  
+त्वँ᳓ रे᳓तो, ऽहँ᳓ रेतोभृ᳓त्।  
+त्वं᳓ म᳓नो ऽह᳓म् अस्मि वा᳓क्।  
+त्वँ᳓ सा᳓माह᳓मस्म्य् ऋ᳙क्।  
+
+त्वँ᳓+++(~~त्वँ~~)+++ सा᳓ मा᳓म् अ᳓नुव्रता भव।  
+पुँसे᳓ पुत्रा᳓य वे᳓त्तवै+++(=लाभाय)+++,  
+श्रियै᳓ पुत्रा᳓य वे᳓त्तवा,  
+ए᳓हि सूनृते+++(=प्रियवाग्वति)+++ ।। (3)
+</div>
 
 इति जपति । अग्निं प्रदक्षिणीकृत्य यथास्थानमुपविशेत् ।
 

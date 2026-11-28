@@ -81,7 +81,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ पृथिवी समित्</summary>
 
 पृथिवी᳓ समि᳓त् ।
 </details>
@@ -115,7 +115,7 @@ Offering of the Udumbara wood to the fire while making consecration.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामग्निस्समिन्धे</summary>
 
 ता᳓मग्नि᳓स्स᳓मिन्धे ।
 </details>
@@ -146,7 +146,7 @@ the fire burned that,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽग्निँ</summary>
 
 सा᳓ऽग्निँ᳓ स᳓मिन्धे ।
 </details>
@@ -182,7 +182,7 @@ that (earth) burned the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -213,7 +213,7 @@ I burned that (earth),
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -279,7 +279,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अन्तरिक्षँ</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
@@ -313,7 +313,7 @@ may that, being burnt, burn me (make me shine) with life, brilliance, splendour,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ताव्ँ</summary>
 
 ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
 </details>
@@ -339,7 +339,7 @@ the wind burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सा वायुँ</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
 </details>
@@ -365,7 +365,7 @@ that burned the wind;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -391,7 +391,7 @@ I burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -447,7 +447,7 @@ may that, being burnt, make me shine with life, brilliance, splendour, prosperit
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ द्यौस्समित्</summary>
 
 द्यौ᳓स्समि᳓त् ।
 </details>
@@ -476,7 +476,7 @@ The heaven is the fuel;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामादित्यस्समिन्धे</summary>
 
 ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
 </details>
@@ -502,7 +502,7 @@ the sun burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽऽदित्यँ</summary>
 
 सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
 </details>
@@ -528,7 +528,7 @@ that burned the sun;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -554,7 +554,7 @@ I burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  
@@ -610,7 +610,7 @@ may that, being burnt, make me shine with life, brilliance[P205_4], splendour, p
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राजापत्या मे</summary>
 
 प्राजापत्या᳓ मे समि᳓दसि सपत्नक्ष᳓यणी । भ्रातृव्यहा᳓ मेऽसि स्वा᳓हा ।
 </details>

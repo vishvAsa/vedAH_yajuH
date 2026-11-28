@@ -49,7 +49,7 @@ title = "०१ आसन्द्यामुखाग्निस्थाप�
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ विष्णो</summary>
 
 वि᳓ष्णोᳵ क्र᳓मोऽस्यभिमातिहा᳓,  
 गायत्र᳓ञ्छ᳓न्द आ᳓ रोह  ।  
@@ -93,7 +93,7 @@ Thou art the step of Visnu, overcoming hostility, mount the Gayatri metre, after
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विष्णो</summary>
 
 वि᳓ष्णोᳵ क्र᳓मोऽसि,  अभिशस्तिहा᳓ ,त्रै᳓ष्टुभञ्छ᳓न्द आ᳓ रोह  ।  
 अन्त᳓रिक्षम᳓नु वि᳓ क्रमस्व  ।  
@@ -125,7 +125,7 @@ thou art the step of Visnu, overcoming the imprecation, mount the Tristubh metre
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ विष्णो क्रमोऽसि</summary>
 
 वि᳓ष्णोᳵ क्र᳓मोऽसि ।  
 अरातीयतो᳓ हन्ता᳓ , जा᳓गतञ्छ᳓न्द आ᳓ रोह ।  
@@ -159,7 +159,7 @@ thou art the step of Visnu, overcoming the spoiler, mount the Jagati metre, afte
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ विष्णोः</summary>
 
 वि᳓ष्णोः [1]  क्र᳓मोऽसि,
 शत्रूयतो᳓ हन्ता᳓,  आ᳓नुष्टुभञ्छ᳓न्द आ᳓ रोह।  
@@ -207,7 +207,7 @@ thou art the step of Visnu, overcoming the foe, mount the Anustubh metre, after 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अक्रन्ददग्निस्स्तनयन्निव</summary>
 
 अ᳓क्रन्ददग्नि᳓स्स्तन᳓यन्निव द्यौः᳓ क्षा᳓मा रे᳓रिहद्वीरु᳓धस्समञ्ज᳓न् ।  
 सद्यो᳓ जज्ञानो᳓ वि᳓ ही᳓मिद्धो᳓ अ᳓ख्यदा᳓ रो᳓दसी भानु᳓ना भात्यन्तः᳓ ।
@@ -911,10 +911,8 @@ Es brüllte Agni, donnernd wie der Himmel, den Boden leckend, um die Pflanzen fl
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-अ᳓ग्नेऽभ्यावर्तिन्नभि᳓ न आ᳓ वर्तस्वा᳓युषा व᳓र्चसा सन्या᳓ मेध᳓या प्रज᳓या ध᳓नेन ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/01_AsandyAmukhAgnisthApanam/06_agne-bhyAvartinnabhi_na_A.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/01_AsandyAmukhAgnisthApanam/06_agne-bhyAvartinnabhi_na_A.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -973,7 +971,7 @@ With life, with radiance, with gain, with wisdom, with offspring, with wealth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अग्ने</summary>
 
 अ᳓ग्ने [2]  अङ्गिरश्शत᳓न्ते सन्त्वावृ᳓तस्सह᳓स्रन्त उपावृ᳓तः ।  
 
@@ -1180,37 +1178,11 @@ then with the thriving of prosperity bring back to us what was lost, bring back 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/01_AsandyAmukhAgnisthApanam/08_punarUrjA_ni_vartasva.md">
+</div>
 
-पु᳓नरूर्जा᳓ नि᳓ वर्तस्व पु᳓नरग्न इषा᳓युषा ।  
-पु᳓नर्नᳶ पाहि विश्व᳓तः ।  
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Return with strength,  
-Return, O Agni, with food and life;  
-Again guard us on all sides.
-</details>
-
-<details><summary>मूलम्</summary>
-
-पुन॑रू॒र्जा नि व॑र्तस्व॒ पुन॑रग्न इ॒षायु॑षा ।  
-पुन॑र्नᳶ पाहि वि॒श्वतः॑ ।  
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-पुनः॑ । ऊ॒र्जा । नीति॑ । व॒र्त॒स्व॒ । पुनः॑ । अ॒ग्ने॒ । इ॒षा । आयु॑षा ॥ पुनः॑ । नः॒ । पा॒हि॒ । वि॒श्वतः॑ ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हेऽग्ने त्वमूर्जा क्षीरादिरसेन सह पुनर्निवर्तस्वात्रात्राऽगच्छ ।   इषाऽन्नेनाऽऽयुषा सह पुनरागच्छ ।   नोऽस्मान्पुन पुनः कृताद्विश्वतः सर्वस्मादपराधात्पाहि ।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/4/2/01_AsandyAmukhAgnisthApanam/08_punarUrjA_ni_vartasva.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -1220,7 +1192,7 @@ Again guard us on all sides.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ सह रय्या</summary>
 
 सह᳓ रय्या᳓ नि᳓ वर्तस्वा᳓ग्ने पि᳓न्वस्व धा᳓रया ।  
 विश्व᳓प्स्निया विश्व᳓तस्प᳓रि ।
@@ -1412,7 +1384,7 @@ all-nourishing from every side!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ उदुत्तमव्ँवरुण</summary>
 
 उ᳓दुत्तमव्ँ᳓वरुण पा᳓शमस्म᳓द᳓वाधम᳓म् [3] वि᳓ मध्यमँ᳓ श्रथाय ।  
 
@@ -1679,7 +1651,7 @@ Then, O Āditya, in your ordinance, guiltless before Aditi, may we remain!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ आ</summary>
 
 आ᳓ त्वाहार्षमन्त᳓रभूर्द्ध्रुव᳓स्तिष्ठा᳓विचाचलिः ।  
 वि᳓शस्त्वा स᳓र्वा वाञ्छन्त्वस्मि᳓न्राष्ट्र᳓म᳓धि श्रय ।
@@ -1940,7 +1912,7 @@ I brought thee: thou hast entered in. Stand stedfast and immovable. Lot all the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अग्रे</summary>
 
 अ᳓ग्रे बृह᳓न्नुष᳓सामूर्ध्वो᳓ अस्थान्निर्जग्मिवा᳓न्त᳓मसो ज्यो᳓तिषा᳓गात् ।  
 अग्नि᳓र्भानु᳓ना रु᳓शता स्व᳓ङ्ग आ᳓ जातो᳓ वि᳓श्वा स᳓द्मान्यप्राः ।  
@@ -1987,7 +1959,7 @@ On birth hath filled every seat.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ सीद</summary>
 
 सी᳓द त्व᳓म्मातु᳓रस्याः᳓ [4]  उप᳓स्थे वि᳓श्वान्यग्ने वयु᳓नानि विद्वा᳓न् ।
 </details>
@@ -2023,7 +1995,7 @@ Do thou sit down in the lap of this mother [4], O Agni, knowing all the ways,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ अन्तरग्ने रुचा</summary>
 
 अन्त᳓रग्ने रुचा᳓ त्व᳓मुखा᳓यै स᳓दने स्वे᳓ ।  
 त᳓स्यास्त्वँ᳓ ह᳓रसा त᳓पञ्जा᳓तवेदश्शिवो᳓ भव ।
@@ -2204,7 +2176,7 @@ heating her with heat, o Jātavedas, be kind!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ शिवो भूत्वा</summary>
 
 शिवो᳓ भूत्वा᳓ म᳓ह्यमग्ने᳓ऽथो सीद शिव᳓स्त्व᳓म् ।  
 शिवाᳵ᳓ कृत्वा᳓ दि᳓शस्स᳓र्वास्स्वाय्ँ᳓यो᳓निमिहा᳓सदः ।
@@ -2361,7 +2333,7 @@ having made all quarters kind, sit here in your own womb!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ हँसश्शुचिषद्वसुरन्तरिक्षसद्धोता</summary>
 
 हँस᳓श्शुचिष᳓द्व᳓सुरन्तरिक्षस᳓द्धो᳓ता वेदिष᳓द᳓तिथिर्दुरोणस᳓त् ।  
 नृष᳓द्वरस᳓दृतस᳓द्व्योमस᳓दब्जा᳓ गोजा᳓ ऋतजा᳓ अद्रिजा᳓ ऋत᳓म्बृह᳓त् ॥ [5]

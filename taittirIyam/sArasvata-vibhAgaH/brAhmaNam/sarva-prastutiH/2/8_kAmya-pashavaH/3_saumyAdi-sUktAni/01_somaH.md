@@ -10,7 +10,7 @@ title = "०१ सोमः"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सोमो धेनुं,</summary>
 
 सो᳓मो धेनुं᳓, सो᳓मो अ᳓र्वन्तम् आशुं᳓  
 सो᳓मो वीरं᳓ कर्मण्यं᳙ **ददातु** ।  
@@ -988,7 +988,7 @@ Du hast, o Soma, alle diese Pflanzen, die Rinder du erzeugt und die Gewässer, H
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ या ते</summary>
 
 या᳓ ते धा᳓मानि दिवि᳓ या᳓ पृथिव्या᳓म् ।  
 या᳓ प᳓र्वतेष्वो᳓षधीष्वप्सु᳓ ।    

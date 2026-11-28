@@ -96,10 +96,42 @@ title = "२७ यजुरुपाकर्म"
 
 श्रोत्रियागारात् अग्निमाहृत्य, आचार्यः अग्निप्रतिष्ठादि (पु. ३१-३३) 
 
-> ओम् अ॒ग्नये॒ स्वाहा॑ । (अग्नय इदम्),  
-ओं सोमा॑य॒ स्वाहा॑ । (सोमायेदम्),  
-ओम् अ॒ग्नये॒ स्वाहा॑ । (अग्नय इदम्),  
-ओं भूर्भुव॒स्सुव॒स्स्वाहा॑ ॥ (प्रजापतय इदं न मम) [[TODO:परिष्कार्यम्??]] 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।
+</div>
+
+(अग्नय इदम्) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/06_somAya_svAhA.md">
+सो᳓माय स्वा᳓हा।+++(कैश्चिन्नोच्यते मन्त्रः।)+++
+</div>
+
+(सोमायेदम्) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/05_om_agnaye.md">
+ओ᳓म्+++(इत्यनुज्ञाक्षरं)+++ अग्न᳓ये स्वा᳓हा+++(हविःप्रदानार्थः)+++।
+</div>
+
+(अग्नय इदम्) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/gRhyam/mantraH/yajuH/sarva-prastutiH/bhUr_bhuvas_suvas_svAhA.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं᳓ भू᳓र् भु᳓वस् सु᳓वस् स्वा᳓हा ॥  
+(प्रजा᳓पतय इदं᳓ न᳓ म᳓म) ॥१॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+ओं भूर् भुव॒स् सुव॒स् स्वाहा॑ ॥  
+(प्रजापतय इदं न मम) ॥१॥
+</details>
+</details>
+</div>
+
+(प्रजापतय इदं न मम) ॥
 
 इति अग्निमुखान्तं कृत्वा, शिष्यैरन्वारब्धः, 
 
@@ -130,7 +162,7 @@ title = "२७ यजुरुपाकर्म"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ इषे त्वा</summary>
 
 +++(हे शाखे!)+++ इषे᳓+++(=अन्नाय सवैरिष्टाय [सन्नायलक्षणाय])+++ त्वा  ।+++(र५)+++  
 ऊर्जे᳓ त्वा ।
@@ -175,7 +207,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायवस् स्थ</summary>
 
 +++(हे वत्साः! धेनोः सकाशाद्)+++ वाय᳓वस् +++(=गन्तारः)+++ स्थ +++(अन्तरिक्ष-देवत्यत्वात्)+++।  
 उपाय᳓वस् +++(=उपगन्तारः)+++ स्थ +++(दोहनकाले)+++।+++(र५)+++
@@ -815,7 +847,7 @@ Let no thief, no evil worker, have control over you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ रुद्रस्य हेतिः</summary>
 
 रुद्र᳓स्य हेतिःᳶ᳓  
 प᳓रि वो **वृणक्तु**+++(=वर्जयतु)+++।+++(र४)+++  
@@ -965,7 +997,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यजमानस्य पशून्</summary>
 
 +++(हे शाखे)+++ य᳓जमानस्य पशू᳓न् पाहि ॥ 
 </details>
@@ -2498,7 +2530,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ कर्मणे वान्,</summary>
 
 +++(हस्तौ!)+++ क᳓र्मणे वान्, +++(युवाभ्यां)+++ देवे᳓भ्यश् शकेयम्।+++(5)+++
 </details>
@@ -2536,7 +2568,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वेषाय त्वा</summary>
 
 +++(शूर्प!)+++ वे᳓षाय+++(=विष्णवे [यज्ञाय])+++ त्वा।
 </details>
@@ -2574,7 +2606,7 @@ ____
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/pratyuShTam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्र᳓त्युष्टँ र᳓क्षᳶ, प्र᳓त्युष्टा अ᳓रातयः+++(=अदातारः)+++।
@@ -2636,7 +2668,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ धूर् असि</summary>
 
 धू᳓र्+++(=धूस्स्थ हिंसको ऽग्निः)+++ असि  ।  
 +++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++
@@ -2665,7 +2697,7 @@ Thou art the yoke.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ धूर्व</summary>
 
 धू᳓र्व+++(=नाशय)+++ धू᳓र्वन्तम्+++(=हिंसकं)+++।  
 धू᳓र्व+++(=नाशय)+++ तं᳓ यो᳙ ऽस्मा᳓न् धू᳓र्वति।  
@@ -2715,7 +2747,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ त्वन् देवानाम्</summary>
 
 +++(हे शकट!)+++ त्व᳓न् देवा᳓नाम् अ᳓सि᳓   
 स᳓स्नि+++(←सन् दाने)+++-तमम्, प᳓प्रि+++(=पूर्ण)+++-तमं, जु᳓ष्ट+++(=प्रिय)+++-त᳓म᳓म्, व᳓ह्नि-तमं, देव-हू᳓-तमम्।
@@ -2744,7 +2776,7 @@ Thou art of gods, the most firmly jointed, the most richly filled, the most agre
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अह्रुतम् असि</summary>
 
 अ᳓ह्रुतम्+++(=अकुटिलम्)+++ असि हविर्धा᳓नम्।
 </details>
@@ -2779,7 +2811,7 @@ Thou art the oblation-holder that wavers not.
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/03_sAnnAyyaM_-_pAtraproxaNAdi/dRMhasva.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृँ᳓हस्व+++(=दृढा भव)+++।  
@@ -2831,7 +2863,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ मित्रस्य त्वा</summary>
 
 +++(पुरोडाशीयाः!)+++ मित्र᳓स्य त्वा च᳓क्षुषा प्रे᳓क्षे +++(मित्रत्वाय)+++।
 </details>
@@ -2863,7 +2895,7 @@ I gaze on thee with the eye of Mitra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मा भेः</summary>
 
 मा᳓ भेः᳓+++(=भैषीः)+++ ।  
 मा᳓ सव्ँ᳓ विक्थाः+++(=कंपिष्ठाः)+++ ।  
@@ -2917,7 +2949,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ उरु वाताय</summary>
 
 उरु᳓ +++(भव)+++ वा᳓ताय +++(अवारुणत्वाय)+++।  
 </details>
@@ -2961,7 +2993,7 @@ ____
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
@@ -3005,7 +3037,7 @@ ______________
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० ‌… अग्नये</summary>
 
 ‌… अग्न᳓ये जु᳓ष्टन् नि᳓र्वपामि ।    
 </details>
@@ -3041,7 +3073,7 @@ ______________
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/devasya_tvA_savituH.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देव᳓स्य त्वा सवितुᳶ᳓ प्रसवे᳙+++(=अनुज्ञायां)+++,  
@@ -3085,7 +3117,7 @@ ______________
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ …</summary>
 
 … अग्नी᳓षो᳓माभ्यां [जुष्टन् नि᳓र्वपामि] ।
 </details>
@@ -3125,7 +3157,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ इदन् देवानाम्</summary>
 
 इद᳓न् देवा᳓नाम् ।
 </details>
@@ -3163,7 +3195,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ इदम् उ</summary>
 
 इद᳓म् उ नस् सह᳓ +++(देवैः)+++।
 </details>
@@ -3201,7 +3233,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ स्फात्यै त्वा</summary>
 
 स्फात्यै᳓+++(=वृद्ध्यै)+++ त्वा +++(=अवशिष्टं)+++ ना᳓रात्यै ।
 </details>
@@ -3239,7 +3271,7 @@ ____
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/suvar_abhi.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सु᳓वर् अभि᳓ वि᳓ ख्येषव्ँ+++(=अपश्यं)+++ वैश्वानर᳓ञ् ज्यो᳓तिः ।
@@ -3285,7 +3317,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ दृँहन्तान्</summary>
 
 +++(द्या᳓वा-पृथिवी᳓ हवि᳓षि गृहीत᳓ उ᳓दवेपेताम्। अ᳓तः᳓)+++  
 दृँ᳓हन्तान् दु᳓र्या+++(=द्वारवन्ति)+++ द्या᳓वापृथिव्योः᳓ +++(भोगाय)+++।
@@ -3324,7 +3356,7 @@ ____
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/02_barhirAstaraNam/urvantarixam.md">
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>भास्करोक्त-विनियोगः</summary>
@@ -3396,7 +3428,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ अदित्यास्</summary>
 
 +++(पृथ्वी-रूपाया)+++ अ᳓दित्यास् त्वोप᳓स्थे सादयामि ।
 </details>
@@ -3434,7 +3466,7 @@ ____
 </details>
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/1/1_darshapUrNamAsAdi/04_havirnirvApaH/agne_havyam.md">
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ᳓ग्ने हव्यँ᳓ रक्षस्व ॥ [6]

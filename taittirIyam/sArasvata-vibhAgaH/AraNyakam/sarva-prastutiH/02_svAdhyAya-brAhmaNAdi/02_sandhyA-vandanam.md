@@ -17,7 +17,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ रक्षाँसि ह</summary>
 
 र᳓क्षाँसि ह᳓ वा पुरोऽनुवाके᳓ त᳓पो᳓ग्रम् अतिष्ठन्त।
 </details>
@@ -45,7 +45,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तान् प्रजापतिर्</summary>
 
 ता᳓न् प्रजा᳓पतिर् वरे᳓णोपा᳓मन्त्रयत।
 </details>
@@ -76,7 +76,7 @@ Prajāpati asked them to choose some boon.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ तानि वरम्</summary>
 
 ता᳓नि व᳓रम् अवृणीत - "आदित्यो᳓ नो यो᳓द्धा" इ᳓ति᳓।
 </details>
@@ -104,7 +104,7 @@ Prajāpati asked them to choose some boon.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तान् प्रजापतिर्</summary>
 
 ता᳓न् प्रजा᳓पतिर् अब्रवीद् - "यो᳓धयध्व᳓मि᳓"ति᳓।
 </details>
@@ -132,7 +132,7 @@ Prajāpati said to them, "fight".
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ तस्माद्</summary>
 
 त᳓स्माद् उ᳓त्तिष्ठन्तँ ह᳓ वा ता᳓नि र᳓क्षाँस्यादित्यय्ँ᳓ यो᳓धयन्ति या᳓वदस्तम᳓न्वगात्।
 </details>
@@ -164,7 +164,7 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 
 ## अर्घ्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तानि ह</summary>
 
 ता᳓नि ह वा᳓ एता᳓नि र᳓क्षाँसि  
 गायत्रिया᳓ ऽभिमन्त्रितेना᳓म्भसा शाम्यन्ति।
@@ -202,7 +202,7 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ तदु ह</summary>
 
 त᳓दु ह वा᳓ एते᳓ ब्रह्मवादि᳓नः पूर्वा᳓भिमुखाः᳓ सन्ध्या᳓याङ्  
 गायत्रिया᳓ ऽभिमन्त्रिता आ᳓प ऊर्ध्वं᳓ वि᳓क्षिपन्ति।
@@ -232,7 +232,7 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ ता एता</summary>
 
 ता᳓ एता᳓ आ᳓पो वज्री᳓भूत्वा᳓ ता᳓नि र᳓क्षाँसि मन्दे᳓हा᳓रुणे द्वीपे᳓ प्र᳓क्षिपन्ति।
 </details>
@@ -270,7 +270,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ यत् प्रदक्षिणम्</summary>
 
 य᳓त् प्रदक्षिणं᳓ प्र᳓क्रमन्ति, ते᳓न पाप्मा᳓नम् अ᳓वधून्वन्ति।
 </details>
@@ -310,7 +310,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० उद्यन्तम्</summary>
 
 उद्य᳓न्तम् अस्तय्ँ य᳓न्तम् आदित्य᳓म् अभिध्याय᳓न्  
 कुर्व᳓न् ब्राह्मणो᳓ विद्वा᳓न्त् सक᳓लं भद्र᳓म् अश्नुते -  
@@ -350,7 +350,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ ब्रह्मैव सन्</summary>
 
 ब्र᳓ह्मैव᳓ स᳓न् ब्र᳓ह्माप्ये᳓ति-  
 य᳓ एवव्ँ᳓ वे᳓द ।2।

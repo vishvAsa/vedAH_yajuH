@@ -39,7 +39,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सह वै</summary>
 
 स᳓ह वै᳓ देवा᳓नाञ् चा᳓सुराणाञ् च यज्ञौ᳓ प्र᳓तताव् आस्ताव्ँ,  
 "वयँ᳓ स्वर्गल्ँ᳓ लोक᳓म् एष्यामो, वय᳓म् एष्याम" इ᳓ति।
@@ -69,7 +69,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ते ऽसुरास्</summary>
 
 ते᳓ ऽसुरास् सन्न᳓ह्य स᳓हसैवा᳓चरन्।
 </details>
@@ -97,7 +97,7 @@ Those Asuras being equipped conducted all of a sudden;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ब्रह्मचर्येण</summary>
 
 ब्र᳓ह्मच᳓र्येण त᳓पसैव देवाः᳓।
 </details>
@@ -125,7 +125,7 @@ and the Devas (performed their sacrifice) by the austerity.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तेऽसुरा</summary>
 
 ते᳓ऽसुरा अमुह्यँस्,
 </details>
@@ -153,7 +153,7 @@ Those Asuras became stupified;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ ते न</summary>
 
 ते᳓ न᳓ प्रा᳓जानँस्,
 </details>
@@ -181,7 +181,7 @@ they did not know,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ ते पराऽभवन्,</summary>
 
 ते᳓ प᳓राऽभवन्,
 </details>
@@ -204,7 +204,7 @@ they were defeated
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ ते न</summary>
 
 ते᳓ न᳓ स्वर्गल्ँ᳓ लोक᳓मायन्।
 </details>

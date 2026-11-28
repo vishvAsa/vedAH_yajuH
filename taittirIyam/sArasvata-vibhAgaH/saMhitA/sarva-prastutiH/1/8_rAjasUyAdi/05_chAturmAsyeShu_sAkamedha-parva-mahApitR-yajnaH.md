@@ -20,7 +20,7 @@ title = "०५ चातुर्मास्येषु साकमेधे
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सोमाय पितृमते</summary>
 
 सो᳓माय पितृम᳓ते+++(←'ह्रस्वनुडभ्यां मतुप्')+++ पुरोडा᳓शँ ष᳓ट्-कपालन् नि᳓र्वपति,  
 पितृ᳓भ्यो बर्हिष᳓द्भ्यो धानाᳶ᳓,  
@@ -163,7 +163,7 @@ Rejoice therein, O fathers, according to your shares.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ सुसन्दृशन् त्वा</summary>
 
 सुसन्दृ᳓शन् त्वा वय᳓म्  
 म᳓घवन् **मन्दिषीम᳓हि**  ॥
@@ -197,7 +197,7 @@ O bountiful one, fair to see;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ प्र नूनम्</summary>
 
 **प्र᳓** नून᳓म् पूर्ण᳓-वन्धुरस्+++(=रथाग्रः)+++  
 स्तुतो᳓ **यासि** व᳓शाँ अ᳓नु  ॥    
@@ -756,7 +756,7 @@ Die weisen, herrlich glänzenden, sie speisten jetzt, berauschten sich Und schü
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अक्षन् पितरो,</summary>
 
 **अ᳓क्षन्**+++(=भुक्तवन्तः)+++ पित᳓रो,  
 **अ᳓मीमदन्त** पित᳓रो,  
@@ -795,7 +795,7 @@ The Pitrs have eaten, the Pitrs have rejoiced, the Pitrs have been glad, the Pit
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ परेत पितरस्</summary>
 
 **प᳓रेत** पितरस् सोम्या  
 गम्भीरैᳶ᳓ पथि᳓भिᳶ पूर्व्यैः᳓  ।   
@@ -838,7 +838,7 @@ Who carouse in company with Yama.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ मनो न्व्</summary>
 
 +++(पितॄन् अनु प्रेषितम्)+++  
 म᳓नो न्व् **आ᳓ हुवामहे**  
@@ -1118,7 +1118,7 @@ and with the thoughts of the Fathers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ आ न</summary>
 
 **आ᳓** [8] न **एतु** म᳓नᳶ पु᳓नᳵ  
 क्र᳓त्वे द᳓क्षाय जीव᳓से ॥   
@@ -1682,45 +1682,8 @@ Den Geist, o Väter, gebe uns zurück das göttliche Geschlecht, Lasst bei den L
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/10_yad_antarixam.md">
+</div>
 
-य᳓द् अन्त᳓रिक्षम् पृथिवी᳓म् उत᳓ द्याय्ँ᳓  
-य᳓न् मात᳓रम् पित᳓रव्ँ वा **जिहिँसिम᳓**  ॥    
-अग्नि᳓र् मा त᳓स्माद् ए᳓नसो ..   
-गा᳓र्हपत्यᳶ **प्र᳓ मुञ्चतु** ..  
-दुरिता᳓ या᳓नि **चकृम᳓** ..  
-**करो᳓तु** मा᳓म् अनेन᳓सम् ॥
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-<details><summary>Keith</summary>
-
-Whatever hurt we have done to atmosphere, to earth, to sky,  
-To mother or to father,  
-May Agni of the house free me from this sin;  
-May he make me blameless  
-In respect of all the ill we have wrought.
-</details>
-
-<details><summary>मूलम्</summary>
-
-यद॒न्तरि॑क्षम्पृथि॒वीमु॒त द्याँ ...  
-य्यन्मा॒तर॑म्पि॒तरव्ँ॑वा जिहिँसि॒म  ॥    
-अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ ..   
-गार्ह॑पत्य॒ᳶ प्र मु॑ञ्चतु ..  
-दुरि॒ता यानि॑ चकृ॒म ..  
-क॒रोतु॒ माम॑ने॒नस॑म् ॥
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-यत् । अ॒न्तरि॑क्षम् । पृ॒थि॒वीम् । उ॒त । द्याम् । यत् । मा॒तर॑म् । पि॒तर॑म् । वा॒ । जि॒हिँ॒सि॒म ॥ अ॒ग्निः । मा॒ । तस्मा॑त् । एन॑सः । गार्ह॑पत्य॒ इति॒ गार्ह॑-प॒त्यः॒ । प्रेति॑ । मु॒ञ्च॒तु॒ । दु॒रि॒तेति॑ दुः-इ॒ता । यानि॑ । च॒कृ॒म । क॒रोतु॑ । माम् । अ॒ने॒नस॑म् ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-यत् यस्मिन् कर्मणि येन प्रतिषिद्धकरणेन कर्मलोपेन वा यदन्तरिक्षं पृथिवीं अपि च द्यां द्युलोकञ्च जिहिंसिम, येन वा मातरं पितरं वा जिहिंसिम हिंसितवन्तः हिंसितारस्तेषां सम्भवेम । छान्दसो लिट् । अयमग्निर्गार्हपत्यः तस्मात्तन्निमित्तादेनसः पापात्प्रमुञ्चतु । आत्माधीनत्वात्सर्वासामात्मन्येक वचनम् । यानि चान्यानि अज्ञातस्वरूपाणि दुश्चरितानि दुःखादिसाधनानि पापानि वयं चकृम यैर्वयं सर्वस्य लोकस्य हिंसितारस्सम्भवाम ; तस्माच्चैनसो मामग्निः प्रमुञ्चत्वेव । 'शेश्छन्दसि बहुलम्' इति शेर्लोपः । एवं सर्वप्रकाराणां मया मदीयैश्च कृतानां पापानां विमोचनेन मामननेसं करोत्वयमग्निरिति ॥
-
-इत्यष्टमे पञ्चमोनुवाकः ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/8_rAjasUyAdi/05_chAturmAsyeShu_sAkamedha-parva-mahApitR-yajnaH/10_yad_antarixam.md">
+</div>

@@ -97,18 +97,51 @@ title = "४ आवृत्ताद्यमासिकं"
 
 ## २१ अर्चनाद्यलङ्कारः
 
-> अर्चत प्रार्चत, प्रियमेधासः अर्चत, अर्चन्तु पुत्रका, उत पुनर्नुधिष्णवर्चत। इदन्ते अर्चनं। गन्धद्वारां + श्रियं। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/08/069/08_archata_prArchata.md">
+अ᳓र्चत प्र᳓+अर्चत +++(नराः)+++  
+प्रि᳓यमेधासो +++(=प्रियमेध-सम्बद्धाः)+++ अ᳓र्चत ।  
+अ᳓र्चन्तु पुत्रका᳓ उत᳓  
+पु᳓रं न᳓ धृष्णु᳓ +++(=धर्षणशीलः)+++ +अर्चत ॥
+</div>
+
+इदन्ते अर्चनम् ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
+गन्ध᳓द्वारान् दुराधर्षा᳓न्  
+नित्य᳓-पुष्टाङ् करीषि᳓णीम् ।  
+ईश्वरीँ᳓ स᳓र्व-भूतानान्  
+त्वा᳓म् **इहो᳓पह्वये** श्रि᳓यम् ॥
+</div>
 
 अलङ्करणार्थे अमीते गन्धाः। 
 
-> ओषधयः, प्रतिमोदध्वं, एनं, पुष्पॉवतीः सुपप्प॒लाः। अयं वॅः, गर्भः ऋत्वियः, प्रत्नं सधस्थं आसॅदत् ॥ (आयनेते, परायणे, दूर्वारोहन्तु, पुष्पिणीः । हृदाश्च, पुण्डरीकाणि समुद्रस्य, गृहाः इमे॥) 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH/prakIrNaH/devaH/classes/pAdapAH/Rk/oShadhayaH_pratimodadhvam.md">
+ओष॑धयः॒ प्रति॑मोदध्वम्  
+एनं॒ पुष्पा॑वतीः सुपिप्प॒लाः ।  
+अ॒यं वो॒ गर्भ॑ ऋ॒त्वियः॑  
+प्र॒त्नँ स॒धस्थ॒म् आस॑दत् ॥
+</div>
+
+> *(पाठान्तरम् / वैकल्पिकः — आयने ते...)*
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/142/08_Ayane_te.md">
+आ᳓यने ते परा᳓यणे  
+दू᳓र्वा रोहन्तु पुष्पि᳓णीः  
+ह्रदा᳓श् च पुण्ड᳓रीकाणि  
+समुद्र᳓स्य गृहा᳓ इमे᳓
+</div>
 
 इमानि पुष्पाणि ॥ धूप दीपौ न स्तः। 
 
-> युवासु॒वासः, परिवीतः, आगा॑त्, सउ॒श्रेया॑न्, भवति, जायँमानः। तन्धीरॉसः, कवयॅः, उन्नॅयन्ति, स्वाधियॅः, मनॅसा, देवयन्तः। 
-[[TODO: परिष्क्यार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/3/6_pashu-hautrAdi/01_yUpasaMskAraH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ युवा सुवासा</summary>
+
+यु᳓वा सुवा᳓साᳶ प᳓रिवीत आ᳓गात् ।   
+स᳓ उ श्रे᳓यान्भवति जा᳓यमानः ।   
+त᳓न्धी᳓रासᳵ कव᳓य उ᳓न्नयन्ति ।   
+स्वाधि᳓यो म᳓नसा देवय᳓न्तः ।
+</details>
+</div>
 
 आच्छादनार्थं इदं वस्त्रं। उत्तरीयार्थं, इदमुत्तरीयं । पानीयार्थं, इमौ, उदकुम्भौ। आभरणार्थं (धारणार्थं) इदं सुवर्णमङ्गलीयकं। पवित्रार्थं अयं दर्भः। शेषोपचारार्थे इमेतिलाः। सकलाराधनैः स्वर्चितम्॥ उपवीतं। सकृदाचमनं॥
 
@@ -142,8 +175,11 @@ title = "४ आवृत्ताद्यमासिकं"
 
 निमन्त्रितः ब्राह्मणः भोजनाय प्रत्यङ्मुखत्वेनावस्थितो भवति। यथाक्रमं परिवेषणानन्तरं भोजनपात्रस्यपुरतः कर्ता सव्यञ्जान्वाच्यपरिविष्टं अन्नं व्याहृतिभिः प्रोक्ष्य, 
 
-> तत्सवितुः वरे॑ण्यं भर्गोदेवस्य धीमहि। धियोयोनॅः प्रचोदया॑त्
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/03/062/10_tatsaviturvareNyaM_bhargo.md">
+त᳓त् सवितु᳓र् व᳓रेण्य+++(णिय)+++म्  
+भ᳓र्गो+++(=भर्जनम्)+++ देव᳓स्य धीमहि+++(←धा धारणे/ ध्यै ध्याने / धी आराधने)+++ ।  
+धि᳓यो यो᳓ नः प्रचोद᳓यात् ॥
+</div>
 
 इति गायत्र्याऽभिमन्त्र्य 
 
@@ -151,13 +187,26 @@ title = "४ आवृत्ताद्यमासिकं"
 
 इति अप्रदक्षिणं परिषिच्य, ब्राह्मणस्य हस्ते शुद्धोदकं प्रदाय, 
 
-> पृथिवीते, पात्रं, द्यौः, अपिधानं, ब्रह्मणस्त्वा, मुखे जुहोमि, ब्राह्मणानांत्वा, प्राणापानयोः, जुहोमि॒, अक्षितमसि, मास्य, (मास्याः) क्षेष्ठाः, अ॒मुत्र, अ॒मुष्मन् लोके 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/01_pRthivI_te.md">
++++(हे अन्न -)+++ पृथिवी᳓ ते पा᳓त्रं,   
+द्यौ᳓र् अपिधा᳓नम्।   
+ब्र᳓ह्मणस् त्वा मु᳓खे जुहोमि।  
+ब्राह्मणा᳓नान् त्वा प्राणापान᳓योर् जुहोमि।  
+
++++(भुक्तवतो ऽनुव्रज्य प्रदक्षिणीकृत्य, द्वैधं दक्षिणाग्रान् दर्भान् संस्तीर्य)+++  
++++(भुञ्जानानामपि तृप्तिरस्त्वित्याह -)+++ अ᳓क्षितम् असि।  
+मै᳓षां क्षेष्ठा+++(←क्षी क्षये)+++ अमु᳓त्रा+++(→परलोके)+++ऽमु᳓ष्मिल्ँ लोके᳓ +++(च ब्राह्मणानाम्)+++ ।
+</div>
+
+> *(स्त्रीप्रेतपक्षे ऊहः — मास्याः क्षेष्ठाः)*
 
 इति परिविष्टमन्नादिकं दक्षिणपाणिना उपस्पर्शयित्वा 
 
-> इदं, विष्णुः, विचॅक्रमे, त्रेधा, निदधे, प॒दम्। समूढं, अस्य, पाँसुरे।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/022/17_idaM_viShNurvi.md">
+इद᳓व्ँ वि᳓ष्णुर् +++(अग्नि-विद्युत्-सूर्यात्मना)+++ **वि᳓ चक्रमे**  
++++(पृथिव्याम् अन्तरिक्षे दिवि च)+++ त्रेधा᳓ **नि᳓ दधे** पद᳓म् ।  
++++(तैर् आधारैर् जगत्)+++ **स᳓म् ऊढम्** अस्य पाँसुरे᳓ +++(ले इति साम्नि, पांसुमति [पादे])+++ ॥
+</div>
 
 ब्राह्मणस्य दक्षिणाङ्गुष्ठमन्ने निवेश्य 
 
@@ -194,13 +243,95 @@ title = "४ आवृत्ताद्यमासिकं"
 
 यथा सौकर्यं परिषेचनं। 
 
-> ओं भूर्भुवस्सुवॅः। स॒त्यन्त्व॒र्तेन, परिषिञ्चामि परिषेचयित्वा अ॒मृतोप॒स्तरॅणमसि॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_11/09_bhUrbhuvassuvaH.md">
+भू᳓र् भु᳓वस् सु᳓वः
+</div>
+
+सत्यन्त्वर्तेन परिषिञ्चामि । परिषेचयित्वा —
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_10/03_amRtopastaraNamasi.md">
+अमृतोपस्त᳓रणम् +++(→गतिकारकोपपदात् कृत्)+++ असि +++(यथा हविरादाने)+++।
+</div>
 
 इति जलं प्राशयित्वा 
 
-> प्रा॒णाय॒ स्वाहा॑ । (प्राणायेदं न मम), अपानाय स्वाहा॑ + (अपानाय इदं न मम), व्या॒नाय॒ स्वाहा॑, (व्यानाय इदं न मम), उदानाय॒ स्वाहा॑ (उदानाय इदन्नमम), स॒मा॒नाय॒ स्वाहा॑, (समानाय इदन्नमम) ब्रह्मणिमे, आत्मा, अमृतत्वाय। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०१(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/02_prANAhutir_laghuH.md">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे</summary>
+
+प्राणे᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । प्राणा᳓य स्वा᳓हा ।
+</details>
+</div>
+
+(प्राणायेदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/02_prANAhutir_laghuH.md">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
+
+अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । अपाना᳓य स्वा᳓हा ।
+</details>
+</div>
+
+(अपानाय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०३(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/02_prANAhutir_laghuH.md">
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
+
+व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
+</details>
+</div>
+
+(व्यानाय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०४(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/02_prANAhutir_laghuH.md">
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
+
+उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । उदाना᳓य स्वा᳓हा ।
+</details>
+</div>
+
+(उदानाय इदन्नमम) ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/02_prANAhutir_laghuH.md">
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
+
+समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । समाना᳓य स्वा᳓हा ।
+</details>
+</div>
+
+(समानाय इदन्नमम) ।
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य । (48)
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>त्रिभुवनः</summary>
+
+My soul is in Brahman for immortality.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+- ब्र᳓ह्मणि (*TS*-0/157, *RV*-1/237, *TB*-0/72, *AV*-1/266, *SB-M*-1/203, *SB-K*-3/434, *VS-M*-0/37, *VS-K*-0/44, *KS*-2/53, *MS*-17/230)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *AV*-401, *SB-K*-434, *VS-K*-427, *KS*-356, *MS*-506)
+- आत्मा᳓ (*TS*-41/167, *RV*-13/20, *TB*-10/39, *TK*-4/7, *AV*-14/62, *SB-M*-47/108, *SB-K*-385/1051, *VS-M*-3/5, *VS-K*-7/12, *KS*-18/35, *MS*-48/194)
+- अमृत-त्वा᳓य (*TS*-1, *RV*-3, *SB-K*-1, *VS-K*-1)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एताभिः पञ्चभिराहुतिभिरमृतत्वाय मोक्षाय मे मदीय आत्मा जीवो ब्रह्मणि परमात्मनि एकी भवत्विति शेषः॥
+</details>
+</details>
+</div>
 
 इति पञ्चप्राणाहुतीः कारयेत् यथासुखं जुषध्वम्॥ उपवीती निमन्त्रितस्य रात्रौक्षुत् यथा न भवति तथा भोजयेत् पूर्णतया भोजनानन्तरं, सव्येऽन्नं दक्षिणे उदकपात्रञ्च, कृत्वा पितः प्रेतसम्पन्नं। (सुसम्पन्नं।) पितः प्रेत तृप्तोऽसि (तृप्तोऽस्मि) (मातः प्रेते तृप्ताऽसि तृप्तास्मि।) पितः, प्रेत, "अ॒मृ॒ता॒ पि॒धा॒नमॅसि"। जलं प्राशयेत्। भोक्ता उक्थाय हस्तौ, प्रक्षाल्य गण्डूषैः आस्यं प्रक्षाल्य पादौ च प्रक्षाल्य आचम्य यथा स्थानमुपविशेत्। हस्तेऽपः प्रदाय अर्घ्यपवित्रमादाय हस्ते निधाय, 
 

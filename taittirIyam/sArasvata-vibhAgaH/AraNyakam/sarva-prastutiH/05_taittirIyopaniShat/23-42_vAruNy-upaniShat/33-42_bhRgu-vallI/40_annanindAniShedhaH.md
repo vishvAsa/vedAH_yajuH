@@ -2,7 +2,7 @@
 title = "४० अन्ननिन्दानिषेधः"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अन्नन्न</summary>
 
 अ᳓न्नन्न᳓ प᳓रिचक्षीत ।
 </details>
@@ -25,7 +25,7 @@ title = "४० अन्ननिन्दानिषेधः"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तद्व्रतम्</summary>
 
 त᳓द्व्रत᳓म् ।
 </details>
@@ -48,7 +48,7 @@ That is the duty.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आपो वा</summary>
 
 आ᳓पो वा᳓ अ᳓न्नम् ।
 </details>
@@ -71,7 +71,7 @@ Waters, verily, are food;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ ज्योतिरन्नादम्</summary>
 
 ज्यो᳓तिरन्नाद᳓म् ।
 </details>
@@ -89,7 +89,7 @@ light, the eater of food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अप्सु ज्योतिः</summary>
 
 अप्सु᳓ ज्यो᳓तिः प्र᳓तिष्ठितम् ।
 </details>
@@ -112,7 +112,7 @@ Light is fixed in waters;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ ज्योतिष्यापः</summary>
 
 ज्यो᳓तिष्या᳓पः प्र᳓तिष्ठिताः ।
 </details>
@@ -135,7 +135,7 @@ waters are fixed in light.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ तदेतदन्नमन्ने</summary>
 
 त᳓देत᳓द᳓न्नम᳓न्ने प्र᳓तिष्ठितम् ।
 </details>
@@ -158,7 +158,7 @@ That is, this food is fixed in food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ स य</summary>
 
 स᳓ य᳓ एत᳓द᳓न्नम᳓न्ने प्र᳓तिष्ठितव्ँ वे᳓द प्र᳓तितिष्ठति ।
 </details>
@@ -181,7 +181,7 @@ He who knows this food fixed in food, becomes fixed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अन्नवानन्नादो</summary>
 
 अ᳓न्नवानन्नादो᳓ भवति ।
 </details>
@@ -199,7 +199,7 @@ becomes possessor (and) eater of food;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० महान्भवति</summary>
 
 महा᳓न्भवति प्रज᳓या पशु᳓भिर्ब्रह्मवर्चसे᳓न ।
 </details>
@@ -217,7 +217,7 @@ becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ महान्कीर्त्या</summary>
 
 महा᳓न्कीर्त्या᳓ । (40)
 </details>

@@ -14,7 +14,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ कर्मणे वान्,</summary>
 
 +++(हस्तौ!)+++ क᳓र्मणे वान्, +++(युवाभ्यां)+++ देवे᳓भ्यश् शकेयम्।+++(5)+++
 </details>
@@ -52,7 +52,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वेषाय त्वा</summary>
 
 +++(शूर्प!)+++ वे᳓षाय+++(=विष्णवे [यज्ञाय])+++ त्वा।
 </details>
@@ -152,7 +152,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ धूर् असि</summary>
 
 धू᳓र्+++(=धूस्स्थ हिंसको ऽग्निः)+++ असि  ।  
 +++('एष वै धुर्योग्निः' (तै.ब्रा. 3.2.4) इति ब्राह्मणम्)+++
@@ -181,7 +181,7 @@ Thou art the yoke.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ धूर्व</summary>
 
 धू᳓र्व+++(=नाशय)+++ धू᳓र्वन्तम्+++(=हिंसकं)+++।  
 धू᳓र्व+++(=नाशय)+++ तं᳓ यो᳙ ऽस्मा᳓न् धू᳓र्वति।  
@@ -231,7 +231,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ त्वन् देवानाम्</summary>
 
 +++(हे शकट!)+++ त्व᳓न् देवा᳓नाम् अ᳓सि᳓   
 स᳓स्नि+++(←सन् दाने)+++-तमम्, प᳓प्रि+++(=पूर्ण)+++-तमं, जु᳓ष्ट+++(=प्रिय)+++-त᳓म᳓म्, व᳓ह्नि-तमं, देव-हू᳓-तमम्।
@@ -260,7 +260,7 @@ Thou art of gods, the most firmly jointed, the most richly filled, the most agre
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अह्रुतम् असि</summary>
 
 अ᳓ह्रुतम्+++(=अकुटिलम्)+++ असि हविर्धा᳓नम्।
 </details>
@@ -347,7 +347,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ मित्रस्य त्वा</summary>
 
 +++(पुरोडाशीयाः!)+++ मित्र᳓स्य त्वा च᳓क्षुषा प्रे᳓क्षे +++(मित्रत्वाय)+++।
 </details>
@@ -379,7 +379,7 @@ I gaze on thee with the eye of Mitra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मा भेः</summary>
 
 मा᳓ भेः᳓+++(=भैषीः)+++ ।  
 मा᳓ सव्ँ᳓ विक्थाः+++(=कंपिष्ठाः)+++ ।  
@@ -433,7 +433,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ उरु वाताय</summary>
 
 उरु᳓ +++(भव)+++ वा᳓ताय +++(अवारुणत्वाय)+++।  
 </details>
@@ -521,7 +521,7 @@ ______________
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० ‌… अग्नये</summary>
 
 ‌… अग्न᳓ये जु᳓ष्टन् नि᳓र्वपामि ।    
 </details>
@@ -601,7 +601,7 @@ ______________
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ …</summary>
 
 … अग्नी᳓षो᳓माभ्यां [जुष्टन् नि᳓र्वपामि] ।
 </details>
@@ -641,7 +641,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ इदन् देवानाम्</summary>
 
 इद᳓न् देवा᳓नाम् ।
 </details>
@@ -679,7 +679,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ इदम् उ</summary>
 
 इद᳓म् उ नस् सह᳓ +++(देवैः)+++।
 </details>
@@ -717,7 +717,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ स्फात्यै त्वा</summary>
 
 स्फात्यै᳓+++(=वृद्ध्यै)+++ त्वा +++(=अवशिष्टं)+++ ना᳓रात्यै ।
 </details>
@@ -801,7 +801,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ दृँहन्तान्</summary>
 
 +++(द्या᳓वा-पृथिवी᳓ हवि᳓षि गृहीत᳓ उ᳓दवेपेताम्। अ᳓तः᳓)+++  
 दृँ᳓हन्तान् दु᳓र्या+++(=द्वारवन्ति)+++ द्या᳓वापृथिव्योः᳓ +++(भोगाय)+++।
@@ -912,7 +912,7 @@ ____
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ अदित्यास्</summary>
 
 +++(पृथ्वी-रूपाया)+++ अ᳓दित्यास् त्वोप᳓स्थे सादयामि ।
 </details>

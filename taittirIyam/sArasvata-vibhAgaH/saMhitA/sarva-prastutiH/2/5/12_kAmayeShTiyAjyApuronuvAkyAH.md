@@ -12,7 +12,7 @@ title = "१२ कामयेष्टियाज्यापुरोनु�
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आयुष्टे</summary>
 
 आ᳓युष्टे ..
 </details>
@@ -53,7 +53,7 @@ Life to thee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ आयुर्दा अग्ने</summary>
 
 आ᳓युर्दा᳓ अग्ने ..
 </details>
@@ -100,7 +100,7 @@ Life-giving, O Agni,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आ प्यायस्व</summary>
 
 आ᳓ प्यायस्व ..  
 </details>
@@ -147,7 +147,7 @@ Swell up.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ सन्ते</summary>
 
 सन्ते ..
 </details>
@@ -190,7 +190,7 @@ Together thee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अव ते</summary>
 
 अ᳓व ते हे᳓ड  ..
 </details>
@@ -231,7 +231,7 @@ Thy wrath.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ उदुत्तमम्</summary>
 
 उ᳓दुत्तम᳓म् ..
 </details>
@@ -275,7 +275,7 @@ The uppermost.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ प्र णो</summary>
 
 प्र᳓ णो देवी᳓ ..
 </details>
@@ -314,7 +314,7 @@ Forward, O goddess.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ आ नो</summary>
 
 आ᳓ नो दिवो᳓ ..
 </details>
@@ -359,7 +359,7 @@ From the sky to us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अग्नाविष्णू</summary>
 
 अ᳓ग्नाविष्णू ..
 </details>
@@ -404,7 +404,7 @@ O Agni and Visnu.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अग्नाविष्णू</summary>
 
 अ᳓ग्नाविष्णू ..
 </details>
@@ -446,7 +446,7 @@ O Agni and Visnu.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ इमम्मे वरुण</summary>
 
 इम᳓म्मे वरुण ..
 </details>
@@ -486,7 +486,7 @@ This for me, O Varuna.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ तत्त्वा यामि</summary>
 
 त᳓त्त्वा यामि᳓ ..
 </details>
@@ -526,7 +526,7 @@ To thee for that I go.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ उदु त्यम्</summary>
 
 उ᳓दु त्य᳓म् ..
 </details>
@@ -571,7 +571,7 @@ Upwards that.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ चित्रम्</summary>
 
 चित्र᳓म् ..
 </details>
@@ -612,7 +612,7 @@ The radiant.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ अपान्नपादा</summary>
 
 अपा᳓न्न᳓पादा᳓ ह्य᳓स्थादुप᳓स्थञ्जिह्मा᳓नामूर्ध्वो᳓ विद्यु᳓तव्ँव᳓सानः  ।  
 त᳓स्य ज्ये᳓ष्ठम्महिमा᳓नव्ँव᳓हन्तीर्हि᳓रण्यवर्णाᳶ प᳓रि यन्ति यह्वीः᳓  ।
@@ -933,7 +933,7 @@ Der Wasser Sohn bestieg den Schooss der schrägen Gewölke aufrecht, mit dem Bli
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ समन्या यन्त्युप</summary>
 
 स᳓मन्या᳓ य᳓न्त्यु᳓प यन्त्यन्या᳓स्समान᳓मूर्व᳓न्नद्यᳶ᳙ पृणन्ति  ।  
 त᳓मू शु᳓चिँ शु᳓चयो दीदिवाँ᳓समपा᳓न्न᳓पातम्प᳓रि तस्थुरा᳓पः  ।
@@ -1359,7 +1359,7 @@ Vereint gehn diese, jene beieinander, dasselbe Becken füllen an die Ströme; Un
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ तमस्मेरा युवतयो</summary>
 
 त᳓म᳓स्मेरा युवत᳓यो यु᳓वानम्मर्मृज्य᳓मानाᳶ प᳓रि यन्त्या᳓पः  ।  
 स᳓ शुक्रे᳓ण शि᳓क्वना रेव᳓दग्नि᳓र्दीदा᳓यानिध्मो᳓ घृत᳓निर्णिगप्सु᳓  ।
@@ -1678,7 +1678,7 @@ Vertraulich kosend wandern um den Jüngling die jungen Frau'n, die Wasser, schö
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ इन्द्रावरुणयोरहँ</summary>
 
 इ᳓न्द्राव᳓रुणयोरहँ᳓ सम्रा᳓जोर᳓व आ᳓ वृणे  ।  
 ता᳓ नो मृडात ईदृ᳓शे  ।
@@ -1978,7 +1978,7 @@ Die Hülfe Indra-Varuna's, der höchsten Herrscher, fleh' ich an; Sie seien unse
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ इन्द्रावरुणा</summary>
 
 इ᳓न्द्रावरुणा युव᳓मध्वरा᳓य नो विशे᳓ ज᳓नाय म᳓हि श᳓र्म यच्छतम्  ।
 दीर्घ᳓प्रयज्युम᳓ति यो᳓ वनुष्य᳓ति वय᳓ञ्जयेम पृ᳓तनासु दूढ्यः᳙  ।
@@ -2307,7 +2307,7 @@ Gewährt, o Indra-Varuna, uns weiten Schutz dem Opferfeste, unserm Volk und unse
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० आ नो</summary>
 
 आ᳓ नो मित्रावरुणा ..
 </details>
@@ -2351,7 +2351,7 @@ To us, O Mitra and Varuna.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ प्र बाहवा</summary>
 
 प्र᳓ बाह᳓वा  ..
 </details>
@@ -2949,7 +2949,7 @@ Du, der's versteht, o Agni, mögest wenden hinweg den Zorn uns Varuna's, des Got
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ स त्वन्नो</summary>
 
 स᳓ त्व᳓न्नो अग्नेऽवमो᳓ भवोती᳓ ने᳓दिष्ठो अस्या᳓ उष᳓सो व्यु᳙ष्टौ  ।  
 अ᳓व यक्ष्व नो व᳓रुण᳓म् [72] र᳓राणो वीहि᳓ मृडीकँ᳓ सुह᳓वो न एधि  ।
@@ -3567,7 +3567,7 @@ Mit Hülfe sei, o Agni, uns der nächste, der liebste Freund beim Lichte dieses 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ प्रप्रायमग्निर्भरतस्य</summary>
 
 प्र᳓प्राय᳓मग्नि᳓र्भरत᳓स्य शृण्वे वि᳓ य᳓त्सू᳓र्यो न᳓ रो᳓चते बृह᳓द्भाः᳓  ।  
 अभि᳓ यᳶ᳓ पूरु᳓म्पृतनासु तस्थौ᳓ दीदा᳓य दै᳓व्यो अ᳓तिथिश्शिवो᳓ नः  ।
@@ -3817,7 +3817,7 @@ he who stood over Pūru in battles has shone, the divine guest, gracious to us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ प्र ते</summary>
 
 प्र᳓ ते यक्षि प्र᳓ त इयर्मि .  
 म᳓न्म भु᳓वो य᳓था व᳓न्द्यो नो ह᳓वेषु  ।  
@@ -4190,7 +4190,7 @@ Ich will dir dienen und Gebet dir bringen, dass hochgerühmt du seist, wenn wir 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ वि पाजसा</summary>
 
 वि᳓ पा᳓जसा  ..
 </details>
@@ -4226,7 +4226,7 @@ With his lustre.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ वि ज्योतिषा</summary>
 
 वि᳓ ज्यो᳓तिषा  ।
 </details>
@@ -4273,7 +4273,7 @@ With light.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ स त्वमग्ने</summary>
 
 स᳓ त्व᳓मग्ने प्र᳓तीकेन प्र᳓त्योष यातुधान्यः᳙  ।  
 उरुक्ष᳓येषु दी᳓द्यत्  ।
@@ -4529,7 +4529,7 @@ Die Hexenschar versenge du, Agni, mit deinem Angesicht, Bei den weitherrschenden
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ तँ सुप्रतीकँ</summary>
 
 तँ᳓ सुप्र᳓तीकँ सुदृ᳓शँ स्व᳓ञ्चम᳓विद्वाँसो विदु᳓ष्टरँ सपेम  ।  
 स᳓ यक्षद्वि᳓श्वा वयु᳓नानि विद्वा᳓न्प्र᳓ हव्य᳓मग्नि᳓रमृ᳓तेषु वोचत्  ।
@@ -4920,7 +4920,7 @@ Der schön von Antlitz, lieblich und gewandt ist, den weisen lasst uns thöricht
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ अँहोमुचे विवेष</summary>
 
 अँहोमु᳓चे विवे᳓ष य᳓न्मा वि᳓ न इन्द्रे᳓न्द्र क्षत्र᳓मिन्द्रिया᳓णि शतक्रतो᳓ऽनु ते दायि ॥ [74]
 अँहोमु᳓चे
@@ -4964,7 +4964,7 @@ To the freer from trouble.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० विवेष यन्मा</summary>
 
 विवे᳓ष य᳓न्मा
 </details>
@@ -5008,7 +5008,7 @@ Which hath entered me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ वि न</summary>
 
 वि᳓ न इन्द्र᳓
 </details>
@@ -5051,7 +5051,7 @@ Away for us, O Indra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ इन्द्र क्षत्र</summary>
 
 इ᳓न्द्र क्षत्र᳓
 </details>
@@ -5093,7 +5093,7 @@ O Indra, might.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ इन्द्रियाणि</summary>
 
 इ᳓न्द्रिया᳓णि शतक्रतो᳓
 </details>
@@ -5133,7 +5133,7 @@ Powers, O Śatakratu.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ अनु ते</summary>
 
 अ᳓नु ते दायि .. ॥ [74]
 </details>

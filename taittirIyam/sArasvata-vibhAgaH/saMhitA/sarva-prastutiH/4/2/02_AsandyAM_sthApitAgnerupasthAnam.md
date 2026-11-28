@@ -17,7 +17,7 @@ title = "०२ आसन्द्यां स्थापिताग्ने
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ दिवस्परि</summary>
 
 दिव᳓स्प᳓रि प्रथम᳓ञ्जज्ञे अग्नि᳓रस्म᳓द्द्विती᳓यम्प᳓रि जात᳓वेदाः ।  
 तृती᳓यमप्सु᳓ नृम᳓णा अ᳓जस्रमि᳓न्धान एनञ्जरते स्वाधीः᳓ ।
@@ -565,7 +565,7 @@ Erzeugt zuerst ward Agni aus dem Himmel, von uns zum zweiten als der Wesenkenner
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विद्मा ते</summary>
 
 विद्मा᳓ ते अग्ने त्रेधा᳓ त्रया᳓णि विद्मा᳓ ते स᳓द्म वि᳓भृतम्पुरुत्रा᳓ ।  
 विद्मा᳓ ते ना᳓म परम᳓ङ्गु᳓हा य᳓द्विद्मा᳓ त᳓मु᳓त्सय्ँय᳓त आजग᳓न्थ ।
@@ -1085,7 +1085,7 @@ Wir kennen Agni dreifach deine Dreiheit, wir kennen deine vielvertheilten Stätt
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ समुद्रे त्वा</summary>
 
 समुद्रे᳓ त्वा नृम᳓णा अप्स्व᳙न्तर्नृच᳓क्षा ईधे दिवो᳓ अग्न ऊ᳓धन् ।  
 तृती᳓ये त्वा᳓ [6]  र᳓जसि तस्थिवाँ᳓समृत᳓स्य यो᳓नौ महिषा᳓ अहिन्वन् ।
@@ -1470,7 +1470,7 @@ Im Meer der Luft entflammte dich der Mannheld, im Himmels-Euter dich der Männer
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अक्रन्ददग्निस्स्तनयन्निव</summary>
 
 अ᳓क्रन्ददग्नि᳓स्स्तन᳓यन्निव द्यौः᳓ क्षा᳓मारे᳓रिहद्वीरु᳓धस्समञ्ज᳓न् ।  
 सद्यो᳓ जज्ञानो᳓ वि᳓ ही᳓मिद्धो᳓ अ᳓ख्यदा᳓ रो᳓दसी भानु᳓ना भात्यन्तः᳓ ।
@@ -2174,7 +2174,7 @@ Es brüllte Agni, donnernd wie der Himmel, den Boden leckend, um die Pflanzen fl
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ उशिक्पावको</summary>
 
 उशि᳓क्पावको᳓ अरति᳓स्सुमेधा᳓ म᳓र्तेष्वग्नि᳓रमृ᳓तो नि᳓धायि ।  
 इ᳓यर्ति धूम᳓मरुष᳓म्भ᳓रिभ्रदु᳓च्छुक्रे᳓ण शोचि᳓षा द्या᳓मि᳓नक्षत् ।
@@ -2699,7 +2699,7 @@ Verlangend, flammend, emsig, voller Weisheit steht Agni bei den Sterblichen, uns
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विश्वस्य</summary>
 
 वि᳓श्वस्य केतु᳓र्भु᳓वनस्य ग᳓र्भ आ᳓ [7]  रो᳓दसी अपृणाज्जा᳓यमानः ।  
 वीडु᳓ञ्चिद᳓द्रिमभिनत्पराय᳓ञ्ज᳓ना य᳓दग्नि᳓म᳓यजन्त प᳓ञ्च ।
@@ -3151,7 +3151,7 @@ Als Spross des Weltalls, aller Wesen Leuchte, erfüllte Erd' und Himmel der gebo
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ श्रीणामुदारो</summary>
 
 श्रीणा᳓मुदारो᳓ धरु᳓णो रयीणा᳓म्मनीषा᳓णाम्प्रा᳓र्पणस्सो᳓मगोपाः ।  
 व᳓सोः सूनु᳓स्स᳓हसो अप्सु᳓ रा᳓जा वि᳓ भात्य᳓ग्र उष᳓सामिधानः᳓ ।
@@ -3649,7 +3649,7 @@ Des Glücks Erreger und des Reichthums Gründer, der Lieder Wecker und des Soma'
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यस्ते अद्य</summary>
 
 य᳓स्ते अद्य᳓ कृण᳓वद्भद्रशोचेऽपूप᳓न्देव घृत᳓वन्तमग्ने ।  
 प्र᳓ त᳓न्नय प्रतराव्ँ᳓व᳓स्यो अ᳓च्छाभि᳓ द्युम्न᳓न्देव᳓भक्तय्ँयविष्ठ ।
@@ -4196,7 +4196,7 @@ Der heute dir den butterreichen Kuchen, o Agni, Gott, hellfunkelnder, bereitet, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ आ तम्भज</summary>
 
 आ᳓ [8]  त᳓म्भज सौश्रवसे᳓ष्वग्न उक्थ᳓उक्थ आ᳓ भज शस्य᳓माने ।  
 प्रिय᳓स्सू᳓र्ये प्रियो᳓ अग्ना᳓ भवात्यु᳓ज्जाते᳓न भिन᳓ददु᳓ज्ज᳓नित्वैः ।
@@ -4734,7 +4734,7 @@ Dem theile zu, o Agni, reichen Segen, bei jedem Spruch, den er dir nennt, gewäh
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० त्वामग्ने</summary>
 
 त्वा᳓मग्ने य᳓जमाना अ᳓नु द्यू᳓न् वि᳓श्वा व᳓सूनि दधिरे वा᳓र्याणि ।  
 त्व᳓या सह᳓ द्र᳓विणमिच्छ᳓माना व्रज᳓ङ्गो᳓मन्तमुशि᳓जो वि᳓ वव्रुः ।
@@ -5160,7 +5160,7 @@ Die dich, o Agni, Tag für Tag verehren, die haben alles schöne Gut empfangen; 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ दृशानो रुक्म</summary>
 
 दृशानो᳓ रुक्म᳓ उर्व्या᳓ व्यद्यौद्दुर्म᳓र्षमा᳓युश्श्रिये᳓ रुचानः᳓ ।  
 अग्नि᳓रमृ᳓तो अभवद्व᳓योभिर्य᳓देनन्द्यौ᳓र᳓जनयत्सुरे᳓ताः ॥ [9]

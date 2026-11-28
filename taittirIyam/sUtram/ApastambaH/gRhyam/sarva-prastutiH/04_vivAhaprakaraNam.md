@@ -7425,7 +7425,7 @@ Prajāpati, the firstborn of truth, possessing a thousand abodes, may he enjoy o
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्ने व्रतपते!</summary>
 
 अ᳓ग्ने व्रतपते!
 </details>
@@ -7492,7 +7492,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायो व्रतपते</summary>
 
 वा᳓यो व्रतपते
 </details>
@@ -7546,7 +7546,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आदित्य व्रतपते</summary>
 
 आ᳓दित्य व्रतपते
 </details>
@@ -7595,7 +7595,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्रतानाव्व्ँरतपते</summary>
 
 व्रता᳓नाव्व्ँरतपते
 </details>
@@ -7676,7 +7676,7 @@ I will follow the rules; may I do so; may that be increased.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आ नो</summary>
 
 आ᳓ नो वि᳓श्वे +++(अभि=)+++अ᳓स्क्रा **ऽऽगमन्तु** देवाः᳓ ।  
 मित्रो᳓ अर्यमा᳓ व᳓रुणस् स-जो᳓षाः ।   
@@ -8101,7 +8101,7 @@ Vereinigt mögen alle Götter kommen, Arjaman, Mitra, Varuna gemeinsam, Damit si
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ शन् नो</summary>
 
 श᳓न् नो देवा᳓ विश्व᳓-देवा **भवन्तु** ।  
 शँ᳓ स᳓रस्वती सह᳓ धीभि᳓र् अस्तु ॥ 42 ॥  
@@ -8484,6 +8484,17 @@ Uns sein zum Heil der Götterallheit Götter, Sarasvati mit Göttinnen der Andac
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may Sarasvatī together with prayers bring peace.
+
+Peace from those who attend \[us\], peace from the bestowers of gifts!  
+Peace to us from the heavenly, the earthly, and the watery!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -8492,7 +8503,7 @@ Uns sein zum Heil der Götterallheit Götter, Sarasvati mit Göttinnen der Andac
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ये सवितुस्</summary>
 
 ये᳓ सवितु᳓स् सत्य᳓-**सवस्य** वि᳓श्वे ।     
 मित्र᳓स्य व्रते᳓ व᳓रुणस्य देवाः᳓ ।  
@@ -8806,6 +8817,17 @@ Ihr Götter alle, die ihr in dem Gesetz des wahrhaft belebenden Savitar und des 
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those all-gods who are in the ordinance of Savitṛ of true impulsion,  
+of Mitra, and of Varuṇa,  
+do you place in us good fortune, possessions rich in heroes and cattle,  
+and diverse wealth!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -8814,7 +8836,7 @@ Ihr Götter alle, die ihr in dem Gesetz des wahrhaft belebenden Savitar und des 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अग्ने याहि</summary>
 
 अ᳓ग्ने **याहि᳓** दूत्यव्ँ᳙ वा᳓ **ऽरिषेण्यः** ।  
 देवाँ᳓ अ᳓च्छा ब्रह्म-कृ᳓ता गणे᳓न ।  
@@ -9160,6 +9182,17 @@ Geh aus auf Botschaft, Agni, säume nimmer, hin zu den Göttern mit der Schar de
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, go as an envoy, you who are worthy to be chosen,  
+toward the gods with the host that performs the brahman!  
+Worship Sarasvatī, the Maruts, the Aśvins, the Waters,  
+and all the gods, for the bestowing of treasures!
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -9168,7 +9201,7 @@ Geh aus auf Botschaft, Agni, säume nimmer, hin zu den Göttern mit der Schar de
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ द्यौ पित</summary>
 
 द्यौᳶ᳓ पितᳶ पृ᳓थिवि मा᳓तर् अ᳓-ध्रुक+++(←द्रुह्)+++ ।  
 अ᳓ग्ने भ्रातर् वसवो **मृड᳓ता** नः ।  
@@ -9516,6 +9549,19 @@ O Vater Himmel, treue Mutter Erde, o Bruder Agni, seid uns hold, ihr guten, Adit
 </details>
 </div>
 
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Father Heaven, O Mother Earth, who do not deceive,  
+O brother Agni, O Vasus, be gracious to us!  
+All you Ādityas, harmonious with Aditi,  
+extend abundant protection to us!  
+O all-gods, hear this call of mine,  
+you who are in the midspace and you who abide in heaven,
+</details>
+</details>
+
 <details><summary>सर्वा अवतारिकाः</summary>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -9524,7 +9570,7 @@ O Vater Himmel, treue Mutter Erde, o Bruder Agni, seid uns hold, ihr guten, Adit
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विश्वे देवाश्</summary>
 
 वि᳓श्वे देवाश् **शृणुते᳓मँ᳓ ह᳓वम्** मे ।   
 ये᳓ अन्त᳓रिक्षे य᳓ उ᳓प द्य᳓वि ष्ठ᳓ ।  
@@ -10050,6 +10096,15 @@ Ihr Götter alle, höret hier mein Rufen, die ihr im Himmel und in weiter Luft s
 </details>
 </details>
 </div>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you whose tongue is Agni, and who are worthy of worship;  
+seated on this barhis-grass, rejoice!
+</details>
+</details>
 </div>
 
 ###### सौम्यम् - शुक्रियम्

@@ -289,7 +289,7 @@ For he waxed dread, worthy of offering.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्निर्भूतानाम्</summary>
 
 अग्नि᳓र्भूता᳓नाम् अ᳓धिपतिस् स᳓ माऽवतु   
 [अस्मि᳓न् ब्र᳓ह्मन्न् +++(अस्मिन्ब्रह्मण्य् इत्यथर्ववेदे)+++᳓  
@@ -329,7 +329,7 @@ Agni overlord of creatures, may he help me;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ इन्द्रो</summary>
 
 इ᳓न्द्रो ज्येष्ठा᳓नाम्  [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -369,7 +369,7 @@ Indra of powers,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यम पृथिव्याः</summary>
 
 यमᳶ᳓ पृथिव्याः᳓      [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -409,7 +409,7 @@ Yama of earth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ वायुरन्तरिक्षस्य</summary>
 
 वायु᳓रन्त᳓रिक्षस्य      [अ᳓धिपतिस् स᳓ माऽवतु]  ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -417,7 +417,10 @@ Yama of earth,
 ऽस्याम् आशि᳓ष्य्  
 अस्या᳓म् पुरोधा᳓याम्  
 अस्मि᳓न् क᳓र्मन्न्  
-अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
+अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सूर्यो दिवः</summary>
 
 सू᳓र्यो दिवः᳓   [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -425,7 +428,10 @@ Yama of earth,
 ऽस्याम् आशि᳓ष्य्  
 अस्या᳓म् पुरोधा᳓याम्  
 अस्मि᳓न् क᳓र्मन्न्  
-अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
+अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ चन्द्रमा</summary>
 
 चन्द्र᳓मा न᳓क्षत्राणाम्   [अ᳓धिपतिस् स᳓ माऽवतु],  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -433,7 +439,7 @@ Yama of earth,
 ऽस्याम् आशि᳓ष्य्  
 अस्या᳓म् पुरोधा᳓याम्  
 अस्मि᳓न् क᳓र्मन्न्  
-अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]    
+अस्यां᳓ देव᳓हूत्याम् [स्वा᳓हा᳓]॥]
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
@@ -481,7 +487,7 @@ Vayu of the atmosphere, Surya of the sky, Candramas of Naksatras,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ बृहस्पतिर्ब्रह्मणः</summary>
 
 बृ᳓हस्प᳓तिर्ब्र᳓ह्मणः    [अ᳓धिपतिस् स᳓ माऽवतु],  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -521,7 +527,7 @@ Brhaspati of holy power,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मित्रस्सत्यानाम्</summary>
 
 मित्र᳓स्सत्या᳓नाम्    [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -561,7 +567,7 @@ Mitra of truths,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ वरुणोऽपाम् ,</summary>
 
 व᳓रुणोऽपा᳓म्    [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -601,7 +607,7 @@ Varuna of waters,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० समुद्रस्स्रोत्यानाम्</summary>
 
 समुद्र᳓स्स्रोत्या᳓नाम्    [अ᳓धिपतिस् स᳓ माऽवतु]  ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -641,7 +647,7 @@ the ocean of streams,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ अन्नँ</summary>
 
 अ᳓न्नँ सा᳓म्राज्यानाम᳓धिपति त᳓न्माऽवतु  ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -681,7 +687,7 @@ food of lordships overlord, may it help me;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ सोम ओषधीनाम्</summary>
 
 सो᳓म ओ᳓षधीनाम् [अ᳓धिपतिस् स᳓ माऽवतु]
 ,  
@@ -723,7 +729,7 @@ Soma of plants,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ सविता</summary>
 
 सविता᳓ प्रसवा᳓नाम्   [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -763,7 +769,7 @@ Savitr of instigations,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ रुद्र पशूनाम्</summary>
 
 रुद्रᳶ᳓ पशूना᳓म् [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -803,7 +809,7 @@ Rudra of cattle,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ त्वष्टा</summary>
 
 त्व᳓ष्टा रूपा᳓णाम्   [अ᳓धिपतिस् स᳓ माऽवतु] ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -843,7 +849,7 @@ Tvastr of forms,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ विष्णु</summary>
 
 वि᳓ष्णुᳶ प᳓र्वतानाम्    [अ᳓धिपतिस् स᳓ माऽवतु]  ,  
 [अस्मि᳓न् ब्र᳓ह्मन्न्  
@@ -883,7 +889,7 @@ Visnu of mountains,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ मरुतो</summary>
 
 मरु᳓तो गणा᳓नाम᳓धिपतयस्ते᳓ माऽवन्तु
 {अस्मि᳓न्ब्र᳓ह्मन् + अस्मि᳓न्क्षत्रे᳓ + अस्यामाशि᳓ष्यस्या᳓म् पुरोधा᳓याम् + अस्मि᳓न्क᳓र्मन् + अस्या᳓न्देव᳓हूत्याम् ॥}   
@@ -913,7 +919,7 @@ the Maruts of troops overlords, may they help me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ पितर पितामहा</summary>
 
 पि᳓तरᳶ पितामहाᳶ परेऽवरे त᳓तास्ततामहा इह᳓ माऽवत ।   
 </details>
@@ -945,7 +951,7 @@ O ye fathers, ye grandfathers, ye further, ye nearer, ye dadas, ye granddadas, d
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ अस्मिन्</summary>
 
 अस्मि᳓न् ब्र᳓ह्मन्न् +++(अस्मिन्ब्रह्मण्य् इत्यथर्ववेदे)+++᳓  
 अस्मि᳓न् क्षत्रे᳙  

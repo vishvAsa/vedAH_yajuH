@@ -2789,10 +2789,10 @@ May Varuna take away by his hand whatever sin I have done by eating much, drinki
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः (स्वराः पूर्याः) …{Loading}…</h4></summary>
 
-सो᳙ऽह᳓म् अपापो᳓ [[विर᳓जो|वि᳓रजो]]  
+सो᳙ऽह᳓म् अपापो᳓ वि᳓रजो  
 नि᳓र्मुक्तो मुक्त᳓-किल्बिषः ।  
 ना᳓कस्य पृष्ठ᳓म् **आरु᳓ह्य**  
-**[[गच्छेद्|ग᳓च्छेद्]]** ब्रह्म-सलोक᳓ताम् ।
+**ग᳓च्छेद्** ब्रह्म-सलोक᳓ताम् ।
 
 </details>
 
@@ -4070,7 +4070,7 @@ Durch dreissig Stätten strahlet er, und Sang begrüsst den Fliegenden Am frühe
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (3/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यत् पृथिव्याँ (3/11 व्यत्यस्त-स्वराः)</summary>
 
 य᳓त् पृथिव्याँ᳓ र᳓जस्वम्  
 [[आ᳓न्त᳓रिक्षे|आन्तरिक्षे᳓]] विरो᳓दसी ।  
@@ -4117,7 +4117,7 @@ Whatever is our sin in the earth, in the mid-region and in the places between th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ एष भूतस्य (2/11 व्यत्यस्त-स्वराः)</summary>
 
 एष᳓ भूत᳓स्य [[भव्ये᳓|भ᳓व्ये]] भु᳓वनस्य गोप्ता᳓ ।  
 एष᳓ पुण्य᳓कृताल्ँ [[लोकान्|लोका᳓न्]], एष᳓ मृत्यो᳓र् हिरण्म᳓यम् ।
@@ -4157,7 +4157,7 @@ This (Varuna) is the protector of the world among the beings; this is the worlds
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ द्यावापृथिव्योर् (1/10 व्यत्यस्त-स्वराः)</summary>
 
 द्या᳓वा-पृथिव्यो᳓र् हिरण्म᳓यँ [[सँ᳓श्रितँ|सँ᳓श्रितँ᳓]] सु᳓वः । (9)  
 स᳓ नस् सु᳓वस् सँ᳓शिशाधि ।
@@ -4390,7 +4390,7 @@ Performer of improper deeds, one who has split his semen virile, the thief, the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (3/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ रजो भूमिस् (3/8 व्यत्यस्त-स्वराः)</summary>
 
 [[रजो᳓|र᳓जो]] भू᳓मिस् [[त्वमाँ᳓|त्व᳓माँ᳓]] [[रो᳓दयस्व|रोदयस्व]] प्र᳓वदन्ति धी᳓राः ।
 </details>
@@ -4430,7 +4430,7 @@ Performer of improper deeds, one who has split his semen virile, the thief, the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (1/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ पुनन्तु ऋषयः, (1/8 व्यत्यस्त-स्वराः)</summary>
 
 पुन᳓न्तु ऋ᳓षयः, पुन᳓न्तु व᳓सवः,  
 पुना᳓तु व᳓रुणः, पुना᳓त्व् [[अघमर्षणः᳓|अघम᳓र्षणः]] ।
@@ -6426,7 +6426,7 @@ You are worth worshipping in the sacrifices, you extend the comfort, you sit as 
 गो᳓भिर् जु᳓ष्टम् +++(उद्दिश्य)+++, +++(पापेन)+++ अयु᳓जो, नि᳓षिक्तं +++(चोद्दिश्य)+++  
 त᳓वेन्द्र+++(←स्वरः परिष्कृतः)+++ वि᳓ष्णोर्+++(=व्यापकस्य)+++ अ᳓नु स᳓ञ्चरेम।  
 ना᳓कस्य पृष्ठ᳓म् अभि᳓ संव᳓सानो  
-[[वै᳓ष्णवीं|वैष्णवीं᳓]] +++(यथा तथा)+++ लोक᳓+++(य्)+++ इह᳓ +++(भवन्तो)+++ **मादयन्ताम्**॥
+वैष्णवीं᳓ +++(यथा तथा)+++ लोक᳓+++(य्)+++ इह᳓ +++(भवन्तो)+++ **मादयन्ताम्**॥
 
 </details>
 
@@ -6853,7 +6853,7 @@ Salutation to the gods; Svadha (Hail) for the fathers, Bhuh, Bhuvah, Suvah, the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ भूरग्नये च</summary>
 
 भू᳓रग्न᳓ये च पृथिव्यै᳓ च महते᳓ च स्वा᳓हा॥  
 +++((अग्नये महत इदं न मम))+++
@@ -6894,7 +6894,7 @@ Bhuh, Hail for the fire, for the earth and for the great!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ भुवो वायवे</summary>
 
 भु᳓वो वाय᳓वे चान्त᳓रिक्षाय च महते᳓ च स्वा᳓हा॥  
 +++((वायवे महत इदं न मम))+++
@@ -6925,7 +6925,7 @@ Bhuvah, Hail for the wind, for the mid-region and for the great!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सुवरादित्याय च</summary>
 
 सु᳓वरादित्या᳓य च दिवे᳓ च महते᳓ च स्वा᳓हा॥  
 +++((आदित्याय महत इदं न मम))+++
@@ -6956,7 +6956,7 @@ Suvah, Hail for the sun, for the heaven and for the great!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ भूर्भुवस्सुवश्चन्द्रमसे</summary>
 
 भू᳓र्भु᳓वस्सु᳓वश्चन्द्र᳓मसे च न᳓क्षत्रेभ्यश्च दिग्भ्य᳓श्च महते᳓  च स्वा᳓हा॥  
 +++((चन्द्रमसे महत इदम्))+++
@@ -6991,7 +6991,7 @@ Bhuh, Bhuvah, Suvah, Hail for the moon, for the stars, for the quarters and for 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ नमो देवेभ्यस्</summary>
 
 न᳓मो देवे᳓भ्यस् स्वधा᳓ पितृ᳓भ्यो, भू᳓र्भु᳓वस्सु᳓वर्म᳓हरो᳓म् । (14) - । 4 ।
 </details>
@@ -7965,10 +7965,10 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-अजा᳓म् ए᳓काल्ँ [[लो᳓हित-शुक्लकृष्णां᳓|लोहित-शुक्लकृष्णां᳓]]  
+अजा᳓म् ए᳓काल्ँ लोहित-शुक्लकृष्णां᳓  
 बह्वीं᳓  प्रजा᳓ञ् जन᳓यन्तीँ स᳓रूपाम् ।  
 अजो᳓ ह्ये᳓को जुष᳓माणो ऽनुशे᳓ते  
-ज᳓हात्य् एनां भुक्त᳓-भोगाम् [[अ᳓जोऽन्यः|अजो᳙ऽन्यः᳓]] । (20)
+ज᳓हात्य् एनां भुक्त᳓-भोगाम् अजो᳙ऽन्यः᳓ । (20)
 
 </details>
 
@@ -13932,10 +13932,10 @@ _____________________________________________________
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-य᳓च् च [[किञ्चि᳓ज्|कि᳓ञ्चिज्]] [[जगत्य्|ज᳓गत्य्]] अस्मिन्  
-दृश्य᳓ते [[श्रूयते᳓ऽपि|श्रूयतेऽ᳓पि]] वा ।  
-अ᳓न्तर् बहि᳓श् च [[तत्|त᳓त्]] [[सर्वव्ँ|स᳓र्वव्ँ]]  
-[[व्याप्य᳓|व्या᳓प्य]] नारायण᳓स् [[स्थितः|स्थितः᳓]] ।(25)
+य᳓च् च कि᳓ञ्चिज् ज᳓गत्य् अस्मिन्  
+दृश्य᳓ते श्रूयतेऽ᳓पि वा ।  
+अ᳓न्तर् बहि᳓श् च त᳓त् स᳓र्वव्ँ  
+व्या᳓प्य नारायण᳓स् स्थितः᳓ ।(25)
 
 </details>
 
@@ -14011,10 +14011,10 @@ Whatever world is seen or heard, Narayana stands pervading that all inwardly and
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-[[अ᳓नन्तम्|अनन्त᳓म्]] अ᳓व्ययङ् कविँ᳓  
+अनन्त᳓म् अ᳓व्ययङ् कविँ᳓  
 समुद्रे᳓ ऽन्तव्ँ विश्व᳓-शंभुवम् ।  
-[[पद्म-कोश᳓-प्रतीकाशँ|पद्म-कोश-प्रतीकाशँ᳓]]  
-+++(तद्-आसनम्)+++ **[[हृद᳓यञ्|हृ᳓दयञ्]]** [[चाप्य्|चा᳓प्य्]] अधो᳓-मुखम् +++(नोर्ध्वमुखं लोकवत्)+++ ।
+पद्म-कोश-प्रतीकाशँ᳓  
++++(तद्-आसनम्)+++ **हृ᳓दयञ्** चा᳓प्य् अधो᳓-मुखम् +++(नोर्ध्वमुखं लोकवत्)+++ ।
 
 </details>
 
@@ -14036,8 +14036,8 @@ Whatever world is seen or heard, Narayana stands pervading that all inwardly and
 
 <details><summary>पद-पाठः (यान्त्रिकः - 4/11 व्यत्यस्त-स्वराः)</summary>
 
-- अ᳓नन्तम् → **अनन्त᳓म्** (*RV*-2/9, *TB*-0/1, *AV*-4, *SB-K*-13/26, *MS*-1)
-- अ᳓व्ययम् (*RV*-1/2, *AV*-1)
+- अ᳓नन्तम् → **अनन्त᳓म्** (*RV*-2/9, *TB*-0/1, *AV*-4, *SB-M*-1, *SB-K*-13/26, *MS*-1, नञ्बहुव्रीहिः पा॰ ६.२.१७२)
+- अ᳓-व्ययम् (नञ्तत्पुरुषः — 'न व्येतीत्यव्ययम्' इति भास्करः, पा॰ ६.२.२ [अशक्त्यभावात् पा॰ ६.२.१५७ न]; नञ्बहुव्रीहौ 'व्ययरहितम्/विनाशरहितम्' तु अ-व्यय᳓म् स्यात् पा॰ ६.२.१७२; ऋग्वेदे ९.८६.३४ अ᳓व्ययानि तथा २७-वारम् अव्य᳓य- इति अविमय-अर्थकं भिन्नाभिधानम्, ऋ॰ ८.९७.२ = अ॰ २०.५५.३ अ᳓व्ययम् तु सायणमते अक्षीणम्)
 - कवि᳓म् (*TS*-3/31, *RV*-27/200, *TB*-0/9, *AV*-0/30, *SB-M*-2/4, *SB-K*-2/9, *VS-M*-3/15, *VS-K*-4/15, *KS*-4/18, *MS*-4/36)
 - समुद्रे᳓ (*TS*-7/51, *RV*-29/130, *TB*-1/11, *TK*-1/2, *AV*-10/66, *SB-M*-5/21, *SB-K*-8/74, *VS-M*-6/17, *VS-K*-7/28, *KS*-2/14, *MS*-7/62)
 - अ᳓न्तम् (*TS*-12/27, *RV*-14/42, *TB*-6/13, *AV*-4/15, *SB-M*-3/11, *SB-K*-27/88, *VS-K*-0/1, *KS*-0/7, *MS*-15/51)
@@ -14083,10 +14083,10 @@ Whatever world is seen or heard, Narayana stands pervading that all inwardly and
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-[[अ᳓धो|अधो᳓]] निष्ट्या᳓+++(=ग्रीवा-बन्धः)+++ [[वितस्त्यान्|वि᳓तस्त्यान्]]+++(←१२-आङ्गुल्याम् [नाभिं यावत्])+++ [[तु|तु᳓]]  
-[[नाभ्या᳓म्|ना᳓भ्याम्]] [[उपरि|उप᳓रि]] +++(मध्ये)+++ **[[ति᳓ष्ठति|तिष्ठति]]** ।  
-[[हृद᳓यन्|हृ᳓दयन्]] त᳓द् [[विजानीयाद्|वि᳓जानीयाद्]]  
-[[विश्व᳓स्यायतनं᳓|वि᳓श्वस्याय᳓तनं]] [[महत्|मह᳓त्]] ।
+अधो᳓ निष्ट्या᳓+++(=ग्रीवा-बन्धः)+++ वि᳓तस्त्यान्+++(←१२-आङ्गुल्याम् [नाभिं यावत्])+++ तु᳓  
+ना᳓भ्याम् उप᳓रि +++(मध्ये)+++ **तिष्ठति** ।  
+हृ᳓दयन् त᳓द् वि᳓जानीयाद्  
+वि᳓श्वस्याय᳓तनं मह᳓त् ।
 
 </details>
 
@@ -14158,10 +14158,10 @@ _____________________________________________________
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-स᳓न्ततँ सिरा᳓भिस्+++(=नाडीभिस्)+++ [[तु|तु᳓]]  
+स᳓न्ततँ सिरा᳓भिस्+++(=नाडीभिस्)+++ तु᳓  
 **ल᳓म्बत्य्** आ-+++(पूर्वोक्त-पद्म)+++कोश-स᳓न्निभम् ।  
 त᳓स्या᳓न्ते सुषिरँ᳓ +++(सुषुम्ना-नाडी-नालं)+++ सूक्ष्मं᳓  
-त᳓स्मिन्त् [[सर्वं᳓|स᳓र्वं]] **प्र᳓तिष्ठितम्** ।
+त᳓स्मिन्त् स᳓र्वं **प्र᳓तिष्ठितम्** ।
 
 </details>
 
@@ -14222,10 +14222,10 @@ Which hangs by the nerves like the unblown lotus; in the middle of that there is
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-त᳓स्य +++(→सुषुम्ना-नाड्या)+++ म᳓द्ध्ये महा᳓न् [[अग्निर्|अग्नि᳓र्]] +++(पाचको वैश्वानरः)+++  
+त᳓स्य +++(→सुषुम्ना-नाड्या)+++ म᳓द्ध्ये महा᳓न् अग्नि᳓र् +++(पाचको वैश्वानरः)+++  
 विश्वा᳓र्चिर् विश्व᳓तोमुखः ।  
-**[[सो᳓ऽग्र-भुग्|सो᳓ऽग्र-भु᳓ग्]] वि᳓भजन् [[तिष्ठन्न्|ति᳓ष्ठन्न्]]**  
-[[आ᳓हारम्|आहा᳓रम्]] [[अजरः᳓|अज᳓रः]] कविः᳓ ।+++(5)+++
+**सो᳓ऽग्र-भु᳓ग् वि᳓भजन् ति᳓ष्ठन्न्**  
+आहा᳓रम् अज᳓रः कविः᳓ ।+++(5)+++
 
 </details>
 
@@ -14302,10 +14302,10 @@ _____________________________________________________
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-**[[सन्ताप᳓यति|स᳓न्तापयति]]** [[स्वन्|स्व᳓न्]] देह᳓म्  
-[[आ᳓पाद-तल-म᳓स्तकम्|आ᳓पाद-तल-मस्तकम्]] ।  
+**स᳓न्तापयति** स्व᳓न् देह᳓म्  
+आ᳓पाद-तल-मस्तकम् ।  
 त᳓स्य म᳓द्ध्ये व᳓ह्नि-शिखा +++(→जीवः)+++  
-अणी᳓योर्ध्वा [[व्यव᳓स्थिता|व्य᳓वस्थिता]] (←द्रविडपाठे लिङ्गव्यत्ययः) ।
+अणी᳓योर्ध्वा व्य᳓वस्थिता (←द्रविडपाठे लिङ्गव्यत्ययः) ।
 
 </details>
 
@@ -14359,9 +14359,9 @@ That heats his own body from the foot to the head; in the middle of that there i
 
 <details open><summary><h4>विश्वास-प्रस्तुतिः …{Loading}…</h4></summary>
 
-[[नील᳓-तोय᳓-द-मध्य-स्था|नील-तोय-द-मध्य-स्था᳓]]  
-विद्यु᳓ल्-लेखेव [[भा᳓स्वरा|भास्वरा᳓]] ।  
-[[नीवा᳓र-शू᳓कवत्|नीवार-शू᳓कवत्]]+++(=धान्यान्त-त्वक्-कण्टकवत्)+++ [[तन्वी|तन्वी᳓]]  
+नील-तोय-द-मध्य-स्था᳓  
+विद्यु᳓ल्-लेखेव भास्वरा᳓ ।  
+[[नीवा᳓र-शू᳓कवत्|नीवार-शूकव᳓त्]]+++(=धान्यान्त-त्वक्-कण्टकवत्)+++ [[तन्वी|तन्वी᳓]]  
 पीता᳓भा स्यात् तनू᳓पमा ।
 
 </details>
@@ -14388,7 +14388,7 @@ That is shining like the line of the lightning among the blue clouds, that is le
 - विद्यु᳓त्-लेखा (विद्यु᳓त् (*MW*) + ले᳓खा (*MW*), बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१)
 - इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-41, *SB-K*-741, *VS-K*-38, *KS*-68, *MS*-240)
 - भा᳓स्वरा → **भास्वरा᳓** (वरच् पा॰ ३.२.१७५, चितः पा॰ ६.१.१६३, भास्वर᳓ *MW*)
-- नीवा᳓र-शू᳓कवत् → **नीवार-शू᳓कवत्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८; मूले नी॒वार॒शूक॑वत्)
+- नीवा᳓र-शू᳓कवत् → **नीवार-शूकव᳓त्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८; सादृश्ये वतिः पा॰ ५.१.११५–११६, आद्युदात्तश्च पा॰ ३.१.३, यथा अङ्गिरस्व᳓त्/मनुष्व᳓त्/प्रत्नव᳓त्/अत्रिव᳓त्; मूले नी॒वार॒शूक॑वत्)
 - तन्वी → **तन्वी᳓** (*RV*-0/7, तनु᳓ (*MW*, *Macdonell*) + ङीष् पा॰ ४.१.४४, ३.१.३)
 - पीत᳓-आभा (बहुव्रीहौ प्रकृत्या पूर्वपदम् पा॰ ६.२.१, पीत᳓ *MW*)
 - स्यात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-117, *RV*-9, *SB-K*-208, *KS*-31, *MS*-129)
@@ -15450,7 +15450,7 @@ that is the true and the immortal, such says Vasistha.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आपो वा</summary>
 
 आ᳓पो वा᳓ इदँ᳓ स᳓र्वं
 </details>
@@ -15478,7 +15478,7 @@ The waters are, verily, all this
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विश्वा भूतान्य्</summary>
 
 वि᳓श्वा भूता᳓न्य् आ᳓पः
 </details>
@@ -15496,7 +15496,7 @@ the waters are all the beings
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ प्राणा वा</summary>
 
 प्राणा᳓ वा᳓ आ᳓पः
 </details>
@@ -15514,7 +15514,7 @@ the waters are the breaths
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ पशव आपः,</summary>
 
 पश᳓व आ᳓पः,
 </details>
@@ -15532,7 +15532,7 @@ the waters are the animals
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अन्नम् आपः,</summary>
 
 अ᳓न्नम् आ᳓पः,
 </details>
@@ -15550,7 +15550,7 @@ the waters are the food
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अमृतम् आपः</summary>
 
 अमृ᳓तम् आ᳓पः
 </details>
@@ -15568,7 +15568,7 @@ the waters are the nectar
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ सम्राड् आपो,</summary>
 
 सम्रा᳓ड् आ᳓पो, विरा᳓ड् आ᳓पः, स्वरा᳓ड् आ᳓पश्
 </details>
@@ -15586,7 +15586,7 @@ the waters are the Samrat, Virat and Svarat
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ छन्दाँस्य् आपो,</summary>
 
 छ᳓न्दाँस्य् आ᳓पो,
 </details>
@@ -15604,7 +15604,7 @@ the waters are the metres
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ ज्योतीँष्य्</summary>
 
 ज्यो᳓तीँष्य् आ᳓पो,
 </details>
@@ -15622,7 +15622,7 @@ the waters are the Yajuses
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० यजूँष्य् आपस्,</summary>
 
 य᳓जूँष्य् आ᳓पस्,
 </details>
@@ -15640,7 +15640,7 @@ the waters are the truth
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ सत्यम् आपस्,</summary>
 
 सत्य᳓म् आ᳓पस्,
 </details>
@@ -15658,7 +15658,7 @@ the waters are all the gods
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ सर्वा देवता</summary>
 
 स᳓र्वा देव᳓ता आ᳓पो,  
 भू᳓र् भु᳓वस् सु᳓वर् आ᳓प  
@@ -15849,7 +15849,7 @@ may the waters purify that all, whatever left food or the non-eatable food (I ha
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (10/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्निश्च मा (10/10 व्यत्यस्त-स्वराः)</summary>
 
 अग्नि᳓श्च मा मन्यु᳓श्च मन्यु᳓पतयश्च मन्यु᳓कृतेभ्यः।  
 पापे᳓भ्यो रक्षन्ताम् ।  
@@ -15893,7 +15893,7 @@ May the fire, the anger and the lord of the anger protect me from the sins of th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यद् अह्ना (7/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓द् अ᳓ह्ना पाप᳓म् अकार्ष᳓म् ।  
 म᳓नसा वाचा᳓ ह᳓स्ताभ्याम् ।  
@@ -15940,7 +15940,7 @@ may the day destroy that sin which I have done in the day by mind, speech, hands
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यत्किञ् च (7/13 व्यत्यस्त-स्वराः)</summary>
 
 य᳓त्कि᳓ञ् च दुरितं᳓ म᳓यि ।  
 इद᳓म् अहं᳓ मा᳓म् अमृत-योनौ᳓ ।  
@@ -16006,7 +16006,7 @@ and whatever sin is in me; this I sacrifice myself in the seat of immortality, i
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (10/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सूर्यश्च मा (10/10 व्यत्यस्त-स्वराः)</summary>
 
 सू᳓र्यश्च मा मन्यु᳓श्च मन्यु᳓पतयश्च मन्यु᳓कृतेभ्यः।  
 पापे᳓भ्यो रक्षन्ताम् ।
@@ -16050,7 +16050,7 @@ May the sun, the anger and the lord of the anger protect me from the sins of the
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यद् रात्रिया (7/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓द् रा᳓त्रिया पाप᳓म् अकार्ष᳓म्।  
 म᳓नसा वाचा᳓ ह᳓स्ताभ्याम् ।  
@@ -16092,7 +16092,7 @@ may the night destroy that sin, which I have done in the night by mind, speech, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यत् किञ्च (7/13 व्यत्यस्त-स्वराः)</summary>
 
 य᳓त् कि᳓ञ्च दुरितं᳓ म᳓यि ।  
 इद᳓म् अहं᳓ मा᳓म् अमृतयोनौ᳓ ।  
@@ -16211,7 +16211,7 @@ May Gayatri, the boon-giving goddess, the mother of the metres come to me, the i
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ओजोऽसि</summary>
 
 ओ᳓जोऽसि।
 </details>
@@ -16248,7 +16248,7 @@ you are the brightness,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ सहोऽसि</summary>
 
 स᳓होऽसि।
 </details>
@@ -16271,7 +16271,7 @@ you are the tolerable one,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ बलमसि</summary>
 
 ब᳓लमसि।
 </details>
@@ -16294,7 +16294,7 @@ you are the power,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ भ्राजोऽसि</summary>
 
 भ्रा᳓जोऽसि।
 </details>
@@ -16317,7 +16317,7 @@ you are the shining,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ देवानान् धाम</summary>
 
 देवा᳓नान् धा᳓म ना᳓मासि।
 </details>
@@ -16340,7 +16340,7 @@ you are the nature of the places of the gods,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विश्वम् असि</summary>
 
 वि᳓श्वम् असि विश्वा᳓युस्,  
 स᳓र्वम् असि सर्वा᳓युः।
@@ -16375,7 +16375,7 @@ you are all, you are all, all life,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अभिभूर् (2/5 व्यत्यस्त-स्वराः)</summary>
 
 अभिभू᳓र् [ओ᳓ङ् गायत्री᳓म् आ᳓वाहयामि । (41)]
 </details>
@@ -16432,7 +16432,7 @@ winner, Om, I invoke Gayatri.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ओं भूः</summary>
 
 ओं᳓ भूः᳓ । ओं᳓ भु᳓वः । ओँ᳓ सु᳓वः । ओं᳓ म᳓हः । ओ᳓ञ् ज᳓नः । ओं᳓ त᳓पः । ओँ᳓ सत्य᳓म् ।
 </details>
@@ -17605,7 +17605,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ओम् आपो</summary>
 
 ओ᳓म् आ᳓पो ज्यो᳓ती र᳓सो  
 ऽमृ᳓तं ब्र᳓ह्म +++(=मन्त्राः)+++  
@@ -18023,7 +18023,7 @@ Mantra offering five mouthfuls to the five Pranas before taking the meal.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे</summary>
 
 प्राणे᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । प्राणा᳓य स्वा᳓हा ।
 </details>
@@ -18061,7 +18061,7 @@ I sacrifice nectar sitting in the Prana-breath; Hail for the Prana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । अपाना᳓य स्वा᳓हा ।
 </details>
@@ -18089,7 +18089,7 @@ I sacrifice nectar sitting in the Apana-breath; Hail for the Apana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
 </details>
@@ -18117,7 +18117,7 @@ I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । उदाना᳓य स्वा᳓हा ।
 </details>
@@ -18145,7 +18145,7 @@ I sacrifice nectar sitting in the Udana-breath; Hail for the Udana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । समाना᳓य स्वा᳓हा ।
 </details>
@@ -18229,7 +18229,7 @@ Optional Mantra for the above.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे निविष्टो</summary>
 
 प्राणे᳓ नि᳓विष्टो ऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -18276,7 +18276,7 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -18313,7 +18313,7 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -18350,7 +18350,7 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -18387,7 +18387,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  

@@ -33,7 +33,7 @@ Typifications of the utensils and prayers. Identification of the priests with th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ पृथिवी होता</summary>
 
 पृथिवी᳓ हो᳓ता ।
 </details>
@@ -63,7 +63,7 @@ The earth is the Hotṛ priest;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ द्यौर्</summary>
 
 द्यौ᳓र् अध्वर्युः᳓ ।
 </details>
@@ -92,7 +92,7 @@ the heaven, the Adhvaryu priest;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ रुद्रोऽग्नीत्</summary>
 
 रुद्रो᳙ऽग्नी᳓त् ।
 </details>
@@ -121,7 +121,7 @@ Rudra, verily, the fire;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ बृहस्पतिर्</summary>
 
 बृ᳓हस्प᳓तिर् उपवक्ता᳓ ।
 </details>
@@ -165,7 +165,7 @@ Bṛhaspati, the impeller.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ वाचस्पते वाचो</summary>
 
 वा᳓चस्पते वाचो᳓ वीर्ये᳙ण  
 सं᳓भृततमेन **+आ᳓यक्ष्यसे** ।
@@ -200,7 +200,7 @@ O Vacaspati, you are worshipped by the full power of the speech;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ यजमानाय वार्यम् (1/6 व्यत्यस्त-स्वराः)</summary>
 
 य᳓जमानाय वा᳓र्यम्  
 **आ᳓** सु᳓वस् **[[क᳓र्|कर्]]** अस्मै ।
@@ -235,7 +235,7 @@ grant the heaven, which is worth choosing, for the sacrificer;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ वाचस्पतिस् सोमम्</summary>
 
 वाच᳓स्प᳓तिस् सो᳓मं **पिबतु** ।  
 **जज᳓नद्** इ᳓न्द्रम् इन्द्रिया᳓य स्वा᳓हा ॥ (2)

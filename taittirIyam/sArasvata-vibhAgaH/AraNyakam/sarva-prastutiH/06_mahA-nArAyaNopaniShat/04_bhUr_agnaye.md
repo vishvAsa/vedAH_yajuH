@@ -15,7 +15,7 @@ title = "०४ भूर् अग्नये"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ भूरग्नये च</summary>
 
 भू᳓रग्न᳓ये च पृथिव्यै᳓ च महते᳓ च स्वा᳓हा॥  
 +++((अग्नये महत इदं न मम))+++
@@ -56,7 +56,7 @@ Bhuh, Hail for the fire, for the earth and for the great!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ भुवो वायवे</summary>
 
 भु᳓वो वाय᳓वे चान्त᳓रिक्षाय च महते᳓ च स्वा᳓हा॥  
 +++((वायवे महत इदं न मम))+++
@@ -87,7 +87,7 @@ Bhuvah, Hail for the wind, for the mid-region and for the great!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सुवरादित्याय च</summary>
 
 सु᳓वरादित्या᳓य च दिवे᳓ च महते᳓ च स्वा᳓हा॥  
 +++((आदित्याय महत इदं न मम))+++
@@ -118,7 +118,7 @@ Suvah, Hail for the sun, for the heaven and for the great!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ भूर्भुवस्सुवश्चन्द्रमसे</summary>
 
 भू᳓र्भु᳓वस्सु᳓वश्चन्द्र᳓मसे च न᳓क्षत्रेभ्यश्च दिग्भ्य᳓श्च महते᳓  च स्वा᳓हा॥  
 +++((चन्द्रमसे महत इदम्))+++
@@ -153,7 +153,7 @@ Bhuh, Bhuvah, Suvah, Hail for the moon, for the stars, for the quarters and for 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ नमो देवेभ्यस्</summary>
 
 न᳓मो देवे᳓भ्यस् स्वधा᳓ पितृ᳓भ्यो, भू᳓र्भु᳓वस्सु᳓वर्म᳓हरो᳓म् । (14) - । 4 ।
 </details>

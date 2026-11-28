@@ -10,7 +10,7 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अन्तरिक्षँ</summary>
 
 अन्त᳓रिक्षँ समि᳓त् । (82)
 </details>
@@ -44,7 +44,7 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ताव्ँ</summary>
 
 ताव्ँ᳓ वायु᳓स्स᳓मिन्धे ।
 </details>
@@ -70,7 +70,7 @@ the wind burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सा वायुँ</summary>
 
 सा᳓ वायुँ᳓ स᳓मिन्धे ।
 </details>
@@ -96,7 +96,7 @@ that burned the wind;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -122,7 +122,7 @@ I burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  

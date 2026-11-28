@@ -12,7 +12,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सक्षेदम्पश्य</summary>
 
 स᳓क्षेद᳓म्पश्य ।  
 </details>
@@ -58,7 +58,7 @@ O conqueror, see this!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ विधर्तरिदम्पश्य</summary>
 
 वि᳓धर्तरिद᳓म्पश्य ।  
 </details>
@@ -93,7 +93,7 @@ O sustainer, see this!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ नाकेदम्पश्य</summary>
 
 ना᳓केद᳓म्पश्य ।  
 रम᳓तिᳶ प᳓निष्ठा ।  
@@ -138,7 +138,7 @@ which they call immortal.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ सूर्यो वरिष्ठो</summary>
 
 सू᳓र्यो व᳓रिष्ठो अक्ष᳓भिर्वि᳓भाति ।  
 अ᳓नु द्या᳓वापृथिवी᳓ देव᳓पुत्रे ।  
@@ -200,7 +200,7 @@ along with heaven and earth whose sons are gods.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ दीक्षाऽसि तपसो</summary>
 
 दीक्षा᳓ऽसि त᳓पसो यो᳓निः ।  
 </details>
@@ -234,7 +234,7 @@ You are the consecration, the womb of heat;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तपोऽसि ब्रह्मणो</summary>
 
 त᳓पोऽसि ब्र᳓ह्मणो यो᳓निः ॥79॥  
 </details>
@@ -268,7 +268,7 @@ you are heat, the womb of brahman.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ ब्रह्मासि</summary>
 
 ब्र᳓ह्मासि क्षत्र᳓स्य यो᳓निः ।  
 </details>
@@ -304,7 +304,7 @@ You are brahman, the womb of regal power;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ ऋतमसि भूरारभे</summary>
 
 ऋत᳓मसि भू᳓रा᳓रभे ।  
 </details>
@@ -340,7 +340,7 @@ you are regal power, the womb of truth;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ श्रद्धाम्मनसा</summary>
 
 श्रद्धा᳓म्म᳓नसा +++(आरभे)+++।  
  दीक्षा᳓न्त᳓पसा वि᳓श्वस्य भु᳓वनस्या᳓धिपत्नीम्  +++(आरभे)+++।  
@@ -380,7 +380,7 @@ the sovereign mistress of the whole world.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० सर्वे कामा</summary>
 
 स᳓र्वे का᳓मा य᳓जमानस्य सन्तु ।  
 </details>
@@ -428,7 +428,7 @@ May all desires of the sacrificer be fulfilled.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ वातम्प्राणम्मनसाऽन्वारभामहे</summary>
 
 वा᳓तम्प्राण᳓म्म᳓नसाऽन्वा᳓रभामहे ।  
 प्रजा᳓पतिय्ँयो᳓ भु᳓वनस्य गोपाः᳓ ।  
@@ -479,7 +479,7 @@ may he rescue us from death, protect us from distress!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ इन्द्र शाक्वर</summary>
 
 इ᳓न्द्र शाक्वर गायत्री᳓म्प्र᳓पद्ये ।  
 </details>
@@ -508,7 +508,7 @@ O mighty Indra, I resort to the gāyatrī;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ तान्ते युनज्मि</summary>
 
 ता᳓न्ते युनज्मि ।  
 </details>
@@ -536,7 +536,7 @@ that I yoke for you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ इन्द्र शाक्वर</summary>
 
 इ᳓न्द्र शाक्वर त्रिष्टु᳓भम्प्र᳓पद्ये ।  
 ता᳓न्ते युनज्मि ।   
@@ -577,7 +577,7 @@ that I yoke for you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ इन्द्र शाक्वर</summary>
 
 इ᳓न्द्र शाक्वर ज᳓गतीम्प्र᳓पद्ये ।  
 ता᳓न्ते युनज्मि ।  
@@ -603,7 +603,7 @@ that I yoke for you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ इन्द्र</summary>
 
 इ᳓न्द्र शाक्वरानुष्टु᳓भम्प्र᳓पद्ये ।  
 ता᳓न्ते युनज्मि ।  
@@ -638,7 +638,7 @@ O mighty Indra, I resort to the paṅkti;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ इन्द्र शाक्वर</summary>
 
 इ᳓न्द्र शाक्वर पङ्क्ति᳓म्प्र᳓पद्ये ॥81॥  
 ता᳓न्ते युनज्मि ।  
@@ -677,7 +677,7 @@ I have ascended to the consecration, the wife of truth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ आऽहन्दीक्षामरुहमृतस्य</summary>
 
 आ᳓ऽह᳓न्दीक्षा᳓मरुहमृत᳓स्य प᳓त्नीम् ।  
 गायत्रे᳓ण छ᳓न्दसा ब्र᳓ह्मणा च ।  
@@ -724,7 +724,7 @@ both truth and reality have come to be for me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ ज्योतिरभूवँ</summary>
 
 ज्यो᳓तिरभूवँ सु᳓वरगमम् ।  
 सुवर्गल्ँ᳓ लोक᳓न्ना᳓कस्य पृष्ठ᳓म् ।  
@@ -790,7 +790,7 @@ the summit of the bright one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० पृथिवी दीक्षा</summary>
 
 पृथिवी᳓ दीक्षा᳓ ॥82॥  
 त᳓याऽग्नि᳓र्दीक्ष᳓या दीक्षितः᳓ ।  
@@ -828,7 +828,7 @@ With that consecration Agni was consecrated;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ ययाऽग्निर्दीक्षया</summary>
 
 य᳓याऽग्नि᳓र्दीक्ष᳓या दीक्षित᳓स् त᳓या त्वा दीक्ष᳓या दीक्षयामि ।  
 </details>
@@ -863,7 +863,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ अन्तरिक्षन्दीक्षा</summary>
 
 अन्त᳓रिक्षन्दीक्षा᳓ ।  
 त᳓या वायु᳓र्दीक्ष᳓या दीक्षितः᳓ ।
@@ -904,7 +904,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ द्यौर्दीक्षा</summary>
 
 द्यौ᳓र्दीक्षा᳓ ।  
 त᳓याऽऽदित्यो᳓ दीक्ष᳓या दीक्षितः᳓ ।
@@ -945,7 +945,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ दिशो दीक्षा</summary>
 
 दि᳓शो दीक्षा᳓ ।  
 त᳓या चन्द्र᳓मा दीक्ष᳓या दीक्षितः᳓ ।
@@ -985,7 +985,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ आपो दीक्षा</summary>
 
 आ᳓पो दीक्षा᳓ ।  
 त᳓या व᳓रुणो रा᳓जा दीक्ष᳓या दीक्षितः᳓ ।
@@ -1025,7 +1025,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ ओषधयो दीक्षा</summary>
 
 ओ᳓षधयो दीक्षा᳓ ॥84॥  
 त᳓या सो᳓मो रा᳓जा दीक्ष᳓या दीक्षितः᳓ ।
@@ -1066,7 +1066,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ वाग्दीक्षा तया</summary>
 
 वा᳓ग्दीक्षा᳓ ।  
 त᳓या प्राणो᳓ दीक्ष᳓या दीक्षितः᳓ ।
@@ -1111,7 +1111,7 @@ with that consecration I consecrate you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ पृथिवी त्वा</summary>
 
 पृथिवी᳓ त्वा दी᳓क्षमाणम᳓नुदीक्षताम् ।  
 अन्त᳓रिक्षन्त्वा दी᳓क्षमाणम᳓नुदीक्षताम् ।   
@@ -1180,7 +1180,7 @@ may the sāman chants consecrate themselves after you as you are being consecrat
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ अहश्च रात्रिश्च</summary>
 
 अ᳓हश्च रा᳓त्रिश्च +++(त्वा दी᳓क्षमाणम᳓नुदीक्षताम् )+++।  
 कृषि᳓श्च वृ᳓ष्टिश्च +++(त्वा दी᳓क्षमाणम᳓नुदीक्षताम् )+++।   
@@ -1216,7 +1216,7 @@ may the yajus formulas consecrate themselves after you as you are being consecra
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० त्विषिश्चापचितिश्च</summary>
 
 त्वि᳓षिश्चा᳓पचितिश्च +++(त्वा दी᳓क्षमाणम᳓नुदीक्षताम् )+++॥ 86॥  
 </details>
@@ -1252,7 +1252,7 @@ brilliance and reverence,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ आपश्चौषधयश्च</summary>
 
 आ᳓पश्चौ᳓षधयश्च +++(त्वा दी᳓क्षमाणम᳓नुदीक्षताम् )+++।  
 </details>
@@ -1280,7 +1280,7 @@ waters and plants,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ ऊर्क्च सूनृता</summary>
 
 ऊ᳓र्क्च सूनृ᳓ता च ।  
 ता᳓स्त्वा दी᳓क्षमाणम᳓नुदीक्षन्ताम् ।  
@@ -1336,7 +1336,7 @@ may they consecrate themselves after you as you are being consecrated.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ स्वे दक्षे</summary>
 
 स्वे᳓ द᳓क्षे द᳓क्षपितेह᳓ सीद ।  
 देवा᳓नाँ सुम्नो᳓ महते᳓ र᳓णाय ।   
@@ -1389,7 +1389,7 @@ be like a father very kind to a son.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ शिवो मा</summary>
 
 शिवो᳓ मा शिव᳓मा᳓विश ।  
 सत्य᳓म्म आत्मा᳓ ।  
@@ -1425,7 +1425,7 @@ Auspicious, enter into me as auspicious.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ श्रद्धा</summary>
 
 श्रद्धा᳓ मे᳓ऽक्षितिः ॥87॥  
 </details>
@@ -1459,7 +1459,7 @@ faith is my inexhaustibility;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ तपो मे</summary>
 
 त᳓पो मे प्रतिष्ठा᳓ ।  
 </details>
@@ -1492,7 +1492,7 @@ heat is my foundation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ सवितृप्रसूता मा</summary>
 
 सवितृ᳓प्रसूता मा दि᳓शो दीक्षयन्तु ।  
 </details>
@@ -1525,7 +1525,7 @@ Impelled by Savitṛ, may the directions consecrate me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ सत्यमस्मि</summary>
 
 सत्य᳓मस्मि ।  
 </details>
@@ -1580,7 +1580,7 @@ I am truth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ अहन्त्वदस्मि</summary>
 
 अह᳓न्त्व᳓दस्मि म᳓दसि त्व᳓मेत᳓त् ।  
 म᳓मासि यो᳓निस्त᳓व यो᳓निरस्मि ।  
@@ -1618,7 +1618,7 @@ a son to a father, creating a place, O Jātavedas.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० आजुह्वानस्सुप्रतीक</summary>
 
 आजु᳓ह्वानस्सुप्र᳓तीकᳶ पुर᳓स्तात् ।  
 अ᳓ग्ने स्वाय्ँ᳓ यो᳓निमा᳓ सीद साध्या᳓ ।  
@@ -2094,7 +2094,7 @@ Six: may Viṣṇu follow you for prosperity of wealth.
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ सप्त सप्तभ्यो</summary>
 
 सप्त᳓ सप्त᳓भ्यो हो᳓त्राभ्यो वि᳓ष्णुस्त्वा᳓ऽन्वेतु ।  
 </details>
@@ -2135,7 +2135,7 @@ Seven: may Viṣṇu follow you for seven hotrā offices.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२ सखायस्सप्तपदा</summary>
 
 स᳓खायस्सप्त᳓पदा अभूम ।  
 </details>
@@ -2163,7 +2163,7 @@ Friends of seven steps have we become;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३ सख्यन्ते गमेयम्</summary>
 
 सख्य᳓न्ते गमेयम् ॥89॥  
 </details>
@@ -2196,7 +2196,7 @@ may I attain your friendship.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४ सख्यात्ते मा</summary>
 
 सख्या᳓त्ते मा᳓ योषम् ।  
 </details>
@@ -2224,7 +2224,7 @@ May I not be separated from your friendship;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५ सख्यान्मे मा</summary>
 
 सख्या᳓न्मे मा᳓ योष्ठाः ।  
 </details>
@@ -2266,7 +2266,7 @@ do not be separated from my friendship!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६ साऽसि</summary>
 
 सा᳓ऽसि सुब्रह्मण्ये ।  
 त᳓स्यास्ते पृथिवी᳓ पा᳓दः ।  
@@ -2298,7 +2298,7 @@ You are she, O Subrahmaṇyā;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७ साऽसि</summary>
 
 सा᳓ऽसि सुब्रह्मण्ये ।  
 त᳓स्यास्तेऽन्त᳓रिक्षम्पा᳓दः ।  
@@ -2335,7 +2335,7 @@ You are she, O Subrahmaṇyā;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८ साऽसि</summary>
 
 सा᳓ऽसि सुब्रह्मण्ये ।  
 त᳓स्यास्ते द्यौᳶ᳓ पा᳓दः ।  
@@ -2366,7 +2366,7 @@ You are she, O Subrahmaṇyā;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९ साऽसि</summary>
 
 सा᳓ऽसि सुब्रह्मण्ये ।  
 त᳓स्यास्ते दि᳓शᳶ पा᳓दः ॥90॥
@@ -2411,7 +2411,7 @@ Beyond the dust is your fifth foot.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५० परोरजास्ते</summary>
 
 परो᳓रजास्ते पञ्चमᳶ᳓ पा᳓दः ।  
 </details>
@@ -2452,7 +2452,7 @@ As such, milk for us refreshment, vigor,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१ सा न</summary>
 
 सा᳓ न इ᳓षमू᳓र्जन्धुक्ष्व ।  
 ते᳓ज इन्द्रिय᳓म् ।  
@@ -2494,7 +2494,7 @@ I measure you out, full of milk,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२ विमिमे त्वा</summary>
 
 वि᳓मिमे त्वा प᳓यस्वतीम् ।  
 देवा᳓नान्धेनुँ᳓ सुदु᳓घाम᳓नपस्फुरन्तीम् ।  
@@ -2544,7 +2544,7 @@ Men, having come, make this altar,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३ इमान्नरा कृणुत</summary>
 
 इमा᳓न्नराᳵ कृणुत वे᳓दिमे᳓त्य ।  
 व᳓सुमतीँ रुद्र᳓वतीमादित्य᳓वतीम् ॥91॥  
@@ -2605,7 +2605,7 @@ so that this sacrificer will not be harmed,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४ चतुश्शिखण्डा</summary>
 
 च᳓तुश्शिखण्डा युवति᳓स्सुपे᳓शाः ।  
 घृत᳓प्रतीका भु᳓वनस्य म᳓ध्ये ।  
@@ -2664,7 +2664,7 @@ upon whom two fair-winged birds have settled—
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५ अप</summary>
 
 अप᳓ ज᳓न्यम्भय᳓न्नुद ।  
 अ᳓प चक्रा᳓णि वर्तय ।  
@@ -2723,7 +2723,7 @@ Go to the house of Soma!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६ न वा</summary>
 
 न᳓ वा᳓ उ वेत᳓न्म्रियसे न᳓ रिष्यसि ।  
 देवाँ᳓ इ᳓देषि पथि᳓भिस्सुगे᳓भिः ।  

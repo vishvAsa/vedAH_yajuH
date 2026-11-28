@@ -26,8 +26,25 @@ title = "३ आनन्द-होमः"
 
 चतुर्गृहीतं गृहीत्वा 
 
-> आनन्दाय, प्रमोदायॅ, पुनरागं, स्वान्गृ॒हान्। अपॅनः शोशॅचत्, अघं, स्वाहा॑। (अग्नये आनन्दाय इदन्नमम)। पुनश्चतुर्गृहीतेन, नवैतत्र, प्रमीयते, गौरश्वः, पुरुषः प॒शुः। यत्रे॒दं, ब्रह्म, क्रि॒यते॑, प॒रि॒धिः, जीवनाय॒कं, अपॅनः शोशुचत्, अ॒घं स्वाहा॑ (अग्नये आनन्दाय इदन्नमम)। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/11_homaH/11_AnandAya_pramodAya_punar.md">
+आनन्दा᳓य प्रमोदा᳓य  
+पु᳓नर् आ᳓गाँ स्वा᳓न् गृहा᳓न् ।  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ।
+</div>
+
+(अग्नये आनन्दाय इदन्नमम) । पुनश् चतुर्गृहीतेन —
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/11_homaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ न वै</summary>
+
+न᳓ वै᳓ त᳓त्र प्र᳓मीयते  
+गौ᳓र् अ᳓श्वः पु᳓रुषः पशुः᳓ ।  
+य᳓त्रेदं᳓ ब्र᳓ह्म क्रिय᳓ते परिधि᳓र् जी᳓वनायक᳓म्  
+अ᳓प नश् शो᳓शुचद् अघ᳓म् ॥ (26)
+</details>
+</div>
+
+(अग्नये आनन्दाय इदन्नमम) ।
 
 प्राणानायम्य प्रीत्यर्थं, 
 
@@ -43,8 +60,12 @@ title = "३ आनन्द-होमः"
 
 कर्ताज्ञातयश्च - 
 
-> यवो॑ऽसि, यवयास्मत्, अघा, द्वेषँसि॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - १०(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam">
+<details open><summary>विश्वास-प्रस्तुतिः - १० यवोऽसि (1/6 व्यत्यस्त-स्वराः)</summary>
+
+[[यवो᳙ऽसि|य᳓वोऽसि]] यव᳓यास्म᳓द् अघा᳓ द्वे᳓षाँसि ॥ (24)
+</details>
+</div>
 
 इति ज्ञातिभिस्सह लाजान्भक्षयेत्॥
 

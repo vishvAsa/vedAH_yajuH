@@ -5,13 +5,63 @@ title = "२५ पिण्डप्रदानशेषकार्यम्"
 
 पूर्ववत् पिण्डानामुपरि तिलोदकं दद्यात्। 
 
-> मार्जयन्तां पि॒तरॅः। मार्जयॅन्तां, पितामहाः। मार्जयन्तां प्रपितामहाः। मार्जयन्तां पितुर्मातरॅः। मार्जयॅन्तां पितुः पिताम॒ह्यः। मार्जयॅन्तां, पितुः प्रपिताम॒ह्यः 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/14_mArjayantAm_mama_pitaraH.md">
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/15_mArjayantAm_mama_pitAmahAH.md">
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/16_mArjayantAm_mama_prapitAmahAH.md">
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/17_mArjayantAm_mama_mAtaraH.md">
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/18_mArjayantAm_mama_pitAmahyaH.md">
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/19_mArjayantAm_mama_prapitAmahyaH.md">
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
+</div>
+
+> *(ऊहः — पितुर्मातरः, पितुः पितामह्यः, पितुः प्रपितामह्यः)*
 
 इति तिलोदकं निनयेत्। उत्थाय, 
 
-> येच॒वोऽत्र, येचास्मासु, आशँसन्ते, याश्चवोऽत्र, याश्चास्मासु, आशँसन्ते, तेचॅ वहन्तां, ताश्चवहन्तां, तृप्यन्तु, भवन्तः, तृप्यन्तु, भवत्यः,तृप्यत तृप्यत तृप्यत।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/20_ye_cha_votra.md">
+ये᳓ च वो᳓ +++(पितरः)+++ ऽत्र,  
+ये᳓ चास्मा᳓स्व् आशँ᳓सन्ते+++(→प्रार्थयन्ते स्वधाम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/21_yAsh_cha_votra.md">
+या᳓श् च वो᳓ ऽत्र  
+या᳓श् चास्मा᳓स्व् आशँ᳓सन्ते,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/22_te_cha_vahantAm.md">
+ते᳓ च +++(स्वधां)+++ वहन्तां,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/23_tAsh_cha_vahantAm.md">
+ता᳓श् च +++(स्वधां)+++ वहन्ताम्।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/24_tRpyantu_bhavantaH.md">
+तृ᳓प्यन्तु भ᳓वन्तः,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/25_tRpyantu_bhavatyaH.md">
+तृ᳓प्यन्तु भवत्यः᳓।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/26_tRpyata_tRpyata.md">
+तृ᳓प्यत तृप्यत तृप्यत ।
+</div>
 
 <details><summary>तमिऴ्</summary>
 
@@ -23,8 +73,18 @@ title = "२५ पिण्डप्रदानशेषकार्यम्"
 
 उपविश्य अर्घ्यतीर्थेन तिलोदकञ्च संसृज्य पिण्डान्त्रिः प्रसव्यं परि॒षिञ्चेत्,
 
-> पुत्रान्, पौत्रा॑न्, अ॒भि, त॒र्पयॅन्तीः, आपॅः, मधुमतीः, इ॒माः। स्व॒धां, पि॒तृभ्यः, अ॒मृतं, दुहानाः, आपो॑दे॒वीः उ॒भया॑न्, तर्पय॒न्तु। तृप्यत, तृप्यत, तृप्यत, तृप्यत, तृप्यत, तृप्यत, तृप्यत, तृप्यत, तृप्यत। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_putrAnpautrAnabhi_tarpayantI.md">
+पुत्रा᳓न् पौ᳓त्रान् अभि᳓ तर्प᳓यन्तीर्  
+आ᳓पो म᳓धुमतीर् इमाः᳓  
+स्वधां᳓ +++(मातृसहित)+++पितृ᳓भ्यो अमृ᳓तं दु᳓हाना  
+आ᳓पो देवी᳓र् उभ᳓याँस् तर्पयन्तु ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/28_tRpyata_tRpyata.md">
+तृ᳓प्यत तृप्यत तृप्यत ।
+</div>
+
+*(नवकृत्वः — तृप्यत ...)*
 
 तिलोदकपात्रमधोबिलंकृत्वा, एवं विश्वेदेवार्घ्यपात्रं, विष्ण्वर्घ्यपात्रं पात्रान्तरञ्च अधोबिलानिकृत्वा उपवीती पात्राणि उत्तानानिकृत्वा, प्रोक्ष्यान्यत्र निदध्यात्। प्राचीनावीती, 
 
@@ -32,8 +92,9 @@ title = "२५ पिण्डप्रदानशेषकार्यम्"
 
 इत्यादिषोडशोपचारान्समपर्पयेत् मध्ये, माषापूपं गुळापूपञ्चनिवेदयेत्।
 
-> प्राणेनिवॅिष्टः, अमृतँ जुहोमि, ब्रह्मणिमे, आत्मा, अमृतत्वाय। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/29_prANe_niviShTo-mRtam.md">
+प्राणे᳓ नि᳓विष्टो ऽमृ᳓तं+++(→अमरणहेतुमन्नं)+++ जुहोमि, ब्र᳓ह्मणि म आत्मा᳓ऽमृतत्वा᳓य ।
+</div>
 
 इति पिण्डशेषमन्नं ग्रासवरार्घ्यं प्राश्ज्ञीयात्। अत्र पिण्डशेषस्य प्राशनं कर्तुरवश्यं भवति। उपवीती, द्विराचम्य, प्राचीनावीती 
 

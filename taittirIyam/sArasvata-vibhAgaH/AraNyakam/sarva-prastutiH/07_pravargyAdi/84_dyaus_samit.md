@@ -10,7 +10,7 @@ title = "८३ अ॒न्तरि॑क्षँ॒ स॒मित्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ द्यौस्समित्</summary>
 
 द्यौ᳓स्समि᳓त् ।
 </details>
@@ -39,7 +39,7 @@ The heaven is the fuel;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तामादित्यस्समिन्धे</summary>
 
 ता᳓मादित्य᳓स्स᳓मिन्धे । (83)
 </details>
@@ -65,7 +65,7 @@ the sun burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ साऽऽदित्यँ</summary>
 
 सा᳓ऽऽदित्यँ᳓ स᳓मिन्धे ।
 </details>
@@ -91,7 +91,7 @@ that burned the sun;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तामहँ समिन्धे</summary>
 
 ता᳓महँ᳓ स᳓मिन्धे ।
 </details>
@@ -117,7 +117,7 @@ I burned that;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सा मा</summary>
 
 सा᳓ मा स᳓मिद्धा ।  
 आ᳓युषा ते᳓जसा ।  

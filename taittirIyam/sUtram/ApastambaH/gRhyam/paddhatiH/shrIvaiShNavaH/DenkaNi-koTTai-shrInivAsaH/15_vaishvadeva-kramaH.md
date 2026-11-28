@@ -27,8 +27,21 @@ title = "१५ वैश्वदेव-क्रमः"
 
 [^१_१२१]: वैश्वदेवान्न-विभाग-क्रमं त्व् अनुपद-संयोजित-चक्राकार-व्यजनाकार-प्रतिमासत्रयोः प्रकटी-कृतो वर्तते।
 
-> ॐ अदितेनु मन्यस्व - ॐ अनुमतेनु मन्यस्व - ॐ सरस्वतेनु मन्यस्व - ॐ देवसवितः प्रसुव
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इत्य् अग्निं परिषिच्य - अग्नाव् एकां समिधम् आधाय - दक्षिण-भागे पूर्व-भागाद् आमलक-प्रमाणम् अन्नं संहताङ्गुलिना ऽऽदाय - हविः-पात्रं वाम-हस्तेन स्पृशन्, उत्तानेन पाणिना, अङ्गुष्ठाग्रेण हविर् निष्पीड्य,
 
@@ -48,8 +61,15 @@ title = "१५ वैश्वदेव-क्रमः"
 
 पुनर् एकां समिधम् आधाय - 
 
-> ॐ अदितेन्वमग्ँस्थाः - अनुमतेन्वमग्ँस्थाः - सरस्वतेन्वमग्ँस्थाः - देवसवितः प्रासावीः” 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इति परिषिञ्चेत्
 
@@ -157,8 +177,12 @@ title = "१५ वैश्वदेव-क्रमः"
 
 अवशिष्टान्ने मुष्टि-त्रयं पात्रान्तरे गृहीत्वा - बहिर् गत्वा - अद्भिर् भूमिं सम्मृज्य - प्रोक्ष्य - 
 
-> ये भूताः प्रचरन्ति दिवाबलिमिच्छन्तोवितुदस्य प्रेष्याः, तेभ्यो बलिम्पुष्टि कामोहरामि मयि पुष्टिम्पुष्टि पतिर्दधातु स्वाहा
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
+ये᳓ भूताः᳓ प्रच᳓रन्ति दि᳓वा /न᳓क्तं    
+बलि᳓म् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पु᳓ष्टिकामो हरामि  
+म᳓यि पु᳓ष्टिं पुष्टिप᳓तिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
+</div>
 
 इति दत्त्वा - "दिवाचरेभ्यो भूतेभ्य इदं न मम" इत्य् उक्त्वा - 
 
@@ -212,13 +236,33 @@ title = "१५ वैश्वदेव-क्रमः"
 
 इति दक्षिण-कर-तलेन, अप आदाय वाम-कर-तलं सम्मृज्य - 
 
-> ॐ अदितेनु मन्यस्व - ॐ अनुमतेनु मन्यस्व - ॐ सरस्वतेनु मन्यस्व - देवसवितः प्रसुव
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इत्य् अग्निं परिषिच्य - अग्नौ एकां समिधं दर्भ-द्वयं वा प्रक्षिप्य - उत्तर-भाग-द्वये पश्चिम-भागाद् धविर् गृहीत्वा - "ॐ दे॒वेभ्य॒स् स्वाहा॑" इत्य् अग्नौ हुत्वा - "देवेभ्य इदं न मम" इत्य् उक्त्वा - एकां समिधं दर्भ-द्वयं वा प्रक्षिप्य - 
 
-> ॐ अदितेन्वमग्ँस्थाः - अनुमतेन्वमग्ँस्थाः सरस्वतेन्वमग्ँस्थाः - देवसवितः प्रासावीः
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इति पुनः परिषिच्य - 
 
@@ -280,8 +324,15 @@ title = "१५ वैश्वदेव-क्रमः"
 
 श्रोत्राचमनं कृत्वा - "ॐ श्री-विष्ण॑वे॒ स्वाहा॑" इत्य् अग्नौ दर्भौ प्रक्षिप्य - 'श्री-विष्णवे परमात्मन इदं न मम" इत्य् उक्त्वा - उत्थाय
 
-> अग्नेनय सुपथाराये आस्मान् विश्वानि देव वयुनानि विद्वान्, युयोध्यस्मज्जहुराणमेनो भूयिष्ठान्ते नम उक्तिं विधेम, 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०७(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/2_vashAdi-sUktAni">
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अग्ने नय</summary>
+
+अ᳓ग्ने न᳓य सुप᳓था राये᳓ अस्मा᳓न् ।  
+वि᳓श्वानि देव वयु᳓नानि विद्वा᳓न् ।  
+युयोध्य᳙स्म᳓ज्जुहुराण᳓मे᳓नः ।  
+भू᳓यिष्ठान्ते न᳓म उक्तिव्ँ विधेम ।
+</details>
+</div>
 
 ॐ अग्नये नमः, 
 
@@ -330,8 +381,12 @@ title = "१५ वैश्वदेव-क्रमः"
 ## सायम्
 ततः, वैश्वदेवे षड्-आहुतीर् हुत्वा 
 
-> ये भूताः प्रचरन्ति नक्तम्बलिमिच्छन्तो वितुदस्य प्रेष्याः तेभ्यो बलिम्पुष्टिकामो हरामि मयि पुष्टिं पुष्टिपतिर्दधातु स्वाहा
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/21_ye_bhUtAH.md">
+ये᳓ भूताः᳓ प्रच᳓रन्ति दि᳓वा /न᳓क्तं    
+बलि᳓म् इच्छ᳓न्तो वितु᳓दस्य प्रे᳓ष्याः ।  
+ते᳓भ्यो बलिं᳓ पु᳓ष्टिकामो हरामि  
+म᳓यि पु᳓ष्टिं पुष्टिप᳓तिर् दधातु स्वा᳓हा॥ +++(नक्तमेवोत्तमेन वैहायसम् ८)+++
+</div>
 
 "नक्तं चरेभ्यो भूतेभ्य इदम्" इति मन्त्रेण वैहायस-बलिं च कुर्यात्। बलि-हरण-पञ्च-महा-यज्ञांस् तु न कुर्यात्।  
 केचिद् बलि-हरणम् अपि कुर्वन्ति - यथा-सम्प्रदायम् अनुष्ठेयम्।

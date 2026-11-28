@@ -32,7 +32,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ उद्धन्यमानमस्या</summary>
 
 उद्धन्य᳓मानमस्या᳓ अमेध्य᳓म् ।  
 अ᳓प पाप्मा᳓नय्ँ य᳓जमानस्य हन्तु ।   
@@ -474,7 +474,7 @@ Zur Hülfe seien heilvoll uns die Himmelswasser und zum Trunk, Von ihnen ström'
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वैश्वानरस्य</summary>
 
 वैश्वानर᳓स्य रूप᳓म् ।   
 पृथिव्या᳓म् परिस्र᳓सा ।  
@@ -515,7 +515,7 @@ flowing all around the earth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यदिदन्दिवो यदद</summary>
 
 य᳓दिद᳓न्दिवो᳓ य᳓ददᳶ᳓ पृथिव्याः᳓ ।  
 सञ्जज्ञाने᳓ रो᳓दसी सम्बभूव᳓तुः ।  
@@ -573,7 +573,7 @@ the two worlds, having come to agreement, came into being together.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ ऊती कुर्वाणो</summary>
 
 ऊतीᳵ᳓ कुर्वाणो᳓ य᳓त् पृथिवी᳓म् अ᳓चरः ।  
 गुहाका᳓रम् आखुरूप᳓म् प्रती᳓त्य ।  
@@ -621,7 +621,7 @@ When wandering over the earth performing protective acts,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ ऊर्जम् पृथिव्या</summary>
 
 ऊ᳓र्जम् पृथिव्या᳓ र᳓सम् आभ᳓रन्तः ।  
 शत᳓ञ् जीवेम शर᳓दᳶ पुरूचीः᳓ ॥2॥  
@@ -677,7 +677,7 @@ Bringing the vigor and the sap of the earth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ प्रजापतिसृष्टानाम्</summary>
 
 प्रजा᳓पति-सृष्टानाम् प्रजा᳓नाम् ।  
 क्षुधो᳓ ऽपहत्यै सुवित᳓न् नो अस्तु ।  
@@ -733,7 +733,7 @@ may there be safe passage for the destruction of hunger.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ यस्य रूपम्</summary>
 
 य᳓स्य रूप᳓म् बि᳓भ्रद् इमा᳓म् अ᳓विन्दत् ।   
 गु᳓हा प्र᳓विष्टाँ सरिर᳓स्य म᳓ध्ये ।  
@@ -789,7 +789,7 @@ who had entered the secret place in the midst of the watery deep,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यत् पर्यपश्यत्</summary>
 
 य᳓त् पर्य᳓पश्यत् सरिर᳓स्य म᳓ध्ये ।  
 उर्वी᳓म् अ᳓पश्यज् ज᳓गतᳶ प्रतिष्ठा᳓म् ।  
@@ -849,7 +849,7 @@ he saw the broad \[earth\], the foundation of the world.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ याभिर् अदृँहज्</summary>
 
 या᳓भिर् अ᳓दृँहज् ज᳓गतᳶ᳓ प्र᳓तिष्ठाम् ।   
 उर्वी᳓म् इमाव्ँ᳓ विश्व-जन᳓स्य भर्त्री᳓म् ।  
@@ -930,7 +930,7 @@ this broad earth, the bearer of all people,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अग्ने रेतश्</summary>
 
 अग्ने᳓ रे᳓तश् चन्द्रँ᳓ हि᳓रण्यम् ।   
 अद्भ्य᳓स् स᳓म्भूतम् अमृ᳓तम् प्रजा᳓सु ।  
@@ -971,7 +971,7 @@ bestowing across, may I cross over misfortune.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ अश्वो रूपङ्</summary>
 
 अ᳓श्वो रूप᳓ङ् कृत्वा᳓ य᳓द् अश्वत्थे᳓ ऽतिष्ठः ।   
 सव्ँवत्सर᳓न् देवे᳓भ्यो निला᳓य ।  
@@ -1010,7 +1010,7 @@ may we live a hundred autumns with heroes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ ऊर्ज पृथिव्या</summary>
 
 ऊर्जᳶ᳓ पृथिव्या᳓ अ᳓ध्यु᳓त्थितो ऽसि ।  
 व᳓नस्पते शत᳓वल्शो वि᳓रोह ।  
@@ -1054,7 +1054,7 @@ may we delight in refreshment with increase of wealth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ गायत्रिया</summary>
 
 गायत्रिया᳓ ह्रिय᳓माणस्य य᳓त् ते ॥5॥  
 पर्ण᳓म् अ᳓पतत् तृती᳓यस्यै दिवो᳓ ऽधि ।  
@@ -1100,7 +1100,7 @@ from it I take \[a stick\] for obtaining the drinking of soma.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ देवानाम्</summary>
 
 देवा᳓नाम् ब्रह्म-वादव्ँ᳓ व᳓दताय्ँ य᳓त् ।   
 उपा᳓शृणोस् सुश्र᳓वा वै᳓ श्रुतो᳙ ऽसि ।  
@@ -1151,7 +1151,7 @@ bringing it together, may I obtain that perceptibly.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ यया ते</summary>
 
 य᳓या ते सृष्ट᳓स्याग्नेः᳓ ।  
 हेति᳓म् अ᳓शमयत् प्रजा᳓पतिः ।  
@@ -1203,7 +1203,7 @@ I bring
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ यत् ते</summary>
 
 य᳓त् ते सृष्ट᳓स्य यतः᳓ ।   
 वि᳓कङ्कतम् भा᳓ आर्च्छज् जातवेदः   ।  
@@ -1261,7 +1261,7 @@ shine forth along our broad world!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ यत् ते</summary>
 
 य᳓त् ते तान्त᳓स्य हृ᳓दयम् आ᳓च्छिन्दञ् जातवेदः ।  
 मरु᳓तो ऽद्भि᳓स् तमयित्वा᳓ ।  
@@ -1307,7 +1307,7 @@ here, O Agni, be endowed with self and endowed with heart!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ चित्रियाद्</summary>
 
 चि᳓त्रियाद् अश्वत्था᳓त् स᳓म्भृता बृहत्यः᳓ ॥7॥  
 श᳓रीरम् अभि᳓ सँ᳓स्कृतास् स्थ ।  
@@ -1363,7 +1363,7 @@ three united pairs with the threefold ones for procreation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ अश्वत्थाद्</summary>
 
 अश्वत्था᳓द् धव्यवाहा᳓द् धि᳓ जाता᳓म् ।    
 अग्ने᳓स् तनूय्ँ᳓ यज्ञि᳓याँ स᳓म्भरामि ।  
@@ -1413,7 +1413,7 @@ for Agni to be engendered.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० यो अश्वत्थश्</summary>
 
 यो᳓ अश्वत्थ᳓श् शमी-गर्भः᳓ ।  
 आरुरो᳓ह त्वे᳓ स᳓चा ।  
@@ -1469,7 +1469,7 @@ together with sacrificial banners.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ यन् त्वा</summary>
 
 य᳓न् त्वा सम᳓भरञ् जातवेदः ।  
 य᳓था शरीर᳓म् भूते᳓षु न्य᳙क्तम् ।  
@@ -1534,7 +1534,7 @@ wise one, lead us to a wide realm.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ प्रवेधसे कवये</summary>
 
 प्र᳓वेध᳓से कव᳓ये मे᳓ध्याय ।  
 व᳓चो वन्दा᳓रु वृषभा᳓य वृ᳓ष्णे ।  
@@ -1620,7 +1620,7 @@ from whence fear comes, let there be freedom from fear for us; I sacrifice away 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ समिधा ऽग्निन्</summary>
 
 समि᳓धा ऽग्नि᳓न् दुवस्यत ॥9॥  
 घृतै᳓र् बोधयता᳓तिथिम् ।  
@@ -2136,7 +2136,7 @@ Dem Agni dient mit Flammenholz, erweckt den Gast durch Opferschmalz, Ihm giesst 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ उप त्वा</summary>
 
 उ᳓प त्वा ऽग्ने हवि᳓ष्मतीः ।  
 घृता᳓चीर् यन्तु हर्यत ।  
@@ -2283,7 +2283,7 @@ ladles dripping with clarified butter approach, o desired one;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ तन् त्वा</summary>
 
 त᳓न् त्वा समि᳓द्भिर् अङ्गिरः ।  
 घृते᳓न वर्धयामसि ।  
@@ -2688,7 +2688,7 @@ shine brightly, youngest one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ समिध्यमान</summary>
 
 समिध्य᳓मानᳶ प्रथमो᳓ नु᳓ ध᳓र्मः ।  
 स᳓मक्तु᳓भिर् अज्यते विश्व᳓-वारः॥10॥  
@@ -3071,7 +3071,7 @@ drinking clarified butter, sacrificer of good sacrifices, sacrifice to the gods.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ घृतप्रतीको</summary>
 
 घृत᳓-प्रतीको घृत᳓-योनिर् अग्निः᳓ ।   
 घृतै᳓स् स᳓मिद्धो घृत᳓म् अस्या᳓न्नम् ।  
@@ -3134,7 +3134,7 @@ Thee, Agni, being kindled, youngest one,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ आयुर्दा अग्ने</summary>
 
 आयुर्दा᳓ अग्ने हवि᳓षो जुषाणः᳓ ।  
 घृत᳓-प्रतीको घृत᳓-योनिर् एधि ।  
@@ -3258,7 +3258,7 @@ a dazzling sight they placed in the urging \[offering\].
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ त्वाम् अग्ने</summary>
 
 त्वा᳓म् अग्ने समिधानय्ँ᳓ यविष्ठ ।   
 देवा᳓ दूत᳓ञ् चक्रिरे हव्य-वा᳓हम् ।  
@@ -3633,7 +3633,7 @@ he, grown great, sprinkled by the plants,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० त्वाम् अग्ने</summary>
 
 त्वा᳓म् अग्ने प्रदि᳓व आ᳓हुतङ् घृते᳓न ।  
 सुम्नाय᳓वस् सुषमि᳓धा स᳓मीधिरे ।  
@@ -4021,7 +4021,7 @@ Having clarified butter for face and seated at the helm of cosmic order,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ घृतप्रतीकव्ँ व</summary>
 
 घृत᳓-प्रतीकव्ँ व ऋत᳓स्य धू᳓र्ष᳓दम् ।   
 अग्नि᳓म् मित्र᳓न् न᳓ समिधान᳓ ऋञ्जते ॥12॥  
@@ -4416,7 +4416,7 @@ Make the offspring dwell together, Agni,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ प्रजा अग्ने</summary>
 
 प्रजा᳓ अग्ने सव्ँ᳓वासय  ।  
 आ᳓शाश्च पशु᳓भिस् सह᳓ ।  
@@ -4494,7 +4494,7 @@ place in him the realms that were in the impulse of Savitṛ.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ मही विश्पत्नी</summary>
 
 मही᳓ विश्प᳓त्नी स᳓दने ऋत᳓स्य ।   
 अर्वा᳓ची ए᳓तन् धरुणे रयीणा᳓म् ।  
@@ -4578,7 +4578,7 @@ pregnant, generate the noble Jātavedas, who goes in front of the sacrifices.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ आरोहतन् दशतँ</summary>
 
 आ᳓रोहतन् दश᳓तँ श᳓क्वरीर् म᳓म ।  
 ऋते᳓नाग्न आ᳓युषा व᳓र्चसा सह᳓ ।  
@@ -4630,7 +4630,7 @@ so that I may perform the New-moon and Full-moon sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ ऋत्वियवती स्थो</summary>
 
 ऋ᳓त्वियवती स्थो अग्नि᳓-रेतसौ ।  
 ग᳓र्भन् दधाथान् ते᳓ वामह᳓न् ददे ।  
@@ -4670,7 +4670,7 @@ that is true: that you bear a hero,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ ते मत्</summary>
 
 ते᳓ म᳓त् प्रातᳶ᳓ प्र᳓जनिष्येथे ।   
 ते᳓ मा प्र᳓जाते प्र᳓जनयिष्य᳓थः ॥14॥  
@@ -4719,7 +4719,7 @@ $ कल्पः – “अथ यजमानो व्रतमुपैत�
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ अनृतात् सत्यम्</summary>
 
 अ᳓नृतात् सत्य᳓म् उ᳓पैमि ।  
 मानुषा᳓द् दे᳓व्यम् उ᳓पैमि ।  
@@ -4768,7 +4768,7 @@ From untruth I approach the truth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ शल्कैर् अग्निम्</summary>
 
 श᳓ल्कैर् अग्नि᳓म् इन्धानः᳓ ।  
 उभौ᳓ लोकौ᳓ सनेमह᳓म् ।  
@@ -4824,7 +4824,7 @@ having prospered in both worlds,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ जातवेदो भुवनस्य</summary>
 
 जा᳓तवेदो भु᳓वनस्य रे᳓तः।  
 इह᳓ सिञ्च त᳓पसो य᳓ज् जनिष्य᳓ते ॥15॥  
@@ -5389,13 +5389,8 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-अ᳓पेत वी᳓त वि᳓ च सर्पता᳓तः ।   
-ये᳓ ऽत्र स्थ᳓ पुराणा᳓ ये᳓ च नू᳓तनाः ।  
-अ᳓दादिदय्ँ᳓ यमो᳙ ऽवसा᳓नम् पृथिव्याः᳓ ।  
-अ᳓क्रन्न् इम᳓म् पित᳓रो लोक᳓म् अस्मै ॥16॥
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/01_AdhAnamantrAH_pUrvaprapAThakasheShabhUtAH/41_apeta_vIta_vi.md">
+</div>
 
 <div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/Rk/sarvASh_TIkAH/12/45_apeta_vIta.md">
 
@@ -5652,7 +5647,7 @@ You all that are stationed here from old and you that are new, Yama has given hi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० अग्नेर् भस्मासि</summary>
 
 अग्ने᳓र् भ᳓स्मासि ।  
 अग्नेᳶ᳓ पु᳓रीषम् असि ।  
@@ -5706,7 +5701,7 @@ Yama has granted this resting-place of the earth;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ सञ्ज्ञानम् असि</summary>
 
 संज्ञा᳓नम् असि काम-ध᳓रणम् ।  
 म᳓यि ते काम-ध᳓रणम् भूयात् ।
@@ -5786,7 +5781,7 @@ let the holding of desire be in me!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२ सव्ँवस् सृजामि</summary>
 
 सव्ँ᳓वस् सृजामि हृ᳓दयानि ।   
 सँ᳓सृष्टम् म᳓नो अस्तु वः ।  
@@ -5837,7 +5832,7 @@ let your mind be united,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३ सय्ँया व</summary>
 
 सय्ँ᳓या᳓ वᳶ प्रिया᳓स् तनु᳓वः।  
 स᳓म्प्रिया᳓ हृ᳓दयानि वः ।  
@@ -5968,7 +5963,7 @@ let your soul be united in affection, united in affection my bodies.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४ कल्पेतान्</summary>
 
 क᳓ल्पेतान् द्या᳓वा-पृथिवी᳓ ।  
 क᳓ल्पन्ताम् आ᳓प ओ᳓षधीः ।  
@@ -6113,7 +6108,7 @@ may the fires separately, sharing my vow, be shaped for my preeminence.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५ ये ऽग्नयस्</summary>
 
 ये᳙ ऽग्न᳓यस् स᳓मनसः ।  
 अन्तरा᳓ द्या᳓वापृथिवी᳓ ।  
@@ -6258,7 +6253,7 @@ fitting with these two spring seasons, may they enter into [me] like the gods in
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६ दिवस् त्वा</summary>
 
 दिव᳓स् त्वा वीर्ये᳙ण ।   
 पृथिव्यै᳓ महिम्ना᳓ ॥18॥  
@@ -6310,7 +6305,7 @@ Mortals have engendered the immortal,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७ अजीजनन्न्</summary>
 
 अ᳓जीजनन्न् अमृ᳓तम् म᳓र्त्यासः ।  
 अस्रेमा᳓णन् तर᳓णिव्ँ वीडु᳓-जम्भम् ।  
@@ -6401,7 +6396,7 @@ let the ten maiden sisters, acting together, take hold of the male that is born!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८ प्रजापतेस् त्वा</summary>
 
 प्रजा᳓पतेस् त्वा प्राणे᳓ना᳓भि प्रा᳓णिमि ।  
 पूष्णᳶ᳓ पो᳓षेण म᳓ह्यम् ।   
@@ -6462,7 +6457,7 @@ for long life, for merit.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९ अहन् त्वदस्मि</summary>
 
 अह᳓न् त्व᳓दस्मि म᳓दसि त्व᳓म् एत᳓त् ।   
 म᳓मासि यो᳓निस् त᳓व यो᳓निर् अस्मि ।  
@@ -6511,7 +6506,7 @@ a son making a realm for the father, Jātavedas.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५० प्राणे त्वा</summary>
 
 प्राणे᳓ त्वा ऽमृ᳓तम् आ᳓दधाम्य् अन्नाद᳓म् अन्ना᳓द्याय गोप्ता᳓रङ् गु᳓प्त्यै ।    
 </details>
@@ -6560,7 +6555,7 @@ the protector for protection;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१ सुगार्हपत्यो</summary>
 
 सुगार्हपत्यो᳓ विद᳓हन्न् अ᳓रातीः ।   
 उष᳓सश् श्रे᳓यसीश् श्रेयसीर् द᳓धत् ॥20॥  
@@ -6615,7 +6610,7 @@ bestow nourishment of wealth, refreshment, vigor upon us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२ इमा उ</summary>
 
 इमा᳓ उ मा᳓म् उ᳓प-तिष्ठन्तु रा᳓यः ।   
 आभिᳶ᳓ प्रजा᳓भिर् इह᳓ सव्ँ᳓वसेय ।  
@@ -6668,7 +6663,7 @@ For splendorous might, for strength I raise you up,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३ ओजसे बलाय</summary>
 
 ओ᳓जसे ब᳓लाय त्वो᳓द्यच्छे ।   
 वृ᳓षणे शु᳓ष्माया᳓युषे व᳓र्चसे ।  
@@ -6716,7 +6711,7 @@ whatever is your heavenly greatness among the gods,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४ यस् ते</summary>
 
 य᳓स् ते देवे᳓षु महिमा᳓ सुवर्गः᳓ ॥21॥   
 य᳓स् त आत्मा᳓ पशु᳓षु प्र᳓विष्टः ।  
@@ -6774,7 +6769,7 @@ taking pleasure in that, O Agni, come to us
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५ दिव पृथिव्या</summary>
 
 दिवᳶ᳓ पृथिव्याᳶ᳓ प᳓र्यन्त᳓रिक्षात् ।   
 वा᳓तात् पशु᳓भ्यो अ᳓ध्यो᳓षधीभ्यः ।  
@@ -6823,7 +6818,7 @@ Wherever you have come into being, O Jātavedas,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६ प्राचीम् अनु</summary>
 
 प्रा᳓चीम् अ᳓नु प्रदि᳓शम् प्रे᳓हि विद्वा᳓न् ।   
 अग्ने᳓र् अग्ने पुरो᳓ अग्निर् भवेह᳓ ।  
@@ -7310,7 +7305,7 @@ and you have stretched along the rays of the sun in many places, along heaven an
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७ विक्रमस्व महाँ</summary>
 
 वि᳓क्रमस्व महाँ᳓ असि ।  
 वे᳓दिष᳓न् मा᳓नुषेभ्यः ।  
@@ -7380,7 +7375,7 @@ What \[is\] here of the sky, what yonder of the earth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८ यदिदन् दिवो</summary>
 
 य᳓दिद᳓न् दिवो᳓ य᳓ददᳶ᳓ पृथिव्याः᳓ ।   
 सव्ँविदाने᳓ रो᳓दसी सम्बभूव᳓तुः ॥23॥  
@@ -7435,7 +7430,7 @@ bringing welfare to offspring, gentle to the body.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९ प्राणन्</summary>
 
 प्राण᳓न् त्वाऽमृ᳓त आ᳓ दधाम्य् अन्नाद᳓म् अन्ना᳓द्याय गोप्ता᳓रङ् गु᳓प्त्यै ।  
 </details>
@@ -7465,7 +7460,7 @@ the protector for protection.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६० यत् ते</summary>
 
 य᳓त् ते शुक्र शुक्रव्ँ᳓ व᳓र्चश् शुक्रा᳓ तनूः᳓ ।
 शुक्र᳓ञ् ज्यो᳓तिर᳓जस्रम् ।  
@@ -7510,7 +7505,7 @@ with Agni, O Agni, with brahman.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१ आनशे व्य्</summary>
 
 आनशे᳓ व्य् आनशे स᳓र्वम् आ᳓युर् व्या᳙नशे ॥ 24॥  
 </details>
@@ -7558,7 +7553,7 @@ I have reached, I have pervaded, I have pervaded the full lifespan.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२ नर्य प्रजाम्</summary>
 
 न᳓र्य प्रजा᳓म् मे गोपाय ।   
 अमृतत्वा᳓य जीव᳓से ।  
@@ -7597,7 +7592,7 @@ established in the immortal, in the real.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३ अथर्व पितुम्</summary>
 
 अ᳓थर्व पितु᳓म् मे गोपाय ।   
 र᳓सम् अ᳓न्नम् इहा᳓युषे ।  
@@ -7648,7 +7643,7 @@ make our food poison-free.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४ शँस्य पशून्</summary>
 
 शँ᳓स्य पशू᳓न् मे गोपाय ।   
 द्विपा᳓दो ये᳓ च᳓तुष्पदः ॥25॥  
@@ -7743,7 +7738,7 @@ may they attend during their full lifespan.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५ अहे बुध्निय</summary>
 
 अ᳓हे बुध्निय म᳓न्त्रम् मे गोपाय ।  
 य᳓म् ऋ᳓षयस् त्रैविदा᳓ विदुः᳓ ।  
@@ -7812,7 +7807,7 @@ for that is the immortal prosperity of the good.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६ चतुश् शिखण्डा</summary>
 
 च᳓तुश् शिखण्डा युवति᳓स् सुपे᳓शाः ।  
 घृत᳓-प्रतीका भु᳓वनस्य म᳓ध्ये ।  
@@ -7871,7 +7866,7 @@ yield desires to me, the sacrificer.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७ इहैव सन्तत्र</summary>
 
 इहै᳓व᳓ स᳓न्त᳓त्र सतो᳓ वो अग्नयः ।  
 प्राणे᳓न वाचा᳓ म᳓नसा बिभर्मि ।  
@@ -7931,7 +7926,7 @@ With the light of Vaiśvānara I attend upon you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८ पञ्चधा ऽग्नीन्</summary>
 
 पञ्चधा᳓ ऽग्नी᳓न् व्यक्रामत् ।   
 विरा᳓ट्त् सृष्टा᳓ प्रजा᳓पतेः ।  

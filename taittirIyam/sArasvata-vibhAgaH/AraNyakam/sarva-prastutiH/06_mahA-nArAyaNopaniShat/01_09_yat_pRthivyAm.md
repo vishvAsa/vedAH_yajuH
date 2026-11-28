@@ -26,7 +26,7 @@ title = "०१ ०९ यत् पृथिव्याम्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (3/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यत् पृथिव्याँ (3/11 व्यत्यस्त-स्वराः)</summary>
 
 य᳓त् पृथिव्याँ᳓ र᳓जस्वम्  
 [[आ᳓न्त᳓रिक्षे|आन्तरिक्षे᳓]] विरो᳓दसी ।  
@@ -73,7 +73,7 @@ Whatever is our sin in the earth, in the mid-region and in the places between th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ एष भूतस्य (2/11 व्यत्यस्त-स्वराः)</summary>
 
 एष᳓ भूत᳓स्य [[भव्ये᳓|भ᳓व्ये]] भु᳓वनस्य गोप्ता᳓ ।  
 एष᳓ पुण्य᳓कृताल्ँ [[लोकान्|लोका᳓न्]], एष᳓ मृत्यो᳓र् हिरण्म᳓यम् ।
@@ -113,7 +113,7 @@ This (Varuna) is the protector of the world among the beings; this is the worlds
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (1/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ द्यावापृथिव्योर् (1/10 व्यत्यस्त-स्वराः)</summary>
 
 द्या᳓वा-पृथिव्यो᳓र् हिरण्म᳓यँ [[सँ᳓श्रितँ|सँ᳓श्रितँ᳓]] सु᳓वः । (9)  
 स᳓ नस् सु᳓वस् सँ᳓शिशाधि ।

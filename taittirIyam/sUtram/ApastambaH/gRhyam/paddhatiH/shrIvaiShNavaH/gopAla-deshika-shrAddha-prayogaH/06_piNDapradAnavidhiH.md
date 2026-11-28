@@ -249,8 +249,12 @@ title = "०६ पिण्डप्रदानविधिः"
 ## परिषेचनम्
 सव्यं जान्व् आच्य,
 
-> पु॒त्रान्पौत्रा॑न॒भि त॒र्पय॑न्ती॒रापो॒ मधु॑मतीरि॒माः ।  
-स्व॒धां पि॒तृभ्यो॑ अ॒मृतं॒ दुहा॑ना॒ आपो॑ दे॒वीरु॒भयाँ॑स्तर्पयन्तु ॥ [[TODO:परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/27_putrAnpautrAnabhi_tarpayantI.md">
+पुत्रा᳓न् पौ᳓त्रान् अभि᳓ तर्प᳓यन्तीर्  
+आ᳓पो म᳓धुमतीर् इमाः᳓  
+स्वधां᳓ +++(मातृसहित)+++पितृ᳓भ्यो अमृ᳓तं दु᳓हाना  
+आ᳓पो देवी᳓र् उभ᳓याँस् तर्पयन्तु ।
+</div>
 
 [[142]]
 

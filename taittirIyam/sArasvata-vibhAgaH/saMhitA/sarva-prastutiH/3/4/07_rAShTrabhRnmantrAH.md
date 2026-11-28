@@ -135,7 +135,7 @@ Conquering by truth, truth-aboded Agni is the Gandharva;
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ तस्यौषधयोऽप्सरस</summary>
 
 त᳓स्यौ᳓षधयोऽप्सर᳓स ऊ᳓र्जो ना᳓म।
 </details>
@@ -163,7 +163,7 @@ his Apsarases are the plants, called strength;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ स इदम्</summary>
 
 स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु।
 </details>
@@ -193,7 +193,7 @@ may he protect this holy power, this lordly power;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ता इदम्</summary>
 
 ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु।
 </details>
@@ -221,7 +221,7 @@ may they protect this holy power, this lordly power;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तस्मै स्वाहा</summary>
 
 त᳓स्मै स्वा᳓हा । ता᳓भ्यः स्वा᳓हा ।
 </details>
@@ -259,7 +259,7 @@ to him hail! To them hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ सँहितो</summary>
 
 सँहितो᳓ विश्व᳓-सामा सू᳓र्यो गन्धर्व᳓स्  
 त᳓स्य म᳓रीचयोऽप्सर᳓स आयु᳓वो  [+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
@@ -299,7 +299,7 @@ The compact, possessing all the Samans, the sun is the Gandharva, his Apsarases 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ सुषुम्नस्</summary>
 
 सु-षुम्न᳓स् सू᳓र्य-रश्मिश् चन्द्र᳓मा गन्धर्वः᳓,
 </details>
@@ -334,7 +334,7 @@ The all-blessed, sun-rayed Candramas is the Gandharva;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ तस्य</summary>
 
 त᳓स्य न᳓क्षत्राण्य् अप्सर᳓सो बेकु᳓रयो \[+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
 </details>
@@ -375,7 +375,7 @@ his Apsarases are the Naksatras, (called) the bright, &c.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ भुज्युस्सुपर्णो</summary>
 
 भुज्यु᳓स्सुपर्णो᳓ यज्ञो᳓ गन्धर्व᳓स्,   
 त᳓स्य द᳓क्षिणा अप्सर᳓सस् स्तवा᳓ [+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
@@ -413,7 +413,7 @@ The active, the winged sacrifice is the Gandharva, his Apsarases are the sacrifi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ प्रजापतिर्विश्वकर्मा</summary>
 
 प्रजा᳓पतिर्विश्व᳓कर्मा  म᳓नो [19] गन्धर्वः᳓,
 </details>
@@ -441,7 +441,7 @@ Prajapati, all-creator, the mind [1], is the Gandharva;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० तस्यर्क्सामान्य्</summary>
 
 त᳓स्यर्क्सामा᳓न्य् अप्सर᳓सो व᳓ह्नयो \[+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
 </details>
@@ -551,7 +551,7 @@ the vigorous, all-encompassing Wind is the Gandharva;
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ तस्यापोऽप्सरसो</summary>
 
 त᳓स्या᳓पोऽप्सर᳓सो मुदा᳓ [+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
 </details>
@@ -579,39 +579,11 @@ his Apsarases are the waters, (called) delights, &c.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/07_rAShTrabhRnmantrAH/12_bhuvanasyapate_yasya_ta.md">
+</div>
 
-भु᳓वनस्य-पते य᳓स्य त उप᳓रि गृहा᳓ इह᳓ च ।   
-स᳓ नो रास्वा᳓ज्यानिँ+++(=अहानिं)+++ राय᳓स्-पो᳓षँ सुवी᳓र्यँ सव्ँवत्सरी᳓णाँ स्वस्ति᳓म् ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O lord of the world, thou who hast houses above and here, do thou give us increase of wealth, unfailing, rich in heroes, prosperity abiding through the year.
-</details>
-
-<details><summary>मूलम्</summary>
-
-भुव॑नस्य पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।   
-स नो॑ रा॒स्वाज्या॑निँ रा॒यस्पोषँ॑ सु॒वीर्यँ॑ सव्ँवत्स॒रीणाँ॑ स्व॒स्तिम् ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-भुव॑नस्य । प॒ते॒ । यस्य॑ । ते॒ । उ॒परि॑ । गृ॒हाः । इ॒ह । च॒ ॥ सः । नः॒ । रा॒स्व॒ । अज्या॑निम् । रा॒यः । पोष॑म् । सु॒वीर्य॒मिति॑ सु-वीर्य॑म् । सव्ँ॒व॒त्स॒रीणा॒मिति॑ सं-व॒त्स॒रीणा॑म् । स्व॒स्तिम् ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-7भुवनस्येत्यादि ॥  
-भुवनस्य भूतजातस्य पते पालयितः  
-उपरि द्युलोक्तान्तरिक्षयोः  
-**इह च** पृथिव्यां ग्रहाः ग्रहवासिनः ।  
-ते स्वभूताः **स** त्वं **नो** स्मभ्यं **रास्व** देहि । व्यत्ययेनात्मनेपदम् ॥ **अज्यानिं** अहानिं अहानिनिमित्तम् । क्तिनो निष्ठावद्भावात् 'ल्वादिभ्यश्च' इति नत्वम् । रायो धनस्य पोषं सुवीर्यं शोभनवीर्यकम् । 'वीरवीर्यौ च' इत्युत्तरपदान्तादोत्तत्वम् । संवत्सरीणां च स्वस्तिं अविनाशं संवत्सरभावीति । 'संपरिपूर्वात्ख च' इति खः ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/07_rAShTrabhRnmantrAH/12_bhuvanasyapate_yasya_ta.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -621,7 +593,7 @@ O lord of the world, thou who hast houses above and here, do thou give us increa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ परमेष्ठ्य्</summary>
 
 परमेष्ठ्य् अ᳓धिपतिर् मृत्यु᳓र् गन्धर्वः᳓,
 </details>
@@ -649,7 +621,7 @@ The supreme ruler, the overlord, death is the Gandharva;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ तस्य</summary>
 
 त᳓स्य वि᳓श्वमप्सर᳓सो भु᳓वः   [+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
 </details>
@@ -685,7 +657,7 @@ his Apsarases are the whole (world), (called) the worlds, &c.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ सुक्षितिस्सुभूतिर्भद्रकृत्सुवर्वान्</summary>
 
 सुक्षिति᳓स्सु᳓भूतिर्भद्रकृ᳓त्सु᳓वर्वान् ,   पर्ज᳓न्यो गन्धर्वः᳓,
 </details>
@@ -713,7 +685,7 @@ With fair abode, fair wealth, doer of good deeds, holding the light, Parjanya is
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ तस्य</summary>
 
 त᳓स्य विद्यु᳓तोऽप्सर᳓सो +++('ता᳓ इ᳓दं᳓ ब्र᳓ह्म᳓ क्ष᳓त्रं᳓ पा᳓न्तु᳓') +++ रु᳓चो [+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
 </details>
@@ -749,7 +721,7 @@ his Apsarases are the lightnings, (called) the radiant, &c.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ दूरेहेतिरमृडयो</summary>
 
 दूरे᳓हेतिरमृडयो᳓ [20] मृत्यु᳓र्गन्धर्वः᳓,
 </details>
@@ -777,7 +749,7 @@ Whose dart speeds afar, the pitiless [2], death is the Gandharva;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ तस्य प्रजा</summary>
 
 त᳓स्य प्रजा᳓ अप्सर᳓सो भीरु᳓वो \[+ना᳓म। स᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पातु। ता᳓ इदं᳓ ब्र᳓ह्म क्षत्रं᳓ पान्तु। त᳓स्मै स्वा᳓हा ।  ता᳓भ्यः स्वा᳓हा ।]
 </details>
@@ -813,7 +785,7 @@ the Apsarases are his offspring, (called) the timid, &c.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ चारु कृपणकाशी</summary>
 
 चा᳓रुᳵ कृपण-काशी᳓ का᳓मो गन्धर्वः᳓,
 </details>
@@ -841,7 +813,7 @@ The dear one, looking with desire, love is the Gandharva;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ तस्याधयोऽप्सरसः</summary>
 
 त᳓स्याध᳓योऽप्सर᳓सः शोच᳓यन्तीर्ना᳓म
 </details>
@@ -869,7 +841,7 @@ his Apsarases are thoughts, (called) the burning;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० स इदम्ब्रह्म</summary>
 
 स᳓ इद᳓म्ब्र᳓ह्म क्षत्र᳓म्पातु
 </details>
@@ -892,7 +864,7 @@ may he protect this our holy power, our lordly power;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ ता इदम्ब्रह्म</summary>
 
 ता᳓ इद᳓म्ब्र᳓ह्म क्षत्र᳓म्पान्तु
 </details>
@@ -915,7 +887,7 @@ may they protect this our holy power, our lordly power;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ तस्मै स्वाहा,</summary>
 
 त᳓स्मै स्वा᳓हा, ता᳓भ्यस् स्वा᳓हा॥
 </details>
@@ -938,38 +910,8 @@ to him hail! To them hail!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/07_rAShTrabhRnmantrAH/24_sa_no_bhuvanasya.md">
+</div>
 
-स᳓ नो भुवनस्य पते य᳓स्य त उप᳓रि गृहा᳓ इह᳓ च ।   
-उरु᳓ ब्र᳓ह्मणेऽस्मै᳓ क्षत्रा᳓य म᳓हि श᳓र्म यच्छ ॥ [21]
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-O lord of the world, thou who hast houses above and here, do thou accord wide, great, protection to this holy power, this holy work.
-</details>
-
-<details><summary>मूलम्</summary>
-
-स नो॑ भुवनस्य पते॒ यस्य॑ त उ॒परि॑ गृ॒हा इ॒ह च॑ ।   
-उ॒रु ब्रह्म॑णे॒ऽस्मै क्ष॒त्राय॒ महि॒ शर्म॑ यच्छ ॥ [21]
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-सः । नः॒ । भु॒व॒न॒स्य॒ । प॒ते॒ । यस्य॑ । ते॒ । उ॒परि॑ । गृ॒हाः । इ॒ह । च॒ ॥ उ॒रु । ब्रह्म॑णे । अ॒स्मै । क्ष॒त्राय॑ । महि॑ । शर्म॑ । य॒च्छ॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-12स न इत्यादि ॥ व्याख्यातमर्धर्चम् ।
-
--  {भुवनस्येत्यादि ॥ भुवनस्य भूतजातस्य पते पालयितः उपरि द्युलोक्तान्तरिक्षयोः इह च पृथिव्यां ग्रहाः ग्रहवासिनः । ते स्वभूताः स त्वं नोस्मभ्यं रास्व देहि । व्यत्ययेनात्मनेपदम् ॥ }
-
-स त्वं नोस्माकं सम्बन्धिने अस्मै ब्रह्मणे अस्मै क्षत्राय उरु विस्तीर्णं महि महनीयं च शर्म सुखं यच्छ देहि । अन्ये आहुः - स न इति काम उच्यते । यस्य ते उपरि गृहाः इह च । स त्वं हे भुवनस्य पते काम ब्रह्मणे क्षत्राय च अस्मै उरु महनीयं च शर्म यच्छेति ॥
-
-इति तृतीये चतुर्थे सप्तमोनुवाकः ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/4/07_rAShTrabhRnmantrAH/24_sa_no_bhuvanasya.md">
+</div>

@@ -35,7 +35,7 @@ Address to fire for taking the dead body in the heaven.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ य एतस्य</summary>
 
 य᳓ एत᳓स्य पथो᳓ गोप्ता᳓रस्  
 ते᳓भ्यस् स्वा᳓हा
@@ -76,7 +76,7 @@ Hail for them who are the preservers of his way :
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ य एतस्य</summary>
 
 य᳓ एत᳓स्य पथो᳓ रक्षिता᳓रस्  
 ते᳓भ्यस् स्वा᳓हा
@@ -105,7 +105,7 @@ Hail for them who are the protectors of his way!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ य एतस्य (1/6 व्यत्यस्त-स्वराः)</summary>
 
 य᳓ एत᳓स्य [[पथो᳙भि᳓ऽरक्षिता᳓रस्|पथो᳓भिऽरक्षिता᳓रस्]]  
 ते᳓भ्यस् स्वा᳓हा
@@ -139,7 +139,7 @@ Hail for them who are all-round protectors of him!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आख्यात्रे</summary>
 
 आख्यात्रे᳓ स्वा᳓हा
 </details>
@@ -168,7 +168,7 @@ Hail for the maker of the same!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अपाख्यात्रे</summary>
 
 अपाख्यात्रे᳓ स्वा᳓हा
 </details>
@@ -197,7 +197,7 @@ Hail for the abuser!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अभिलालपते</summary>
 
 अभिला᳓लपते स्वा᳓हा
 </details>
@@ -226,7 +226,7 @@ Hail for him who says his fame to the gods!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अपलालपते स्वाहा</summary>
 
 अपला᳓लपते स्वा᳓हा
 </details>
@@ -255,7 +255,7 @@ Hail for him who says his bad deeds to the gods!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ अग्नये कर्मकृते</summary>
 
 अग्न᳓ये कर्म-कृ᳓ते स्वा᳓हा
 </details>
@@ -285,7 +285,7 @@ Hail for the fire! Hail for the acting one!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ यम् अत्र</summary>
 
 य᳓म् अ᳓त्र ना᳓धीम᳓स्  
 त᳓स्मै स्वा᳓हा ।
@@ -319,7 +319,7 @@ Hail for him whom we are not reading here!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० यस् त</summary>
 
 य᳓स् त इद्ध्म᳓ञ् जभ᳓रत् सिष्विदानो᳓  
 मूर्धा᳓नव्ँ वात त᳓पते त्वाया᳓ ।  
@@ -370,7 +370,7 @@ Hail for him whom we are not reading here!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ अस्मात् त्वम्</summary>
 
 अस्मा᳓त् त्व᳓म् अ᳓धि जातो᳙ऽसि  
 त्व᳓द् अय᳓ञ् जायतां पु᳓नः ।  

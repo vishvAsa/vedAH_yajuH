@@ -33,13 +33,8 @@ Ceremonies to be performed on the tenth day after cremation.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/18 व्यत्यस्त-स्वराः)</summary>
-
-आ᳓ रोहता᳓युर् जर᳓सङ् गृणाना᳓  
-अनुपूर्वय्ँ᳓ य᳓तमाना य᳓ति [[ष्ट᳓|ष्ट]] ।  
-इह᳓ त्व᳓ष्टा सुज᳓निमा सुर᳓त्नो  
-दीर्घ᳓म् आ᳓युः करतु जीव᳓से वः ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/01_A_rohatAyur_jarasa~N.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/018/06_A_rohatAyurjarasaM.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -406,7 +401,7 @@ Des Lebens Kraft erreicht zu hohem Alter, wie viel ihr seid, zu einem Zug verbun
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यथाहान्य्</summary>
 
 य᳓था᳓हान्य् अनुपूर्वं᳓ भ᳓वन्ति  
 य᳓थर्त᳓व ऋतु᳓भिर् य᳓न्ति कॢप्ताः᳓ ।  
@@ -571,58 +566,13 @@ Oblation of ghee.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/15 व्यत्यस्त-स्वराः)</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/03_na_hi_te.md">
+</div>
 
-न᳓ [[हि|हि᳓]] ते अग्ने तनु᳓वै  
-क्रूर᳓ञ् चका᳓र म᳓र्त्यः ।  
-कपि᳓र् बभस्ति ते᳓जनं  
-पु᳓नर् जरा᳓यु गौ᳓र् इव ।
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/10_navamI-kRtyam/03_na_hi_te.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-O fire, mortal one has not done anything cruel for your body; he (acting) as a monkey burns you shiningly again as a cow (covers the womb by) the membrane.
-</details>
-
-<details><summary>मूलम्</summary>
-
-न हि॑ ते अग्ने त॒नुवै॑ क्रू॒रञ्च॒कार॒ मर्त्यः॑ ।  
-क॒पिर्ब॑भस्ति॒ तेज॑नं॒ पुन॑र्ज॒रायु॒ गौरि॑व ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः - 1/15 व्यत्यस्त-स्वराः)</summary>
-
-- न᳓ (*TS*-758, *RV*-2095, *SB-K*-2328, *VS-K*-139, *KS*-139, *MS*-806)
-- हि → **हि᳓** (*TS*-456, *RV*-662, *TB*-136, *TK*-7, *SB-K*-2819, *VS-K*-35, *KS*-81, *MS*-717)
-- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *AV*-1022, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
-- अग्ने (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-122, *MS*-210)
-- तनु᳓वै (*TB*-1)
-- क्रूर᳓म् (*TS*-15/22, *TB*-2/4, *AV*-5/7, *SB-M*-4/6, *SB-K*-5/6, *VS-M*-1/2, *VS-K*-2/3, *KS*-2/4, *MS*-17/21)
-- चका᳓र (*TS*-3, *RV*-18, *SB-K*-3, *VS-K*-4, *KS*-4, *MS*-5; हि च, पा॰ ८.१.३४)
-- म᳓र्त्यः (*TS*-1/14, *RV*-55/182, *TB*-1/5, *AV*-8/37, *SB-M*-11/84, *SB-K*-10/81, *VS-M*-2/11, *VS-K*-1/16, *KS*-1/9, *MS*-3/18)
-- कपिः᳓ (*RV*-1, *AV*-2, *KS*-1)
-- बभस्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-2, *MS*-1)
-- ते᳓जनम् (*TS*-1, *RV*-0/1, *AV*-3, *KS*-1)
-- पु᳓नः (*TS*-111, *RV*-93, *TB*-30, *SB-K*-285, *VS-K*-22, *KS*-26, *MS*-190)
-- जरा᳓यु (*TS*-3/4, *RV*-1/2, *TB*-1, *AV*-5/10, *SB-M*-14/24, *SB-K*-14/22, *VS-M*-0/1, *VS-K*-0/1, *KS*-2/3, *MS*-2/4)
-- गौः᳓ (*TS*-32/108, *RV*-19/521, *TB*-8/32, *AV*-15/195, *SB-M*-66/168, *SB-K*-68/149, *VS-M*-1/32, *VS-K*-3/44, *KS*-4/37, *MS*-36/149)
-- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-41, *SB-K*-741, *VS-K*-38, *KS*-68, *MS*-240)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-हे अग्ने ! तनुवै । तृतीयार्थे चतुर्थी । तत्सम्बन्धिना तन्वा अस्मदीयो मर्त्यः क्रूरं कर्म पितृमेधं न हि चकार । लोडर्थे लिट् । हि शब्दोऽवधारणे । नैव करोतु । उत्तरेणार्धेन अग्निस्स्तूयते । तत्रैकवाक्यताप्रसिद्ध्यर्थं यस्य ते इत्यध्याहारः । यस्य ते तेजनं तेजः कपिर् आदित्यः कम् उदकं भूयिष्ठं पिबति रश्मिभिरादत्त इति । पुनः वीप्साया लोपो द्रष्टव्यः । पुनःपुनो ऽहरहः बभस्ति भक्षयति रात्री प्रवेशितं तेजः प्रातरुपादत्ते ; जरायु गौरिव यथा गौः प्रसूता अनिवार्यमाणा स्वं जरायु भक्षयते तद्वत् । 'अग्निं वावादित्यः सायं प्रविशति । उद्यन्तं वावादित्यमग्निरनु समारोहति' इति । एवं नामभागस्त्वं यथाऽऽदित्यमाप्याययसि तेन चाप्याय्यसे इति ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हे अग्ने, ते तव तनुवै शरीरार्थं मर्त्यो मनुष्यः क्रूरम् उग्रं व्यापारं न हि चकार। कपिः कपि-वच् चेष्टा-कारी मनुष्यः पुनस् तेजनम् उत्तेजनं यथा भवति तथा बभस्ति दीपयति। तत्र दृष्टान्तः - गौर् इव जरायु। यथा गौः स्व-गर्भस्य रक्षार्थं जरायु-पटं संपादयति न तु क्रूरं करोति तद्वत्।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अप नश्</summary>
 
 अ᳓प नश् शो᳓शुचद् अघ᳓म्  
 अ᳓ग्ने शुशुध्या᳓ रयि᳓म् ।  
@@ -730,7 +680,7 @@ O fire, may you shine taking away our sin; may you shine wealth; may you shine t
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ मृत्यवे स्वाहा</summary>
 
 मृत्य᳓वे स्वा᳓हा ।
 </details>
@@ -780,7 +730,7 @@ Mantra to be uttered while touching a red bull.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अनड्वाहम् (1/14 व्यत्यस्त-स्वराः)</summary>
 
 अनड्वा᳓हम् अन्वा᳓रभामहे स्वस्त᳓ये ।  
 स᳓ न इ᳓न्द्र इव देवे᳓भ्यो व᳓ह्निस् [[संपा᳓रणो|सं᳓पा᳓रणो]] भव ।  
@@ -977,13 +927,8 @@ We touch the bull for our welfare; may you (o bull), like Indra, (as) fire, beco
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/20 व्यत्यस्त-स्वराः)</summary>
-
-इमे᳓ जीवा᳓ [[विमृतै᳓र्|वि᳓मृतै᳓र्]] आ᳓ववर्तिन्न्  
-अ᳓भूद् भद्रा᳓ देव᳓हूतिन् नो अद्य᳓ ।  
-प्रा᳓ञ्जोगाम् आनृत᳓ये ह᳓साय  
-द्रा᳓घीय आ᳓युः प्रतरा᳓न् द᳓धानाः ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/07_ime_jIvA_vimRtair.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/018/03_ime_jIvA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -1360,13 +1305,8 @@ The last man rubs out, with a Sami branch, the foot-prints of those that precede
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/16 व्यत्यस्त-स्वराः)</summary>
-
-मृत्योः᳓ पदय्ँ᳓ योप᳓यन्तो य᳓दै᳓म  
-द्रा᳓घीय आ᳓युः प्रतरा᳓न् द᳓धानाः ।  
-आप्या᳓यमानाः प्रज᳓या ध᳓नेन  
-शुद्धाः᳓ पूता᳓ भवथ [[यज्ञियासः|यज्ञि᳓यासः]] ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/10_navamI-kRtyam/08_mRtyoH_paday.N_yopayanto.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/018/02_mRtyoH_padaM.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -1717,7 +1657,7 @@ The Adhvaryu priest places a stone on the ground.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ इमञ् जीवेभ्यः</summary>
 
 इम᳓ञ् जीवे᳓भ्यः परिधि᳓न् दधामि  
 मा᳓ नो᳓ऽनु गाद᳓परो अ᳓र्धम् एत᳓म् ।  
@@ -1808,7 +1748,7 @@ Mantra for putting collyrium by the women.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ इमा नारीर्</summary>
 
 इमा᳓ ना᳓रीर् अ-विधवा᳓स् सुप᳓त्नीर्  
 आ᳓ञ्जनेन सर्पि᳓षा सं᳓मृशन्ताम् ।  
@@ -1947,7 +1887,7 @@ May these women, unwidowed, good wives, touch their eyes by the collyrium-gee; w
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ यदाञ्जनन्</summary>
 
 य᳓दा᳓ञ्जनन् त्रैककुद᳓ञ्  
 जातँ᳓ हिम᳓वतस्प᳓रि ।  
@@ -2015,7 +1955,7 @@ Mantra for throwing the leaves on the bundle of the Kusa-grass.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यथा त्वम्</summary>
 
 य᳓था त्व᳓म् उद्भिन᳓त्स्य्  
 ओषधे पृथिव्या᳓ अ᳓धि ।  
@@ -2086,7 +2026,7 @@ Mantra for eating goat's flesh.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अजो ऽस्य्,</summary>
 
 अजो᳙ ऽस्य्,  
 [[अजास्म᳓द्|अजा᳓स्म᳓द्]] अघा᳓ द्वे᳓षाँसि
@@ -2142,7 +2082,7 @@ Mantra for eating barley.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० यवोऽसि (1/6 व्यत्यस्त-स्वराः)</summary>
 
 [[यवो᳙ऽसि|य᳓वोऽसि]] यव᳓यास्म᳓द् अघा᳓ द्वे᳓षाँसि ॥ (24)
 </details>

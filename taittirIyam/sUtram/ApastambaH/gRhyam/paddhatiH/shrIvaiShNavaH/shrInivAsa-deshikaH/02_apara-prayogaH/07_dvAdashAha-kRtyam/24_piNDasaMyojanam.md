@@ -36,15 +36,68 @@ title = "२४ पिण्डसंयोजनम्"
 
 सव्यञ्जान्वाच्य मन्त्रान् पठित्वा मन्त्राणामन्ते त्रेधाकृतं प्रेतपिण्डं पितुः पित्रादिपिण्डैस्सह संयोजयेत्। पितुः पित्रादिपिण्डानां पूर्वभागे स्वस्य सव्यहस्तः त्रेधाकृतप्रेतपिण्डस्य पश्चिमभागेस्वस्य दक्षिणहस्तश्च यथा भवति तथाकृत्वा संयोजनं कुर्यात्। प्रेतपिण्डस्य त्रेधाकृतस्य चलनं पश्चिमतया भवतु इति वचनमादृत्य केचित् प्रेतपिण्डनिधानमेव पितुः पित्रादिपिण्डानां पुरतः कुर्वन्ति तत्रापिकेचित् पितुः पित्रादीनां, पितुर्मात्रादीनां च मध्ये प्रेतपिण्डं निधाय संयोजनसमये प्रेतपिण्डमुद्धृत्यपुरतः कृत्वा पश्चिमतया संयोजयन्ति। यथाचारं व्यवस्था। मधुत्रयं उक्त्ता 
 
-> मधुवाताः ऋ॒ताय॒ते + गावोभवन्तुनः। सङ्गच्छध्वं, संवॅदध्वम्। संवोमनाँसि, जानताम्। दे॒वाभा॒गं, यथा॒पूर्वे। सञ्जानानाः, उपासते। समानोमन्त्रः, समितिः समानी। समानं, मनः, सह चित्तं, एषाम्। समानं, केतः, अभि, सँरभध्वम्। संज्ञानेनवः, ह॒विषा॑, य॒जा॒मः। स॒मा॒नीवॅः, आकूतिः। समाना, हृदॅयानिवः। समानमॅस्तु, वोमनॅः। यथॉवः, सुस॒हासति। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/06_madhu_vAtA.md">
+म᳓धु वा᳓ता ऋतायते᳓  
+म᳓धु क्षरन्ति सि᳓न्धवः  
+मा᳓ध्वीर् नः सन्तु ओ᳓षधीः
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/07_madhu_naktamutoShaso.md">
+म᳓धु न᳓क्तम् उतो᳓ष᳓सो  
+म᳓धुमत् पा᳓र्थिवं र᳓जः  
+म᳓धु द्यउ᳓र् अस्तु नः पिता᳓
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/090/08_madhumAnno_vanaspatirmadhumA_N.md">
+म᳓धुमान् नो व᳓नस्प᳓तिर्  
+म᳓धुमाँ अस्तु सू᳓रियः  
+मा᳓ध्वीर् गा᳓वो भवन्तु नः
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/4/11_sangachChadhva.N.md">
+स᳓ङ्गच्छध्वँ सव्ँ᳓वदध्वम् ।  
+सव्ँ᳓ वो म᳓नाँसि जानताम् ॥37॥  
+देवा᳓ भागय्ँ᳓य᳓था पू᳓र्वे ।  
+सञ्जानाना᳓ उपा᳓सत ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/4_upahomAdi/4/12_samAno.md">
+समानो᳓ म᳓न्त्रस्स᳓मितिस्समानी᳓ ।  
+समान᳓म्म᳓नस्सह᳓ चित्त᳓मेषाम् ।  
+समान᳓ङ्के᳓तो अभि᳓ सँ᳓रभध्वम् ।  
+संज्ञा᳓नेन वो हवि᳓षा यजामः ।
+</div>
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ११(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/4_upahomAdi/4">
+<details open><summary>विश्वास-प्रस्तुतिः - ११ समानी व</summary>
+
+समानी᳓ व आ᳓कूतिः ।  
+समाना᳓ हृ᳓दयानि वः ।  
+समान᳓मस्तु वो म᳓नः ।  
+य᳓था वस्सु᳓सहा᳓सति ॥38॥
+</details>
+</div>
 
 > श्रीमते नारायणाय नमः 
 
 इति त्रिर्वदेत्॥ संयोजयेत्। उत्थाय उच्चैरुपस्थानं कुर्यात्। 
 
-> ये सॅमानाः, समॅनसः। पितरॅः, यमराज्ये। तेषां लोकः, स्वधानमः। यज्ञोदेवेषु, कल्पताम्। येसजाताः, समॅनसः। जीवाः, जीवेषु, मामकाः। तेषाँश्रीः, मयि कल्पताम्। अस्मिन्ल्लोके, श॒तँसमाः। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०७(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/03_grahahomaH">
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ ये समानास्समनसः</summary>
+
+ये᳓ समाना᳓स्स᳓मनसः ।  
+पित᳓रो यमरा᳓ज्ये ।  
+ते᳓षाल्ँ लोक᳓स्स्वधा᳓ न᳓मः ।  
+यज्ञो᳓ देवे᳓षु कल्पताम् ॥12॥
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/6_sautrAmaNiH_kaukilI_hotram/03_grahahomaH/09_ye_sajAtAssamanasaH_jIvA.md">
+ये᳓ सजाता᳓स्स᳓मनसः ।  
+जीवा᳓ जीवे᳓षु मामकाः᳓ ।  
+ते᳓षाँ श्री᳓र्म᳓यि कल्पताम् ।  
+अस्मिल्ँ᳓ लोके᳓ शतँ᳓ स᳓माः ।
+</div>
 
 इत्युपस्थाय उपविशेत्।
 

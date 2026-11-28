@@ -18,7 +18,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ या पुरस्तात्</summary>
 
 याᳶ᳓ पुर᳓स्तात् **प्रस्र᳓वन्ति** ।  
 उप᳓रिष्टात् सर्व᳓तश् च याः᳓ ।  
@@ -71,7 +71,7 @@ I begin faith, the sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ देवा गातुविदः</summary>
 
 दे᳓वा गातुविदः ।  
 **गातुय्ँ᳓**+++(=मार्गं)+++ यज्ञा᳓य **विन्दत** ।  
@@ -110,7 +110,7 @@ may the sacrifice be joined from the wind.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ तृतीयस्यै दिवः</summary>
 
 तृती᳓यस्यै दिवः᳓ ।  
 गायत्रिया᳓ सो᳓म आ᳓भृतः ॥24॥  
@@ -171,7 +171,7 @@ Soma was brought by the Gāyatrī.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आपो</summary>
 
 आ᳓पो देवीश्शुद्धा᳓स्स्थ ।  
 इमा᳓ पा᳓त्राणि शुन्धत ।  
@@ -212,7 +212,7 @@ cleanse also the parṇa-bark.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ पयो गृहेषु</summary>
 
 प᳓यो गृहे᳓षु प᳓यो अघ्निया᳓सु ।  
 प᳓यो वत्से᳓षु प᳓य इ᳓न्द्राय हवि᳓षे ध्रियस्व ।  
@@ -259,7 +259,7 @@ make this milk into Soma.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अग्निङ्गृह्णामि</summary>
 
 अग्नि᳓ङ्गृह्णामि सुर᳓थय्ँयो᳓ मयोभूः᳓ ।  
 य᳓ उद्य᳓न्तमारो᳓हति सू᳓र्यम᳓ह्ने ।  
@@ -303,7 +303,7 @@ let him rest for tomorrow's sacrifice for the deities.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ वसून्रुद्रानादित्यान्</summary>
 
 व᳓सून्रुद्रा᳓नादित्या᳓न् ।  
 इ᳓न्द्रेण सह᳓ देव᳓ताः ।  
@@ -340,7 +340,7 @@ those I grasp first
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ इमाम् ऊर्जम्</summary>
 
 इमा᳓म् ऊ᳓र्जम् पञ्चदशीय्ँ᳓ ये᳓ प्र᳓विष्टाः ।  
 ता᳓न् देवा᳓न् **प᳓रिगृह्णामि** पू᳓र्वः ॥26॥  
@@ -379,7 +379,7 @@ those deities I grasp first.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ आमावास्यँ</summary>
 
 आमावास्यँ᳙ हवि᳓र्, इद᳓म् एषाम् म᳓यि ।  
 [इमा᳓म् ऊ᳓र्जम् पञ्चदशीय्ँ᳓ ये᳓ प्र᳓विष्टाः ।  
@@ -421,7 +421,7 @@ Between the two fires, the domestic animals
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अन्तराऽग्नी</summary>
 
 अन्तरा᳓ऽग्नी᳓ पश᳓वः ।  
 देवसँस᳓दमा᳓गमन् ।  
@@ -461,7 +461,7 @@ in \[their\] own abode with thought.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ इह प्रजा</summary>
 
 इह᳓ प्रजा᳓ विश्व᳓रूपा रमन्ताम् ।  
 अग्नि᳓ङ्गृह᳓पतिमभि᳓सव्ँव᳓सानाः ।  
@@ -514,7 +514,7 @@ those I grasp first
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ इह पशवो</summary>
 
 इह᳓ पश᳓वो विश्व᳓रूपा रमन्ताम् ।  
 अग्नि᳓ङ्गृह᳓पतिमभि᳓सव्ँव᳓सानाः ।  
@@ -565,7 +565,7 @@ This fire of the ancestors
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ अयम्पितृणामग्निः</summary>
 
 अय᳓म्पितृणा᳓मग्निः᳓ ।  
 अ᳓वाड्ढव्या᳓ पितृ᳓भ्य आ᳓ ।  
@@ -612,7 +612,7 @@ that \[fire\] I grasp first;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ अजस्रन्त्वाँ</summary>
 
 अ᳓जस्रन्त्वाँ᳓ सभापालाः᳓ ॥28॥  
 विजय᳓भागँ स᳓मिन्धताम् ।  
@@ -663,7 +663,7 @@ May the guardians of the hall continuously
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ अन्नमावसथीयम्</summary>
 
 अ᳓न्नमावसथी᳓यम् ।  
 अभि᳓हराणि शर᳓दश्शत᳓म् ।  
@@ -714,7 +714,7 @@ In the hall, may Ahi Budhnya
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ इदमहमग्निज्येष्ठेभ्यः</summary>
 
 इद᳓मह᳓मग्नि᳓ज्येष्ठेभ्यः ।  
 व᳓सुभ्यो यज्ञ᳓म्प्र᳓ब्रवीमि ।  
@@ -781,7 +781,7 @@ Here I announce the sacrifice to the Rudras,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ पयस्वतीरोषधयः</summary>
 
 प᳓यस्वतीरो᳓षधयः ।  
 प᳓यस्वद्वीरु᳓धाम्प᳓यः ।  
@@ -878,7 +878,7 @@ Rich in milk are the plants;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ब्राह्मणम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ अग्ने व्रतपते</summary>
 
 अ᳓ग्ने व्रतपते व्रत᳓ञ्चरिष्यामि ।  
 त᳓च्छकेयन्त᳓न्मे राध्यताम् ।
@@ -974,7 +974,7 @@ with that, O Indra, unite me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ वायो व्रतपत</summary>
 
 वा᳓यो व्रतपत आ᳓दित्य व्रतपते ॥30॥  
 व्रता᳓नाव्व्ँरतपते व्रत᳓ञ्चरिष्यामि ।  
@@ -1028,7 +1028,7 @@ O Vāyu, lord of vows! O Āditya, lord of vows!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० इमाम्प्राचीमुदीचीम्</summary>
 
 इमा᳓म्प्रा᳓चीमु᳓दीचीम् ।  
 इ᳓षमू᳓र्जमभि᳓सँ᳓स्कृताम् ।  
@@ -1081,7 +1081,7 @@ prepared for refreshment and vigor,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ यत्कृष्णो</summary>
 
 य᳓त्कृ᳓ष्णो रूप᳓ङ्कृत्वा᳓ ।  
 प्रा᳓विशस्त्वव्ँ᳓व᳓नस्प᳓तीन् ।  
@@ -1129,7 +1129,7 @@ in twenty-one pieces.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ त्रीन्परिधीँ</summary>
 
 त्री᳓न्परिधीँ᳓ स्तिस्र᳓स्समि᳓धः ।  
 यज्ञा᳓युरनुसञ्चरा᳓न् ।  
@@ -1181,7 +1181,7 @@ traversing according to the lifespan of the sacrifice,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ या जाता</summary>
 
 या᳓ जाता᳓ ओ᳓षधयः ।  
 देवे᳓भ्यस्त्रियुग᳓म्पुरा᳓ ।  
@@ -1240,7 +1240,7 @@ for the gods three ages ago,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ अपाम्मेध्यय्ँ</summary>
 
 अपा᳓म्मे᳓ध्यय्ँ यज्ञि᳓यम् ।  
 स᳓देवँ शिव᳓मस्तु मे ॥32॥  
@@ -1286,7 +1286,7 @@ accompanied by the gods, may it be auspicious to me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ अपरिमितानाम्परिमिताः</summary>
 
 अ᳓परिमितानाम्प᳓रिमिताः ।  
 स᳓न्नह्ये सुकृता᳓य क᳓म् ।  
@@ -1399,7 +1399,7 @@ grandfathers and great-grandfathers, together with their followers.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ त्रिवृत्पलाशे</summary>
 
 त्रिवृ᳓त्पलाशे᳓ दर्भः᳓ ।  
 इ᳓यान्प्रादेश᳓सम्मितः ।  
@@ -1445,7 +1445,7 @@ let it prepare the milk as an offering for me.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ इमौ प्राणापानौ</summary>
 
 इमौ᳓ प्राणापानौ᳓ ।  
 यज्ञ᳓स्या᳓ङ्गानि सर्वशः᳓ ।  
@@ -1492,7 +1492,7 @@ cleansing the sacrificial substance.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ पवित्रे स्थो</summary>
 
 पवि᳓त्रे स्थो वैष्णवी᳓ ।  
 वायु᳓र् वाम् म᳓नसा पुनातु ॥34॥
@@ -1539,7 +1539,7 @@ may Vāyu purify you with his mind.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ अयम्प्राणश्चापानश्च</summary>
 
 अय᳓म्प्राण᳓श्चापान᳓श्च ।  
 य᳓जमानम᳓पिगच्छताम् ।  
@@ -1587,7 +1587,7 @@ the two strainers cleansing the sacrificial substance.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० त्वया</summary>
 
 त्व᳓या वे᳓दिव्ँविविदुᳶ पृथिवी᳓म् ।  
 त्व᳓या यज्ञो᳓ जायते विश्वदा᳓निः ।  
@@ -1647,7 +1647,7 @@ Knowing, you follow the unblemished sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ त्रयस्त्रिँशोऽसि</summary>
 
 त्रयस्त्रिँशो᳙ऽसि त᳓न्तूनाम् ।  
 पवि᳓त्रेण सहा᳓गहि ॥35॥  
@@ -1698,7 +1698,7 @@ come together with the purifier.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ अप्रस्रँसाय</summary>
 
 अ᳓प्रस्रँसाय यज्ञ᳓स्य ।  
 उखे᳓ उ᳓पदधाम्यह᳓म् ।  
@@ -1751,7 +1751,7 @@ Let the two bear \[the milk\] gathered together by the cattle,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ उपवेषोऽसि</summary>
 
 उपवेषो᳙ऽसि यज्ञा᳓य ।  
 त्वा᳓म्परिवेष᳓मधारयन् ।  
@@ -1802,7 +1802,7 @@ be auspicious and helpful to us.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ अमृन्मयन्देवपात्रम्</summary>
 
 अ᳓मृन्मयन्देवपात्र᳓म् ।  
 यज्ञ᳓स्या᳓युषि प्र᳓युज्यताम् ।  
@@ -1857,7 +1857,7 @@ hold the waters, let them not overflow.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ देवेन</summary>
 
 देवे᳓न सवित्रो᳓त्पूताः ।  
 व᳓सोस्सू᳓र्यस्य रश्मि᳓भिः ।  
@@ -1903,7 +1903,7 @@ cleanse the cow, the milking strainers, the rope,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ एता आचरन्ति</summary>
 
 एता᳓ आ᳓चरन्ति म᳓धुमद्दु᳓हानाः ।  
 प्रजा᳓वतीर्यश᳓सो विश्व᳓रूपाः ॥37॥  
@@ -1953,7 +1953,7 @@ rich in offspring, glorious, of all colors.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ पूषा स्थ</summary>
 
 पूषा᳓ स्थ ।
 </details>
@@ -1990,7 +1990,7 @@ Becoming many, being born,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ अयक्ष्मा व</summary>
 
 अयक्ष्मा᳓ वᳶ प्रज᳓या सँ᳓सृजामि ।  
 राय᳓स्पो᳓षेण बहुला᳓भ᳓वन्तीः ।  
@@ -2042,7 +2042,7 @@ swelling with vigor, milk, and ghee,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ द्यौश्चेमय्ँ</summary>
 
 द्यौ᳓श्चेमय्ँ᳓ यज्ञ᳓म्पृथिवी᳓ च स᳓न्दुहाताम् ।  
 धाता᳓ सो᳓मेन सह᳓ वा᳓तेन वायुः᳓ ।  
@@ -2090,7 +2090,7 @@ bestow wealth upon the sacrificer.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० उत्सन्दुहन्ति</summary>
 
 उ᳓त्सन्दुहन्ति कल᳓शञ्च᳓तुर्बिलम् ।  
 इ᳓डान्देवी᳓म्म᳓धुमतीँ सुवर्वि᳓दम् ।  
@@ -2144,7 +2144,7 @@ Which \[cow\] have you milked? Tell us forth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ कामधुक्ष प्र</summary>
 
 का᳓मधुक्षᳶ प्र᳓ णो ब्रूहि ।  
 इ᳓न्द्राय हवि᳓रिन्द्रिय᳓म् ।  
@@ -2199,7 +2199,7 @@ Milk much for Indra, for the gods;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२ बहु</summary>
 
 बहु᳓ दुग्धी᳓न्द्राय देवे᳓भ्यः ।  
 हव्य᳓मा᳓प्यायताम्पु᳓नः ॥39॥  
@@ -2247,7 +2247,7 @@ let the offering swell again.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३ यज्ञस्य</summary>
 
 यज्ञ᳓स्य स᳓न्ततिरसि ।  
 यज्ञ᳓स्य त्वा स᳓न्ततिम᳓नुस᳓न्तनोमि ।
@@ -2289,7 +2289,7 @@ You are the continuity of the sacrifice;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४ अदस् तमसि</summary>
 
 +++(क्षीर!)+++ अ᳓दस् तमसि वि᳓ष्णवे त्वा ।  
 यज्ञा᳓या᳓पिदधाम्यह᳓म् ।  
@@ -2337,7 +2337,7 @@ for the sacrifice, I cover you.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५ अयम् पयस्</summary>
 
 अय᳓म् प᳓यस् **सो᳓मङ् कृत्वा᳓** ।  
 स्वाय्ँ᳓ यो᳓निम् **अ᳓पिगच्छतु** ॥40॥  
@@ -2388,7 +2388,7 @@ let it go to its own womb.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६ इमौ पर्णञ्च</summary>
 
 इमौ᳓ पर्ण᳓ञ्च दर्भ᳓ञ्च ।  
 देवा᳓नाँ हव्य-शो᳓धनौ ।  
@@ -2447,7 +2447,7 @@ Guard \[the milk\] for the morning service; for, O Viṣṇu, you protect the of
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७ उभावग्नी</summary>
 
 उभा᳓वग्नी᳓ उपस्तृणते᳓ ।  
 देव᳓ता उ᳓पवसन्तु मे ।  

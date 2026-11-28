@@ -12,7 +12,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्रसृतेन वै</summary>
 
 प्र᳓सृतेन वै᳓ यज्ञे᳓न देवा᳓स् स्वर्गल्ँ᳓ लोक᳓म् आयन्।
 </details>
@@ -40,7 +40,7 @@ The Devas reached to the heavenly world by the well-performed sacrifice
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अप्रसृतेनासुरान्</summary>
 
 अ᳓प्र᳓सृतेना᳓सुरान् प᳓राभावयन्।
 </details>
@@ -71,7 +71,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ प्रसृतो ह</summary>
 
 प्र᳓सृतो ह वै᳓ यज्ञोपवीति᳓नो यज्ञो᳓,  
 ऽप्रसृतो᳓ ऽनुपवीति᳓नः।
@@ -110,7 +110,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यत्किञ् च</summary>
 
 य᳓त्कि᳓ञ् च ब्राह्मणो᳓ यज्ञोपवीत्य् अ᳓धीते  
 य᳓जत एव᳓ त᳓त्।
@@ -139,7 +139,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ तस्माद्</summary>
 
 त᳓स्माद् यज्ञोपवीत्य् ए᳙वा᳓धीयीत  
 याज᳓येद् य᳓जेत वा।
@@ -176,7 +176,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ यज्ञस्य</summary>
 
 यज्ञ᳓स्य प्र᳓सृत्या  
 अ᳓जिनव्ँ वा᳓सो वा  
@@ -217,7 +217,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ विपरीतम्</summary>
 
 वि᳓परीतं प्राचीनावीतँ᳓
 </details>
@@ -245,7 +245,7 @@ contradictory to this is (called) the Prācīnāvīta;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ सव्ँवीतम्</summary>
 
 सव्ँवी᳓तं मानुष᳓म् । 1 ।
 </details>

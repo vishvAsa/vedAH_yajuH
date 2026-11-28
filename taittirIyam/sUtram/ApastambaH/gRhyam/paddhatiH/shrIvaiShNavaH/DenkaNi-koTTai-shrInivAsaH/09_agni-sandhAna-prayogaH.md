@@ -5,8 +5,68 @@ title = "०९ अग्नि-सन्धान-प्रयोगः"
 
 पादौ प्रक्षाल्य - द्विर् आचम्य - स-पवित्र-पाणिः दक्षिणा-ताम्बूलाक्षतान् गृहीत्वा - 
 
-> ॐ नमस्सदसे नमस्सदसस्पतये नमस्सखीनां पुरोगाणां चक्षुषे नमो दिवे नमः पृथिव्यै, सप्रथसभाम्मे गोपाय, ये च सभ्यास्सभावदः - तानिन्द्रियावतः कुरु - सर्वमायुरुपासतां - सर्वेभ्यश् श्री-वैष्णवेभो नमः
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/namas_sadase_sabhAM_gopAya">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md">
+<details open><summary><h5>नमस् सदसे ...{Loading}...</h5></summary>
+<details><summary>सर्वा अवतारिकाः</summary>
+
+<details><summary>मूलम् (संयुक्तम्)</summary>
+
+नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
+</details>
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न᳓मस् स᳓दसे॥  
+न᳓मस् स᳓दसस्-प᳓तये॥    
+न᳓मस् स᳓खीनाम् पुरोगा᳓णाञ् च᳓क्षुषे॥    
+न᳓मो दिवे᳓॥   
+न᳓मᳶ पृथिव्यै᳓॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Keith</summary>
+
+Homage to the Sadas, homage to the lord of the Sadas, homage to the eye of the friends who go before, homage to sky, homage to earth.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नम॒स्सद॑से  
+नम॒स्सद॑स॒स्पत॑ये    
+नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे    
+नमो॑ दि॒वे   
+नमᳶ॑ पृथि॒व्यै
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नमः॑ । सद॑से । नमः॑ । सद॑सः । पत॑ये । नमः॑ । सखी॑नाम् । पु॒रो॒गाणा॒मिति॑ पुरः-गाना॑म् । चक्षु॑षे । नमः॑ । दि॒वे । नमः॑ । पृ॒थि॒व्यै ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+'ऐन्द्रं हि देवतया सदः' इति इन्द्रः सदसस्पतिः पालयिता तस्मै नमः । 'षष्ठयाः पतिपुत्र' इति सत्वम् । सखीनां समानख्यानानामृत्विजां पुरोगाणामग्रतो गन्तृणां प्रधानानां सर्वेषामपि चक्षुषे चक्षुसथानीयाय दर्शनहेतवे सवित्रे च नमः । गतमन्यत् ॥
+</details>
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+<details open><summary><h4>267 सप्रथ सभाम् ...{Loading}...</h4></summary>
+
+स᳓प्रथ सभा᳓म् मे गोपाय ।  
+ये᳓ च स᳓भ्यास् सभास᳓दः ।  
+ता᳓निन्द्रिया᳓वतᳵ कुरु ।  
+स᳓र्वम् आ᳓युर् उ᳓पासताम् ।
+</details>
+</div>
+
+(सर्वे॑भ्यः श्रीवैष्ण॒वेभ्यो॒ नमः॑॥)
+</div>
+
+सर्वेभ्यः श्रीवैष्णवेभ्यो नमः ।—
 
 इति ब्राह्मणान् अक्षतैर् अभ्यर्च्य - दक्षिणा ताम्बूलं दत्त्वा - प्रणम्य -
 
@@ -43,14 +103,32 @@ title = "०९ अग्नि-सन्धान-प्रयोगः"
     मधु-गन्ध-रसौ नाम राक्षसा वाज्य-हारिणौ।  
     तयोर् निरसनार्थाय द्वे दर्भाग्रे विनिपेक्षित्॥ 
 
-> अनाज्ञातं यदाज्ञातं - यज्ञस्य क्रियते मिथु - अग्ने तदस्य कल्पय - त्वँ हि वेत्थ यथा तथं स्वाहा - अग्नय इदम् - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
+यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
+</div>
 
-> पुरुषसम्मितो यज्ञः - यज्ञः पुरुषसम्मितः - अग्ने तदस्य कल्पय - त्वँ हि वेत्थ यथा तथं स्वाहा - अग्नय इदम् - 
-[[TODO: परिष्कार्यम्]]
+अग्नय इदम्
 
-> यत्पाकत्रामनसादीनदक्षान - यज्ञस्यमन्वतेमर्तासः - अग्निष्टद्धोता क्रतुविद्विजानन्न् - यजिष्ठो देवाँ ऋतुशोयजाति स्वाहा - अग्नय इदम् - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+पु᳓रुषसम्मितो यज्ञः᳓ ।  
+यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
+</div>
+
+अग्नय इदम्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
+यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
+अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
+य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
+</div>
+
+अग्नय इदम्
 
 प्राणानायम्य - 
 
@@ -60,23 +138,66 @@ title = "०९ अग्नि-सन्धान-प्रयोगः"
 
 [[21]] 
 
-> अयाश्चाग्नेस्यनभिशस्तीश्च सत्यमित्त्वमया असि - अयसामनसाधृतो ऽयसाहव्यमाहिषे ऽयानो धेहि भेषजं स्वाहा - अग्नये अयस इदम् 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_05/18_ayAshchAgne-syanabhishastIshcha_satyamittvamayA.md">
+अया᳓श्+++(=एतुम् योग्यः, गमनशीलो वा)+++ चाग्ने ऽस्य् अनभिशस्ती᳓श्च+++(=अनवद्यः)+++  
+सत्य᳓म् इ᳓त् त्व᳓म्+++(←स्वरः शोधितः)+++ अया᳓ असि ।  
+अ᳓यसा+++(←अय् + असुँन्)+++ म᳓नसा धृतो᳓  
+अय᳓सा+++(← इण् + असुँन्)+++ हव्य᳓म् ऊहिषे+++(=वहस्व)+++  
+अया᳓ नो धेहि भेषज᳓म् ।।+++(५)+++
+</div>
 
-> (पुनस्त्वादित्यारुद्रावसवस्समिन्धतां पुनर्बह्माणो वसुनीथयज्ञैः - घृतेनत्वन्तनुवो वर्धयस्वसत्यास्सन्तु यजमानस्य कामास् स्वाहा - अग्नये वसुनीथायेदम् - 
-[[TODO: परिष्कार्यम्]]
+अग्नये अयस इदम्
 
-> मनो ज्योतिर्जुषतामाज्यं विच्छिन्नं यज्ञँ समिमन्दधातु - या इष्टा उषसो निम्रुचश्च तास्सन्दधामि हविषा घृतेन स्वाहा - मनसे ज्योतिष इदम् - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/2/03_chayanArthathaM_devayajanasya_parigrahaH/49_punas_tvA.md">
+पु᳓नस् त्वा ऽऽदित्या᳓ रुद्रा᳓ व᳓सवः **स᳓मिन्धतां**,  
+पु᳓नर् ब्रह्मा᳓णो वसुनीथ! यज्ञैः᳓ ।  
+घृते᳓न त्वं᳓ तनु᳓वो **वर्धयस्व**,  
+सत्याः᳓ **सन्तु** य᳓जमानस्य का᳓माः ॥
 
-> यन्म आत्मनोमिंदाभूदग्निस् तत्पुनराहार्जातवेदा विचर्षणिस् स्वाहा - अग्नये जातवेदस इदम् - 
-[[TODO: परिष्कार्यम्]]
++++(अग्नये वसुनीथायेदं न मम॥)+++
+</div>
 
-> पुनरग्निश्चक्षुरदात्पुनरिन्द्रो बृहस्पतिः, पुनर्मे अश्विनायुवं चक्षुराधत्तमक्ष्योस् स्वाहा - अग्नीन्द्राबृहस्पत्यश्विभ्य इदम् - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/10_pravAsopasthAnam_yAjamAnam/27_mano_jyotir.md">
+म᳓नो ज्यो᳓तिर् **जुषताम्**, आ᳓ज्यव्ँ  
+वि᳓च्छिन्नय्ँ **यज्ञँ᳓ स᳓म्** इम᳓न् **दधातु** ।  
+या᳓ +++(अन्यैर्)+++ **इष्टा᳓ उष᳓सो**, +++(मया तु)+++  नि-म्रु᳓चश्+++(←स्तेये)+++ च  
+ता᳓स् **स᳓न्दधामि** हवि᳓षा घृते᳓न  ॥
 
-> तन्तुं तन्वन् रजसोभानुमन्विहि ज्योतिष्मतः पथोरक्ष धियाकृतान्, अनुल्बणंवयत जोगुवामपो मनुर्भव जनया दैव्यञ्जनं स्वाहा - अग्नये तन्तुमत इदम्।) 
-[[TODO: परिष्कार्यम्]]
++++(मनसे ज्योतिषे इदं न मम॥)+++
+</div>
+
+मनसे ज्योतिष इदम्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/07_yan_ma.md">
+य᳓न् म आत्म᳓नो मिन्दा᳓+++(=हिंसा)+++ **ऽऽभूद्**,  
+अग्नि᳓स् त᳓त् पु᳓नर् **आ᳓हाः** +++(=आहर)+++।  
+जात᳓वेदा वि᳓चर्षणिः+++(विचक्षणः)+++॥
+</div>
+
+अग्नये जातवेदस इदम्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/2/05_bhaxAnuvAkaH/08_punar_agnish.md">
+पु᳓नर् अग्नि᳓श् च᳓क्षुर् **अदात्**  
+पु᳓नर् इ᳓न्द्रो बृ᳓हस्प᳓तिः।  
+पु᳓नर् मे अश्विना युवं᳓  
+च᳓क्षुर्+++(=दर्शनशक्तिम्)+++ **आ᳓ धत्तम्** अक्ष्योः᳓ ॥
+
++++(अग्नीन्द्राबृहस्पत्यश्विभ्य इदं न मम॥)+++
+</div>
+
+अग्नीन्द्राबृहस्पत्यश्विभ्य इदम्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md">
+त᳓न्तुं तन्व᳓न् र᳓जसो+++(=दिवः)+++ भानु᳓म् **अ᳓न्विहि**  
+ज्यो᳓तिष्मतः पथो᳓ **रक्ष** धिया᳓ कृता᳓न् ।  
++++(तेन खगोलं, विषुव-स्थानञ् च साधु जानीहि!)+++  
+अन्-उल्बणं᳓+++(=उत्कटम् [ग्रन्थ्या])+++ **वयत** जो᳓गुवाम्+++(=स्तोतॄणाम्)+++ अ᳓पो+++(=कर्म)+++  
++++(विषुव-स्थानीय! अग्ने)+++ म᳓नुर् **भव**, **जन᳓या** दै᳓व्यं ज᳓नम् ॥६
+
++++(अग्नये तन्तुमत इदं न मम)+++
+</div>
+
+अग्नये तन्तुमत इदम्।
 
 प्राणानायम्य - 
 
@@ -84,27 +205,67 @@ title = "०९ अग्नि-सन्धान-प्रयोगः"
 
 > ॐ भूर् भुवस् सुवस् स्वाहा - प्रजापतय इदम् - 
 
-> अनाज्ञातं यदाज्ञातं, यज्ञस्य क्रियते मिथु, अग्ने तदस्य कल्पय, त्वँ हि वेत्थ यथा तथं स्वाहा - अग्नय इदम् - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/35_anAjnAtay.NyadAjnAtam_yajnasya.md">
+अ᳓नाज्ञातय्ँ य᳓द् आ᳓ज्ञातम् ।  
+यज्ञ᳓स्य **क्रिय᳓ते** मि᳓थु ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
+</div>
 
-> पुरुषसम्मितो यज्ञः, यज्ञः पुरुषसम्मितः, अग्ने तदस्य कल्पय, त्वँ हि वेत्थ यथा तथं स्वाहा, अग्नय इदम् - 
-[[TODO: परिष्कार्यम्]]
+अग्नय इदम्
 
-> यत्पाकत्रामनसादीनदक्षान, यज्ञस्य मन्वते मर्तासः, अग्निष्टद्धोताक्रतुविद्विजानन्, यजिष्ठो देवाँ ऋतुशो यजाति स्वाहा, अग्नय इदम् 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/38_puruShasammito_yajnaH.md">
+पु᳓रुषसम्मितो यज्ञः᳓ ।  
+यज्ञᳶ᳓ पु᳓रुषसम्मितः ।  
+अ᳓ग्ने त᳓दस्य **कल्पय** ।  
+त्वँ᳓ हि᳓ **वे᳓त्थ** यथातथ᳓म् ।
+</div>
 
-> त्वन्नो अग्ने वरुणस्य विद्वान् देवस्य हेडो ऽवयासिसीष्टाः, यजिष्ठो वह्नितमश् शोशुचानो विश्वाद्वेषाँ सि प्रमुमुग्ध्यस्मत् स्वाहा - अग्नी वरुणाभ्याम् इदम्
-[[TODO: परिष्कार्यम्]]
+अग्नय इदम्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/11/41_yatpAkatrA_manasA.md">
+य᳓त्पाकत्रा᳓ म᳓नसा दीन᳓दक्षा न᳓ ।  
+यज्ञ᳓स्य मन्व᳓ते म᳓र्तासः ।  
+अग्नि᳓ष्ट᳓द्धो᳓ता क्रतु-वि᳓द् **विजान᳓न्** ।  
+य᳓जिष्ठो देवाँ᳓ ऋतुशो᳓ **यजाति** ॥115॥
+</div>
+
+अग्नय इदम्
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/04/001/04_tvaM_no.md">
+त्व᳓न् नो अग्ने व᳓रुणस्य विद्वा᳓न्  
+देव᳓स्य हे᳓डो᳓+++(=क्रोधो )+++ ऽव यासिसीष्ठाः+++(=यक्षीष्ठाः)+++ ।  
+य᳓जिष्ठो +++(हविर्)+++व᳓ह्नितमश् शो᳓शुचानो+++(=देदीप्यमानः)+++  
+वि᳓श्वा द्वे᳓षाँसि प्र᳓ मुमुग्ध्य् अस्म᳓त् ।
+
++++(अग्नीवरुणाभ्याम् इदं न मम)+++
+</div>
+
+अग्नी वरुणाभ्याम् इदम्
 
 [[22]] 
 
-> सत्वन्नो अग्ने ऽवमोभवोतीने दिष्ठो अस्या उषसोव्युष्ठौ, अवयक्ष्वनो वरुणँ रराणो वीहि मृडीकँ सुहवोन एधि स्वाहा, आग्नी वरुणाभ्याम् इदम् - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - २२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/2/5/12_kAmayeShTiyAjyApuronuvAkyAH">
+<details open><summary>विश्वास-प्रस्तुतिः - २२ स त्वन्नो</summary>
+
+स᳓ त्व᳓न्नो अग्नेऽवमो᳓ भवोती᳓ ने᳓दिष्ठो अस्या᳓ उष᳓सो व्यु᳙ष्टौ  ।  
+अ᳓व यक्ष्व नो व᳓रुण᳓म् [72] र᳓राणो वीहि᳓ मृडीकँ᳓ सुह᳓वो न एधि  ।
+</details>
+</div>
+
+आग्नी वरुणाभ्याम् इदम्
 
 "ॐ भूस् स्वाहा, अग्नय इदम्" - "ॐ भुवस् स्वाहा, वायव इदम्" - "ओँ सुवस् स्वाहा, सूर्यायेदम्" - "ॐ भूर् भुवस् सुवस् स्वाहा, प्रजापतय इदम्" - "श्री-विष्णवे स्वाहा, विष्णवे परमात्मन इदम्" - प्राणानायम्य - 
 
-> "ॐ अदिते ऽन्वमग्ग्स्थाः, ॐ अनुमते ऽन्वमग्ग्स्थाः, ॐ सरस्वते ऽन्वमग्ग्स्थाः, ॐ देव सवितः प्रासावीः
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इति पूर्ववत् परिषिच्य। 
 
@@ -182,8 +343,15 @@ title = "०९ अग्नि-सन्धान-प्रयोगः"
 
 पुनः एकां समिधम् आधाय - 
 
-> ॐ अदिते ऽन्वमग्ग्स्थाः, ॐ अनुमते ऽन्वमग्ग्स्थाः, ॐ सरस्वते ऽन्वमग्ग्स्थाः, ॐ देवसवितः प्रासावीः
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/12_adite-nvama.NsthAH_anumate-nvama.NsthAH.md">
+अ᳓दिते᳓ऽन्वमँस्थाः। +++(इति दक्षिणतः, प्राचीनम्)+++ 
+
+अ᳓नुमते᳓ऽन्वमँस्थाः।  +++(इति पश्चिमाद् उदीचीनम्)+++
+
+स᳓रस्वते᳓ ऽन्वमँस्थाः।  +++(इति उत्तरतः प्राचीनम्)+++
+
+दे᳓व सवितः प्रा᳓सावीः।  +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इति पूर्ववत् परिषिच्य - 
 
@@ -193,8 +361,15 @@ title = "०९ अग्नि-सन्धान-प्रयोगः"
 
 तण्डुले सम्यक् श्रिते सति - उत्थाय - 
 
-> अग्नेनय सुपथाराये अस्मान् विश्वानि देव वयुनानि विद्वान्, युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०७(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/2_vashAdi-sUktAni">
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अग्ने नय</summary>
+
+अ᳓ग्ने न᳓य सुप᳓था राये᳓ अस्मा᳓न् ।  
+वि᳓श्वानि देव वयु᳓नानि विद्वा᳓न् ।  
+युयोध्य᳙स्म᳓ज्जुहुराण᳓मे᳓नः ।  
+भू᳓यिष्ठान्ते न᳓म उक्तिव्ँ विधेम ।
+</details>
+</div>
 
 इत्य् उपस्थाय - "अग्नये नमः"
 

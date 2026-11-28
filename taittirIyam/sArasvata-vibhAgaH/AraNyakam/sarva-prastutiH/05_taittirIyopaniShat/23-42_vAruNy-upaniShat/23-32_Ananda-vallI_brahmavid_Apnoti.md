@@ -188,7 +188,7 @@ Om. Peace, peace, peace.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ब्रह्मविद्</summary>
 
 ब्रह्म-वि᳓द् आप्नोति प᳓रम् ।
 </details>
@@ -261,7 +261,7 @@ Om. The knower of the Brahman attains the Supreme.[P282_1]
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तद् एषा</summary>
 
 त᳓द् एषा᳓ ऽभ्युक्ता +++(ऋक्)+++।
 </details>
@@ -299,7 +299,7 @@ As to that this has been said:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ सत्यं ज्ञानम्</summary>
 
 > सत्यं᳓ ज्ञान᳓म् अनन्तं᳓ ब्र᳓ह्म ।  
 यो᳓ वे᳓द नि᳓हितङ् गु᳓हायां परमे᳓ [[व्योमन्|व्यो᳙मन्]]।  
@@ -574,7 +574,7 @@ Real, Knowledge, Infinite is Brahman; he who knows (That) set down in the cave (
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तस्माद् वा</summary>
 
 त᳓स्माद् वा᳓ एत᳓स्माद् आत्म᳓न +++(अग्रे शारीरतया वक्ष्यमाणात् स-शरीर-विशेषात्)+++  
 आकाश᳓स् स᳓म्भूतः +++(शरीरम् श्रुत्य्-अन्तरात्, अन्य-शरीरानुक्त्या)+++।
@@ -617,7 +617,7 @@ From That, verily, from this Soul the space (ākāśa) was born;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ आकाशाद् वायुः</summary>
 
 आकाशा᳓द् वायुः᳓ ।  
 वायो᳓र् अग्निः᳓ ।  
@@ -662,7 +662,7 @@ from space, wind (vāyu); from wind, fire; from fire, waters; from waters, earth
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ पृथिव्या ओषधयः</summary>
 
 पृथिव्या᳓ ओ᳓षधयः ।  
 ओ᳓षधीभ्यो᳓ ऽन्नम् ।  
@@ -699,7 +699,7 @@ from earth, plants; from plants, food; from food, man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ स वा (3/5 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ वा᳓ एष᳓ पु᳓रुषो ऽन्न-रसम᳓यः ।
 </details>
@@ -744,7 +744,7 @@ He, verily, this man consists of food-essence.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (9/15 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ तस्येदम् एव (9/15 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्येद᳓म् +++(दृश्यमानम्)+++ एव᳓ शि᳓रः ।  
 अय᳓न् +++(बाहुः)+++ द᳓क्षिणः पक्षः᳓ ।  
@@ -815,7 +815,7 @@ Thus, indeed, is his head; this, the right side; this, the tail; this, the left 
 
 ### अन्नमहिमा
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ तद् अप्य् (3/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति - (24)
 </details>
@@ -858,7 +858,7 @@ As to that there is also this verse:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० अन्नाद् वै</summary>
 
 अ᳓न्नाद् वै᳓ प्रजाः᳓ प्रजा᳓यन्ते,  
 याः᳓ का᳓श् च पृथिवीँ᳓ श्रिताः᳓ ।  
@@ -922,7 +922,7 @@ From food, verily, creatures are born, whatever (creatures) dwell on earth. More
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ अन्नँ हि</summary>
 
 अ᳓न्नँ हि᳓ भूता᳓नाञ् ज्ये᳓ष्ठम्,  
 त᳓स्मात् सर्वौषध᳓म् उच्यते ।
@@ -965,7 +965,7 @@ For food is, truly, the eldest of beings; therefore, it is called the medicament
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ सर्वव्ँ वै</summary>
 
 स᳓र्वव्ँ वै᳓ ते᳓ऽन्नम् आप्नुवन्ति,  
 ये᳓ऽन्नं ब्र᳓ह्मोपा᳓सते ।
@@ -1003,7 +1003,7 @@ All food, verily, they obtain, who worship food as Brahman.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ अन्नँ हि</summary>
 
 +++(यतः, ब्रह्मवत्)+++ अ᳓न्नँ हि᳓ भूता᳓नाञ् ज्ये᳓ष्ठम् ।  
 त᳓स्मात् +++(ब्रह्मवत्)+++ सर्वौषध᳓म् उच्यते ।
@@ -1034,7 +1034,7 @@ For food is, truly, the eldest of beings; therefore, it is called the medicament
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ अन्नाद् भूतानि</summary>
 
 अ᳓न्नाद् भूता᳓नि जा᳓यन्ते +++(ब्रह्मण इव)+++।  
 जा᳓तान्य् अ᳓न्नेन वर्धन्ते ।
@@ -1077,7 +1077,7 @@ From food are beings born; by food, when born, they grow.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/9 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ अद्यतेऽत्ति च (7/9 व्यत्यस्त-स्वराः)</summary>
 
 अद्य᳓ते᳓ऽत्ति च भूता᳓नि ।  
 त᳓स्माद्+++(स्वरः?)+++ अ᳓न्नन् त᳓द् उच्यत इ᳓ति ।
@@ -1155,7 +1155,7 @@ It is eaten and it eats beings; thence it is called food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ तस्माद् वा (7/8 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्माद् वा᳓ एत᳓स्माद् अन्नरसम᳓यात्  
 अन्यो᳓ ऽन्तर आत्मा᳓ प्राणम᳓यः ।
@@ -1220,7 +1220,7 @@ Then that, verily—than this one consisting of food-essence, there is another s
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ तेनैष पूर्णः (1/3 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓नैष᳓ पूर्णः᳓ ।
 </details>
@@ -1263,7 +1263,7 @@ by him this is filled.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ स वा (2/5 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ वा᳓ एष᳓ पु᳓रुषविध एव᳓ ।
 </details>
@@ -1307,7 +1307,7 @@ He, verily, this one, is just like man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ तस्य (5/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्य पुरुषविध᳓ताम् अ᳓न्वयं᳓ पु᳓रुषविधः ।
 </details>
@@ -1353,7 +1353,7 @@ After his human shape, this one (consisting of breath) is like man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २० तस्य प्राण (6/10 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्य प्राण᳓ एव᳓ शि᳓रः+++(←स्वरः?)+++ ।  
 व्यानो᳓ द᳓क्षिणः पक्षः᳓ ।  
@@ -1399,7 +1399,7 @@ Of him the in-breath (prāṇa) is itself head; the diffused breath (vyāna), th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २१ आकाश आत्मा (1/2 व्यत्यस्त-स्वराः)</summary>
 
 +++(सर्व-प्रान-धारकत्वाद्)+++ आकाश᳓ आत्मा᳓ ।
 </details>
@@ -1441,7 +1441,7 @@ space, the self;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २२ पृथिवी पुच्छम् (1/3 व्यत्यस्त-स्वराः)</summary>
 
 +++(तस्याप्य् आधारत्वात्)+++ पृथिवी᳓ पु᳓च्छं प्रतिष्ठा᳓ ।
 </details>
@@ -1482,7 +1482,7 @@ earth, the tail, the support.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/21 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २३ तद् अप्य् (3/21 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति - (25)
 
@@ -1566,7 +1566,7 @@ The gods breathe with breath (prāṇa), as also men and beasts. For breath, ver
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २४ सर्वम् एव (6/17 व्यत्यस्त-स्वराः)</summary>
 
 स᳓र्वम् एव᳓ त आ᳓युर् यन्ति,  
 ये᳓ प्राणं᳓ ब्र᳓ह्मोपा᳓सते ।  
@@ -1637,7 +1637,7 @@ The whole life-duration do they obtain, who worship breath as Brahman. For breat
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २५ तस्यैष एव (4/7 व्यत्यस्त-स्वराः)</summary>
 
 +++(प्राणमयस्य)+++ त᳓स्यैष᳓ एव᳓ शारीर᳓ +++(परम-)+++आत्मा᳓,  
 यः᳓ +++("यस्य पृथिवी शरीरम्" इत्य्-आदि-श्रुत्य्-अन्तर-सिद्धः, परम-कारणतयोपर्य् उक्तः)+++ पू᳓र्वस्य +++(अन्नमयस्य)+++।
@@ -1699,7 +1699,7 @@ Of that, of the former, this one, verily, is the self embodied.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २६ तस्माद् वा (7/8 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्माद् वा᳓ एत᳓स्मात् प्राणम᳓यात्,  
 अन्यो᳓ऽन्तर आत्मा᳓ मनोम᳓यः ।
@@ -1748,7 +1748,7 @@ Than that, verily—than this one consisting of breath, there is another self wi
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २७ तेनैष पूर्णः (1/3 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓नैष᳓ पूर्णः᳓ ।
 </details>
@@ -1778,7 +1778,7 @@ by him this is filled.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २८ स वा (2/5 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ वा᳓ एष᳓ पु᳓रुषविध एव᳓ ।
 </details>
@@ -1805,7 +1805,7 @@ He, verily, this one, is just like man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - २९ तस्य (5/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्य पुरुषविध᳓ताम् अ᳓न्वयं᳓ पु᳓रुषविधः ।
 </details>
@@ -1837,7 +1837,7 @@ After his human shape, this one (consisting of mind) is like man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३० तस्य यजुर् (3/4 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्य य᳓जुर्+++(-मनो-वृत्तिर्)+++ एव᳓ शि᳓रः+++(←स्वरः?)+++ ।
 </details>
@@ -1883,7 +1883,7 @@ Of him the yajus itself is the head;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३१ ऋग् दक्षिणः (1/8 व्यत्यस्त-स्वराः)</summary>
 
 ऋ᳓ग्+++(-मनो-वृत्तिर्)+++ द᳓क्षिणः पक्षः᳓ ।  
 सा᳓मो᳓त्तरः पक्षः᳓ ।  
@@ -1931,7 +1931,7 @@ Of him the yajus itself is the head;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३२ अथर्वाङ्गिरसः (1/3 व्यत्यस्त-स्वराः)</summary>
 
 अथर्वाङ्गिर᳓सः पु᳓च्छं प्रतिष्ठा᳓ ।
 </details>
@@ -1968,7 +1968,7 @@ the Atharvanas and the Āṅgirasas, the tail, the support.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (9/19 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३३ तद् अप्य् (9/19 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति । (26)
 
@@ -2048,7 +2048,7 @@ Whence words turn back together with the mind without reaching, he who knows tha
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३४ तस्यैष एव (4/7 व्यत्यस्त-स्वराः)</summary>
 
 +++(मनोमयस्य)+++ त᳓स्यैष᳓ एव᳓ शारीर᳓ +++(परम-)+++आत्मा᳓,  
 यः᳓ पू᳓र्वस्य +++(प्राणमयस्य)+++।
@@ -2106,7 +2106,7 @@ Of that, of the former, this is the self embodied.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३५ तस्माद् वा (7/8 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्माद् वा᳓ एत᳓स्मान् मनोम᳓यात्,  
 अन्यो᳓ऽन्तर आत्मा᳓ विज्ञानम᳓यः +++(→जीवः)+++।
@@ -2154,7 +2154,7 @@ Than that, verily—than this one consisting of mind, there is another self with
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३६ तेनैष पूर्णः (1/3 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓नैष᳓ पूर्णः᳓ ।
 </details>
@@ -2179,7 +2179,7 @@ by him this is filled.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३७ स वा (2/5 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ वा᳓ एष᳓ पु᳓रुषविध एव᳓ ।
 </details>
@@ -2206,7 +2206,7 @@ He, verily, this one, is just like man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३८ तस्य (5/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्य पुरुषविध᳓ताम् अ᳓न्वयं᳓ पु᳓रुषविधः ।
 </details>
@@ -2238,7 +2238,7 @@ After his human shape, this one (consisting of knowledge) is like man.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/10 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ३९ तस्य श्रद्धैव (6/10 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्य श्रद्धै᳓व᳓ +++(इति ज्ञान-विशेषः)+++ शि᳓रः ।  
 ऋत᳓न् द᳓क्षिणः पक्षः᳓ ।  
@@ -2289,7 +2289,7 @@ Of him, faith itself is the head; settled order (ṛta), the right wing; truth, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४० योग आत्मा</summary>
 
 +++("ओम् इत्य् आत्मानं युञ्जीत"→)+++ यो᳓ग आत्मा᳓ ।
 </details>
@@ -2323,7 +2323,7 @@ contemplation (yoga), the self;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/3 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४१ महः पुच्छम् (1/3 व्यत्यस्त-स्वराः)</summary>
 
 +++(योग-विरोधि-निरसन-सामर्थ्य-लक्षणं)+++ म᳓हः पु᳓च्छं प्रतिष्ठा᳓ ।
 </details>
@@ -2366,7 +2366,7 @@ might (mahas), the tail, the support.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४२ तद् अप्य् (3/12 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति । (27)
 
@@ -2438,7 +2438,7 @@ Knowledge accomplishes sacrifice; and also accomplishes deeds;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४३ विज्ञानन्</summary>
 
 विज्ञा᳓नन् देवा᳓स् स᳓र्वे,  
 +++(प्रधान-रूप-)+++ब्रह्म-ज्ये᳓ष्ठम् उ᳓पासते +++(प्रजापति-विद्योक्त-रीत्या)+++।
@@ -2476,7 +2476,7 @@ all gods worship knowledge as Brahman, the Eldest.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/16 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४४ विज्ञानं ब्रह्म (6/16 व्यत्यस्त-स्वराः)</summary>
 
 विज्ञा᳓नं+++(→जीव-प्रकारकं)+++ ब्र᳓ह्म चे᳓द् वे᳓द,  
 त᳓स्माच् चे᳓न् न᳓ प्रमा᳓द्यति ।  
@@ -2543,7 +2543,7 @@ If (one) understands knowledge as Brahman (and) if from That he does not swerve,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४५ तस्यैष एव (4/7 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्यैष᳓ एव᳓ शारीर᳓ +++(परम-)+++आत्मा᳓, यः᳓ पू᳓र्वस्य +++(मनोमयस्य)+++।
 </details>
@@ -2584,7 +2584,7 @@ Of that, of the former, this is the self embodied.
 
 ## आनन्दमयः
 
-<details open><summary>विश्वास-प्रस्तुतिः (8/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४६ तस्माद् वा (8/11 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्माद् वा᳓ एत᳓स्माद् विज्ञानम᳓यात्,  
 अन्यो᳓ऽन्तर आत्मा᳓ऽऽनन्दम᳓यः ।  
@@ -2626,7 +2626,7 @@ Than that, verily—than this one consisting of knowledge, there is another self
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (15/25 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४७ स वा (15/25 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ वा᳓ एष᳓ +++(आनन्दमयः)+++ पु᳓रुष-विध एव᳓ ।  
 त᳓स्य पुरुषविध᳓ताम् अ᳓न्वयं᳓ पु᳓रुषविधः ।  
@@ -2730,7 +2730,7 @@ He, verily, this one, is just like man. After his human shape, this one consisti
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (11/24 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४८ तद् अप्य् (11/24 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति । (28)
 
@@ -2821,7 +2821,7 @@ Non-existent (asat), verily, he becomes, if he knows Brahman non-existent. If he
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ४९ तस्यैष एव (4/7 व्यत्यस्त-स्वराः)</summary>
 
 +++("आनन्दमयाद् अन्यो ऽन्तर आत्मा" इति निर्देशाभावाद्, ब्रह्म-पुच्छत्वेन सर्व-कारणत्वात्, आनन्दमयस्य)+++ त᳓स्यैष᳓ +++(आनन्दमय)+++ एव᳓ शारीर᳓ +++(परम-)+++आत्मा᳓, 
 यः᳓ पू᳓र्वस्य +++(विज्ञानमयस्य)+++।
@@ -2896,7 +2896,7 @@ Of that, of the former, this is the self embodied.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५० अथातो</summary>
 
 अ᳓था᳓तो ऽनुप्रश्नाः᳓ ।  
 उता᳓ +++("ब्रह्म निहितं गुहायां")+++ विद्वा᳓न् अमुल्ँ᳓ लोकं᳓ +++(→"परमे व्योमन्")+++ प्रे᳓त्य,  
@@ -2939,7 +2939,7 @@ Now next, the appurtenant questions: Does any one, who knows not, go to the yond
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५१ आहो विद्वान्</summary>
 
 आ᳓हो विद्वा᳓न् अमुल्ँ᳓ लोकं᳓ प्रे᳓त्य,  
 कश्चित् +++("सर्वान् कामान्")+++ स᳓मश्नुता᳓(३) उ ।  
@@ -2994,7 +2994,7 @@ Or does anyone, who knows, obtain the yonder world after departure (from this wo
 ## विद्याऽपेक्षिता
 ### सृष्टिः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५२ सोऽकामयत बहु</summary>
 
 सो᳙ऽकामयत - बहु᳓ स्यां प्र᳓जायेये᳓ति ।
 </details>
@@ -3030,7 +3030,7 @@ He desired: 'Let me be many, let me procreate myself.'
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५३ स तपोऽतप्यत</summary>
 
 स᳓ त᳓पोऽतप्यत ।
 </details>
@@ -3065,7 +3065,7 @@ He performed penance;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५४ स तपस्तप्त्वा</summary>
 
 स᳓ त᳓पस्तप्त्वा᳓ - इदँ᳓ स᳓र्वम् असृजत -  
 यद् इद᳓ङ् कि᳓ञ् च ।
@@ -3095,7 +3095,7 @@ after performing penance he created all this whatsoever.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५५ तत् सृष्ट्वा</summary>
 
 त᳓त् सृष्ट्वा᳓ - त᳓द् एवा᳓नु प्रा᳓विशत् ।
 </details>
@@ -3141,7 +3141,7 @@ Having created it, into it, indeed, he entered.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५६ तद् अनुप्रविश्य</summary>
 
 त᳓द् अनुप्रवि᳓श्य -  
 सच् +++(→निर्विकारं चेतनं)+++ च त्य᳓च्+++(←त्यज् →अचेतनम्)+++ चाभवत् +++(तच्-छरीरतया)+++,
@@ -3190,7 +3190,7 @@ Having entered it, he became existent and tyat;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/16 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५७ निरुक्तञ् (4/16 व्यत्यस्त-स्वराः)</summary>
 
 नि᳓रुक्तञ् चा᳓निरुक्तञ् च,  
 निल᳓यनञ् चा᳓निलयनञ् च,  
@@ -3267,7 +3267,7 @@ defined and undefined; support and non-support; conscious and unconscious; true 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/2 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५८ सत्यम् अभवत् (2/2 व्यत्यस्त-स्वराः)</summary>
 
 +++(चेतनाचेतन-नाम-रूप-भाग् अपि ब्रह्म)+++ सत्य᳓म् अभवत् ।
 </details>
@@ -3309,7 +3309,7 @@ defined and undefined; support and non-support; conscious and unconscious; true 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/9 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ५९ यद् इदङ् (7/9 व्यत्यस्त-स्वराः)</summary>
 
 +++(अतो)+++ य᳓द् इद᳓ङ् कि᳓ञ् च - त᳓त् +++(ब्रह्मात्मकतया)+++ सत्य᳓म् इ᳓त्य् आ᳓चक्षते ।
 </details>
@@ -3361,7 +3361,7 @@ whatever there is here, that all they call real.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६० तद् अप्य् (3/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति - (29)
 </details>
@@ -3393,7 +3393,7 @@ As to that there is also this verse:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६१ असद् वा</summary>
 
 अ᳓सद्+++(→अनभिव्यक्त-नाम-रूपं ब्रह्म)+++ वा᳓ इद᳓म् +++(→अभिव्यक्त-नाम-रूपं ब्रह्म)+++ अ᳓ग्र आसीत् ।  
 त᳓तो वै᳓ स᳓द् अजायत ।
@@ -3444,7 +3444,7 @@ This (world) was, verily, non-existent in the beginning; thence, verily, existen
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६२ तद् आत्मानँ (3/4 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् आत्मा᳓नँ स्वय᳓म् अकुरुत ।
 </details>
@@ -3491,7 +3491,7 @@ That made its soul itself;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६३ तस्मात् तथ् (4/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्मात् त᳓थ्+++(=असत्)+++ सुकृत᳓म् उच्यत  
 इ᳓ति ।
@@ -3557,7 +3557,7 @@ therefore it is called the well-done (or self-done).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६४ यद् वै (4/7 व्यत्यस्त-स्वराः)</summary>
 
 य᳓द् वै᳓ त᳓त् सुकृत᳓म् +++(ब्रह्म)+++-  
 +++(आनन्दमयत्वाद्)+++ र᳓सो वै᳓ सः᳓ ।
@@ -3602,7 +3602,7 @@ Verily, what, that is well-done (or self-done), that, verily, is essence (rasa).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६५ रसँ ह्य् (4/7 व्यत्यस्त-स्वराः)</summary>
 
 र᳓सँ ह्य् ए᳙वा᳓यल्ँ᳓ लब्ध्वा᳓ ऽऽनन्दी᳓ भ᳓वति ।
 </details>
@@ -3646,7 +3646,7 @@ For on getting the essence, truly, (one) becomes blissful.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (8/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६६ को ह्य् (8/17 व्यत्यस्त-स्वराः)</summary>
 
 को᳓ ह्य् ए᳙वा᳓न्यात्, कः᳓ प्रा᳓ण्यात् -  
 य᳓द् एष᳓ आकाश᳓+++(य्)+++ आनन्दो᳓+++(→आनन्दमयो)+++ न᳓ स्या᳓त् ।  
@@ -3709,7 +3709,7 @@ For who would breathe out (or) who would breathe in, if there were not this blis
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (15/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६७ यदा ह्य् (15/17 व्यत्यस्त-स्वराः)</summary>
 
 यदा᳓ ह्य् ए᳙वै᳓ष᳓ एत᳓स्मिन्न् अ᳓दृश्ये ऽनात्म्ये᳓+++(=अ-शरीरे [सृष्टेः प्राक्])+++ ऽनिरुक्ते᳓ ऽनिलयने᳓  
 ऽभयं +++(→अभयाय → नाव्ययीभावादतोऽम्त्वपञ्चम्याः)+++ प्रतिष्ठाव्ँ᳓ +++(धानादिना)+++ विन्द᳓ते,  
@@ -3795,7 +3795,7 @@ For, when, truly, this (ātman) finds fearlessness as a support in this invisibl
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (10/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६८ यदा ह्य् (10/13 व्यत्यस्त-स्वराः)</summary>
 
 यदा᳓ ह्य् ए᳙वै᳓ष᳓ एत᳓स्मिन् नु᳓ दर᳓म् अ᳓न्तरङ् कुरुते᳓ -  
 अ᳓थ त᳓स्य भयं᳓ भवति।
@@ -3866,7 +3866,7 @@ When, however, this (ātman) makes any little difference in this (Brahman), then
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ६९ तत् त्व् (3/6 व्यत्यस्त-स्वराः)</summary>
 
 त᳓त् त्व् ए᳙व᳓ भयव्ँ᳓ +++(ब्रह्म-)+++विदु᳓षो᳓ +++(निरन्तरम्)+++ ऽमन्वानस्य ।
 </details>
@@ -3933,7 +3933,7 @@ That (Brahman) himself is (the cause of) fear for the knower (of the difference)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (13/23 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७० तद् अप्य् (13/23 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति - (30)
 
@@ -4028,7 +4028,7 @@ Through fear of Him the wind (vāyu) blows; through fear the sun (sūrya) rises;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७१ सैषाऽऽनन्दस्य (2/5 व्यत्यस्त-स्वराः)</summary>
 
 सै᳓षा᳓ऽऽनन्द᳓स्य मी᳓माँसा भवति ।
 </details>
@@ -4070,7 +4070,7 @@ This is that consideration (mīmāṃsā) of bliss:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (यन्त्र-स्वरः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७२ युवा स्यात्</summary>
 
 यु᳓वा स्यात्।
 </details>
@@ -4113,7 +4113,7 @@ Let there be a youth,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/6 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७३ साधु युवा (6/6 व्यत्यस्त-स्वराः)</summary>
 
 साधु᳓ यु᳓वा ऽध्या᳓यकः - आ᳓शिष्ठो+++(←आशु/ आशीः)+++ द्र᳓ढिष्ठो ब᳓लिष्ठः ।
 </details>
@@ -4146,7 +4146,7 @@ a good youth (sadā-yuva), studious, most quick, most firm and most vigorous;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७४ तस्येयं पृथिवी (6/7 व्यत्यस्त-स्वराः)</summary>
 
 त᳓स्येयं᳓ पृथिवी᳓ स᳓र्वा वित्त᳓स्य पूर्णा᳓ स्यात् ।
 </details>
@@ -4180,7 +4180,7 @@ let this whole earth be full of wealth for him.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (2/4 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७५ स एको (2/4 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ ए᳓को मा᳓नुष आनन्दः᳓ ।
 </details>
@@ -4272,7 +4272,7 @@ That is one human bliss.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७६ ते ये (6/12 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शतं᳓ मा᳓नुषा आनन्दाः᳓ । स᳓ ए᳓को मनुष्यगन्धर्वा᳓णाम् आनन्दः᳓ +++(अवर-मानेन / lower-bound)+++। श्रो᳓त्रियस्य चा᳓कामहतस्य +++(→ मुक्तस्य)+++।
 </details>
@@ -4341,7 +4341,7 @@ Such hundred human blisses (1) are one bliss of the human Gandharvas as well as 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७७ ते ये (6/12 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शतं᳓ मनुष्यगन्धर्वा᳓णाम् आनन्दाः᳓ - स᳓ ए᳓को देवगन्धर्वा᳓णाम् आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4390,7 +4390,7 @@ Such hundred blisses of the human Gandharvas are one bliss of the divine Gandhar
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७८ ते ये (7/13 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शत᳓न् देवगन्धर्वा᳓णाम् आनन्दाः᳓ - स᳓ ए᳓कः पितृणा᳓ञ् चिर-लोक᳓-लोकानाम् आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4440,7 +4440,7 @@ Such hundred blisses of the divine Gandharvas are one bliss of the fathers of lo
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (8/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ७९ ते ये (8/14 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शतं᳓ पितृणा᳓ञ् चिरलोक᳓लोकानाम् आनन्दाः᳓ - स᳓ ए᳓क आजान+++(=देवलोक)+++-जा᳓नान् देवा᳓नाम् आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4491,7 +4491,7 @@ Such hundred blisses of the fathers of the long-enduring world are one bliss of 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (11/18 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८० ते ये (11/18 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शत᳓माजानजा᳓नान् देवा᳓नाम् आनन्दाः᳓ - स᳓ ए᳓कः कर्मदेवा᳓नान् देवा᳓नाम् आनन्दः᳓ ।  
 ये᳓ क᳓र्मणा देवा᳓न् अपिय᳓न्ति । श्रो᳓त्रियस्य चा᳓कामहतस्य ।
@@ -4548,7 +4548,7 @@ Such hundred blisses of the gods born in the divine world are one bliss of the g
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८१ ते ये (7/13 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शत᳓ङ् कर्मदेवा᳓नान् देवा᳓नामानन्दाः᳓ - स᳓ ए᳓को देवा᳓नाम् आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4598,7 +4598,7 @@ Such hundred blisses of the gods divine by work are one bliss of gods as well as
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८२ ते ये (5/12 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शत᳓न् देवा᳓नाम् आनन्दाः᳓ - स᳓ ए᳓क इ᳓न्द्रस्यानन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4647,7 +4647,7 @@ Such hundred blisses of gods are one bliss of Indra (3) as well as of one well-v
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८३ ते ये (5/12 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शत᳓म् इ᳓न्द्रस्यानन्दाः᳓ - स᳓ ए᳓को बृ᳓हस्प᳓तेर् आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4686,7 +4686,7 @@ Such hundred blisses of Indra are one bliss of Bṛhaspati as well as of one wel
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८४ ते ये (6/12 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शतं᳓ बृ᳓हस्प᳓तेर् आनन्दाः᳓ - स᳓ ए᳓कः प्रजा᳓पतेर् आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
 </details>
@@ -4735,7 +4735,7 @@ Such hundred blisses of Bṛhaspati are one bliss of Prajāpati as well as of on
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (6/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८५ ते ये (6/12 व्यत्यस्त-स्वराः)</summary>
 
 ते᳓ ये᳓ शतं᳓ प्रजा᳓पतेर् आनन्दाः᳓ -  
 स᳓ ए᳓को ब्र᳓ह्मण आनन्दः᳓ - श्रो᳓त्रियस्य चा᳓कामहतस्य ।
@@ -4912,7 +4912,7 @@ Such hundred blisses of Prajāpati are one bliss of Brahman as well as of one we
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (4/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८६ स यश् (4/11 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ य᳓श् चायं᳓ +++(हृदय-गुहायां निहितः)+++ पु᳓रुषे,  
 य᳓श् चासा᳓व् आदित्ये᳓ - स᳓ ए᳓कः ।
@@ -5007,7 +5007,7 @@ He who is in the man and who is in the sun—he is one.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (35/37 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८७ स य (35/37 व्यत्यस्त-स्वराः)</summary>
 
 +++("उताविद्वान् अमुं लोकम्…" इत्यादौ निर्णयः –)+++  
 स᳓ य᳓ एवव्ँ᳓ वि᳓त्, अस्मा᳓ल् लोका᳓त् प्रे᳓त्य,  
@@ -5133,7 +5133,7 @@ He who knowing this, after departing from this world, proceeds on to this self, 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८८ तद् अप्य् (3/5 व्यत्यस्त-स्वराः)</summary>
 
 त᳓द् अ᳓प्य् एष᳓ श्लो᳓को भवति - (31)
 </details>
@@ -5178,7 +5178,7 @@ As to that there is also this verse:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/14 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ८९ यतो वाचो (5/14 व्यत्यस्त-स्वराः)</summary>
 
 य᳓तो वा᳓चो **निव᳓र्तन्ते**  
 **अ᳓-प्राप्य** म᳓नसा सह᳓ ।  
@@ -5241,7 +5241,7 @@ Whence words turn back together with the mind without reaching, he who knows tha
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (12/15 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९० एतँ ह (12/15 व्यत्यस्त-स्वराः)</summary>
 
 एतँ᳓ ह वा᳓व न᳓ तपति -  
 "कि᳓म् अहँ᳓ साधु᳓ ना᳓करवम्?  
@@ -5302,7 +5302,7 @@ Him, certainly, does not torment (the thought), "Why have I not done good and wh
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (5/7 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९१ स य (5/7 व्यत्यस्त-स्वराः)</summary>
 
 स᳓ य᳓ एवव्ँ᳓ विद्वा᳓न्  
 एते᳓ +++(→एताभ्याम् पुण्य-पापाभ्याम्)+++ आत्मा᳓नँ **स्पृ᳓णुते**+++(=रक्षति)+++।
@@ -5353,7 +5353,7 @@ He who knows thus, regards these two as Ātman.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (7/12 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ९२ उभे ह्य् (7/12 व्यत्यस्त-स्वराः)</summary>
 
 उभे᳓ ह्य् ए᳙वै᳓ष᳓ एते᳓ +++(→एताभ्याम् पुण्य-पापाभ्याम्)+++ आत्मा᳓नँ स्पृ᳓णुते  
 य᳓ एवव्ँ᳓ वे᳓द ।  

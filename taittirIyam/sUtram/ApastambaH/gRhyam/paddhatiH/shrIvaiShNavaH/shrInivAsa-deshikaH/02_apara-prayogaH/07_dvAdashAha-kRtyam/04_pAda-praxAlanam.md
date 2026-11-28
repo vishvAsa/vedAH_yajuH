@@ -29,8 +29,21 @@ title = "०४ पाद-प्रक्षालनम्"
 
 उपवीती, गोमयमाज्यञ्चादाय, 
 
-> शुक्रमॅसि, ज्योतिरसि। तेजोऽसि, गन्धद्वारां, दुराधर्षां, नित्यपुष्टां, क॒रीषिणीम्। ई॒श्वरीं, सर्वभूतानां त्वामिह, उपह्वये॒श्रियम्॥ 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - १३(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/1_darshapUrNamAsAdi/10_havirgrahaNam">
+<details open><summary>विश्वास-प्रस्तुतिः - १३ शुक्रम् असि</summary>
+
+शुक्र᳓म्+++(=शुद्धम्)+++ असि ।  
+ज्यो᳓तिर् असि ।  
+ते᳓जोऽसि ।
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_07_mRttike/05_gandhadvArAn_durAdharShAn.md">
+गन्ध᳓द्वारान् दुराधर्षा᳓न्  
+नित्य᳓-पुष्टाङ् करीषि᳓णीम् ।  
+ईश्वरीँ᳓ स᳓र्व-भूतानान्  
+त्वा᳓म् **इहो᳓पह्वये** श्रि᳓यम् ॥
+</div>
 
 पादयोरनुलिप्य, "विश्वेदेवाः स्वागतम्", इति उक्त्ता, "इदं वः पाद्यं", इति पत्न्या, अन्येनवा समर्पितेन साक्षतेनजलेन पादौ प्रक्षालयेत्। 
 

@@ -17,7 +17,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यद्देवा</summary>
 
 य᳓द्देवा देवहे᳓डनम् ।  
 दे᳓वासश्चकृमा᳓ वय᳓म् ।  
@@ -60,7 +60,7 @@ and by the truth of cosmic order, release me!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ देवा जीवनकाम्या</summary>
 
 दे᳓वा जीवनकाम्या᳓ य᳓त् ।  
 वाचा᳓ऽनृतमूदिम᳓ ।  
@@ -116,7 +116,7 @@ may he make me sinless!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ऋतेन</summary>
 
 ऋते᳓न द्यावापृथिवी ।  
 ऋते᳓न त्वँ᳓ सरस्वति ।  
@@ -158,7 +158,7 @@ by cosmic order, release me from distress,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ सजातशँसादुत वा</summary>
 
 सजातशँसा᳓दुत᳓ वा जामिशँसा᳓त् ।  
 ज्या᳓यसश्शँ᳓सादुत᳓ वा क᳓नीयसः ।  
@@ -202,7 +202,7 @@ from the curse of an elder
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ यद्वाचा यन्मनसा</summary>
 
 य᳓द्वाचा᳓ य᳓न्म᳓नसा ।  
 बाहु᳓भ्यामूरु᳓भ्यामष्ठीव᳓द्भ्याम् ॥117॥  
@@ -250,7 +250,7 @@ by arms, by thighs, by knees...
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ यद्धस्ताभ्याञ्चकर</summary>
 
 य᳓द्ध᳓स्ताभ्याञ्चक᳓र कि᳓ल्बिषाणि ।  
 अक्षा᳓णाव्ँवग्नु᳓मुपजि᳓घ्नमानः ।  
@@ -301,7 +301,7 @@ What debt I incurred without gambling,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अदीव्यन्नृणय्ँयदहञ्चकार</summary>
 
 अ᳓दीव्यन्नृणय्ँ᳓य᳓दह᳓ञ्चका᳓र ।  
 य᳓द्वा᳓दास्यन्त्सञ्जगा᳓रा ज᳓नेभ्यः ।  
@@ -342,92 +342,19 @@ or what I promised to people without intending to give,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/08_yanmayi_mAtA_garbhe.md">
+</div>
 
-य᳓न्म᳓यि माता᳓ ग᳓र्भे सति᳓ ॥118॥  
-ए᳓नश्चका᳓र य᳓त्पिता᳓ ।  
-अग्नि᳓र्मा त᳓स्मादे᳓नसः ।  
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/08_yanmayi_mAtA_garbhe.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/09_yadApipeSha_mAtarampitaram.md">
+</div>
 
-<details><summary>Gemini 3.8 Flash</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/09_yadApipeSha_mAtarampitaram.md">
+</div>
 
-may Agni \[release\] me from that sin!  
-What my mother, while I was in the womb...
-</details>
-
-<details><summary>मूलम्</summary>
-
-यन्मयि॑ मा॒ता गर्भे॑ स॒ति ॥118॥  
-एन॑श्च॒कार॒ यत्पि॒ता ।  
-अ॒ग्निर्मा॒ तस्मा॒देन॑सः ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-य᳓त् । म᳓यि । माता᳓ । ग᳓र्भे । सति᳓ । ए᳓नः । चका᳓र । य᳓त् । पिता᳓ । अग्निः᳓ । मा । त᳓स्मात् । ए᳓नसः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-8यन्मयीति षट्पदा जगती ॥ मयि गर्भस्थे सति माता यदेनः परपुरुषसेवादि चकार, पिता यदेनः प्रतिषिद्धमैथुनादि चकार । अग्निर्मेत्यादि गतम् ॥
-- तस्मात् तन्निमित्तात् एनसः मां गार्हपत्यः अग्निः प्रमुञ्चतु यानि चान्यानि दुरितानि दुर्गाणि निमित्तानि कर्माणि सपुत्रपौत्राः चकृम । तेनापि कर्मणा मां अनेनसं करोतु । मयि शुद्धे मत्सम्बन्धिनस्सर्वे विशुद्धा इति भावः ॥
-
-- गार्ह॑पत्य॒ᳶ प्रमु॑ञ्चतु ।  दु॒रि॒ता यानि॑ चकृ॒म ।   क॒रोतु॒ माम॑ने॒नस॑म् ॥116॥  
-
- - तस्मात् तन्निमित्तात् एनसः मां गार्हपत्यः अग्निः प्रमुञ्चतु यानि चान्यानि दुरितानि दुर्गाणि निमित्तानि कर्माणि सपुत्रपौत्राः चकृम । तेनापि कर्मणा मां अनेनसं करोतु । मयि शुद्धे मत्सम्बन्धिनस्सर्वे विशुद्धा इति भावः ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथाष्टमं मन्त्रमाह—यन्मयि माता गर्भे सति ( ३ ) । एनश्वकार यत्पिता । अग्निर्मा तस्मादेनसः, इति । मयि गर्भरूपेणोदरं प्रविष्टे सति माता यदेनवकार परपुरुषसेवादिकं कृत- वती । पिता यदेनः प्रतिषिद्धदिने मैथुनादि चकार । अग्निरित्यादि पूर्ववत् ।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-य᳓दापिपे᳓ष मात᳓रम्पित᳓रम् ।  
-पुत्रᳶ᳓ प्र᳓मुदितो ध᳓यन् ।  
-अ᳓हिँसितौ पित᳓रौ म᳓या त᳓त् ।  
-त᳓दग्ने अनृणो᳓ भवामि ।  
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-...committed as sin, what my father \[did\],  
-may Agni \[release\] me from that sin!  
-If, suckling, a joyful son  
-has hurt mother or father,
-</details>
-
-<details><summary>मूलम्</summary>
-
-यदा॑पि॒पेष॑ मा॒तर॑म्पि॒तर॑म् ।  
-पु॒त्रᳶ प्रमु॑दितो॒ धय॑न् ।  
-अहिँ॑सितौ पि॒तरौ॒ मया॒ तत् ।  
-तद॑ग्ने अनृ॒णो भ॑वामि ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-य᳓दा । पिपे᳓ष । मात᳓रम् । पित᳓रम् । पुत्रः᳓ । प्र᳓-मुदितः । ध᳓यन् । अ᳓हिंसि । तौ । पित᳓रौ । म᳓या । त᳓त् । त᳓त् । अग्ने । अनृणः᳓ । भवामि ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-9यदापिपेषेति बृहती, पङ्क्तिर्वा ॥ यदहं मातुरुत्सङ्गस्थः मातरं आपिपेष पीडितवानस्मि हस्तपादेन । पितरं च पितुरुत्सङ्गस्थः । पुत्त्रः दुःखात् पुन्नाम्नः त्राता । क्षान्तिहेतुरयम् । प्रमुदितः हृष्टात्मा धर्माधर्मयोः अज्ञाता । तदपि कुत इत्याह - धयन् स्तनं पिबन् । अवस्थाप्रदर्शनेन अज्ञत्वं दर्शयति । तत् तदा मया तादृशेन पितरौ मातापितरौ अहिंसितौ अनुपद्रुतावेव । यद्वा - क्रोधकारिणौ मा भूताम्, तथाऽपि तयोः या क्षान्तिः तदानीं नाभूत् तत्राहं अनृणो भवामि तत्प्रत्युपकाराकरणपापरहितो भूयासं त्वत्प्रसादेन ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ नवमं मन्त्रमाह—यद पिपेष मातरं पितरंम् । पुत्रः प्रमु॑- दितो धर्यन् । अहिंसितौ पितरौ मया तत् । तद॑ग्ने॒ अनु॒णो भ॑वामि, इति । यदा बीलः पुत्रः शिशुरहं प्रमुदितः प्रकर्षेण हृष्टो धयन्स्तनं पिवन्मातरं पिपेष पीडितवानस्मि तथा पितरं च हस्तपादोपघातेन पीडितवानस्मि तत्त दानीं पितरौ मातापितरावुभौ मयाऽ हिंसितावनुपद्रुतौ भवताम् । तत्तन्मातापित्रोर्विषये हेऽग्नेऽहमनृणो भवामि प्रत्युपकारराहित्यरूपं यत्पापं तेन मुक्तो भूयासम् ।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ यदन्तरिक्षम्पृथिवीमुत</summary>
 
 य᳓दन्त᳓रिक्षम्पृथिवी᳓मुत᳓ द्या᳓म् ।  
 य᳓न्मात᳓रम्पित᳓रव्ँवा जिहिँसिम᳓ ।  
@@ -470,56 +397,14 @@ If the atmosphere, earth, or sky,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/11_yadAshasA_nishasA_yatparAshasA.md">
+</div>
 
-य᳓दाश᳓सा निश᳓सा य᳓त्पराश᳓सा ॥119॥  
-य᳓दे᳓नश्चकृमा᳓ नू᳓तनय्ँय᳓त्पुराण᳓म् ।  
-अग्नि᳓र्मा त᳓स्मादे᳓नसः ।  
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/11_yadAshasA_nishasA_yatparAshasA.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-if mother or father we have harmed,  
-may Agni \[release\] me from that sin!  
-What by wishful thinking, what by whispering, what by slander...
-</details>
-
-<details><summary>मूलम्</summary>
-
-यदा॒शसा॑ नि॒शसा॒ यत्प॑रा॒शसा॑ ॥119॥  
-यदेन॑श्चकृ॒मा नूत॑नय्ँ॒यत्पु॑रा॒णम् ।  
-अ॒ग्निर्मा॒ तस्मा॒देन॑सः ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-य᳓त् । आ-श᳓सा । नि । श᳓सा । य᳓त् । परा-श᳓सा । य᳓त् । ए᳓नः । चकृमा᳓ । नू᳓तनम् । य᳓त् । पुराण᳓म् । अग्निः᳓ । मा । त᳓स्मात् । ए᳓नसः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-11यदाशसेति शक्वरी षट्पदा ॥ शमु हिंसायां, आशसा आभिमुख्येन हिंसया निशसा निभृतया हिंसया पराशसा अनिवृत्तया हिंसया, एवं यदेनः चकृम । नूतनं इदानींतनं, पुराणं पर्वूस्मिन् जन्मनि भवम् । अग्निर्मेत्यादि समानम् ॥
-
-- - गार्ह॑पत्य॒ᳶ प्रमु॑ञ्चतु ।  दु॒रि॒ता यानि॑ चकृ॒म ।   क॒रोतु॒ माम॑ने॒नस॑म् ॥116॥  
-
- - तस्मात् तन्निमित्तात् एनसः मां गार्हपत्यः अग्निः प्रमुञ्चतु यानि चान्यानि दुरितानि दुर्गाणि निमित्तानि कर्माणि सपुत्रपौत्राः चकृम । तेनापि कर्मणा मां अनेनसं करोतु । मयि शुद्धे मत्सम्बन्धिनस्सर्वे विशुद्धा इति भावः ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथैकादशं मन्त्रमाह—यदा॒शसः॑ नि॒शसा॒ यत्प॑रा॒शस ( ४ ) । यदेन॑श्चकृ॒मा नूत॑नं॒ यत्पु॑रा॒णम् । अ॒ग्निमा॒ तस्मा॒देन॑सः, इति । शसु हिंसायामिति धातुः । आशसाऽऽभिमुख्येन कृतया हिंसया यत्पापं निशसा नितरां कृतया हिंसया यत्पापं पराशसा परावृत्तेन कृतया हिंसया यत्पापमन्यदपि नूतनमिदानींतनं यदेनचक्रम । पुराणं चिरकालव्यवहितं यदेनश्चक्रम । अग्निरित्यादि पूर्ववत् ।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-अ᳓तिक्रामामि दुरितय्ँ᳓य᳓दे᳓नः ।  
-ज᳓हामि रिप्र᳓म्परमे᳓ सध᳓स्थे ।  
-य᳓त्र य᳓न्ति सुकृ᳓तो ना᳓पि दुष्कृ᳓तः ।  
-त᳓मा᳓रोहामि सुकृ᳓तान्नु᳓ लोक᳓म् ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/12_atikrAmAmi_duritay.NyadenaH_jahAmi.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/12_atikrAmAmi_duritay.NyadenaH_jahAmi.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -592,164 +477,25 @@ Where the doers of good go, not the doers of evil,
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/13_trite_devA.md">
+</div>
 
-त्रिते᳓ देवा᳓ अमृजतैत᳓दे᳓नः ।  
-त्रित᳓ एत᳓न्मनुष्ये᳙षु मामृजे ।  
-त᳓तो मा य᳓दि कि᳓ञ्चिदानशे᳓ ।  
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/13_trite_devA.md">
+</div>
 
-अग्नि᳓र्मा त᳓स्मादे᳓नसः ॥120॥  
-गा᳓र्हपत्यᳶ प्र᳓मुञ्चतु ।  
-दुरिता᳓ या᳓नि चकृम᳓ ।  
-करो᳓तु मा᳓मनेन᳓सम् ।  
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/14_divi_jAtA_apsu.md">
+</div>
 
-<details><summary>सर्वाष् टीकाः</summary>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/14_divi_jAtA_apsu.md">
+</div>
 
-<details><summary>Gemini 3.8 Flash</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/15_yadApo.md">
+</div>
 
-to that realm of the doers of good I now ascend.  
-Upon Trita the gods wiped off this sin;  
-Trita wiped it off upon humans;  
-thence if anything has reached me,  
-may Agni \[release\] me from that sin!
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/sarvASh_TIkAH/3/7_achChidra-prAyashchittAdi/12_agniShTomAdau_yAjamAnajApyA_mantravisheShAH/15_yadApo.md">
+</div>
 
-<details><summary>मूलम्</summary>
-
-त्रि॒ते दे॒वा अ॑मृजतै॒तदेनः॑ ।  
-त्रि॒त ए॒तन्म॑नु॒ष्ये॑षु मामृजे ।  
-ततो॑ मा॒ यदि॒ किञ्चि॑दान॒शे ।  
-
-अ॒ग्निर्मा॒ तस्मा॒देन॑सः ॥120॥  
-गार्ह॑पत्य॒ᳶ प्रमु॑ञ्चतु ।  
-दु॒रि॒ता यानि॑ चकृ॒म ।  
-क॒रोतु॒ माम॑ने॒नस॑म् ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-त्रिते᳓ । देवाः᳓ । अमृजत । एत᳓त् । ए᳓नः । त्रितः᳓ । एत᳓त् । मनुष्ये᳙षु । मामृजे । त᳓तः । मा । य᳓दि । कि᳓म् । चित् । आनशे᳓ । अग्निः᳓ । मा । त᳓स्मात् । ए᳓नसः । गा᳓र्हपत्यः । प्र᳓ । मुञ्चतु । दुः-इता᳓ । या᳓नि । चकृम᳓ । करो᳓तु । मा᳓म् । अनेन᳓सम् ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-13त्रित इत्यादि षट्पदा ॥ 'तत एकतोऽजायत' इत्यत्रोक्तानां एकतादीनां त्रयाणामपि प्रदर्शनार्थं त्रितग्रहणम् । तस्मिन् त्रिते देवाः एतत् एनः पापं अमृजत 'ते देवा आप्येष्वमृजत' इति दर्शनात् । स च त्रितः एतत् पापं मनुष्येषु सूर्याभ्युदितादिषु मामृजे । तुजादित्वादभ्यासस्य दीर्घत्वम् । ततः मां मनुष्यं यदि किञ्चित् पापं आनशे व्याप्नोति, अग्निर्मेत्यादि गतम् ॥
-
- - तस्मात् तन्निमित्तात् एनसः मां गार्हपत्यः अग्निः प्रमुञ्चतु यानि चान्यानि दुरितानि दुर्गाणि निमित्तानि कर्माणि सपुत्रपौत्राः चकृम । तेनापि कर्मणा मां अनेनसं करोतु । मयि शुद्धे मत्सम्बन्धिनस्सर्वे विशुद्धा इति भावः ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-दुरितं दुर्गतिकारणं यदेनस्तादृशमशेः प्रसादादतिक्रामामि ।  
-किंच परम उत्कृष्टे सधस्थे सहस्थाने विद्वत्सभादौ कृतं स्प्रिं पापं जहास्यः प्रसादात्प- रित्यजामि ।  
-ततश्च यत्र यस्मिलोके सुकृतः पुण्यकृतो यन्ति न कदाचिदपि दुष्कृतो यन्ति तं सुकृतां पुण्यकृतां लोकं नु क्षिप्रमारोहामि ।  
-अथ त्रयोदशं मन्त्रमाह त्रिते दे॒वा अ॑मृ॒जने॑तये॒नः ।  
-त्रित ए॒तन्म॑नु॒ष्येषु मामृजे ।  
-ततों मा यदि किंचिद् आनशे ।  
-अग्निर्मा – तस्मा॒देन॑सः (५) ।  
-महि॑य॒ प्रमु॑ञ्चतु ।  
-दुरितानि यानि॑ चकृ॒म ।  
-क॒रोतु॒ मम॑ने॒नस॑म् इति ।  
-एकतद्वितत्रिताख्यानां पुरुषाणामुत्पत्तिः पौरोडाशिककाण्ड उक्ता ।  
-योऽयं त्रितस्तत्रोक्तस्तस्मिन्देवा एतदेनः पापममृजत ।  
-अत एव ब्राह्मणमाम्नायते – 'ते देवा आप्येष्वसृजत' इति ।  
-अद्भयो जाता एकतद्वितत्रिता आप्या देवले– पितपापापराधाः ।  
-सोऽयं त्रित एतत्पापं मनुष्येषु मामृजे मृष्टवाल्लेपितवानि त्यर्थः ।  
-एतदपि तत्रैवाऽऽन्नातम् – "आप्या अमृजत सूर्याभ्युदिते सूर्या– भ्युदितः सूर्याभिनिम्रुक्ते" इत्यादि ।  
-तत्र सूर्याभ्युदितादिमनुष्येष्ववस्थि– तात्पापात्सकाशात्किचित्पापं यदि मामानशे प्राप्नुयात् ।  
-अग्निरित्यादि पूर्ववत् ।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-दिवि᳓ जाता᳓ अप्सु᳓ जाताः᳓ ।  
-या᳓ जाता᳓ ओ᳓षधीभ्यः ।  
-अ᳓थो या᳓ अग्निजा᳓ आ᳓पः ।  
-ता᳓ नश्शुन्धन्तु शु᳓न्धनीः ।  
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-May Gārhapatya release \[me\]!  
-Whatever bad deeds we have done,  
-may he make me sinless!  
-Born in heaven, born in the waters,  
-which are born from plants,  
-and the waters that are born of fire,  
-may they, the cleansers, cleanse us.  
-If by night, O waters, we commit a misdeed,
-</details>
-
-<details><summary>मूलम्</summary>
-
-दि॒वि जा॒ता अ॒प्सु जा॒ताः ।  
-या जा॒ता ओष॑धीभ्यः ।  
-अथो॒ या अ॑ग्नि॒जा आपः॑ ।  
-ता न॑श्शुन्धन्तु॒ शुन्ध॑नीः ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-दिवि᳓ । जाताः᳓ । अप्सु᳓ । जाताः᳓ । या᳓ । जाताः᳓ । ओ᳓षधीभ्यः । अ᳓थो । याः᳓ । अग्नि-जाः᳓ । आ᳓पः । ताः᳓ । नः । शुन्धन्तु । शु᳓न्धनीः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-14दिवि जाता इत्यनुष्टुप् ॥ या आपः दिवि जाताः द्युलोकप्रादुर्भूताः नित्याः वर्तन्ते । याश्च अप्सु कर्मसु जाताः कर्मजन्याः, अपां स्थानेषु कूपादिषु वा आविर्भूताः । याश्च ओषधीभ्यः आविर्भूताः, रसात्मिकाः । अथो अपि च या अग्निजाः विद्युतो जाताः रविकिरणेम्यो जाताः वर्ष्याः । तास्सर्वाः आपः अस्मान् शुन्धन्तु शोधयन्तु शुन्धनीः सर्वस्य लोकस्य शोधन्यः ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ चतुर्दशमत्रमाह दिवि जाता अप्सु जाताः । या जाता ओष॑धीभ्यः । अथो या अ॑ग्नजा आप॑ः । ता नः॑ शुन्धन्तु शुन्ध॑नः, इति । या आपो दिविजाता द्युलोके प्रादुर्भूता नित्या वर्तन्ते याचाप्सु कर्मसु जाताः कर्मजन्या आपः कूपादिष्वाविर्भूता याश्रौषधीभ्यो रसात्मिका आविर्भूता आपोऽथो अपि च याचाऽऽपोऽग्निजा विद्युतो जाता वर्ष्यास्ताः सर्वा अपि शुन्धनीः सर्वस्य लोकस्य शोधयित्र्यो नोऽस्माशुन्धन्तु शोधयन्तु ।  
-अथ पञ्चदशं मत्रमाह यदापो नक्तं दुरितं चराम ।  
-या दिवा॒ नूत॑नं यत्पु॑रा॒णम् ।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-य᳓दा᳓पो न᳓क्तन्दुरित᳓ञ्च᳓राम ।  
-य᳓द्वा दि᳓वा नू᳓तनय्ँय᳓त्पुराण᳓म् ।  
-हि᳓रण्यवर्णास्त᳓त उ᳓त्पुनीत नः ।  
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Gemini 3.8 Flash</summary>
-
-or if by day, new or old,  
-O golden-hued ones, purify us out of that!
-</details>
-
-<details><summary>मूलम्</summary>
-
-यदापो॒ नक्त॑न्दुरि॒तञ्चरा॑म ।  
-यद्वा॒ दिवा॒ नूत॑नय्ँ॒यत्पु॑रा॒णम् ।  
-हिर॑ण्यवर्णा॒स्तत॒ उत्पु॑नीत नः ।  
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-य᳓त् । आ᳓पः । न᳓क्तम् । दुः-इत᳓म् । च᳓राम । य᳓त् । वा । दि᳓वा । नू᳓तनम् । य᳓त् । पुराण᳓म् । हि᳓रण्य-वर्णाः । त᳓तः । उ᳓त् । पुनीत । नः ।
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-15यदाप इति त्रिपदा त्रिष्टुप्, विराड्वा ॥ हे आपः! यद्दुरितं पापं वयं चराम आचराम नक्तं रात्रौ । यच्च दिवा अहनि यन्नूतनं इदानीन्तनं यच्च पुराणं पूर्वमाचराम् । यद्वा - नूतनं नवं मदुपज्ञं पापं तत् । पुराणं पूर्वमेव प्रसिद्धम् । ततः तस्मात् पापात् उत्पुनीत उत्कृष्टं शोधयत नः अस्मान् हे हिरण्यवर्णाः! हितरमणीयवर्णाः! उज्ज्वलर्णा वा ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-हिर॑ण्यवर्णास्तत उत्पु॑नीत नः, इति ।  
-नक्तं रात्रौ यद्दुरितं चराम यद्वा दिवा यच्च दुरितमहनि चराम यत्पापं नूतनमिदानींतनं यत्पुराणं चिरकालव्यवहितं हे, आपो हिरण्यवर्णाः सुवर्ण– बत्तेजस्विन्यो यूयं ततः सर्वस्मात्पापान्नोऽस्पानुत्पुनीतोत्कर्षेण शुद्धान्कुरुत ।
-</details>
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ इमम्मे वरुण</summary>
 
 इम᳓म्मे वरुण त᳓त्त्वा यामि ।  
 त्व᳓न्नो अग्ने स᳓ त्व᳓न्नो अग्ने ।  

@@ -19,7 +19,24 @@ title = "०५ वैश्वदेवव्रतम्"
 इति तर्पयित्वा  
 उपवीती भूत्वा यथास्थानमुपविशेत् ।
 
-आचार्यः अग्नेरुपसमाधानाद्यग्निमुखान्तेऽन्वारब्धः विश्वे॑भ्यो दे॒वेभ्यः काण्डर्षिभ्यः स्वाहा॑ - विश्वे॑भ्यो दे॒वेभ्यः॒ काण्ड॒र्षिभ्य॒ इदन्न मम । [[TODO::परिष्कार्यम्??]]
+आचार्यः अग्नेर् उपसमाधानाद्य्-अग्निमुखान्तेऽन्वारब्धः —
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/mantrAdi/vishvebhyo_devebhyaH_kANDarShibhyaH.md">
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वि᳓श्वेभ्यो देवे᳓भ्यः काण्डऋषि᳓भ्यः स्वा᳓हा ।  
+(वि᳓श्वेभ्यो देवे᳓भ्य इद᳓न्, न᳓ म᳓म । )
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>मूलम्</summary>
+
+वि᳓श्वेभ्यो देवे᳓भ्यः काण्डऋषि᳓भ्यः स्वा᳓हा ।  
+(वि᳓श्वेभ्यो देवे᳓भ्य इद᳓न्, न᳓ म᳓म । )
+</details>
+</details>
+</div>
 
 <details><summary>द्राविडम्</summary>
 
@@ -32,19 +49,108 @@ title = "०५ वैश्वदेवव्रतम्"
 
 [[103]]
 
-> आनो विश्वे॑ + वि॒थुरं न शवः स्वाहा॑ विश्वेभ्यः देवेभ्य इदन्न मम ।  
-शन्नोँ देवा + अप्याः स्वाहा॑ विश्वेभ्यः देवेभ्य इदन्न मम ।  
-ये सॅवि॒तुः + चि॒त्रम॒स्मे स्वाहा॑ विश्वेभ्यः देवेभ्य इदन्न मम ।  
-अग्नेँ या॒हि + विश्वा॒न् स्वाहा॑ विश्वेभ्यः देवेभ्य॒ इदन्न मम ।  
-द्यौः पिँतः + वियॅन्त स्वाहा॑ विश्वेभ्यः देवेभ्य इदन्न मम ।  
-विश्वेँदेवाः + मादयध्वं स्वाहा॑ विश्वेभ्यः देवेभ्य इदन्न मम । [[TODO::परिष्कार्यम्??]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०१(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आ नो</summary>
+
+आ᳓ नो वि᳓श्वे +++(अभि=)+++अ᳓स्क्रा **ऽऽगमन्तु** देवाः᳓ ।  
+मित्रो᳓ अर्यमा᳓ व᳓रुणस् स-जो᳓षाः ।   
+**भु᳓वन्** य᳓था नो वि᳓श्वे वृधा᳓सः ।  
+**क᳓रन्त्** सु-षा᳓हा विथुर᳓न्+++(=अचलं)+++ न᳓ श᳓वः+++(=बलम्)+++ ।
+</details>
+</div>
+
+विश्वेभ्यो देवेभ्य इदन्न मम ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०२(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ शन् नो</summary>
+
+श᳓न् नो देवा᳓ विश्व᳓-देवा **भवन्तु** ।  
+शँ᳓ स᳓रस्वती सह᳓ धीभि᳓र् अस्तु ॥ 42 ॥  
+श᳓म् **अभिषा᳓चश्**+++(←सच् सेवायाम्)+++ श᳓मु राति-**षा᳓चः** ।  
+श᳓न् नो दिव्याᳶ᳓ पा᳓र्थिवाश् श᳓न् नो अ᳓प्याः ।
+</details>
+</div>
+
+विश्वेभ्यो देवेभ्य इदन्न मम ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०३(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ये सवितुस्</summary>
+
+ये᳓ सवितु᳓स् सत्य᳓-**सवस्य** वि᳓श्वे ।     
+मित्र᳓स्य व्रते᳓ व᳓रुणस्य देवाः᳓ ।  
+ते᳓ सौ᳓भगव्ँ वीर᳓वद् गो᳓मद् अ᳓प्नः ।  
+**द᳓धातन** द्र᳓विणञ् चित्र᳓म् अस्मे᳓ ।
+</details>
+</div>
+
+विश्वेभ्यो देवेभ्य इदन्न मम ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०४(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ अग्ने याहि</summary>
+
+अ᳓ग्ने **याहि᳓** दूत्यव्ँ᳙ वा᳓ **ऽरिषेण्यः** ।  
+देवाँ᳓ अ᳓च्छा ब्रह्म-कृ᳓ता गणे᳓न ।  
+स᳓रस्वतीम् मरु᳓तो अश्वि᳓नापः᳓ ।  
+य᳓क्षि+++(~~यक्षि~~)+++ देवा᳓न् रत्न-**धे᳓याय** वि᳓श्वान् ॥ 43 ॥
+</details>
+</div>
+
+विश्वेभ्यो देवेभ्य इदन्न मम ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०५(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ द्यौ पित</summary>
+
+द्यौᳶ᳓ पितᳶ पृ᳓थिवि मा᳓तर् अ᳓-ध्रुक+++(←द्रुह्)+++ ।  
+अ᳓ग्ने भ्रातर् वसवो **मृड᳓ता** नः ।  
+वि᳓श्व आदित्या अदिते सजो᳓षाः ।  
+अस्म᳓भ्यँ श᳓र्म बहुलव्ँ᳓ **वि᳓ यन्त** ।
+</details>
+</div>
+
+विश्वेभ्यो देवेभ्य इदन्न मम ।
+
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०६(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/6_sAvitrAdi-pashu-sUktAni/02_vaishvadevam">
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विश्वे देवाश्</summary>
+
+वि᳓श्वे देवाश् **शृणुते᳓मँ᳓ ह᳓वम्** मे ।   
+ये᳓ अन्त᳓रिक्षे य᳓ उ᳓प द्य᳓वि ष्ठ᳓ ।  
+ये᳓ अग्नि-जिह्वा᳓ उत᳓ वा **य᳓जत्राः** ।  
+**आस᳓द्यास्मि᳓न्** बर्हि᳓षि **मादयध्वम्** ।
+</details>
+</div>
+
+विश्वेभ्यो देवेभ्य इदन्न मम ।
 
 अनन्वारब्धः, "सांहितीभ्यः, याज्ञिकीभ्यः, वारुणीभ्यः, ब्रह्मणे सदसस्पतिम्" - इति पञ्चाहुतीर्जुहुयात् । माणवकः अग्नेरुत्तरतः स्थित्वा । 
 
-> अग्ने॑ व्र॒तपते काण्डर्षिभ्योँ वैश्वदेवं व्रतं चॅरिष्यामि । तच्छकेयं तन्मेँ राध्यताम् ।  
-वायो॑ व्र॒तपते काण्डर्षिभ्योँ वैश्वदे॒वं व्र॒तं चॅरिष्यामि । तच्छुकेयं तन्मेँ राध्यताम् ।  
-आदिँत्य व्रतपते काण्डर्षिभ्योँ वैश्वदे॒वं व्र॒तं चॅरिष्यामि । तच्छ॒केयं तन्मे॑राध्यताम् ।  
-व्रतानां व्रतपते काण्डर्षिभ्योँ वैश्वदे॒वं व्र॒तं चॅरिष्यामि । तच्छ॒केयं तन्मेँ राध्यताम् । [[TODO::परिष्कार्यम्??]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - (?:०१|०२|०३|०४)(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/07_pravargyAdi/84_agne_vratapate">
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्ने व्रतपते!</summary>
+
+अ᳓ग्ने व्रतपते!
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वायो व्रतपते</summary>
+
+वा᳓यो व्रतपते
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आदित्य व्रतपते</summary>
+
+आ᳓दित्य व्रतपते
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्रतानाव्व्ँरतपते</summary>
+
+व्रता᳓नाव्व्ँरतपते
+</details>
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/vishvAsa-prastutiH/07_pravargyAdi/84_agne_vratapate/02_vratanchariShyAmi_tachChakeyantanme.md">
+(…) व्रत᳓ञ्चरिष्यामि । (84)  
+त᳓च्छकेयन्त᳓न्मे राद्ध्यताम् ।
+</div>
+
+> *(काण्डर्षिभ्यो वैश्वदेवं व्रतं चरिष्यामि — इति ऊहः ।)*
 
 செய்யச் சொல்ல வேண்டும்.
 

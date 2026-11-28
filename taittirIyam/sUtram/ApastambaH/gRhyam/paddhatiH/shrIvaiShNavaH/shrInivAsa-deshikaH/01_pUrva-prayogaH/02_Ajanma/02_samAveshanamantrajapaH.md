@@ -5,12 +5,131 @@ title = "०२ समावेशनमन्त्रजपः"
 
 (सू शेषं समावेशने जपेत् रजसः प्रादुर्भावात् स्नातामृतुसमावेशने उत्तराभिरभिमन्त्रयेत ।) 
 
-> आरोहोरुम्, उपॅबर्हस्व बाहुं, परिँष्वजस्व, जा॒यां, सुमनस्यमॉनः । तस्यं॑, पुष्य॒तं, मि॒थुनौ, सयोँनी, बह्नीं,
->
-> [[47]]
->
-> प्रजां, जनयॅन्तौ, सरेँ सरेँतसा । आर्द्रया॑, अरॅण्या, यत्रामॅन्थत्, पुरुँषं, पुरुँषेण, श॒क्रः । तदे॒तौ, मिथुनौ, सयोँनी, प्र॒जया॑, अ॒मृतेँन, इह गॅच्छतम् । अहं गर्भं॑, अदँधां, ओषँधीषु, अहं, विश्वेँषु, भुवँनेष्वन्तः । अहं, प्र॒जाः, अजनयं, पि॒तॄणाम्, अहं जरिँभ्यः, अपरीषुँ, पुत्रा॒न् । पु॒त्रिणे॒मा, कुमारिणा॑, विश्व॒मायुःँ, व्यँश्ज्ञुतम् ॥ उभा, हिरॅण्यपेशसा, वी॒तिहोत्रा, कृतद्वँसू । द॒श॒स्य॒न्त्वा॑स्य॒न् अ॒मृतॉय॒कं, शमूथॅः, रोमशं, ह॒थः, दे॒वेषुँ कृणुतःँ, दुवॅः । विष्णुःँ, योनिं॑, क॒ल्पयतु, त्वष्टा, रूपाणिँ, पिँश॒तु । आपिञ्चतु, प्र॒जापॅतिः धाता, गर्भं दधातु ते । गर्भँ धेहि, सिनीवालि, गर्भँ धेहि, सरस्वति । गर्भं ते, अश्विनौ, देवौ, आधँत्तां, पुष्कॅरस्रजा । हिरण्ययी, अरणी, यन्नि॒र्मन्थँतः, अ॒श्विना॑ । तन्ते॒ गर्भं ह॒वाम॒हे॒, दश॒मे, मासि, सूतँवे । यथेयं पृथिवी, मही, तिष्ठँन्ती, गर्भमादधे । एवं त्वं, गर्भँ, आधँत्त्स्व, दशमे, मासि, सूतँवे । यथापृथि॒वी, अ॒ग्निगर्भा, द्यौः यथेन्द्रेँण ग॒र्भिणी॑ । वा॒युः यथाँदि॒शां गर्भं एव गर्भँ दधामि ते । विष्णोः, श्रेष्ठेँन, रूपेणँ, अस्यां, नार्यां, ग॒वी॒न्या॑म् । पु॒माँसंं, गर्भ॒माधेँहि, दशमे मासि, सूतॅवे । नेजॅमेष, परॉपत, सुपुँत्रः पुनरापॅत । अस्यैमे, पुत्रकॉमायै, गर्भमाधेँहि, यः पुमा॑न् । व्यस्य॒योनिं॑ प्रति॒रेतःँ, गृहाण, पुमा॑न्, पु॒त्रः धी॒य॒तां, गर्भौ  अ॒न्तः । तम्मा॒ता, दशमासःँ, बिभर्तु, स जॉयतां, वीर तँम॒स्वानाम् । आतेगर्भःँ, योनिँमेतु, पुमान्बाणःँ, इवेषुधिं । आवी॒रः, जायतां, पु॒त्रस्ते॑, द॒श॒मास्यःँ ॥ [[TODO::परिष्कार्यम्??]]
->
-> करोमिँ ते, प्राजापत्यं, आगर्भःँ, योनिँमेतु ते । अनूँनः, पूर्णः, जायतां, अश्लोँणः, अपिँशाचधीतः । पुमाँस्ते, पुत्रोनॉरि तं पुमा॑न्, अनुँजायताम् । तानिँ भद्राणिँ, बीजॉनि, ऋषभाः, जनयन्तु नौ । यानिँ, भद्राणिँ, बीजॉनि, ऋषभाः, जनयन्ति नः । तैस्त्वं, पुत्रान्, वि॒न्द॒स्व॒, सा प्रसूः, धे॒नुकाभँव । कामँ । प्रमृँध्यतां मह्यं, अपॅराजितं, ए॒वमे॑ । यंकामं, कामयेँ देव, तम्मेँवायो, समँर्धय ॥ र्परद्युः [[??]] प्रातस्सन्ध्यादिकमनुष्ठाय, अभ्युदयं कृत्वा पुण्याहं वाचयेत् ॥ [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/01_Arohorumupabarhasva_bAhum.md">
++++(अन्तरात्मन्!)+++ आ᳓रोहोरु᳓म् उ᳓पबर्हस्व बाहुं᳓  
+प᳓रिष्वजस्व जायाँ᳓ सुमनस्य᳓मानः +++(=प्रीयमाणः)+++ ।  
+त᳓स्यां **पुष्यतं** मिथुनौ᳓ स᳓योनी +++(=सङ्गतोपस्थौ)+++  
+बह्वीं᳓ प्रजां᳓ जन᳓यन्तौ स᳓रेतसा ।
+</div>
+
+[[47]]
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/02_ArdrayA-raNyA_yatrAmanthatpuruSham.md">
+आर्द्र᳓या+++(आज्याक्तया)+++ऽर᳓ण्या +++(अग्निम्)+++ य᳓त्रा᳓+++(था)+++ऽमन्थत्,  
++++(तथा)+++ पु᳓रुषं +++(गर्भम्)+++ पु᳓रुषेण +++(शेफेन)+++ शक्रः᳓ ।  
+त᳓द् एतौ᳓ मिथुनौ᳓ स᳓योनी+++(=सङ्गतोपस्थौ)+++  
+प्रज᳓याऽमृ᳓तेनेह᳓ गच्छतम् ।  +++(5)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/03_aha~N_garbhamadadhAmoShadhIShvaham.md">
+अहं᳓ ग᳓र्भम् अदधाम् ओ᳓षधीष्व्  
+अहं᳓ वि᳓श्वेषु भु᳓वनेष्व् अन्तः᳓ ।  
+अहं᳓ प्रजा᳓ **अजनयं** पितॄृणा᳓म्  
+अहं᳓ ज᳓निभ्यो +++(=जन्याः = वध्वाः)+++ अपरी᳓षु +++(=पश्चात्कालस्नुषासु)+++ पुत्रा᳓न् ।+++(५)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/04_putriNemA_kumAriNA.md">
+पुत्रि᳓णेमा᳓ कुमारि᳓णा  
+वि᳓श्वम् आ᳓युर् **व्य᳙श्नुतम्** ।  
+उभा᳓ हि᳓रण्य-पेशसा+++(=रूपौ)+++  
+वीति᳓+++(=हविर्)+++होत्रा कृत᳓द्वसू +++(=कृतवसू)+++।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_12/05_dashasyantvA-mRtAya_kaMshamUdho.md">
+दशस्य᳓न्त्वा +++(=दशस्यन्तौ =दातारौ)+++ ऽमृ᳓ताय कँ᳓ +++(पादपूरणे)+++ श᳓+++(स)+++म् ऊ᳓धो  
+रोमशँ᳓ **हथो**+++(=श्लिष्टं कुरुतम्)+++ देवे᳓षु **कृणुतो दु᳓वः** +++(=परिचरणम्)+++।+++(४)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/01_viShNuryoniM_kalpayatu.md">
+वि᳓ष्णुर् यो᳓निं **कल्पयतु**  
+त्व᳓ष्टा रूपा᳓णि **पिंशतु**  
+आ᳓ **सिञ्चतु** प्रजा᳓पतिर्  
+धाता᳓ ग᳓र्भं **दधातु** ते
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/02_garbhaM_dhehi.md">
+ग᳓र्भं **धेहि** सिनीवालि  
+ग᳓र्भं **धेहि** सरस्वति  
+ग᳓र्भं ते अश्वि᳓नौ देवा᳓व्  
+आ᳓ **धत्ताम्** पु᳓ष्करस्रजा
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/184/03_hiraNyayI_araNI.md">
+हिरण्य᳓यी अर᳓णी  
+यं᳓ **निर्म᳓न्थतो** अश्वि᳓ना  
+तं᳓ ते ग᳓र्भं **हवामहे**  
+दशमे᳓ मासि᳓ **सू᳓तवे**
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/04_yatheyam_pRthivI.md">
+य᳓थेयं᳓ पृथिवी᳓ मही᳓  
+**ति᳓ष्ठन्ती** ग᳓र्भम् **आदधे᳓** ।  
+एव᳓न् त्वं᳓ ग᳓र्भम् **आ᳓ धत्स्व**  
+दशमे᳓ मासि᳓ सू᳓तवे ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/05_yathA_pRthivyagnigarbhA.md">
+य᳓था पृथिव्य् अ᳓ग्नि᳓गर्भा  
+द्यौ᳓र् य᳓थे᳓न्द्रेण गर्भि᳓णी ।  
+वायु᳓र् य᳓था दिशां᳓ ग᳓र्भ  
+एवं᳓ ग᳓र्भं **दधामि** ते ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/06_viShNo_shreShThena.md">
+वि᳓ष्णो श्रे᳓ष्ठेन रूपे᳓ण  
+अस्या᳓न् ना᳓र्यां गवीन्या᳙म् +++(=कमनीयायाम्)+++ ।  
+पु᳓माँसं ग᳓र्भम् आ᳓ धेहि  
+दशमे᳓ मासि᳓ सू᳓तवे ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/07_nejameSha_parA.md">
+ने᳓जमेष प᳓रा **पत**  
+सुपुत्रः᳓ पु᳓नर् आ᳓ **पत** ।  
+अस्यै᳓ मे पुत्र᳓कामायै  
+ग᳓र्भम् **आ᳓ धेहि** यः᳓ पु᳓मान् ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/08_vyasya_yonim.md">
+व्य᳓स्य यो᳓निं प्र᳓ति रे᳓तो **गृहाण**  
+पु᳓मान् पुत्रो᳓ **धीयतां** ग᳓र्भो अन्तः᳓ ।  
+तं᳓ माता᳓ दशमा᳓सो **बिभर्तु**  
+स᳓ **जायतां** वीर᳓तमस् स्वा᳓नाम् ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_13/09_A_te.md">
+आ᳓ ते ग᳓र्भो यो᳓निम् **एतु**  
+पु᳓मान् बा᳓ण इवेषुधि᳓म् ।  
+**आ᳓ वीरो᳓ जायतां**  
+पुत्र᳓स् ते द᳓शमास्यः ॥+++(5)+++
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/01_karomi_te.md">
+करो᳓मि ते प्राजापत्य᳓म्  
+आ᳓ ग᳓र्भो यो᳓निम् **एतु** ते ।  
+अ᳓नूनः पूर्णो᳓ **जायताम्**  
+अ᳓श्लोणो᳓ ऽपिशाचधीतः ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/02_pumAMste_putro.md">
+पु᳓माँस् ते पुत्रो᳓ नारि तं᳓  
+पु᳓मान् अ᳓नु **जायताम्** ।  
+ता᳓नि भद्रा᳓णि बी᳓जान्य्  
+ऋषभा᳓ **जनयन्तु** नौ ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/03_yAni_bhadrANi.md">
+या᳓नि भद्रा᳓णि बी᳓जान्य्  
+ऋषभा᳓ **जन᳓यन्ति** +++(~~जनयन्ति᳓~~)+++ नः ।  
+तै᳓स् त्वं᳓ पुत्रा᳓न् **विन्दस्व**  
+सा᳓ प्रसू᳓र् धेनुका᳓ **भव** ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_14/04_kAma_pramRddhyatAm.md">
+कामप्र᳓म् **ऋध्यतां** म᳓ह्यम्  
+अ᳓पराजितम् एव᳓ मे ।  
+यं᳓ का᳓मं **काम᳓ये** देव  
+तं᳓ मे वायो **स᳓मर्धय** ।
+</div>
+
+अपरेद्युः प्रातस्सन्ध्यादिकम् अनुष्ठाय, अभ्युदयं कृत्वा पुण्याहं वाचयेत् ॥
 
 [[48]]

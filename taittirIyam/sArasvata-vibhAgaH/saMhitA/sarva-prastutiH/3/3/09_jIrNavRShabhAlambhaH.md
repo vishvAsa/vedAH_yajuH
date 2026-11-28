@@ -13,38 +13,11 @@ title = "०९ जीर्णवृषभालम्भः"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/09_jIrNavRShabhAlambhaH/01_etay.NyuvAnampari_vo.md">
+</div>
 
-एतय्ँ᳓यु᳓वानम्प᳓रि वो ददामि ते᳓न क्री᳓डन्तीश्चरत प्रिये᳓ण ।  
-मा᳓ नश्शाप्त जनु᳓षा सुभागा राय᳓स्पो᳓षेण स᳓मिषा᳓ मदेम ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-This young one I put around you,  
-Playing with him that is dear do ye move;  
-Afflict us not in birth, O ye prosperous ones;  
-May we rejoice in increase of wealth, in food.
-</details>
-
-<details><summary>मूलम्</summary>
-
-ए॒तय्ँयुवा॑न॒म्परि॑ वो ददामि॒ तेन॒ क्रीड॑न्तीश्चरत प्रि॒येण॑ ।  
-मा न॑श्शाप्त ज॒नुषा॑ सुभागा रा॒यस्पोषे॑ण॒ समि॒षा म॑देम ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-ए॒तम् । युवा॑नम् । परीति॑ । वः॒ । द॒दा॒मि॒ । तेन॑ । क्रीड॑न्तीः । च॒र॒त॒ । प्रि॒येण॑ ॥ मा॒ । नः॒ । शा॒प्त॒ । ज॒नुषा॑ । सु॒भा॒गा॒ इति॑ सु-भा॒गाः॒ । रा॒यः । पोषे॑ण । समिति॑ । इ॒षा । म॒दे॒म॒ ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-हे गावः एतं युवानं जीर्णादन्यमृषभं वो युष्मभ्यं परिददामि, तेनानेन क्रीडन्तीः क्रीडन्त्यः चरत वर्तध्वम्, प्रियेण इष्टेन युवत्वात् नः अस्मान् मा शाप्त, अपि त्वनुगृह्णीत तरुणं ददातीति । हे जनुषा सुभागाः कल्याण्यः । यद्वा - सुभगाः सुष्ठु भाग्यवत्यः । प्रकृत्यादितृतीया, तेनाकारकत्वात्पराङ्गवद्भावाभावः; 'षष्ठ्यामन्त्रितकारकवचनम्' इत्युक्तत्वात् । ततश्च युष्मत्प्रसादात् रायो धनस्य पोषेण पुष्ट्या इषा अन्नेन च वयं संमदेम मोदेमहि । माद्यतेः व्यत्ययेन शप् । रायष्षष्ठ्यास्सत्वोदात्तत्वे उक्ते ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/09_jIrNavRShabhAlambhaH/01_etay.NyuvAnampari_vo.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -54,38 +27,11 @@ May we rejoice in increase of wealth, in food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/09_jIrNavRShabhAlambhaH/02_namo_mahimna_uta.md">
+</div>
 
-न᳓मो महिम्न᳓ उत᳓ च᳓क्षुषे ते म᳓रुताम्पितस्त᳓दह᳓ङ्गृणामि ।   
-अ᳓नु मन्यस्व सुय᳓जा यजाम जु᳓ष्टन्देवा᳓नामिद᳓मस्तु हव्य᳓म् ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Homage to thy greatness, to thine eye,  
-0 father of the Maruts, that do I sing;  
-Be propitious, with a fair sacrifice may we offer;  
-Be this oblation acceptable to the gods.
-</details>
-
-<details><summary>मूलम्</summary>
-
-नमो॑ महि॒म्न उ॒त चक्षु॑षे ते॒ मरु॑ताम्पित॒स्तद॒हङ्गृ॑णामि ।   
-अनु॑ मन्यस्व सु॒यजा॑ यजाम॒ जुष्ट॑न्दे॒वाना॑मि॒दम॑स्तु ह॒व्यम् ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-नमः॑ । म॒हि॒म्ने । उ॒त । चक्षु॑षे । ते॒ । मरु॑ताम् । पि॒तः॒ । तत् । अ॒हम् । गृ॒णा॒मि॒ ॥ अन्विति॑ । म॒न्य॒स्व॒ । सु॒यजेति॑ सु-यजा॑ । य॒जा॒म॒ । जुष्ट॑म् । दे॒वाना॑म् । इ॒दम् । अ॒स्तु॒ । ह॒व्यम् ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-आदित्यात्मना स्तूयते - नमो महिम्ने महते उत अपि च चक्षुषे सर्वेषां दर्शनभूताय हे मरुतां रश्मीनां पितः पालयितः । षष्ठ्यामन्त्रितसमुदायस्य पराङ्गवद्भावात् षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । नमस्कृत्य त्वां तदहं गृणामि तत्तुभ्यं ब्रवीमि, तच्च त्वमनुमन्यस्व अनुजानीहि । किं ब्रवीषीति चेदाह – सुयजा शोभनयागस्य कर्त्राऽनेन प्रवृद्धेन यजाम इदमाशास्महे । सुपूर्वाद्यजतेर्विचि कृदुत्तरपदप्रकृतिस्वरत्वम् । सुयट् शोभनयष्टृकः, 'सुयजोर्ङ्वनिप्' इति बहुव्रीहौ 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । कीदृशमस्य सुयट्त्वम्? यत्त्वया प्रार्थ्यते इति चेत् जुष्टं प्रियं देवानामिदमस्तु हव्यम्, एतत्ते ब्रवीमीति एतदनुमन्यस्व, एतस्मै प्रयोजनाय नमस्कुर्म इति । 'नित्यं मन्त्रे' इति जुष्टशब्द आद्युदात्तः । हवमर्हतीति, 'छन्दसि च' इति यः ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/09_jIrNavRShabhAlambhaH/02_namo_mahimna_uta.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -95,38 +41,11 @@ Be this oblation acceptable to the gods.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/09_jIrNavRShabhAlambhaH/03_devAnAmeSha_upanAha.md">
+</div>
 
-देवा᳓नामेष᳓ उपनाह᳓ आसीदपा᳓ङ्ग᳓र्भ ओ᳓षधीषु न्य᳙क्तः ।  
-सो᳓मस्य द्रप्स᳓मवृणीत पूषा᳓ [28]  बृह᳓न्न᳓द्रिरभवत्त᳓देषाम् ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-This was the bundle of the gods,  
-The germ of the waters smeared upon the plants;  
-Pusan chose a drop of Soma [1];  
-A great stone was there then for them.
-</details>
-
-<details><summary>मूलम्</summary>
-
-दे॒वाना॑मे॒ष उ॑पना॒ह आ॑सीद॒पाङ्गर्भ॒ ओष॑धीषु॒ न्य॑क्तः ।  
-सोम॑स्य द्र॒प्सम॑वृणीत पू॒षा [28]  बृ॒हन्नद्रि॑रभव॒त्तदे॑षाम् ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-दे॒वाना॑म् । ए॒षः । उ॒प॒ना॒ह इत्यु॑प-ना॒हः । आ॒सी॒त् । अ॒पाम् । गर्भः॑ । ओष॑धीषु । न्य॑क्त॒ इति॒ नि-अ॒क्तः॒ ॥ सोम॑स्य । द्र॒प्सम् । अ॒वृ॒णी॒त॒ । पू॒षा । बृ॒हन् । अद्रिः॑ । अ॒भ॒व॒त् । तत् । ए॒षा॒म् ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-देवानां इन्द्रादीनां इन्द्रियाणां वा एषः गौः उपनाहः उपनह्यते अनेनेत्युपनाहः बन्धनः । घञ्, थाथादिनोत्तरपदान्तोदात्तत्वम् । उपकारको देवानामास्तीत् अस्तु । छान्दसो लङ् । कथमित्याह – अपां गर्भः आदित्यरश्मिषु गर्भीभूतः अपां राशिः ओषधीषु ओषधिनिमित्तं न्यक्तः वृष्ट्या न्यक्पातितः सम्यग्यागनिवृत्तिहेतुत्वादयं वृष्ट्युत्पादनेन ओषधीनामभिप्रवृत्तिनिमित्तत्वात् देवानामुपनाहो भवतिति । कथं पुनरपां गर्भभाव इत्याह - सोमस्यान्नस्य पृथिव्यां द्रप्सं रसं अवृणीत पूषा सविता रश्मिभिरात्तवान् । यद्वा - सोमस्य सलिलात्मनः चन्द्रस्य द्रप्समेकदेशं पार्थिवं बलमाप्तवान् पूषा । तत एषां द्रप्सानां रसानां तद्बृन्दं गर्भीभूय रश्मिषु चिरं स्थितं बृहत् महान् अद्रिर्मेघोभवत् भवति । स एव लङ् । स एव वृष्ट्या पृथिर्वीं प्राप्नोति, तत ओषधयस्संपद्यन्ते ताश्च देवता धारयन्तीति ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/09_jIrNavRShabhAlambhaH/03_devAnAmeSha_upanAha.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -136,11 +55,8 @@ A great stone was there then for them.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-पिता᳓ वत्सा᳓नाम्प᳓तिरघ्निया᳓नाम᳓थो पिता᳓ महता᳓ङ्ग᳓र्गराणाम् ।   
-वत्सो᳓ जरा᳓यु प्रतिधु᳓क्पीयू᳓ष आमि᳓क्षा म᳓स्तु घृत᳓मस्य रे᳓तः ।
-</details>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/09_jIrNavRShabhAlambhaH/04_pitA_vatsAnAmpatiraghniyAnAmatho_pitA.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/09_jIrNavRShabhAlambhaH/04_pitA_vatsAnAmpatiraghniyAnAmatho_pitA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -216,39 +132,11 @@ the embryo, the afterbirth, fresh milk, colostrum, clotted curds, whey, ghee is 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/3/09_jIrNavRShabhAlambhaH/05_tvAngAvo-vRNata.md">
+</div>
 
-त्वा᳓ङ्गा᳓वोऽवृणत राज्या᳓य त्वाँ᳓ हवन्त मरु᳓तस्स्वर्काः᳓ ।   
-व᳓र्ष्मन्क्षत्र᳓स्य ककु᳓भि शिश्रियाण᳓स्त᳓तो न उग्रो᳓ वि᳓ भजा व᳓सूनि ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>Keith</summary>
-
-Thee the cows chose for lordship,  
-Thee the Maruts, sweet singers, bailed;  
-Resting on the summit, the pinnacle, of lordly power,  
-Then O dread one to us assign wealth.
-</details>
-
-<details><summary>मूलम्</summary>
-
-त्वाङ्गावो॑ऽवृणत रा॒ज्याय॒ त्वाँ ह॑वन्त म॒रुत॑स्स्व॒र्काः ।   
-वर्ष्म॑न्क्ष॒त्रस्य॑ क॒कुभि॑ शिश्रिया॒णस्ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ।
-</details>
-
-<details><summary>पद-पाठः</summary>
-
-त्वाम् । गावः॑ । अ॒वृ॒ण॒त॒ । रा॒ज्याय॑ । त्वाम् । ह॒व॒न्त॒ । म॒रुतः॑ । स्व॒र्का इति॑ सु-अ॒र्काः ॥ वर्ष्म॑न् । क्ष॒त्रस्य॑ । क॒कुभि॑ । शि॒श्रि॒या॒णः । ततः॑ । नः॒ । उ॒ग्रः । वीति॑ । भ॒ज॒ । वसू॑नि ॥
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-अपिसर्जनादनन्तरमिदं द्रष्टव्यम् ॥ हे वृषभ त्वां गावोऽवृणत वृतवत्यः राज्याय राजभावाय राजा भूयादयं न इति । पुरोहितादित्वाद्यक् ।   
-किञ्च - त्वां हवन्त हवन्ते इत आरभ्य त्वामेवाह्वयन्ति मरुतः स्वर्काः शोभनगमनाः शोभनस्तुतयो वा । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - मरुतः देवाः स्वर्काः सुपूजनाः त्वया वृद्ध्युत्पादनाय षडावृत्त्याऽऽह्वयन्ते । छान्दसे लङि 'बहुलं छन्दस्यमाङ्योगेऽपि' इत्यडभावः । स त्वं क्षत्रस्य बलस्य वर्ष्मन् वर्ष्मणि उच्छ्राये ककुभि प्रधाने शिश्रियाणः श्रयमाणः स्थितः । शपः श्लुः । यद्वा - क्षत्रस्य राजन्यस्य वर्ष्मन् महति ककुभि प्रधाने । किंपुनस्तत्? बलं रक्षकत्वं वा, तत्र स्थितो ह्यसि त्वम् । यत एवं ततो नोस्माकं उग्रः उद्गूर्णस्त्वं वसूनि धनानि गोरूपाणि विभज विविधं भज रक्षकभावेन गोषु वर्तस्वेत्यर्थः । 'द्व्यचोतस्तिङः' इति दीर्घत्वम् ॥
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/3/3/09_jIrNavRShabhAlambhaH/05_tvAngAvo-vRNata.md">
+</div>
 
 <details><summary>सर्वा अवतारिकाः</summary>
 
@@ -263,7 +151,7 @@ Then O dread one to us assign wealth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ व्यृद्धेन वा</summary>
 
 व्यृ᳙द्धेन वा᳓ एष᳓ पशु᳓ना यजते ।  
 य᳓स्यैता᳓नि न᳓ क्रिय᳓न्ते ।
@@ -293,7 +181,7 @@ Unsuccessful is his animal offering for whom these (rites) are not performed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ एष ह</summary>
 
 एष᳓ ह त्वै᳓ स᳓मृद्धेन यजते ।  
 य᳓स्यैता᳓नि क्रिय᳓न्ते ॥

@@ -140,14 +140,24 @@ _________
 
 1-12 अतः परं द्वावनुवाकाव् अग्निकाण्डम् अग्न्यार्षेयम् । तत्र प्रथमायां चितौ द्वादश-संततीर् उपदधाति आयुषः प्राणं इत्याद्याः ॥ 
 </details>
+
+<details><summary>सायणोक्त-विनियोगः</summary>
+
+सप्तमे त्वग्निचयनशेषा इष्टकोपधान-मन्त्रा उच्यन्ते ।
+</details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ आयुष प्राणँ</summary>
 
 आ᳓युषᳶ प्राणँ᳓ स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Continue exhalation from lifespan;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -163,14 +173,47 @@ _________
 
 **आयुषो** वयसो ऽवस्थितत्वाद्धेतोः **प्राणं संतनु**, संततमविच्छिन्नं कुरु । सति ह्यायुषि प्राणास्सन्तन्यन्ते तस्मादायुरेव तावत्संतनु ततः प्राणादिकमिति गम्यते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमे सप्तमोऽनुवाकः ।  
+षष्ठे चातुर्मास्यशेषो वपनविधिरुक्तः ।  
+“प्राची दिशाम्" इत्यादिभिर्मन्त्रैर्या अपानभृत इष्टका उक्ता-स्तास्तदुपधानादूर्ध्वम् “आयुषः" इत्यादिभिर्मन्त्रैर्द्वादशसंतत्याख्या इष्टका उपधेयाः ।  
+तन्मन्त्रपाठस्तु—  
+आयु॑षः प्राणः संत॑नु॒ ।  
+प्रा॒णाद॑पा॒नः संत॑नु॒ ।  
+अपानाद्व्यान‍् संत॑नु॒ ।  
+व्यानाच्चक्षुः संत॑नु॒ ।  
+चक्षुषः श्रोत्र‍् संत॑नु॒ ।  
+श्रोत्रान्मनः संत॑नु॒ ।  
+मन॑सो वाग्‍ संत॑नु॒ ।  
+वाच आत्मान‍् संत॑नु॒ ।  
+आत्मनः पृथिवी‍ संत॑नु॒ ।  
+पृथिव्या अन्तरिक्ष‍ संत॑नु॒ ।  
+अन्तरि॑क्षाद्दिवः संत॑नु॒ ।  
+दि॒व॒ः सु॒वः संत॑नु॒ (१) , (९), इति ।  
+पृथिव्या अन्तरिक्ष‍ संतनु द्वे च ॥  
+हे (हे इष्टक-) आयुष्प्राणयोः परस्परं संततमविच्छेदं कुरु ।  
+आयुष इति तृतीयार्थे पञ्चमी ।  
+आयुषा सह प्राणं संयोजयेत्यर्थः ।  
+एवमुत्तरत्रापि योज्यम् ।  
+आत्मा परो जीवो वा ।  
+द्यौर्द्युलोकः ।  
+सुवःशब्देन तत्रत्यो भोगस्थानविशेष उच्यते ॥
+</details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ प्राणाद् अपानँ</summary>
 
 प्राणा᳓द् अपानँ᳓ स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue inhalation from exhalation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -186,14 +229,31 @@ _________
 
 सत्यपि प्राणे निश्शेषनिष्क्रमणभयादपानाविच्छेदः प्रार्थ्यते ।
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमे ऽष्टमोऽनुवाकः ।  
+सप्तमे संतत्याख्येष्टकामन्त्रा उक्ताः ।  
+अष्टमे ऽथर्वशिरोभिधानानामिष्टकानां दशानां मन्त्रा उच्यन्ते ।  
+ताश्चेष्टकाः “प्राच्या त्वा दिशा सादयामि" इत्येतैर्मन्त्रैरुपधेयाभ्य इष्टकाभ्य ऊर्ध्वं पञ्चम्यां चितावुपधेयाः ।  
+तत्र प्रथमामृचमाह—  
+इन्द्रो दधीचो अस्थभिः ।  
+वृ॒त्राण्यप्रतिष्कुतः ।  
+जघान नवतीर्नव, इति ॥
+</details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ अपानाद् व्यानँ</summary>
 
 अपाना᳓द् व्यानँ᳓ स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue diffused breath from inhalation;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -211,12 +271,17 @@ _________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ व्यानाच्</summary>
 
 व्याना᳓च् च᳓क्षुस् स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue sight from diffused breath;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -234,12 +299,17 @@ _________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ चक्षुषश्</summary>
 
 च᳓क्षुषश् श्रो᳓त्रँ स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue hearing from sight;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -257,7 +327,7 @@ _________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ श्रोत्रान् मनस्</summary>
 
 श्रो᳓त्रान् म᳓नस् स᳓न्तनु ।
 
@@ -265,6 +335,12 @@ _________
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue mind from hearing;  
+continue speech from mind;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -284,12 +360,17 @@ _________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ वाच आत्मानँ</summary>
 
 वाच᳓ आत्मा᳓नँ स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue the self from speech;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -307,13 +388,19 @@ _________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ आत्मन पृथिवीँ</summary>
 
 आत्म᳓नᳶ पृथिवीँ᳓ स᳓न्तनु ।
 पृथिव्या᳓ अन्त᳓रिक्षँ स᳓न्तनु ।
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue the earth from the self;  
+continue the intermediate region from the earth;
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -332,13 +419,19 @@ _________
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अन्तरिक्षाद्</summary>
 
 अन्त᳓रिक्षाद् दि᳓व ँस᳓न्तनु ।
 दि᳓वस् सु᳓वस् स᳓न्तनु ॥ 32 ॥  
 </details>
 
 <details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+continue heaven from the intermediate region;  
+continue the light of heaven from heaven.
+</details>
 
 <details><summary>मूलम्</summary>
 

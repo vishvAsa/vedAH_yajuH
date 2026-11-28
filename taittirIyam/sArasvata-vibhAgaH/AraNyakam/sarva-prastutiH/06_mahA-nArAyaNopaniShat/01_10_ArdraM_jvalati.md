@@ -192,7 +192,7 @@ Performer of improper deeds, one who has split his semen virile, the thief, the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (3/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ रजो भूमिस् (3/8 व्यत्यस्त-स्वराः)</summary>
 
 [[रजो᳓|र᳓जो]] भू᳓मिस् [[त्वमाँ᳓|त्व᳓माँ᳓]] [[रो᳓दयस्व|रोदयस्व]] प्र᳓वदन्ति धी᳓राः ।
 </details>
@@ -232,7 +232,7 @@ Performer of improper deeds, one who has split his semen virile, the thief, the 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (1/8 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ पुनन्तु ऋषयः, (1/8 व्यत्यस्त-स्वराः)</summary>
 
 पुन᳓न्तु ऋ᳓षयः, पुन᳓न्तु व᳓सवः,  
 पुना᳓तु व᳓रुणः, पुना᳓त्व् [[अघमर्षणः᳓|अघम᳓र्षणः]] ।

@@ -77,7 +77,7 @@ May Gayatri, the boon-giving goddess, the mother of the metres come to me, the i
 
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ओजोऽसि</summary>
 
 ओ᳓जोऽसि।
 </details>
@@ -114,7 +114,7 @@ you are the brightness,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ सहोऽसि</summary>
 
 स᳓होऽसि।
 </details>
@@ -137,7 +137,7 @@ you are the tolerable one,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ बलमसि</summary>
 
 ब᳓लमसि।
 </details>
@@ -160,7 +160,7 @@ you are the power,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ भ्राजोऽसि</summary>
 
 भ्रा᳓जोऽसि।
 </details>
@@ -183,7 +183,7 @@ you are the shining,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ देवानान् धाम</summary>
 
 देवा᳓नान् धा᳓म ना᳓मासि।
 </details>
@@ -206,7 +206,7 @@ you are the nature of the places of the gods,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ विश्वम् असि</summary>
 
 वि᳓श्वम् असि विश्वा᳓युस्,  
 स᳓र्वम् असि सर्वा᳓युः।
@@ -241,7 +241,7 @@ you are all, you are all, all life,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - यजुः (2/5 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अभिभूर् (2/5 व्यत्यस्त-स्वराः)</summary>
 
 अभिभू᳓र् [ओ᳓ङ् गायत्री᳓म् आ᳓वाहयामि । (41)]
 </details>

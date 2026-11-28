@@ -79,7 +79,7 @@ Mantra offering five mouthfuls to the five Pranas before taking the meal.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे</summary>
 
 प्राणे᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । प्राणा᳓य स्वा᳓हा ।
 </details>
@@ -117,7 +117,7 @@ I sacrifice nectar sitting in the Prana-breath; Hail for the Prana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । अपाना᳓य स्वा᳓हा ।
 </details>
@@ -145,7 +145,7 @@ I sacrifice nectar sitting in the Apana-breath; Hail for the Apana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
 </details>
@@ -173,7 +173,7 @@ I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । उदाना᳓य स्वा᳓हा ।
 </details>
@@ -201,7 +201,7 @@ I sacrifice nectar sitting in the Udana-breath; Hail for the Udana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । समाना᳓य स्वा᳓हा ।
 </details>
@@ -285,7 +285,7 @@ Optional Mantra for the above.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे निविष्टो</summary>
 
 प्राणे᳓ नि᳓विष्टो ऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -332,7 +332,7 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -369,7 +369,7 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -406,7 +406,7 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -443,7 +443,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  

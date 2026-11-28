@@ -138,7 +138,10 @@ _________
 
 शेषः यथावत् । उपनिष्क्रामणकर्मणा संस्करिष्यामि । पुण्याहम् अभिमन्त्रणं मूर्धन्यवघ्राणम् । अत्र नामकर्मकर्मणि उदितं नाम सम्बुध्या वदेत् ।
 
-> सर्वँस्मात्, आत्मनॅः, सम्भूँतासि, साजीँव, शरदँश्शतम् [[TODO::परिष्कार्यम्??]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_14/10_sarvasmAdAtmanassambhUtA-si_sA.md">
+स᳓र्वस्माद् आत्म᳓नस् सं᳓भूताऽसि,  
+सा᳓ जीव शर᳓दश् शत᳓म् ।
+</div>
 
 इत्यभिमन्त्रणम्
 

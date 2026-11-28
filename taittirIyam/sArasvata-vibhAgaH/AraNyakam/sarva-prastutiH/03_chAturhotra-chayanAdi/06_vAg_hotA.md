@@ -23,7 +23,7 @@ title = "०६ वाग् होता"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ वाग् घोता</summary>
 
 वा᳓ग् घो᳓ता ।
 </details>
@@ -51,7 +51,7 @@ The speech is the Hotṛ priest;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ दीक्षा पत्नी</summary>
 
 दीक्षा᳓ प᳓त्नी ।
 </details>
@@ -80,7 +80,7 @@ the consecration, the wife;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ वातोऽध्वर्युः</summary>
 
 वा᳓तोऽध्वर्युः᳓ ।
 </details>
@@ -109,7 +109,7 @@ the wind, the Adhvaryu priest;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आपोऽभिगरः</summary>
 
 आ᳓पोऽभिगरः᳓ ।
 </details>
@@ -138,7 +138,7 @@ the waters, the Abhigar priest;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ मनो हविः</summary>
 
 म᳓नो हविः᳓ ।
 </details>
@@ -167,7 +167,7 @@ the mind, the oblation;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तपसि जुहोमि</summary>
 
 त᳓पसि जुहोमि ।
 </details>
@@ -206,7 +206,7 @@ I sacrifice in the austerity.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ भूर् भुवस्</summary>
 
 भू᳓र् भु᳓वस् सु᳓वः ।
 </details>
@@ -232,7 +232,7 @@ Bhūr, Bhuvaḥ, Suvaḥ.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ ब्रह्म स्वयम्भु</summary>
 
 ब्र᳓ह्म स्वयं-भु᳓ ।  
 ब्र᳓ह्मणे स्वयं-भु᳓वे स्वा᳓हा ।  

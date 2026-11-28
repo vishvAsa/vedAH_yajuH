@@ -316,7 +316,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ सह वै</summary>
 
 स᳓ह वै᳓ देवा᳓नाञ् चा᳓सुराणाञ् च यज्ञौ᳓ प्र᳓तताव् आस्ताव्ँ,  
 "वयँ᳓ स्वर्गल्ँ᳓ लोक᳓म् एष्यामो, वय᳓म् एष्याम" इ᳓ति।
@@ -346,7 +346,7 @@ Om Peace! Peace! Peace!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ते ऽसुरास्</summary>
 
 ते᳓ ऽसुरास् सन्न᳓ह्य स᳓हसैवा᳓चरन्।
 </details>
@@ -374,7 +374,7 @@ Those Asuras being equipped conducted all of a sudden;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ ब्रह्मचर्येण</summary>
 
 ब्र᳓ह्मच᳓र्येण त᳓पसैव देवाः᳓।
 </details>
@@ -402,7 +402,7 @@ and the Devas (performed their sacrifice) by the austerity.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तेऽसुरा</summary>
 
 ते᳓ऽसुरा अमुह्यँस्,
 </details>
@@ -430,7 +430,7 @@ Those Asuras became stupified;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ ते न</summary>
 
 ते᳓ न᳓ प्रा᳓जानँस्,
 </details>
@@ -458,7 +458,7 @@ they did not know,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ ते पराऽभवन्,</summary>
 
 ते᳓ प᳓राऽभवन्,
 </details>
@@ -481,7 +481,7 @@ they were defeated
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ ते न</summary>
 
 ते᳓ न᳓ स्वर्गल्ँ᳓ लोक᳓मायन्।
 </details>
@@ -514,7 +514,7 @@ and did not reach the heaven.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्रसृतेन वै</summary>
 
 प्र᳓सृतेन वै᳓ यज्ञे᳓न देवा᳓स् स्वर्गल्ँ᳓ लोक᳓म् आयन्।
 </details>
@@ -542,7 +542,7 @@ The Devas reached to the heavenly world by the well-performed sacrifice
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अप्रसृतेनासुरान्</summary>
 
 अ᳓प्र᳓सृतेना᳓सुरान् प᳓राभावयन्।
 </details>
@@ -573,7 +573,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ प्रसृतो ह</summary>
 
 प्र᳓सृतो ह वै᳓ यज्ञोपवीति᳓नो यज्ञो᳓,  
 ऽप्रसृतो᳓ ऽनुपवीति᳓नः।
@@ -612,7 +612,7 @@ and they defeated the Asuras, having no well-performed sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यत्किञ् च</summary>
 
 य᳓त्कि᳓ञ् च ब्राह्मणो᳓ यज्ञोपवीत्य् अ᳓धीते  
 य᳓जत एव᳓ त᳓त्।
@@ -641,7 +641,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ तस्माद्</summary>
 
 त᳓स्माद् यज्ञोपवीत्य् ए᳙वा᳓धीयीत  
 याज᳓येद् य᳓जेत वा।
@@ -678,7 +678,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ यज्ञस्य</summary>
 
 यज्ञ᳓स्य प्र᳓सृत्या  
 अ᳓जिनव्ँ वा᳓सो वा  
@@ -719,7 +719,7 @@ Whatever a Brāhmaṇa, the Yajñopavītin reads, he sacrifices, verily, (in) th
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ विपरीतम्</summary>
 
 वि᳓परीतं प्राचीनावीतँ᳓
 </details>
@@ -747,7 +747,7 @@ contradictory to this is (called) the Prācīnāvīta;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ सव्ँवीतम्</summary>
 
 सव्ँवी᳓तं मानुष᳓म् । 1 ।
 </details>
@@ -788,7 +788,7 @@ and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ रक्षाँसि ह</summary>
 
 र᳓क्षाँसि ह᳓ वा पुरोऽनुवाके᳓ त᳓पो᳓ग्रम् अतिष्ठन्त।
 </details>
@@ -816,7 +816,7 @@ and that which is worn upon both shoulders is called the Mānuṣa (manly) (1).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तान् प्रजापतिर्</summary>
 
 ता᳓न् प्रजा᳓पतिर् वरे᳓णोपा᳓मन्त्रयत।
 </details>
@@ -847,7 +847,7 @@ Prajāpati asked them to choose some boon.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ तानि वरम्</summary>
 
 ता᳓नि व᳓रम् अवृणीत - "आदित्यो᳓ नो यो᳓द्धा" इ᳓ति᳓।
 </details>
@@ -875,7 +875,7 @@ Prajāpati asked them to choose some boon.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तान् प्रजापतिर्</summary>
 
 ता᳓न् प्रजा᳓पतिर् अब्रवीद् - "यो᳓धयध्व᳓मि᳓"ति᳓।
 </details>
@@ -903,7 +903,7 @@ Prajāpati said to them, "fight".
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ तस्माद्</summary>
 
 त᳓स्माद् उ᳓त्तिष्ठन्तँ ह᳓ वा ता᳓नि र᳓क्षाँस्यादित्यय्ँ᳓ यो᳓धयन्ति या᳓वदस्तम᳓न्वगात्।
 </details>
@@ -935,7 +935,7 @@ Therefore, the Rākṣasas fight against the rising sun (Āditya) until that set
 
 ### अर्घ्यम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तानि ह</summary>
 
 ता᳓नि ह वा᳓ एता᳓नि र᳓क्षाँसि  
 गायत्रिया᳓ ऽभिमन्त्रितेना᳓म्भसा शाम्यन्ति।
@@ -973,7 +973,7 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ तदु ह</summary>
 
 त᳓दु ह वा᳓ एते᳓ ब्रह्मवादि᳓नः पूर्वा᳓भिमुखाः᳓ सन्ध्या᳓याङ्  
 गायत्रिया᳓ ऽभिमन्त्रिता आ᳓प ऊर्ध्वं᳓ वि᳓क्षिपन्ति।
@@ -1003,7 +1003,7 @@ These Rākṣasas become destroyed by the waters consecrated by the Gāyatrī Ma
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ ता एता</summary>
 
 ता᳓ एता᳓ आ᳓पो वज्री᳓भूत्वा᳓ ता᳓नि र᳓क्षाँसि मन्दे᳓हा᳓रुणे द्वीपे᳓ प्र᳓क्षिपन्ति।
 </details>
@@ -1041,7 +1041,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ यत् प्रदक्षिणम्</summary>
 
 य᳓त् प्रदक्षिणं᳓ प्र᳓क्रमन्ति, ते᳓न पाप्मा᳓नम् अ᳓वधून्वन्ति।
 </details>
@@ -1081,7 +1081,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० उद्यन्तम्</summary>
 
 उद्य᳓न्तम् अस्तय्ँ य᳓न्तम् आदित्य᳓म् अभिध्याय᳓न्  
 कुर्व᳓न् ब्राह्मणो᳓ विद्वा᳓न्त् सक᳓लं भद्र᳓म् अश्नुते -  
@@ -1121,7 +1121,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ ब्रह्मैव सन्</summary>
 
 ब्र᳓ह्मैव᳓ स᳓न् ब्र᳓ह्माप्ये᳓ति-  
 य᳓ एवव्ँ᳓ वे᳓द ।2।
@@ -1355,7 +1355,7 @@ These waters becoming as thunderbolt put away those Rākṣasas in the Maṇḍa
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे निविष्टो</summary>
 
 प्राणे᳓ नि᳓विष्टो ऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -1402,7 +1402,7 @@ I sacrifice nectar sitting in the Prana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -1439,7 +1439,7 @@ I sacrifice nectar sitting in the Apana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -1476,7 +1476,7 @@ I sacrifice nectar sitting in the Vyana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -1513,7 +1513,7 @@ I sacrifice nectar sitting in the Udana-breath; enter me being auspicious for no
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि।  
 शिवो᳓ मा᳓ ऽऽविशा᳓ऽप्रदाहाय।  
@@ -3332,7 +3332,7 @@ ye that are in this world, of these may I be the most fortunate.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अष्टाव्</summary>
 
 अ᳓ष्टा᳓व् अष्टावन्ये᳓षु धि᳓ष्णियेषू᳓प दधाति ।
 </details>
@@ -3361,7 +3361,7 @@ Eight each he puts down in the other altars;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अष्टाशफा पशवः</summary>
 
 अष्टा᳓शफाᳶ पश᳓वः ।
 </details>
@@ -3384,7 +3384,7 @@ cattle have eight half-hooves;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ पशूनेवाव रुन्धे</summary>
 
 पशू᳓नेवा᳓व रुन्धे ।
 </details>
@@ -3407,7 +3407,7 @@ verily he wins cattle.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ षण्मार्जालीये</summary>
 
 ष᳓ण्मार्जाली᳓ये ।
 </details>
@@ -3435,7 +3435,7 @@ verily he wins cattle.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ षड्वा ऋतवः</summary>
 
 ष᳓ड्वा᳓ ऋत᳓वः ।  
 ऋत᳓वᳵ ख᳓लु वै᳓ देवाᳶ᳓ पित᳓रः ।
@@ -3465,7 +3465,7 @@ the seasons are six, the gods, the fathers, are the seasons;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ ऋतूनेव</summary>
 
 ऋतू᳓नेव᳓ देवा᳓न्पितॄ᳓न्प्रीणाति ॥ [55]
 </details>

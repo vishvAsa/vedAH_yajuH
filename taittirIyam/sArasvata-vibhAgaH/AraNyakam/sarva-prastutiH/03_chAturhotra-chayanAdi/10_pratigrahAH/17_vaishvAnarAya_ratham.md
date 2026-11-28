@@ -2,7 +2,7 @@
 title = "१७ वैश्वानराय रथम्"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ वैश्वानराय रथम्</summary>
 
 वैश्वानरा᳓य र᳓थम् ।
 </details>
@@ -34,13 +34,8 @@ for Vaiśvānara (fire) as chariot.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/19 व्यत्यस्त-स्वराः)</summary>
-
-वैश्वानरः᳓ प्रत्न᳓था+++(=आदित्यवत्)+++ ना᳓कम् **आ᳓रुहत्** ।  
-दिवः᳓ पृष्ठ᳓म् **भ᳓न्दमानस्**+++(=शोभमानः)+++ सुम᳓न्मभिः+++(=सुष्ठुमन्तृभिः)+++ ।  
-स᳓ पूर्वव᳓ज् **[[जन᳓यज्|जनयज्]]** जन्त᳓वे ध᳓नम् ।  
-समान᳓म् अ᳓ज्मा+++(←~~अज्मा~~)+++ **प᳓रियाति** जा᳓गृविः ।
-</details>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/10_pratigrahAH/17_vaishvAnarAya_ratham/02_vaishvAnaraH_pratnathA.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/03/002/12_vaishvAnaraH_pratnathA.md">
 <details><summary><h3>सर्वाष् टीकाः ...{Loading}...</h3></summary>
@@ -504,7 +499,7 @@ Mantras for taking Dakṣiṇā (sacrificial fee).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ राजा त्वा</summary>
 
 रा᳓जा त्वा व᳓रुणो नयतु  
 देवि दक्षिणे वैश्वानरा᳓य र᳓थम् ।

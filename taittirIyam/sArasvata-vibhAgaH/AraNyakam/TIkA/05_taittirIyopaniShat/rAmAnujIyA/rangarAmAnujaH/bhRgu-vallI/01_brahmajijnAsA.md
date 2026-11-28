@@ -13,7 +13,7 @@ Hume does not give the Prayer-Mantra.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ भृगुर्वै</summary>
 
 भृ᳓गुर्वै᳓ वारुणिः᳓ ।
 </details>
@@ -36,7 +36,7 @@ Bhṛgu, verily, the son of Varuṇa,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ वरुणं पितरम्</summary>
 
 व᳓रुणं पि᳓तरम् उ᳓पससार ।
 </details>
@@ -54,7 +54,7 @@ went to his father Varuṇa (and said):
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ अधीहि भगवो</summary>
 
 अ᳓धीहि भगवो ब्र᳓ह्मे᳓ति ।
 </details>
@@ -77,7 +77,7 @@ went to his father Varuṇa (and said):
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तस्मा</summary>
 
 त᳓स्मा एत᳓त्प्रोवाच ।
 </details>
@@ -100,7 +100,7 @@ He said to him:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ अन्नं प्राणञ्</summary>
 
 अ᳓न्नं प्राण᳓ञ् च᳓क्षुः श्रो᳓त्रं म᳓नो वा᳓चमि᳓ति ।
 </details>
@@ -128,7 +128,7 @@ He said to him:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ तँ होवाच</summary>
 
 तँ᳓ होवाच -  
 
@@ -330,7 +330,7 @@ He said again: "Whence, verily, these beings are born; by whom, when born, they 
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ स तपोऽतप्यत</summary>
 
 स᳓ त᳓पोऽतप्यत ।
 </details>

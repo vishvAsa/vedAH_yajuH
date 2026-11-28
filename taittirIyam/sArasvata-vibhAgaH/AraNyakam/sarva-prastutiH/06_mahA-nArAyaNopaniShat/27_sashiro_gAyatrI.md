@@ -20,7 +20,7 @@ unicode_script = "devanagari"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ ओं भूः</summary>
 
 ओं᳓ भूः᳓ । ओं᳓ भु᳓वः । ओँ᳓ सु᳓वः । ओं᳓ म᳓हः । ओ᳓ञ् ज᳓नः । ओं᳓ त᳓पः । ओँ᳓ सत्य᳓म् ।
 </details>
@@ -1193,7 +1193,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ ओम् आपो</summary>
 
 ओ᳓म् आ᳓पो ज्यो᳓ती र᳓सो  
 ऽमृ᳓तं ब्र᳓ह्म +++(=मन्त्राः)+++  

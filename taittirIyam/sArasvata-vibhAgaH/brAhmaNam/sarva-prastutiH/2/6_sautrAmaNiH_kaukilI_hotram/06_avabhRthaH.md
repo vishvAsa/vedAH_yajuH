@@ -12,7 +12,7 @@ unicode_script: devanagari
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ यद्देवा</summary>
 
 य᳓द्देवा देवहे᳓डनम् ।  
 दे᳓वासश्चकृमा᳓ वय᳓म् ।  
@@ -191,7 +191,7 @@ may Agni release me from that sin, from every distress!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ यदि दिवा</summary>
 
 य᳓दि दि᳓वा य᳓दि न᳓क्तम् ।  
 ए᳓नाँसि चकृमा᳓ वय᳓म् ।  
@@ -335,7 +335,7 @@ may Vāyu release me from that sin, from every distress!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ यदि जाग्रद्यदि</summary>
 
 य᳓दि जा᳓ग्रद्य᳓दि स्व᳓प्ने ।  
 ए᳓नाँसि चकृमा᳓ वय᳓म् ॥28॥    
@@ -496,7 +496,7 @@ may Sūrya release me from that sin, from every distress!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ यदि जाग्रद्यदि</summary>
 
 य᳓दि जा᳓ग्रद्य᳓दि स्व᳓प्ने ।  
 ए᳓नाँसि चकृमा᳓ वय᳓म् ॥28॥  
@@ -547,7 +547,7 @@ of that you are the expiation by sacrifice.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ यदापो अघ्निया</summary>
 
 य᳓दा᳓पो अ᳓घ्निया व᳓रुणे᳓ति श᳓पामहे ।  
 त᳓तो वरुण नो मुञ्च ॥29॥
@@ -616,7 +616,7 @@ from that, O Varuṇa, release us!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ अवभृथ निचङ्कुण</summary>
 
 अ᳓वभृथ निचङ्कुण निचेरु᳓रसि निचङ्कुण ।  
 अ᳓व देवै᳓र्देव᳓कृतमे᳓नोऽयाट् ।  
@@ -659,7 +659,7 @@ The sin committed against the gods by the gods you have removed by sacrifice,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ सुमित्रा न</summary>
 
 सुमित्रा᳓ न आ᳓प ओ᳓षधयस्सन्तु ।  
 दुर्मित्रा᳓स्त᳓स्मै भूयासुः ।  
@@ -703,7 +703,7 @@ May the waters, the plants, be friendly to us;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ द्रुपदादिवेन्मुमुचानः</summary>
 
 द्रुपदा᳓दिवे᳓न्मुमुचानः᳓ ।  
 स्विन्न᳓स्स्नात्वी᳓ म᳓लादिव ॥30॥  
@@ -867,7 +867,7 @@ as one sweating \[cleansed\] from dirt after bathing,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ उद्वयन्तमसस्परि</summary>
 
 उ᳓द्वय᳓न्त᳓मसस्प᳓रि ।  
 प᳓श्यन्तो ज्यो᳓तिरु᳓त्तरम् ।  
@@ -983,7 +983,7 @@ May we go to the supreme light seeing the light above the darkness and the bette
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० प्रतियुतो</summary>
 
 प्र᳓तियुतो व᳓रुणस्य पा᳓शः ।  
 प्र᳓त्यस्तो व᳓रुणस्य पा᳓शः ।  
@@ -1023,7 +1023,7 @@ thrown back is Varuṇa's noose.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ एधोऽस्येधिषीमहि</summary>
 
 ए᳓धोऽस्येधिषीम᳓हि ।  
 </details>
@@ -1051,7 +1051,7 @@ You are fuel: may we prosper.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ समिदसि 31</summary>
 
 समि᳓दसि ॥31॥  
 </details>
@@ -1079,7 +1079,7 @@ You are kindling:
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ तेजोऽसि तेजो</summary>
 
 ते᳓जोऽसि ते᳓जो म᳓यि धेहि ।  
 </details>
@@ -1115,7 +1115,7 @@ you are fiery energy: place fiery energy in me!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ अपो अन्वचारिषम्</summary>
 
 अपो᳓ अ᳓न्वचारिषम् ।  
 र᳓सेन स᳓मसृक्ष्महि ।  
@@ -1250,7 +1250,7 @@ with offspring, and with wealth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ समाववर्ति</summary>
 
 समा᳓ववर्ति पृथिवी᳓ ।  
 स᳓मुषाः᳓ ।  
@@ -1301,7 +1301,7 @@ may I attain all-pervading desire!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ भूस्स्वाहा 32</summary>
 
 भू᳓स्स्वा᳓हा ॥32॥  
 </details>

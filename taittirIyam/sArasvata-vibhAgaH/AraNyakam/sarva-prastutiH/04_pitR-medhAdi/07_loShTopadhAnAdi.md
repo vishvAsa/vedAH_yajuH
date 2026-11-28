@@ -31,7 +31,7 @@ Ceremony for raising a tumulus over the relic jar.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ उत्ते तभ्नोमि</summary>
 
 उ᳓त्ते तभ्नोमि पृथिवी᳓न् त्व᳓त् प᳓रि
 +इम᳓ल्ँ लोक᳓न् निद᳓धन् मो᳓ अहँ᳓ रिषम् ।  
@@ -424,7 +424,7 @@ Rings um dich her befest'ge ich die Erde nun, nicht schad' es mir, wenn ich die 
 </details>
 </div>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ उपसर्प मातरम्</summary>
 
 उ᳓पसर्प मात᳓रं भू᳓मिम् एता᳓म्  
 उरुव्य᳓चसं पृथिवीँ᳓ सुशे᳓वाम् ।  
@@ -478,7 +478,7 @@ Go to this earth, the mother, having great space, vast and full of good comfort;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ उछ्मञ्चस्व</summary>
 
 उ᳓छ्मञ्चस्व पृथिवि मा᳓ वि᳓बाधिथास्  
 सूपायना᳓स्मै भव सूपवञ्चना᳓ ।  
@@ -533,7 +533,7 @@ O earth, make him comfortful; do not check him; become full of good residence fo
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/17 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उछ्मञ्चमाना (1/17 व्यत्यस्त-स्वराः)</summary>
 
 उछ्म᳓ञ्चमाना पृथिवी᳓ हि᳓ ति᳓ष्ठसि  
 सह᳓स्रं मि᳓त उ᳓प हि᳓ [[श्र᳓यन्ताम्|श्र᳙यन्ताम्]] ।  
@@ -915,7 +915,7 @@ Mantra for throwing Tila and fried barley.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (3/13 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ एणीर् धाना (3/13 व्यत्यस्त-स्वराः)</summary>
 
 [[ए᳓णीर्|एणी᳓र्]] धाना᳓ ह᳓रिणीर्  
 अ᳓र्जुनीस् सन्तु धेन᳓वः ।  
@@ -990,7 +990,7 @@ Mantra for putting the butter.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (1/11 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ एषा ते (1/11 व्यत्यस्त-स्वराः)</summary>
 
 एषा᳓ ते यमसा᳓दने  
 स्वधा᳓ नि᳓धीयते गृहे᳓ ।  
@@ -1065,7 +1065,7 @@ Yama which is not destroying. Ceremony for raising a tumulus over the relic jar.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (4/21 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ इदं पितृभ्यः (4/21 व्यत्यस्त-स्वराः)</summary>
 
 इदं᳓ पितृ᳓भ्यः प्र᳓भरेम बर्हि᳓र्  
 देवे᳓भ्यो जी᳓वन्त उ᳓त्तरं भरेम ।  
@@ -1147,7 +1147,7 @@ Mantra for surrounding the place with Palasa-branches.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ मा त्वा</summary>
 
 मा᳓ त्वा वृक्षौ᳓ सं᳓बाधिष्टाम्  
 मा᳓ माता᳓ पृथिवि त्व᳓म् ।  
@@ -1198,57 +1198,11 @@ May not the trees check you; may you not, O mother earth, (check him); (O dead o
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/04_pitR-medhAdi/07_loShTopadhAnAdi/09_mA_tvA_vRxau.md">
+</div>
 
-मा᳓ त्वा वृक्षौ᳓ सं᳓बाधेथां  
-मा᳓ माता᳓ पृथिवी᳓ मही᳓ ।  
-वैवस्वतँ᳓ हि᳓ ग᳓च्छासि  
-यमरा᳓ज्ये वि᳓राजसि ।
-</details>
-
-<details><summary>सर्वाष् टीकाः</summary>
-
-<details><summary>त्रिभुवनः</summary>
-
-May not the trees check you, may not you, O mother earth, (check him); (O dead one!) go to the son of sun and shine in the world of Yama.
-</details>
-
-<details><summary>मूलम्</summary>
-
-मा त्वा॑ वृ॒क्षौ संबा॑धेथां॒ मा मा॒ता पृ॑थि॒वी म॒ही ।  
-वै॒व॒स्व॒तँ हि गच्छा॑सि यम॒राज्ये॒ विरा॑जसि ।
-</details>
-
-<details><summary>पद-पाठः (यान्त्रिकः)</summary>
-
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
-- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *AV*-539, *SB-K*-675, *VS-K*-525, *KS*-326, *MS*-812)
-- वृक्षौ᳓ (*TS*-0/10, *RV*-0/27, *TB*-0/2, *AV*-0/34, *SB-M*-0/19, *SB-K*-0/15, *VS-M*-0/6, *VS-K*-0/6, *KS*-0/11, *MS*-0/11, फिषोऽन्तः फि॰ १.१, प्रत्ययस्वरः पा॰ ३.१.३)
-- स᳓म् (*TS*-547, *RV*-608, *TB*-22, *SB-K*-1517, *VS-K*-82, *KS*-174, *MS*-668)
-- बाधेथाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *MS*-1)
-- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
-- माता᳓ (*TS*-17/44, *RV*-63/165, *TB*-12/18, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-9/25, *VS-K*-11/33, *KS*-11/21, *MS*-26/61)
-- पृथिवी᳓ (*TS*-43/106, *RV*-89/156, *TB*-24/36, *TK*-1, *AV*-77/155, *SB-M*-96/156, *SB-K*-54/126, *VS-M*-15/33, *VS-K*-16/42, *KS*-20/35, *MS*-43/104)
-- मही᳓ (*TS*-10/24, *RV*-64/131, *TB*-2/6, *TK*-1, *AV*-28/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-6/14, *VS-K*-6/17, *KS*-3/10, *MS*-10/28)
-- वैवस्वत᳓म् (*RV*-2/5, *TB*-0/1, *AV*-2/5, *SB-M*-0/2, *SB-K*-0/2, *MS*-1/2)
-- हि᳓ (*TS*-456, *RV*-662, *TB*-136, *TK*-7, *SB-K*-2819, *VS-K*-35, *KS*-81, *MS*-717)
-- ग᳓च्छासि (हि च, पा॰ ८.१.३४)
-- यम-रा᳓ज्ये (*TB*-1, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2, *MS*-1/2; पा॰ ६.२.१९९)
-- वि᳓राजसि (हि च, पा॰ ८.१.३४)
-</details>
-
-<details><summary>भट्टभास्कर-टीका</summary>
-
-उत्तमे मन्त्रे पूर्वम् अर्धं गतम् । मही महती वैवस्वतं गच्छासि गच्छेर् गत्वा च यमराज्ये स्थाने विराजसि विराज ॥
-</details>
-
-<details><summary>सायण-टीका</summary>
-
-अथ द्वितीयाम् आह -
-
-हे प्रेत, त्वां वृक्षौ दक्षिणोत्तर-परिधि-रूपाव् एतौ मा संबाधेथां संबाधितं मा कुरुताम्। माता मातृ-स्थानीया मही महती पृथिवी मा बाधिष्ट। हि प्रसिद्धं वैवस्वतं सूर्य-पुत्रं यमं गच्छासि प्राप्नुहि। यम-राज्ये यमस्य देशे विराजसि विशेषेण राजमानो भव।
-</details>
-</details>
+<div class="js_include collapsed" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/sarvASh_TIkAH/04_pitR-medhAdi/07_loShTopadhAnAdi/09_mA_tvA_vRxau.md">
+</div>
 
 ## इष्टकाः
 
@@ -1274,7 +1228,7 @@ Mantra for placing Nala (reed).
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक् (2/19 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ नळं प्लवम् (2/19 व्यत्यस्त-स्वराः)</summary>
 
 नळं᳓ प्लव᳓म् आ᳓रोहैत᳓न्  
 नळे᳓न पथो᳓ऽन्विहि ।  
@@ -1353,7 +1307,7 @@ Mantra for placing the relic jar on the grass without looking on it.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० सवितैतानि</summary>
 
 सवितै᳓ता᳓नि श᳓रीराणि  
 पृथिव्यै᳓ मातु᳓र् उप᳓स्थ आ᳓दधे ।  
@@ -1424,7 +1378,7 @@ Addresses to the manes.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः (1/24 व्यत्यस्त-स्वराः)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ षड्ढोता सूर्यन् (1/24 व्यत्यस्त-स्वराः)</summary>
 
 ष᳓ड्-ढोता सू᳓र्यन् ते च᳓क्षुर् गच्छतु  
 वा᳓तम् आत्मा᳓ द्या᳓ञ् च [[ग᳓च्छ|गच्छ]]  
@@ -1510,7 +1464,7 @@ Mantra for wiping the jar with old rag.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १२ परं मृत्यो</summary>
 
 प᳓रं मृत्यो **अ᳓नु प᳓रेहि** प᳓न्थाय्ँ  
 य᳓स् ते स्व᳓ इ᳓तरो देव-या᳓नात् ।  
@@ -2092,7 +2046,7 @@ Mantra for sprinkling water after covering the body with an old cloth.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १३ शव्ँ वातश्</summary>
 
 शव्ँ᳓ वा᳓तश् शँ᳓ हि᳓ ते घृ᳓णिश्  
 श᳓म् उ ते सन्त्व् ओ᳓षधीः ।  
@@ -2166,7 +2120,7 @@ Mantras for putting on bricks.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १४ पृथिव्यास् त्वा</summary>
 
 पृथिव्या᳓स् त्वा लोके᳓ **सादयाम्य्**  
 अमु᳓ष्य श᳓र्मासि पित᳓रो देव᳓ता ।  
@@ -2217,7 +2171,7 @@ I put you in the region of the earth, you are comfortable for that (dead one); t
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १५ अन्तरिक्षस्य</summary>
 
 अन्त᳓रिक्षस्य त्वा [लोके᳓ **सादयाम्य्**  
 अमु᳓ष्य श᳓र्मासि पित᳓रो देव᳓ता ।  
@@ -2242,7 +2196,7 @@ I put you in the region of the earth, you are comfortable for that (dead one); t
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १६ दिवस् त्वा</summary>
 
 दिव᳓स् त्वा [लोके᳓ **सादयाम्य्**  
 अमु᳓ष्य श᳓र्मासि पित᳓रो देव᳓ता ।  
@@ -2262,7 +2216,7 @@ of the heaven,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १७ दिशान् त्वा</summary>
 
 दिशा᳓न् त्वा [लोके᳓ **सादयाम्य्**  
 अमु᳓ष्य श᳓र्मासि पित᳓रो देव᳓ता ।  
@@ -2282,7 +2236,7 @@ of the quarters,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १८ नाकस्य त्वा</summary>
 
 ना᳓कस्य त्वा पृष्ठे᳓ [**सादयाम्य्**  
 अमु᳓ष्य श᳓र्मासि पित᳓रो देव᳓ता ।  
@@ -2316,7 +2270,7 @@ on the back of the paradise,
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १९ ब्रध्नस्य त्वा</summary>
 
 ब्रध्न᳓स्य त्वा विष्ट᳓पे सादयाम्य्  
 अमु᳓ष्य श᳓र्मासि पित᳓रो देव᳓ता ।  

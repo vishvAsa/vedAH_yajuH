@@ -2,7 +2,7 @@
 title = "४१ अन्नं बहु कुर्वीत"
 +++
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अन्नं बहु</summary>
 
 अ᳓न्नं बहु᳓ कुर्वीत ।
 </details>
@@ -25,7 +25,7 @@ One should make food much.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तद्व्रतम्</summary>
 
 त᳓द्व्रत᳓म् ।
 </details>
@@ -56,7 +56,7 @@ That is the duty.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ पृथिवी वा</summary>
 
 पृथिवी᳓ वा᳓ अ᳓न्नम् ।
 </details>
@@ -79,7 +79,7 @@ The earth, verily, is food;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ आकाशोऽन्नादः</summary>
 
 आकाशो᳙ऽन्नादः᳓ ।
 </details>
@@ -97,7 +97,7 @@ space, the eater of food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ पृथिव्यामाकाशः</summary>
 
 पृथिव्या᳓माकाशः᳓ प्र᳓तिष्ठितः ।
 </details>
@@ -115,7 +115,7 @@ Space is fixed in the earth;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ आकाशे पृथिवी</summary>
 
 आकाशे᳓ पृथिवी᳓ प्र᳓तिष्ठिता ।
 </details>
@@ -138,7 +138,7 @@ the earth is fixed in space.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ तदेतदन्नमन्ने</summary>
 
 त᳓देत᳓द᳓न्नम᳓न्ने प्र᳓तिष्ठितम् ।
 </details>
@@ -161,7 +161,7 @@ That is, this food is fixed in food.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०८ स य</summary>
 
 स᳓ य᳓ एत᳓द᳓न्नम᳓न्ने प्र᳓तिष्ठितव्ँ वे᳓द प्र᳓तितिष्ठति ।
 </details>
@@ -184,7 +184,7 @@ He who knows this food fixed in food, becomes fixed;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०९ अन्नवानन्नादो</summary>
 
 अ᳓न्नवानन्नादो᳓ भवति ।
 </details>
@@ -202,7 +202,7 @@ becomes possessor (and) eater of food;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - १० महान्भवति</summary>
 
 महा᳓न्भवति प्रज᳓या पशु᳓भिर्ब्रह्मवर्चसे᳓न ।
 </details>
@@ -220,7 +220,7 @@ becomes great in progeny, cattle, splendour of sacred knowledge (brahma-varcas)
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ११ महान्कीर्त्या</summary>
 
 महा᳓न्कीर्त्या᳓ । (41)
 </details>

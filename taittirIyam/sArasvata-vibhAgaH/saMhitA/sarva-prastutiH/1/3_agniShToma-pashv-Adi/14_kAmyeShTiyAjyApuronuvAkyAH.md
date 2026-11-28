@@ -876,7 +876,7 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अग्निर् होता</summary>
 
 अग्नि᳓र् हो᳓ता नि᳓षसादा य᳓जीयान्  
 उप᳓स्थे मातु᳓स् सुरभा᳓व् उ लोके᳓ ।  
@@ -2847,7 +2847,7 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ तुभ्यन् ता</summary>
 
 तु᳓भ्यन् ता᳓ अङ्गिरस्तम  
 वि᳓श्वाः सुक्षित᳓यᳶ पृ᳓थक् ।      
@@ -4377,7 +4377,7 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ आयुष्टे विश्वतो</summary>
 
 आ᳓युष्टे विश्व᳓तो दधद्  
 अय᳓म् अग्नि᳓र् व᳓रेण्यः ।  
@@ -4447,13 +4447,8 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
-
-आयुर्दा᳓ अग्ने हवि᳓षो जुषाणो᳓  
-घृत᳓-प्रतीको घृत᳓-योनिर् **एधि** ।  
-**घृत᳓म् पीत्वा᳓**, म᳓धु चा᳓रु ग᳓व्यम्  
-पिते᳓व पुत्र᳓म् अभि᳓ **र᳓क्ष᳓ता᳓द् इम᳓म्** ॥
-</details>
+<div class="js_include" newlevelforh1="5" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md">
+</div>
 
 <div class="js_include collapsed" newlevelforh1="5" unfilled title="सर्वाष् टीकाः" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/sarvASh_TIkAH/1/3_agniShToma-pashv-Adi/14_kAmyeShTiyAjyApuronuvAkyAH/AyurdA.md">
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
@@ -4554,7 +4549,7 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ तस्मै ते</summary>
 
 त᳓स्मै ते प्रतिह᳓र्यते  
 जा᳓तवेदो वि᳓चर्षणे ।  
@@ -8053,7 +8048,7 @@ _______
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः - ऋक्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ वद्मा हि</summary>
 
 **वद्मा᳓**+++(←वद्)+++ हि᳓ सूनो **अ᳓स्य्** अद्म+++(←अद्)+++-स᳓द्वा+++(←सद् + वनिप्)=+++  
 **चक्रे᳓ अग्नि᳓र्** जनु᳓षा᳓ ऽज्म᳓+++(←गतौ)++++अ᳓न्नम् ।   

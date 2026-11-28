@@ -5,18 +5,30 @@ title = "१० औपासन-विधिः"
 
 पादौ प्रक्षाल्य - द्विर् आचम्य - पूर्वस्मिन् दिने, आत्म-समारोपणे कृते, 
 
-> उपावरोहजातवेदः पुनस्त्वं - देवेभ्यो हव्यं वहनः प्रजानन्न्, आयुः प्रजाँ रयिमस्मासु धेहि, अजस्रो दीदिहि नो दुरोणे
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/21_upAvaroha_jAtavedapH.md">
+उपा᳓वरोह जातवेदᳶ पु᳓नस् त्व᳓म् ॥41॥  
+देवे᳓भ्यो हव्यव्ँ᳓ वह नᳶ प्रजान᳓न् ।  
+आ᳓युᳶ प्रजाँ᳓ रयि᳓म् अस्मा᳓सु धेहि ।  
+अ᳓जस्रो दीदिहि नो दुरोणे᳓ ।
+</div>
 
 इति मन्त्रेण, आत्म-समारूढाग्निं यज्ञिय-काष्ठे दर्भ-द्वये वा उद्गीरणेन समारोप्य, लौकिकाग्नौ प्रक्षिपेत् - पूर्वस्मिन् दिने समित्-समारोपणे कृते तु 
 
-> अजुह्वानस्सुप्रतीकः पुरस्तादग्ने स्वां योनिमासीदसाध्या - अस्मिन्त्सधस्ते अध्युत्तरस्मिन् विश्वे देवा यजमानश्च सीदत
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/6/05_chityAm_agni-sthApanAdi-mAruta-homAntam/07_AjuhvAnas_supratIkapH.md">
+**आजु᳓ह्वानस्**+++(=हूयमानः)+++ सु-प्र᳓तीकᳶ पुर᳓स्ताद्  
+अ᳓ग्ने स्वाय्ँ᳓ यो᳓निम् **आ᳓ सीद** साध्या᳓+++(→ साधुया माध्यन्दिने)+++ ।  
+अस्मि᳓न्त् सध᳓-स्थे, अ᳓ध्य् उ᳓त्तरस्मिन्   
+वि᳓श्वे देवाः! य᳓जमानश् च **सीदत** ।
+</div>
 
 इति मन्त्रेण 
 
-> उद्बुध्यस्वाग्ने प्रतिजागृह्येनमिष्टापूर्ते सँ सृजेथामयं च, पुनः कृण्वग्ँ स्त्वा पितरं युवानमन्वाताँ सीत्वयि तन्तु मे तम्   
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/4/7/13_agniyogaH_punashchitishcha/45_udbudhyasvAgne_prati.md">
+**उ᳓द्बुध्यस्वाग्ने** प्र᳓ति जागृह्य्  
+एनम् इष्टा-पूर्ते᳓ सँ᳓सृजेथामय᳓ञ्च ।   
+पु᳓नᳵ **कृण्वँ᳓स्** त्वा पित᳓रय्ँ यु᳓वानम्  
+**अन्वा᳓ताँसीत्** त्व᳓यि त᳓न्तुम् एत᳓म् ।
+</div>
 
 इति मन्त्रेणावाहिताग्निं समिधं लौकिकाग्नौ प्रक्षिप्य - पवित्र-पाणिः प्राणानायम्य —
 
@@ -50,8 +62,21 @@ title = "१० औपासन-विधिः"
 
 इति प्राग्-आद्य्-अष्टसु दिक्षु अक्षतैस् सम्पूज्य - "ॐ यज्ञ-पुरुषाय नमः" इत्य् अक्षतैर् मध्ये यज्ञ-पुरुषं सम्पूज्य - "सर्वेभ्यश् श्री-वैष्णवेभ्यो नमः" इत्य् अक्षतैर् अभ्यर्च्य -
 
-> ॐ अदितेनु मन्यस्व - ॐ अनुमतेनु मन्यस्व - ॐ सरस्वतेनु मन्यस्व - ॐ देवसवितः प्रसुव
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/01_adite-nu_manyasva.md">
+अ᳓दिते᳓ऽनु मन्यस्व। +++(इति दक्षिणतः, प्राचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/02_anumate-nu_manyasva.md">
+अ᳓नुमते᳓+++(=ऊनचन्द्रे पूर्णमासि)+++ ऽनु मन्यस्व। +++(इति पश्चिमाद् उदीचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/03_saras-vate-nu_manyasva.md">
+स᳓रस्-वते᳓+++(→छान्दसो गुणः)+++ ऽनु मन्यस्व। +++(इति उत्तरतः प्राचीनम्)+++
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/1_01a/04_deva_savitaH.md">
+दे᳓व सवितः प्र᳓सुव। +++(इति प्रागारम्भं प्रदक्षिणं)+++
+</div>
 
 इत्य् अग्निं परिषिच्य - अग्नाव् एकां समिधम् आधाय - तण्डुल-मुष्टिम् आदाय -  सव्य-हस्ते निक्षिप्य - दक्षिण-हस्तेन प्रोक्ष्य अर्धांशं गृहीत्वा - "ॐ सूर्या॑य॒ स्वाहा॑" - इत्य् अग्नौ हस्तेन देव-तीर्थेन मध्ये हुत्वा - "सूर्यायेदं न मम” किञ्चिद् अधिक-भागं "ॐ अ॒ग्नये॑ स्विष्ट॒कृते॒ स्वाहा॑" - इत्य् अग्नौ प्राग्-उत्तर-भागे हुत्वा - "अग्नये स्विष्टकृत इदं न मम" - रात्रौ तु "ॐ अ॒ग्नये॒ स्वाहा॑” इत्य् अग्नि-मध्ये हुत्वा - "अग्नय इदं न मम - ॐ अ॒ग्नये॑ स्विष्ट॒कृते॒ स्वाहा॑” इत्य अग्नौ प्राग्-उत्तर-भागे हुत्वा - "आग्नये स्विष्टकृत इदं न मम" - एकां समिधम् आधाय, आहुति-संसर्गे सति, 
 
@@ -59,8 +84,11 @@ title = "१० औपासन-विधिः"
 
 इति सङ्कल्प्य - 
 
-> यत्र वेत्थ वनस्पते देवानां गुह्यो नामानि - तत्र हव्यानिगामय स्वाहा
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/05/005/10_yatra_vettha.md">
+य᳓त्र वे᳓त्थ वनस्पते  
+देवा᳓नां गु᳓ह्या ना᳓मानि  
+त᳓त्र हव्या᳓नि गामय
+</div>
 
 इति समिधम् आधाय - "वनस्पतय इदं न मम" 
 
@@ -70,8 +98,15 @@ title = "१० औपासन-विधिः"
 
 “ॐ श्रीविष्ण॑वे॒ स्वाहा॑" इति एकया समिधा दर्भ-द्वयेन वा पूर्णाहुतिं हुत्वा - “श्री-विष्णवे परमात्मन इदं न मम” - तण्डुले श्रिते सति - उत्थाय 
 
-> अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान्, युयोध्यस्मज्जुहुराणमेनो भूयिष्ठान्ते नम उक्तिं विधेम - 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - ०७(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/2_vashAdi-sUktAni">
+<details open><summary>विश्वास-प्रस्तुतिः - ०७ अग्ने नय</summary>
+
+अ᳓ग्ने न᳓य सुप᳓था राये᳓ अस्मा᳓न् ।  
+वि᳓श्वानि देव वयु᳓नानि विद्वा᳓न् ।  
+युयोध्य᳙स्म᳓ज्जुहुराण᳓मे᳓नः ।  
+भू᳓यिष्ठान्ते न᳓म उक्तिव्ँ विधेम ।
+</details>
+</div>
 >
 > ॐ अग्नये नमः। 
 >
@@ -90,13 +125,22 @@ title = "१० औपासन-विधिः"
 
 इति प्रातर् औपासनं भगवति समर्पयेत् - 
 
-> अयन्तेयो निर्ऋत्वियो यतो जातो आरोचथाः, तं जानन्नग्न आरोहाथानोवर्धयारयिम् 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/19_ayante_yonir.md">
+अय᳓न् ते **यो᳓निर्** ऋत्वि᳓यः ।  
+य᳓तो जातो᳓ **अ᳓रोचथाः** ।  
+त᳓ञ् जान᳓न्न् अग्न **आ᳓ रोह** +++(→ सीदेति शाकले)+++ ।  
+अ᳓था नो **वर्धया रयि᳓म्** ।
+</div>
 
 इत्य् अग्निं समिध्य् आरोपयेत् - यद् वा, 
 
-> याते अग्ने यज्ञियातनूस्तयेह्यारोहात्माऽत्मानं, अच्छावसूनि कृण्वन्नस्मे नर्यापुरूणि, यज्ञो भूत्वा यज्ञमासीद स्वां योनिं जातवेदो भुव आजायमानस्सक्षय एहि 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/2/5_upahomAdi/8/20_yA_te.md">
+या᳓ ते अग्ने यज्ञि᳓या तनू᳓स्त᳓ये᳓ह्या᳓रोहात्मा᳓ऽऽत्मा᳓नम् ।  
+अ᳓च्छा व᳓सूनि कृण्व᳓न्नस्मे᳓ न᳓र्या पुरू᳓णि ।  
+
+यज्ञो᳓ भूत्वा᳓ यज्ञ᳓मा᳓सीद स्वाय्ँ᳓यो᳓निम् ।  
+जा᳓तवेदो भु᳓व आ᳓ जा᳓यमानस्स᳓क्षय ए᳓हि ।
+</div>
 
 इति अग्निम् आत्मनि आरोपयेत्। 
 

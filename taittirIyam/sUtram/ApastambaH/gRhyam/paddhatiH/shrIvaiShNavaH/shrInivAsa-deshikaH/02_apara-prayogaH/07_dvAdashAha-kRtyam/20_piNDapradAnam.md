@@ -11,8 +11,31 @@ title = "२० पिण्डप्रदानम्"
 
 द्वैधं दक्षिणाग्रान्दर्भान्संस्तीर्य तेषु दक्षिणापवर्गं मार्जयेत्, पूर्वं पूर्वभागे आस्तृतेषु दर्भेषु, पश्चात् पश्चिमभागे, आस्तृतेषु दर्भेषु।
 
-> मार्जयॅन्तां पितुः पि॒तरॅः। मार्जयन्तां पितुः पितामहाः। मार्जयन्ताँ पितुः प्रपितामहाः। मार्जयन्तां पितुर्मातरॅः। मार्जयॅन्तां पितुः पिताम॒ह्यः। मार्जयॅन्तां पितुः प्रपिताम॒ह्यः।
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/02_mArjayantAm_mama_pitaraH.md">
+मार्ज᳓यन्तां म᳓म पित᳓रो,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/03_mArjayantAm_mama_pitAmahAH.md">
+मार्ज᳓यन्तां म᳓म पितामहा᳓
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/04_mArjayantAm_mama_prapitAmahAH.md">
+मार्ज᳓यन्तां म᳓म प्रपितामहाः᳓ ।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/05_mArjayantAm_mama_mAtaraH.md">
+मार्ज᳓यन्तां म᳓म मात᳓रो,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/06_mArjayantAm_mama_pitAmahyaH.md">
+मार्ज᳓यन्तां म᳓म पितामह्यो᳙,
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/07_mArjayantAm_mama_prapitAmahyaH.md">
+मार्ज᳓यन्तां म᳓म प्रपितामह्यः᳙ ।
+</div>
+
+> *(ऊहः — पितुः पितरः, पितुः पितामहाः, ..., पितुः प्रपितामह्यः)*
 
 <details><summary>तमिऴ्</summary>
 
@@ -28,8 +51,31 @@ title = "२० पिण्डप्रदानम्"
 
 इति तिलोदकं निनयेत्। दक्षिणापवर्गान्पिण्डान्ददाति। 
 
-> एतत्तेपितुस्तत, शर्मन्, येच॒त्वामनु। एतत्तेपितुः पितामह, शर्मन् ये, च॒त्वामनु। एतते॑ पितुः प्रपितामह, शर्मन् येच॒त्वामनु॒, एतत्ते पितुर्मातः दे, याश्चत्वामनु, एतत्ते पितुः पितामहि.... दे, याश्च॒त्वामनु। एतत्ते॑ पितुः प्रपितामहि ... दे याश्च॒त्वामनु। 
-[[TODO: परिष्कार्यम्]]
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/08_etatte_tatAsau.md">
+एत᳓त्ते तताऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/09_etatte_pitAmahAsau.md">
+एत᳓त्ते पितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/10_etatte_prapitAmahAsau.md">
+एत᳓त्ते प्रपितामहाऽसौ+++(←नामनिर्देशः)+++, ये᳓ च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/11_etatte_mAtarasau.md">
+एत᳓त्ते मातर् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/12_etatte_pitAmahyasau.md">
+एत᳓त्ते पितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/ekAgnikANDam/vishvAsa-prastutiH/2_20/13_etatte_prapitAmahyasau.md">
+एत᳓त्ते प्रपितामह्य् असौ+++(←नामनिर्देशः)+++, या᳓श् च त्वा᳓म् अ᳓नु +++(जीवन्ति)+++।
+</div>
+
+> *(ऊहः — एतत्ते पितुस्तत शर्मन् ..., पितुः पितामह ..., पितुः प्रपितामह ...)*
 
 प्रेतार्थपिण्डमादाय - 
 
