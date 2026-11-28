@@ -10,7 +10,7 @@ title = "०२ प्राणाहुतिर् लघुः"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ प्राणे</summary>
 
 प्राणे᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । प्राणा᳓य स्वा᳓हा ।
 </details>
@@ -48,7 +48,7 @@ I sacrifice nectar sitting in the Prana-breath; Hail for the Prana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अपाने</summary>
 
 अपाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । अपाना᳓य स्वा᳓हा ।
 </details>
@@ -76,7 +76,7 @@ I sacrifice nectar sitting in the Apana-breath; Hail for the Apana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ व्याने</summary>
 
 व्याने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । व्याना᳓य स्वा᳓हा ।
 </details>
@@ -104,7 +104,7 @@ I sacrifice nectar sitting in the Vyana-breath; Hail for the Vyana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ उदाने</summary>
 
 उदाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । उदाना᳓य स्वा᳓हा ।
 </details>
@@ -132,7 +132,7 @@ I sacrifice nectar sitting in the Udana-breath; Hail for the Udana!
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ समाने</summary>
 
 समाने᳓ नि᳓विष्टोऽमृ᳓तञ्जुहोमि । समाना᳓य स्वा᳓हा ।
 </details>

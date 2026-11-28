@@ -10,7 +10,7 @@ title = "अ॒ष्टाव् अ॑ष्टाव्"
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०१ अष्टाव्</summary>
 
 अ᳓ष्टा᳓व् अष्टावन्ये᳓षु धि᳓ष्णियेषू᳓प दधाति ।
 </details>
@@ -39,7 +39,7 @@ Eight each he puts down in the other altars;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०२ अष्टाशफा पशवः</summary>
 
 अष्टा᳓शफाᳶ पश᳓वः ।
 </details>
@@ -62,7 +62,7 @@ cattle have eight half-hooves;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०३ पशूनेवाव रुन्धे</summary>
 
 पशू᳓नेवा᳓व रुन्धे ।
 </details>
@@ -85,7 +85,7 @@ verily he wins cattle.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०४ षण्मार्जालीये</summary>
 
 ष᳓ण्मार्जाली᳓ये ।
 </details>
@@ -113,7 +113,7 @@ verily he wins cattle.
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०५ षड्वा ऋतवः</summary>
 
 ष᳓ड्वा᳓ ऋत᳓वः ।  
 ऋत᳓वᳵ ख᳓लु वै᳓ देवाᳶ᳓ पित᳓रः ।
@@ -143,7 +143,7 @@ the seasons are six, the gods, the fathers, are the seasons;
 </details>
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः - ०६ ऋतूनेव</summary>
 
 ऋतू᳓नेव᳓ देवा᳓न्पितॄ᳓न्प्रीणाति ॥ [55]
 </details>
