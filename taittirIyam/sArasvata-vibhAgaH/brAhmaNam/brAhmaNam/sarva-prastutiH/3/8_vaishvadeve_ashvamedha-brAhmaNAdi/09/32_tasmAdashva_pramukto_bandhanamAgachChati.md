@@ -1,0 +1,57 @@
++++
+title = "३२ तस्मादश्व प्रमुक्तो बन्धनमागच्छति"
+unicode_script = "devanagari"
++++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त᳓स्माद᳓श्वᳶ प्र᳓मुक्तो ब᳓न्धनमा᳓गच्छति ।
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘To Agni svāhā! Svāhā to Indrāgni!’ thus he offers the preliminary offerings;
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मा॒दश्व॒ᳶ प्रमु॑क्तो॒ बन्ध॑न॒माग॑च्छति ।
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+त᳘स्माद᳘श्वः प्र᳘मुक्तो ब᳘न्धनमा᳘गछति
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+त᳘स्माद᳘श्वः प्र᳘मुक्तो ब᳘न्धनमा᳘गछति
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+तस्मादश्वः प्रमुक्तो बन्धनमागच्छति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+त᳓स्मात् । अ᳓श्वः । प्र᳓-मुक्तः । ब᳓न्धनम् । आ᳓ । गच्छति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- त᳓स्मात् (*TS*-468/4763, *RV*-15/3136, *TB*-241/2709, *TK*-8/363, *AV*-102/3165, *SB-K*-2464/20018, *VS-M*-11/768, *VS-K*-8/395, *KS*-80/1225, *MS*-495/5550)
+- अ᳓श्वः (*TS*-39/126, *RV*-24/226, *TB*-74/167, *AV*-9/76, *SB-K*-111/255, *VS-M*-9/54, *VS-K*-2/17, *KS*-6/26, *MS*-38/117)
+- प्र᳓-मुक्तः (*TS*-1/2, *TB*-5, *SB-K*-3, *KS*-1, *MS*-1)
+- ब᳓न्धनम् (*TS*-0/3, *RV*-0/4, *TB*-3, *AV*-1/4, *SB-K*-4/7, *VS-M*-0/4, *VS-K*-0/3, *KS*-0/1, *MS*-0/1)
+- आ᳓ (*RV*-2810, *TS*-1105, *AV*-1040, *TB*-641, *TK*-36, *KS*-316, *MS*-1274)
+- गच्छति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-45, *AV*-31, *RV*-13, *TB*-41, *TK*-2, *KS*-9)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तस्मा॒दश्वः प्रमु॑क्तो बन्धनमार्गच्छति ।
+</details>
+</details>

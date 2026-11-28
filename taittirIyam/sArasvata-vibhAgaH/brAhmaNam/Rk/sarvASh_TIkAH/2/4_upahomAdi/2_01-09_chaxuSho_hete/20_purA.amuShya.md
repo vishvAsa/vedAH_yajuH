@@ -1,0 +1,26 @@
++++
+title = "20 पुरा ऽमुष्य"
+
++++
+
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have struck down all your preparation.  
+Before that man's vaṣaṭ-call,  
+make our sacrifice reach the gods;  
+may our offering be well sacrificed;
+</details>
+
+<details><summary>मूलम्</summary>
+
+पु॒राऽमुष्य॑ वषट्का॒रात् ।
+य॒ज्ञन्दे॒वेषु॑ नस्कृधि ।
+स्वि॑ष्टम॒स्माक॑म्भूयात् ।
+माऽस्मान्प्राप॒न्नरा॑तयः ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+7पुराऽमुष्येति ॥ अमुष्य यज्ञशर्मणो वषट्कारात्पुरैव अस्माकं यज्ञं देवेषु कृधि कुरु स्थापय । अस्य यज्ञः छिनत्तु । अस्माकं स्विष्टं भूयात् । अस्मान् मा प्रापन् अप्राप्यैव विनश्यन्तु ॥
+</details>

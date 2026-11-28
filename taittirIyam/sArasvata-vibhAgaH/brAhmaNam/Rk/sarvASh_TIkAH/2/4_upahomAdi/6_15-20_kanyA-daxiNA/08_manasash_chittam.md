@@ -1,0 +1,25 @@
++++
+title = "08 मनसश् चित्तम्"
+
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That intention of the mind,  
+the truth of speech, may we attain,  
+the form of domestic animals, of food;  
+may dignity and prosperity dwell in me.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मन॑सश्चि॒त्तमाकू॑तिम् ।  
+वा॒चस्स॒त्यम॑शीमहि ।  
+प॒शू॒नाँ रू॒पमन्न॑स्य ।  
+यश॒श्श्रीश्श्र॑यता॒म्मयि॑ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मनसः संबन्धि चित्तं विज्ञानमाकूतिं संकल्पं वाचः संबन्धि सत्यवदनं च अशीमहि प्राप्नुयाम । तथा पशूनां गवादीनां रूपमनेकविधं स्वरूपं अन्नस्य संबन्धि यशः कीर्ति च अशीमहि । मयि श्रीर्धनसमृद्धिः श्रयतां सेवताम् ॥
+</details>

@@ -1,0 +1,26 @@
++++
+title = "दृँह॑स्व॒"
++++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"दृँ᳓हस्व मा᳓ ह्वार्"+++(=कुटिलीभव)+++ इ᳓त्याह धृ᳓त्यै ॥17॥
+</details>
+
+<details><summary>सर्वाष् टीकाः</summary>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Be firm, do not stagger!" he says, for stability.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"दृँह॑स्व॒ मा ह्वा॒"र् इत्या॑ह॒ धृत्यै॑ ॥17॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तृतीयभागे स्वयमप्यारोढुं शकटस्य धैर्यं संपाद्यत इत्याह — “दृँहस्व मा ह्वारित्याह धृत्यै” (ब्रा. का. ३ प्र. २ अ. ४ ) इति।
+</details>
+</details>

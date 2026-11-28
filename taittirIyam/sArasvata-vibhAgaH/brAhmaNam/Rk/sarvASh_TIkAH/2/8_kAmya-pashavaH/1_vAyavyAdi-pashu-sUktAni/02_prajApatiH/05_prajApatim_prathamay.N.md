@@ -1,0 +1,26 @@
++++
+title = "05 प्रजापतिम् प्रथमय्ँ"
+
++++
+
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Prajāpati, the foremost of those worthy of sacrifice,  
+worship the adorable one at the head of the gods!  
+May he grant us wealth and heroic sons;  
+may he untie for us the navel \[source\] of increase of wealth!
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्र॒जाप॑तिम् प्रथ॒मय्ँ य॒ज्ञिया॑नाम् ।  
+दे॒वाना॒मग्रे॑ यज॒तय्ँय॑जध्वम् ।  
+स नो॑ ददातु॒ द्रवि॑णँ सु॒वीर्य॑म् ।  
+रा॒यस्पोषव्ँ॒वि ष्य॑तु॒ नाभि॑म॒स्मे ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यज्ञियानां यज्ञयोग्यानां देवानां मध्ये प्रथमं मुख्यं प्रजापतिं यजतं यजनीयमग्रे यजध्वं हे ऋत्विजः आदौ पूजयत । स प्रजापतिर्नोऽस्मभ्यं द्रविणं घनं रायस्पोषं धनपुष्टिं सुवीर्यं शोभनसामर्थ्यं च ददातु प्रयच्छतु । नाभिं नहनं दारिद्य्रादिबन्धनमस्मे **विष्यतु** अस्मत्तः शिथिलयतु ॥
+</details>

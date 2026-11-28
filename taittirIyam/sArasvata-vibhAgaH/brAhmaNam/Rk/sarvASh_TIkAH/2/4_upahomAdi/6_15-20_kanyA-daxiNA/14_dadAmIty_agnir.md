@@ -1,0 +1,25 @@
++++
+title = "14 ददामीत्य् अग्निर्"
+
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"I give," says Agni;  
+"So be it," says Vāyu to that;  
+"Yes!" says the moon in truth;  
+the sun \[says\], "Indeed, truth, om!"
+</details>
+
+<details><summary>मूलम्</summary>
+
+ददा॒मीत्य॒ग्निर्व॑दति ।  
+तथेति॑ वा॒युरा॑ह॒ तत् ।  
+हन्तेति॑ स॒त्यञ्च॒न्द्रमाः॑ ।  
+आ॒दि॒त्यस्स॒त्यमोमिति॑ ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एनां कन्यामहं ददामीत्येवमग्निर्ब्रूते । तत्तथाऽस्त्विति वायुरप्याह । चन्द्रमास्तु तत्सत्यं हन्त ममायं हर्ष इत्याह । आदित्यः सत्यमोमिति अवश्यमङ्गीकरोमीति ब्रूते ॥
+</details>

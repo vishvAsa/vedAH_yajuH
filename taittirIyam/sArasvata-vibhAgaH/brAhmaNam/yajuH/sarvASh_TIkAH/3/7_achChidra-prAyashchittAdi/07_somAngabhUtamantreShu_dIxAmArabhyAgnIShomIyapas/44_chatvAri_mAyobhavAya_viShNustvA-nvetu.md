@@ -1,0 +1,29 @@
++++
+title = "४४ चत्वारि मायोभवाय विष्णुस्त्वाऽन्वेतु"
+unicode_script = "devanagari"
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four: may Viṣṇu follow you for delight.
+</details>
+
+<details><summary>मूलम्</summary>
+
+च॒त्वारि॒ मायो॑भवाय॒ विष्णु॒स्त्वाऽन्वे॑तु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+चत्वा᳓रि । मा᳓योभवाय । वि᳓ष्णुः । त्वा । अ᳓नु । एतु ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+मायोभवाय प्राणसमृद्धये मयोभूः वातः तत्सम्बन्धी मायोभवः । उत्सादित्वादञ् ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+चत्वारि माय भवाय विष्णुस्त्वाऽन्वे॑तु ।
+</details>

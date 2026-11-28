@@ -1,0 +1,29 @@
++++
+title = "४२ द्वे ऊर्जे विष्णुस्त्वाऽन्वेतु"
+unicode_script = "devanagari"
++++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two: may Viṣṇu follow you for vigor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वे ऊ॒र्जे विष्णु॒स्त्वाऽन्वे॑तु ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः)</summary>
+
+द्वे᳓ । ऊर्जे᳓ । वि᳓ष्णुः । त्वा । अ᳓नु । एतु ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ द्वे पदे यावत्पदद्वयक्रमणं विष्णुः त्वां अन्वेतु ऊर्जे रसाय क्षीरादिसमृद्धये । एवं सर्वत्र ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+द्वे ऊर्जे विष्णुस्त्वाऽन्वे॑तु ।
+</details>
