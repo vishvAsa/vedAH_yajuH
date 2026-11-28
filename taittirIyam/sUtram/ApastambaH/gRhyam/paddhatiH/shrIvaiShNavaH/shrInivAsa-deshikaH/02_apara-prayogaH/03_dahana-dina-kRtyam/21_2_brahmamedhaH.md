@@ -7237,7 +7237,7 @@ may Uttāna Āṅgirasa obtain you (5).
 ब्र᳓ह्मे᳓न्द्रम् अग्नि᳓ञ् ज᳓गतः **प्रतिष्ठा᳓म्** ।  
 दिव᳓ आत्मा᳓नँ सविता᳓रं बृ᳓हस्-प᳓तिम् ।  
 च᳓तुर्-होतारं प्रदि᳓शो᳓ऽनु **कॢप्त᳓म्** ।  
-वाचो᳓ वीर्य᳙न् [[तपसा᳓|त᳓पसा᳓]] **ऽन्वविन्दत्** ।
+वाचो᳓ वीर्य᳙न् त᳓पसा᳓ **ऽन्वविन्दत्** ।
 </div>
 
 <div class="js_include" detailsPattern="विश्वास-प्रस्तुतिः - (?:०३|०४)(?:\s|$).*" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/11_hotR-hRdayam">
